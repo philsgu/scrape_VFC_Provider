@@ -1,0 +1,5996 @@
+[
+  {
+    "name": "Top Care Medical Group",
+    "address": "2690 S White Rd, Ste 200, San Jose, CA 95148",
+    "phone": "(408) 238-8303",
+    "type": "private",
+    "lat": 37.32906,
+    "lng": -121.797691,
+    "distance": 16.06290974759623
+  },
+  {
+    "name": "Bay Area Community Health Mt Pleas",
+    "address": "1650 S White Rd, San Jose, CA 95127",
+    "phone": "(669) 263-8321",
+    "type": "VFA",
+    "lat": 37.34647,
+    "lng": -121.810249,
+    "distance": 16.13985322836918
+  },
+  {
+    "name": "Bay Area Community Health Bach Fam",
+    "address": "1066 S White Rd, San Jose, CA 95127",
+    "phone": "(408) 729-9700",
+    "type": "VFA",
+    "lat": 37.357643,
+    "lng": -121.820282,
+    "distance": 16.352509373418336
+  },
+  {
+    "name": "Mohammad Shahida",
+    "address": "2728 Aborn Rd, San Jose, CA 95121",
+    "phone": "(408) 270-2100",
+    "type": "private",
+    "lat": 37.313244,
+    "lng": -121.793182,
+    "distance": 16.41344446629923
+  },
+  {
+    "name": "Bay Area Community Health Story Rd",
+    "address": "2880 Story Rd, Fl 1, San Jose, CA 95127",
+    "phone": "(408) 729-9700",
+    "type": "VFA",
+    "lat": 37.353371,
+    "lng": -121.82235,
+    "distance": 16.565752425039783
+  },
+  {
+    "name": "Comprecare Health Center",
+    "address": "3030 Alum Rock Ave, San Jose, CA 95127",
+    "phone": "(408) 272-6300",
+    "type": "fqhc",
+    "lat": 37.364498,
+    "lng": -121.828773,
+    "distance": 16.62990509029679
+  },
+  {
+    "name": "Alicia Vazquez",
+    "address": "2820 Alum Rock Ave, Ste 50, San Jose, CA 95127",
+    "phone": "(408) 937-1894",
+    "type": "private",
+    "lat": 37.362919,
+    "lng": -121.833138,
+    "distance": 16.89199361358988
+  },
+  {
+    "name": "Indian Health Center -silver Creek",
+    "address": "1642 E Capitol Expy, San Jose, CA 95121",
+    "phone": "(408) 445-3400",
+    "type": "VFA",
+    "lat": 37.305691,
+    "lng": -121.811058,
+    "distance": 17.52208327805778
+  },
+  {
+    "name": "Overfelt High School Clinic",
+    "address": "1835 Cunningham Ave, San Jose, CA 95122",
+    "phone": "(408) 347-5988",
+    "type": "VFA",
+    "lat": 37.331921,
+    "lng": -121.829903,
+    "distance": 17.54318645639903
+  },
+  {
+    "name": "Di Dac Tran",
+    "address": "2395 Montpelier Dr, Ste 6, San Jose, CA 95116",
+    "phone": "(408) 272-9228",
+    "type": "private",
+    "lat": 37.365639,
+    "lng": -121.847237,
+    "distance": 17.568599476405645
+  },
+  {
+    "name": "Jerry Mercado Md",
+    "address": "2360 Mckee Rd Ste 4, San Jose, CA 95116",
+    "phone": "(408) 729-0701",
+    "type": "private",
+    "lat": 37.366371,
+    "lng": -121.847771,
+    "distance": 17.581398830744526
+  },
+  {
+    "name": "Hien Ngoc Truong",
+    "address": "2593 S King Rd Ste 4, San Jose, CA 95122",
+    "phone": "(408) 532-0960",
+    "type": "private",
+    "lat": 37.318588,
+    "lng": -121.82328,
+    "distance": 17.643427304862872
+  },
+  {
+    "name": "Dung My Phan Md",
+    "address": "1693 Flanigan Dr, Ste 100, San Jose, CA 95121",
+    "phone": "(408) 274-3881",
+    "type": "private",
+    "lat": 37.319,
+    "lng": -121.823601,
+    "distance": 17.645080328612256
+  },
+  {
+    "name": "Khoi Nguyen Do",
+    "address": "1693 Flanigan Dr, Ste 101, San Jose, CA 95121",
+    "phone": "(408) 274-1339",
+    "type": "private",
+    "lat": 37.319,
+    "lng": -121.823601,
+    "distance": 17.645080328612256
+  },
+  {
+    "name": "Kapoor  Naresh K Md",
+    "address": "175 N Jackson Ave, Ste 212, San Jose, CA 95116",
+    "phone": "(408) 254-8280",
+    "type": "private",
+    "lat": 37.36203,
+    "lng": -121.847427,
+    "distance": 17.655320606604604
+  },
+  {
+    "name": "Virender Sachdeva, Md",
+    "address": "175 N Jackson Ave, Ste 108, San Jose, CA 95116",
+    "phone": "(408) 926-1340",
+    "type": "private",
+    "lat": 37.36203,
+    "lng": -121.847427,
+    "distance": 17.655320606604604
+  },
+  {
+    "name": "East Valley Community Clinic",
+    "address": "2470 Alvin Ave, Ste 60, San Jose, CA 95121",
+    "phone": "(408) 270-8839",
+    "type": "public",
+    "lat": 37.319729,
+    "lng": -121.826653,
+    "distance": 17.768101185726746
+  },
+  {
+    "name": "One Health Primary Care",
+    "address": "227 N Jackson Ave, Ste 235, San Jose, CA 95116",
+    "phone": "(408) 254-9192",
+    "type": "private",
+    "lat": 37.3643,
+    "lng": -121.850616,
+    "distance": 17.77349810976137
+  },
+  {
+    "name": "Fardis Shahrivar",
+    "address": "200 Jose Figueres Ave, Ste 295, San Jose, CA 95116",
+    "phone": "(408) 729-4473",
+    "type": "private",
+    "lat": 37.361622,
+    "lng": -121.850487,
+    "distance": 17.823715492747752
+  },
+  {
+    "name": "Erlinda  Reyes",
+    "address": "200 Jose Figueres Ave, Ste 220, San Jose, CA 95116",
+    "phone": "(408) 251-9090",
+    "type": "private",
+    "lat": 37.361622,
+    "lng": -121.850487,
+    "distance": 17.823715492747752
+  },
+  {
+    "name": "Krishnamshetty",
+    "address": "200 Jose Figueres Ave, Ste 435, San Jose, CA 95116",
+    "phone": "(408) 258-4244",
+    "type": "private",
+    "lat": 37.361622,
+    "lng": -121.850487,
+    "distance": 17.823715492747752
+  },
+  {
+    "name": "Bay Area Primary Care",
+    "address": "200 Jose Figueres Ave, Ste 285, San Jose, CA 95116",
+    "phone": "(408) 498-4567",
+    "type": "private",
+    "lat": 37.361622,
+    "lng": -121.850487,
+    "distance": 17.823715492747752
+  },
+  {
+    "name": "Dr Yaminali M Javid",
+    "address": "200 Jose Figueres Ave, Ste 320, San Jose, CA 95116",
+    "phone": "(408) 251-6748",
+    "type": "private",
+    "lat": 37.361622,
+    "lng": -121.850487,
+    "distance": 17.823715492747752
+  },
+  {
+    "name": "Vhc East Valley",
+    "address": "1993a Mckee Rd, San Jose, CA 95116",
+    "phone": "(408) 793-2173",
+    "type": "fqhc",
+    "lat": 37.364731,
+    "lng": -121.851868,
+    "distance": 17.830012660042215
+  },
+  {
+    "name": "Jt Family Care",
+    "address": "1855 Alum Rock Ave, Ste C, San Jose, CA 95116",
+    "phone": "(408) 254-7524",
+    "type": "private",
+    "lat": 37.354282,
+    "lng": -121.853317,
+    "distance": 18.135171426758706
+  },
+  {
+    "name": "Silicon Valley Medical Clinic, Inc",
+    "address": "1113 S Park Victoria Dr, Milpitas, CA 95035",
+    "phone": "(408) 945-0300",
+    "type": "private",
+    "lat": 37.420219,
+    "lng": -121.876663,
+    "distance": 18.429226120214228
+  },
+  {
+    "name": "Wivina T Urbano Medical Corp",
+    "address": "4600 S Tracy Blvd, Ste 110, Tracy, CA 95377",
+    "phone": "(209) 833-1628",
+    "type": "public",
+    "lat": 37.69857,
+    "lng": -121.433128,
+    "distance": 18.709028742776567
+  },
+  {
+    "name": "Bay Area Community Health Yerba Bue",
+    "address": "1855 Lucretia Ave, Rm 1100, San Jose, CA 95122",
+    "phone": "(408) 729-9700",
+    "type": "fqhc",
+    "lat": 37.320339,
+    "lng": -121.848793,
+    "distance": 18.827722870114993
+  },
+  {
+    "name": "Franklin-mckinley Neighborhood Heal",
+    "address": "645 Wool Creek Dr Ste 86, San Jose, CA 95112",
+    "phone": "(408) 283-6051",
+    "type": "public",
+    "lat": 37.31514,
+    "lng": -121.849503,
+    "distance": 19.02581844786394
+  },
+  {
+    "name": "Tully Health Center",
+    "address": "621 Tully Rd, # A105, San Jose, CA 95111",
+    "phone": "(408) 279-2988",
+    "type": "private",
+    "lat": 37.30925,
+    "lng": -121.84684,
+    "distance": 19.08877821237722
+  },
+  {
+    "name": "Bay Area Community Health Monterey",
+    "address": "5504 Monterey Hwy, San Jose, CA 95138",
+    "phone": "(408) 907-0500",
+    "type": "VFA",
+    "lat": 37.255077,
+    "lng": -121.798515,
+    "distance": 19.11371668301621
+  },
+  {
+    "name": "San Jose High Neighborhood Health C",
+    "address": "1149 E Julian St, Bldg H, San Jose, CA 95116",
+    "phone": "(408) 535-6001",
+    "type": "VFA",
+    "lat": 37.350815,
+    "lng": -121.871658,
+    "distance": 19.164915761419838
+  },
+  {
+    "name": "Aaci Health Center",
+    "address": "749 Story Rd Ste 50, San Jose, CA 95122",
+    "phone": "(408) 975-2763",
+    "type": "fqhc",
+    "lat": 37.328545,
+    "lng": -121.861206,
+    "distance": 19.20102456888363
+  },
+  {
+    "name": "Trach P Dang, Md",
+    "address": "2114 Senter Rd, Ste 24, San Jose, CA 95112",
+    "phone": "(408) 293-2188",
+    "type": "private",
+    "lat": 37.31181,
+    "lng": -121.851318,
+    "distance": 19.22124676015605
+  },
+  {
+    "name": "North East Medical Services",
+    "address": "1870 Lundy Ave, San Jose, CA 95131",
+    "phone": "(408) 573-9686",
+    "type": "VFA",
+    "lat": 37.392841,
+    "lng": -121.889641,
+    "distance": 19.382524793334156
+  },
+  {
+    "name": "Vhc At Lundy Pharmacy",
+    "address": "1996 Lundy Ave, Ste B, San Jose, CA 95131",
+    "phone": "(669) 220-3030",
+    "type": "private",
+    "lat": 37.395237,
+    "lng": -121.890182,
+    "distance": 19.383272209200765
+  },
+  {
+    "name": "Prisha Pediatrics",
+    "address": "500 E Calaveras Blvd, Ste 130, Milpitas, CA 95035",
+    "phone": "(408) 649-6451",
+    "type": "private",
+    "lat": 37.432289,
+    "lng": -121.896599,
+    "distance": 19.471848643179747
+  },
+  {
+    "name": "Vhc At Downtown Pharmacy Dept",
+    "address": "777 E Santa Clara St, Ste 1004, San Jose, CA 95112",
+    "phone": "(408) 885-2395",
+    "type": "fqhc",
+    "lat": 37.344021,
+    "lng": -121.875679,
+    "distance": 19.531856800990987
+  },
+  {
+    "name": "Gardner Downtown Health Center",
+    "address": "725 E Santa Clara St, Ste 103, San Jose, CA 95112",
+    "phone": "(669) 444-5464",
+    "type": "fqhc",
+    "lat": 37.343529,
+    "lng": -121.875778,
+    "distance": 19.54881812771449
+  },
+  {
+    "name": "Joann Nguyen Md Inc",
+    "address": "652 E Santa Clara St, San Jose, CA 95112",
+    "phone": "(408) 294-2868",
+    "type": "private",
+    "lat": 37.3424,
+    "lng": -121.876793,
+    "distance": 19.628378962468002
+  },
+  {
+    "name": "Minh Thai",
+    "address": "60 N 13th St Ste B, San Jose, CA 95112",
+    "phone": "(408) 294-2616",
+    "type": "public",
+    "lat": 37.343079,
+    "lng": -121.878479,
+    "distance": 19.69871341213059
+  },
+  {
+    "name": "Kaiser Permanente San Jose",
+    "address": "276 International Circle, San Jose, CA 95119",
+    "phone": "(408) 972-6910",
+    "type": "private",
+    "lat": 37.240108,
+    "lng": -121.80217,
+    "distance": 19.971178839454836
+  },
+  {
+    "name": "Axis Community Health - Livermore",
+    "address": "3311 Pacific Ave, Livermore, CA 94550",
+    "phone": "(925) 462-1755",
+    "type": "VFA",
+    "lat": 37.675968,
+    "lng": -121.755981,
+    "distance": 19.977284174305513
+  },
+  {
+    "name": "Valley Health Center- Milpitas",
+    "address": "143 N Main St, Ste 1038, Milpitas, CA 95035",
+    "phone": "(408) 793-2173",
+    "type": "fqhc",
+    "lat": 37.432178,
+    "lng": -121.90799,
+    "distance": 20.09671353468862
+  },
+  {
+    "name": "Gardner Health Center Inc",
+    "address": "195 E Virginia St, San Jose, CA 95112",
+    "phone": "(408) 918-5517",
+    "type": "fqhc",
+    "lat": 37.326099,
+    "lng": -121.877823,
+    "distance": 20.104357263040153
+  },
+  {
+    "name": "Washington Neighborhood Clinic",
+    "address": "100 Oak St, Bldg F3 Clinic, San Jose, CA 95110",
+    "phone": "(408) 295-0980",
+    "type": "VFA",
+    "lat": 37.321739,
+    "lng": -121.881699,
+    "distance": 20.420873672383134
+  },
+  {
+    "name": "St James Health Center",
+    "address": "55 E Julian St, San Jose, CA 95112",
+    "phone": "(408) 918-2634",
+    "type": "fqhc",
+    "lat": 37.341179,
+    "lng": -121.892632,
+    "distance": 20.47373405189711
+  },
+  {
+    "name": "Yasmeen Gangani",
+    "address": "18550 De Paul Dr, Ste 102, Morgan Hill, CA 95037",
+    "phone": "(408) 778-2025",
+    "type": "private",
+    "lat": 37.154129,
+    "lng": -121.646309,
+    "distance": 20.6959099599096
+  },
+  {
+    "name": "Stanford Children's Health",
+    "address": "1134 Murrieta Blvd, Livermore, CA 94550",
+    "phone": "(925) 449-7795",
+    "type": "private",
+    "lat": 37.676208,
+    "lng": -121.781258,
+    "distance": 20.833057814470312
+  },
+  {
+    "name": "Rhap Glendale Health Center",
+    "address": "241 N Figueroa St Rm 250, Los Angeles, CA 90012",
+    "phone": "(213) 288-8248",
+    "type": "public",
+    "lat": 34.059319,
+    "lng": -118.250389,
+    "distance": 0.6233582242456551
+  },
+  {
+    "name": "Central Health Center",
+    "address": "241 N Figueroa St, Rm 131 Los Angeles, CA 90012",
+    "phone": "(213) 288-8211",
+    "type": "public",
+    "lat": 34.059319,
+    "lng": -118.250412,
+    "distance": 0.6241639833950162
+  },
+  {
+    "name": "Precision Health Care",
+    "address": "709 N Hill St, Ste 18, Los Angeles, CA 90012",
+    "phone": "(213) 687-0888",
+    "type": "fqhc",
+    "lat": 34.061172,
+    "lng": -118.240913,
+    "distance": 0.6401711594910414
+  },
+  {
+    "name": "Chinatown Service Center",
+    "address": "767 N Hill St, Ste 200 Los Angeles, CA 90012",
+    "phone": "(213) 808-1792",
+    "type": "VFA",
+    "lat": 34.062668,
+    "lng": -118.240044,
+    "distance": 0.7529795598871359
+  },
+  {
+    "name": "Los Angeles Unified School District",
+    "address": "121 N Beaudry Ave, Los Angeles, CA 90012",
+    "phone": "(213) 202-7583",
+    "type": "public",
+    "lat": 34.05991,
+    "lng": -118.254097,
+    "distance": 0.7987838193371691
+  },
+  {
+    "name": "Clinica Santa Maria Echo Park",
+    "address": "625 W College St #105, Los Angeles, CA 90012",
+    "phone": "(213) 265-7433",
+    "type": "private",
+    "lat": 34.06535,
+    "lng": -118.240685,
+    "distance": 0.9248565222081951
+  },
+  {
+    "name": "St Johns Community Health",
+    "address": "1321 E 1st St, Los Angeles, CA 90033",
+    "phone": "(323) 541-1600",
+    "type": "fqhc",
+    "lat": 34.047935,
+    "lng": -118.225899,
+    "distance": 1.0608790255652576
+  },
+  {
+    "name": "Lausd-sepa Center Clinic",
+    "address": "1339 Angelina St, Los Angeles, CA 90026",
+    "phone": "(213) 482-3954",
+    "type": "public",
+    "lat": 34.065578,
+    "lng": -118.256882,
+    "distance": 1.1932929122397613
+  },
+  {
+    "name": "Aphcv- Belmont Health Center",
+    "address": "180 Union Pl, Los Angeles, CA 90026",
+    "phone": "(323) 644-3885",
+    "type": "VFA",
+    "lat": 34.061749,
+    "lng": -118.265083,
+    "distance": 1.3905945739970125
+  },
+  {
+    "name": "La Christian Health Centers",
+    "address": "1625 E 4th St, Los Angeles, CA 90033",
+    "phone": "(213) 893-1960",
+    "type": "VFA",
+    "lat": 34.04324,
+    "lng": -118.221947,
+    "distance": 1.3908349035858873
+  },
+  {
+    "name": "Gracelight Comm Health Westlake No",
+    "address": "303 Loma Dr Ste 202, Los Angeles, CA 90017",
+    "phone": "(213) 793-6092",
+    "type": "fqhc",
+    "lat": 34.059807,
+    "lng": -118.266335,
+    "distance": 1.3983001549599274
+  },
+  {
+    "name": "Angeles Medical Clinic, Inc",
+    "address": "1333 S Hill St, Los Angeles, CA 90015",
+    "phone": "(213) 457-4000",
+    "type": "private",
+    "lat": 34.037037,
+    "lng": -118.263153,
+    "distance": 1.5291300455897767
+  },
+  {
+    "name": "Family Care Specialists Medical Cor",
+    "address": "1701 E Cesar E Chavez Ave, Ste 402, Los Angeles, CA 90033",
+    "phone": "(323) 317-9200",
+    "type": "private",
+    "lat": 34.051208,
+    "lng": -118.216423,
+    "distance": 1.5630975546570547
+  },
+  {
+    "name": "Annapoorani Thenappan",
+    "address": "1701 E Cesar E Chavez Ave, Ste 128, Los Angeles, CA 90033",
+    "phone": "(323) 223-2338",
+    "type": "private",
+    "lat": 34.051208,
+    "lng": -118.216423,
+    "distance": 1.5630975546570547
+  },
+  {
+    "name": "Family Care Specialist",
+    "address": "1701 E Cesar E Chavez Ave, Ste 230, Los Angeles, CA 90033",
+    "phone": "(323) 226-1100",
+    "type": "private",
+    "lat": 34.051208,
+    "lng": -118.216423,
+    "distance": 1.5630975546570547
+  },
+  {
+    "name": "Modern Concepts Medical Group",
+    "address": "1701 E Cesar E Chavez Ave, Ste 354, Los Angeles, CA 90033",
+    "phone": "(323) 221-5366",
+    "type": "private",
+    "lat": 34.051208,
+    "lng": -118.216423,
+    "distance": 1.5630975546570547
+  },
+  {
+    "name": "White Memorial Community Health Ctr",
+    "address": "1828 E Cesar E Chavez Ave, Ste 5000, Los Angeles, CA 90033",
+    "phone": "(323) 987-1200",
+    "type": "VFA",
+    "lat": 34.04995,
+    "lng": -118.21566,
+    "distance": 1.6127986117609117
+  },
+  {
+    "name": "Northeast Community Clinic",
+    "address": "1414 S Grand Ave, Ste 380, Los Angeles, CA 90015",
+    "phone": "(213) 222-1300",
+    "type": "fqhc",
+    "lat": 34.03643,
+    "lng": -118.265327,
+    "distance": 1.6494360937240222
+  },
+  {
+    "name": "Northeast Community Clinic",
+    "address": "1414 S Grand Ave, Ste 300, Los Angeles, CA 90015",
+    "phone": "(213) 222-1300",
+    "type": "fqhc",
+    "lat": 34.036457,
+    "lng": -118.265358,
+    "distance": 1.6495307135536694
+  },
+  {
+    "name": "Northeast Community Clinic",
+    "address": "1414 S Grand Ave Ste 200, Los Angeles, CA 90015",
+    "phone": "(213) 419-9600",
+    "type": "fqhc",
+    "lat": 34.036446,
+    "lng": -118.265366,
+    "distance": 1.650380651908305
+  },
+  {
+    "name": "Eisner Pediatric And Family Clinic",
+    "address": "1530 S Olive St, Los Angeles, CA 90015",
+    "phone": "(213) 747-5542",
+    "type": "VFA",
+    "lat": 34.035549,
+    "lng": -118.264793,
+    "distance": 1.6680121678156803
+  },
+  {
+    "name": "Paja Medical Group Inc",
+    "address": "1800 Wilshire Blvd, Los Angeles, CA 90057",
+    "phone": "(213) 484-9934",
+    "type": "private",
+    "lat": 34.056351,
+    "lng": -118.272919,
+    "distance": 1.6971180065563238
+  },
+  {
+    "name": "Grand Medical Associates",
+    "address": "1513 S Grand Ave, Ste 320, Los Angeles, CA 90015",
+    "phone": "(213) 747-7307",
+    "type": "private",
+    "lat": 34.03624,
+    "lng": -118.266434,
+    "distance": 1.7059926510233752
+  },
+  {
+    "name": "Pediatric And Family Medical Center",
+    "address": "1513 S Grand Ave, Ste 250, Los Angeles, CA 90015",
+    "phone": "(213) 747-5542",
+    "type": "fqhc",
+    "lat": 34.036167,
+    "lng": -118.266693,
+    "distance": 1.7205716646092897
+  },
+  {
+    "name": "Angeles Community Health Center",
+    "address": "1919 W 7th St Fl 2, Los Angeles, CA 90057",
+    "phone": "(213) 413-2222",
+    "type": "VFA",
+    "lat": 34.055988,
+    "lng": -118.275002,
+    "distance": 1.810967314265413
+  },
+  {
+    "name": "Sequoia Quality Health, Inc",
+    "address": "2007 Wilshire Blvd Fl 3, Los Angeles, CA 90057",
+    "phone": "(213) 205-1890",
+    "type": "private",
+    "lat": 34.057678,
+    "lng": -118.274879,
+    "distance": 1.8246394497836969
+  },
+  {
+    "name": "Walter Jayasinghe Md, Apc",
+    "address": "2010 Wilshire Blvd, Fl 2, Los Angeles, CA 90057",
+    "phone": "(213) 483-9209",
+    "type": "private",
+    "lat": 34.057171,
+    "lng": -118.2752,
+    "distance": 1.835712363585403
+  },
+  {
+    "name": "Bhc-alvarado",
+    "address": "2065 W 6th St, Ste 110, Los Angeles, CA 90057",
+    "phone": "(213) 263-2468",
+    "type": "public",
+    "lat": 34.059673,
+    "lng": -118.274536,
+    "distance": 1.8392465944636656
+  },
+  {
+    "name": "Clinic Romero - Alvarado",
+    "address": "123 S Alvarado St, Los Angeles, CA 90057",
+    "phone": "(213) 989-7700",
+    "type": "VFA",
+    "lat": 34.066101,
+    "lng": -118.271103,
+    "distance": 1.839385023013631
+  },
+  {
+    "name": "Horacio G Lopez",
+    "address": "2105 Beverly Blvd, Ste 129, Los Angeles, CA 90057",
+    "phone": "(213) 353-3600",
+    "type": "private",
+    "lat": 34.067249,
+    "lng": -118.27037,
+    "distance": 1.8472235248669973
+  },
+  {
+    "name": "Altamed Medical Group West Lake",
+    "address": "2100 W 3rd St Ste 200, Los Angeles, CA 90057",
+    "phone": "(213) 355-9898",
+    "type": "fqhc",
+    "lat": 34.06258,
+    "lng": -118.27356,
+    "distance": 1.8537141478569588
+  },
+  {
+    "name": "House Of Healthcasa De Salud",
+    "address": "530 E Washington Blvd, Los Angeles, CA 90015",
+    "phone": "(213) 747-2626",
+    "type": "private",
+    "lat": 34.028774,
+    "lng": -118.260017,
+    "distance": 1.868946364505461
+  },
+  {
+    "name": "Sunmoon Urgent Care Medical Group",
+    "address": "1304 Echo Park Ave, Los Angeles, CA 90026",
+    "phone": "(213) 977-1286",
+    "type": "private",
+    "lat": 34.076969,
+    "lng": -118.256973,
+    "distance": 1.872551227881574
+  },
+  {
+    "name": "Universal Community Health Center",
+    "address": "1005 E Washington Blvd, Ste A, Los Angeles, CA 90021",
+    "phone": "(323) 233-3100",
+    "type": "VFA",
+    "lat": 34.02597,
+    "lng": -118.252922,
+    "distance": 1.8877526673794562
+  },
+  {
+    "name": "Universal Community Health Center",
+    "address": "1919 S San Pedro St, Los Angeles, CA 90011",
+    "phone": "(323) 233-3100",
+    "type": "fqhc",
+    "lat": 34.02713,
+    "lng": -118.25811,
+    "distance": 1.9187285235627336
+  },
+  {
+    "name": "Altamed Med Group1st St Boyle",
+    "address": "2219 E 1st St, Los Angeles, CA 90033",
+    "phone": "(888) 499-9303",
+    "type": "VFA",
+    "lat": 34.044842,
+    "lng": -118.21138,
+    "distance": 1.9189580424585357
+  },
+  {
+    "name": "Eisner Health At Santee",
+    "address": "1921 Maple Ave., Room 129, El Monte, CA 90011",
+    "phone": "(213) 588-0437",
+    "type": "fqhc",
+    "lat": 34.029049,
+    "lng": -118.262978,
+    "distance": 1.9435319584967266
+  },
+  {
+    "name": "Pico-union Medical Clinic",
+    "address": "1271 S Union Ave, Los Angeles, CA 90015",
+    "phone": "(213) 386-0214",
+    "type": "private",
+    "lat": 34.045025,
+    "lng": -118.276817,
+    "distance": 1.9597713342353853
+  },
+  {
+    "name": "Bruce Torkan Md Inc Fatima  Clinic",
+    "address": "820a S Alvarado St, Los Angeles, CA 90057",
+    "phone": "(310) 922-5571",
+    "type": "private",
+    "lat": 34.054543,
+    "lng": -118.277992,
+    "distance": 1.9698405281757028
+  },
+  {
+    "name": "Unicare Community Health Center",
+    "address": "741 S Alvarado St, Los Angeles, CA 90057",
+    "phone": "(213) 413-6666",
+    "type": "fqhc",
+    "lat": 34.055462,
+    "lng": -118.277893,
+    "distance": 1.9704233967543106
+  },
+  {
+    "name": "Amh Comprehensive Medical Centers",
+    "address": "711 N Alvarado St, Ste 101, Los Angeles, CA 90026",
+    "phone": "(213) 484-8786",
+    "type": "public",
+    "lat": 34.074322,
+    "lng": -118.265808,
+    "distance": 1.984440265653762
+  },
+  {
+    "name": "Eun Mi Yun",
+    "address": "819 S Alvarado St, Ste 101, Los Angeles, CA 90057",
+    "phone": "(213) 388-6000",
+    "type": "private",
+    "lat": 34.054401,
+    "lng": -118.278549,
+    "distance": 2.0008553190763023
+  },
+  {
+    "name": "Los Angeles Clinica Medica General",
+    "address": "2208 W 7th St, 1st Floor Clinic Mngmnt, Los Angeles, CA 9005",
+    "phone": "(213) 384-3434",
+    "type": "private",
+    "lat": 34.056831,
+    "lng": -118.278412,
+    "distance": 2.0127774153968683
+  },
+  {
+    "name": "Dr Ghalili's Pediatric Clinic",
+    "address": "648 E 21st St, Los Angeles, CA 90011",
+    "phone": "(213) 749-7110",
+    "type": "private",
+    "lat": 34.025829,
+    "lng": -118.259117,
+    "distance": 2.024720195526195
+  },
+  {
+    "name": "Sam Ghalili Md Inc",
+    "address": "2101 S San Pedro St, Los Angeles, CA 90011",
+    "phone": "(213) 745-8766",
+    "type": "private",
+    "lat": 34.025749,
+    "lng": -118.258942,
+    "distance": 2.0253537092274945
+  },
+  {
+    "name": "Dornika Medical Clinic",
+    "address": "2121 S San Pedro St, Ste E, Los Angeles, CA 90011",
+    "phone": "(213) 742-0300",
+    "type": "private",
+    "lat": 34.025398,
+    "lng": -118.259262,
+    "distance": 2.0551526158818536
+  },
+  {
+    "name": "Maria Elena Rodriguez",
+    "address": "2417 Whittier Blvd, Los Angeles, CA 90023",
+    "phone": "(323) 881-1641",
+    "type": "private",
+    "lat": 34.034328,
+    "lng": -118.21489,
+    "distance": 2.0605708024156466
+  },
+  {
+    "name": "St Johns Community Health",
+    "address": "444 S Mathews Street, Los Angeles, CA 90033",
+    "phone": "(323) 541-1411",
+    "type": "fqhc",
+    "lat": 34.03878,
+    "lng": -118.211464,
+    "distance": 2.0654822027530564
+  },
+  {
+    "name": "Clinica Msr Oscar Romero-northeast",
+    "address": "2032 Marengo St, Los Angeles, CA 90033",
+    "phone": "(213) 989-7700",
+    "type": "VFA",
+    "lat": 34.056431,
+    "lng": -118.207809,
+    "distance": 2.0753495350211297
+  },
+  {
+    "name": "Lac-usc Med Ctr-pharmacy Ward Servc",
+    "address": "1200 N State St Rm B2a100, Los Angeles, CA 90033",
+    "phone": "(323) 409-4063",
+    "type": "public",
+    "lat": 34.059658,
+    "lng": -118.208176,
+    "distance": 2.0979306615990705
+  },
+  {
+    "name": "Dtfhc At Connections",
+    "address": "1250 6th Ave, Ste 100, San Diego, CA 92101",
+    "phone": "(619) 515-2430",
+    "type": "VFA",
+    "lat": 32.71854,
+    "lng": -117.159569,
+    "distance": 0.21549549718260347
+  },
+  {
+    "name": "Elm Street Family Health Center",
+    "address": "140 Elm St, San Diego, CA 92101",
+    "phone": "(619) 515-2520",
+    "type": "VFA",
+    "lat": 32.724113,
+    "lng": -117.163162,
+    "distance": 0.5935825152289937
+  },
+  {
+    "name": "Familyhealth At City College",
+    "address": "1550 Broadway, Ste 2, San Diego, CA 92101",
+    "phone": "(619) 515-2525",
+    "type": "VFA",
+    "lat": 32.71579,
+    "lng": -117.149925,
+    "distance": 0.6496870910205328
+  },
+  {
+    "name": "Sherman Heights Fam Health Ctr",
+    "address": "2391 Island Ave, San Diego, CA 92102",
+    "phone": "(619) 515-2360",
+    "type": "VFA",
+    "lat": 32.710445,
+    "lng": -117.142632,
+    "distance": 1.1334439439373556
+  },
+  {
+    "name": "San Diego American Indian Hlth Ctr",
+    "address": "2630 1st Ave, San Diego, CA 92103",
+    "phone": "(619) 234-2158",
+    "type": "fqhc",
+    "lat": 32.732773,
+    "lng": -117.163994,
+    "distance": 1.191624612268357
+  },
+  {
+    "name": "Family Health On Commercial",
+    "address": "2325 Commercial St, Ste 1400, San Diego, CA 92113",
+    "phone": "(619) 515-2422",
+    "type": "VFA",
+    "lat": 32.705162,
+    "lng": -117.143013,
+    "distance": 1.2790614359608061
+  },
+  {
+    "name": "Logan Heights Family Health Center",
+    "address": "1809 National Ave, San Diego, CA 92113",
+    "phone": "(619) 515-2403",
+    "type": "VFA",
+    "lat": 32.701229,
+    "lng": -117.146858,
+    "distance": 1.2982456814573986
+  },
+  {
+    "name": "25th Street Family Medicine",
+    "address": "316 25th St, San Diego, CA 92102",
+    "phone": "(619) 662-4100",
+    "type": "VFA",
+    "lat": 32.708694,
+    "lng": -117.140266,
+    "distance": 1.3043777961397924
+  },
+  {
+    "name": "Logan Memorial Family Health Center",
+    "address": "2875 Ocean View Blvd, Ste E128, San Diego, CA 92113",
+    "phone": "(619) 515-2324",
+    "type": "fqhc",
+    "lat": 32.700687,
+    "lng": -117.132088,
+    "distance": 1.9802450483734515
+  },
+  {
+    "name": "Comprehensive Health Center-metro",
+    "address": "3177 Ocean View Blvd, San Diego, CA 92113",
+    "phone": "(619) 662-4100",
+    "type": "VFA",
+    "lat": 32.70105,
+    "lng": -117.125664,
+    "distance": 2.2955508644279536
+  },
+  {
+    "name": "Cpcmg Hillcrest",
+    "address": "550 Washington St, Ste 300, San Diego, CA 92103",
+    "phone": "(619) 297-5437",
+    "type": "private",
+    "lat": 32.750256,
+    "lng": -117.160378,
+    "distance": 2.3880767311887237
+  },
+  {
+    "name": "North Park Family Health Center",
+    "address": "3514 30th St, San Diego, CA 92104",
+    "phone": "(619) 515-2424",
+    "type": "VFA",
+    "lat": 32.74247,
+    "lng": -117.130363,
+    "distance": 2.5716837387886295
+  },
+  {
+    "name": "Clinica Medica De La Mora",
+    "address": "995 Gateway Center Way, Ste 202, San Diego, CA 92102",
+    "phone": "(619) 264-3107",
+    "type": "private",
+    "lat": 32.714031,
+    "lng": -117.11673,
+    "distance": 2.5821155462263423
+  },
+  {
+    "name": "Tarek Hassanein, Md",
+    "address": "995 Gateway Center Way, Ste 105, San Diego, CA 92102",
+    "phone": "(619) 789-7385",
+    "type": "private",
+    "lat": 32.714031,
+    "lng": -117.11673,
+    "distance": 2.5821155462263423
+  },
+  {
+    "name": "Kid Care Express 1,2,3  Mobile Med",
+    "address": "823 Gateway Center Way, San Diego, CA 92102",
+    "phone": "(619) 515-2329",
+    "type": "VFA",
+    "lat": 32.715408,
+    "lng": -117.113411,
+    "distance": 2.7725346764865355
+  },
+  {
+    "name": "Clinica Internacional Buena Salud I",
+    "address": "3802 National Ave, San Diego, CA 92113",
+    "phone": "(619) 264-2591",
+    "type": "private",
+    "lat": 32.696362,
+    "lng": -117.112282,
+    "distance": 3.1372128716746226
+  },
+  {
+    "name": "La Maestra  Central Elementry",
+    "address": "3878 Orange Ave Building 100, San Diego, CA 92105",
+    "phone": "(619) 961-0814",
+    "type": "public",
+    "lat": 32.753296,
+    "lng": -117.110817,
+    "distance": 3.910287279203628
+  },
+  {
+    "name": "Diamond Neighborhoods Fam Hlth Ctr",
+    "address": "4725 Market St, San Diego, CA 92102",
+    "phone": "(619) 515-2326",
+    "type": "VFA",
+    "lat": 32.711224,
+    "lng": -117.092918,
+    "distance": 3.9759636178004234
+  },
+  {
+    "name": "Central Elem-mid City Comm Cl Peds",
+    "address": "4305 University Ave, Ste 150, San Diego, CA 92105",
+    "phone": "(619) 280-2058",
+    "type": "public",
+    "lat": 32.749161,
+    "lng": -117.101418,
+    "distance": 4.168928339553657
+  },
+  {
+    "name": "San Diego Family Care",
+    "address": "4305 University Ave, Ste 150, San Diego, CA 92105",
+    "phone": "(619) 280-2058",
+    "type": "public",
+    "lat": 32.749161,
+    "lng": -117.101418,
+    "distance": 4.168928339553657
+  },
+  {
+    "name": "Mid City Comm Clinic-rosa Parks",
+    "address": "4305 University Ave Ste 150, San Diego, CA 92105",
+    "phone": "(619) 280-2058",
+    "type": "public",
+    "lat": 32.749161,
+    "lng": -117.101418,
+    "distance": 4.168928339553657
+  },
+  {
+    "name": "La Maestra Communty-national City",
+    "address": "217 Highland Ave, National City, CA 91950",
+    "phone": "(619) 434-7308",
+    "type": "VFA",
+    "lat": 32.68309,
+    "lng": -117.100594,
+    "distance": 4.177950760152258
+  },
+  {
+    "name": "La Maestra  Monroe Clark",
+    "address": "4060 Fairmount Ave, San Diego, CA 92105",
+    "phone": "(619) 255-9166",
+    "type": "public",
+    "lat": 32.75053,
+    "lng": -117.101341,
+    "distance": 4.225764837849149
+  },
+  {
+    "name": "La Maestra Comm Health Centers",
+    "address": "4060 Fairmount Ave, San Diego, CA 92105",
+    "phone": "(619) 280-4213",
+    "type": "VFA",
+    "lat": 32.75053,
+    "lng": -117.101341,
+    "distance": 4.225764837849149
+  },
+  {
+    "name": "La Maestra - Hoover High School",
+    "address": "4060 Fairmount Ave, San Diego, CA 92105",
+    "phone": "(619) 795-5979",
+    "type": "public",
+    "lat": 32.75053,
+    "lng": -117.101341,
+    "distance": 4.225764837849149
+  },
+  {
+    "name": "La Maestra Community Health Center",
+    "address": "4074 Fairmount Ave, San Diego, CA 92105",
+    "phone": "(619) 280-4213",
+    "type": "fqhc",
+    "lat": 32.75103,
+    "lng": -117.101166,
+    "distance": 4.253866100518667
+  },
+  {
+    "name": "South Bay Family Health Center",
+    "address": "330 East 8th Street, National City, CA 91950",
+    "phone": "(619) 662-4100",
+    "type": "VFA",
+    "lat": 32.676628,
+    "lng": -117.102989,
+    "distance": 4.325151455260289
+  },
+  {
+    "name": "Childrens Primary Care Medical Grp",
+    "address": "292 Euclid Ave, Ste 220, San Diego, CA 92114",
+    "phone": "(619) 262-8624",
+    "type": "private",
+    "lat": 32.707211,
+    "lng": -117.085808,
+    "distance": 4.416534764032064
+  },
+  {
+    "name": "Central Region Public Health Center",
+    "address": "5101 Market St, Ste 2000 San Diego, CA 92114",
+    "phone": "(619) 430-3169",
+    "type": "public",
+    "lat": 32.710354,
+    "lng": -117.084824,
+    "distance": 4.449906649338467
+  },
+  {
+    "name": "National City Family Clinic",
+    "address": "1136 D Ave, National City, CA 91950",
+    "phone": "(619) 662-4100",
+    "type": "fqhc",
+    "lat": 32.673649,
+    "lng": -117.101837,
+    "distance": 4.507602494977891
+  },
+  {
+    "name": "Oak Park Family Health Center",
+    "address": "5160 Federal Blvd, San Diego, CA 92105",
+    "phone": "(619) 515-2454",
+    "type": "VFA",
+    "lat": 32.72192,
+    "lng": -117.083572,
+    "distance": 4.527444158495418
+  },
+  {
+    "name": "Huong Nguyen",
+    "address": "4444 El Cajon Blvd, Ste 6, San Diego, CA 92115",
+    "phone": "(619) 285-1522",
+    "type": "private",
+    "lat": 32.755501,
+    "lng": -117.09893,
+    "distance": 4.540992567002959
+  },
+  {
+    "name": "San Ysidro Health Center Lhs",
+    "address": "950 S Euclid Ave, San Diego, CA 92114",
+    "phone": "(619) 662-4100",
+    "type": "public",
+    "lat": 32.696182,
+    "lng": -117.085556,
+    "distance": 4.594695605514595
+  },
+  {
+    "name": "San Ysidro Health King-chavez Ctr",
+    "address": "950 S Euclid Ave, Fl 2, San Diego, CA 92114",
+    "phone": "(619) 662-4100",
+    "type": "VFA",
+    "lat": 32.695999,
+    "lng": -117.085617,
+    "distance": 4.595039899571904
+  },
+  {
+    "name": "Ibarra Family Health Center",
+    "address": "4874 Polk Ave, San Diego, CA 92105",
+    "phone": "(619) 515-2426",
+    "type": "VFA",
+    "lat": 32.751381,
+    "lng": -117.089561,
+    "distance": 4.83411428407821
+  },
+  {
+    "name": "Community Heights Family Medicine",
+    "address": "4690 El Cajon Blvd, San Diego, CA 92115",
+    "phone": "(619) 662-4100",
+    "type": "fqhc",
+    "lat": 32.75621,
+    "lng": -117.093246,
+    "distance": 4.836243434570156
+  },
+  {
+    "name": "Elena P Vitug",
+    "address": "502 Euclid Ave, Ste 201, National City, CA 91950",
+    "phone": "(619) 475-6204",
+    "type": "private",
+    "lat": 32.685059,
+    "lng": -117.083473,
+    "distance": 4.985598295616943
+  },
+  {
+    "name": "Gateway Medical Group Of San Diego",
+    "address": "610 Euclid Ave, Ste 302, National City, CA 91950",
+    "phone": "(619) 527-7700",
+    "type": "private",
+    "lat": 32.683998,
+    "lng": -117.083214,
+    "distance": 5.030753708204146
+  },
+  {
+    "name": "Paradise Family Health Centerpeds",
+    "address": "655 Euclid Ave, Ste 207, National City, CA 91950",
+    "phone": "(619) 475-4575",
+    "type": "private",
+    "lat": 32.683453,
+    "lng": -117.082611,
+    "distance": 5.078762432739124
+  },
+  {
+    "name": "Barbadillo Teresita T",
+    "address": "655 Euclid Ave, Ste 201, National City, CA 91950",
+    "phone": "(619) 267-8601",
+    "type": "private",
+    "lat": 32.683453,
+    "lng": -117.082611,
+    "distance": 5.078762432739124
+  },
+  {
+    "name": "Laboda Pediatric Center, Inc",
+    "address": "2340 E 8th St, Ste E, National City, CA 91950",
+    "phone": "(619) 216-8500",
+    "type": "private",
+    "lat": 32.682091,
+    "lng": -117.083,
+    "distance": 5.100622309631161
+  },
+  {
+    "name": "Paradise Hills Family Clinic",
+    "address": "2400 E 8th St, Ste A, National City, CA 91950",
+    "phone": "(619) 662-4100",
+    "type": "VFA",
+    "lat": 32.682499,
+    "lng": -117.08194,
+    "distance": 5.142948650600532
+  },
+  {
+    "name": "National City Family Health Center",
+    "address": "1000 Euclid Ave, National City, CA 91950",
+    "phone": "(619) 515-2399",
+    "type": "VFA",
+    "lat": 32.680759,
+    "lng": -117.080994,
+    "distance": 5.246495127303355
+  },
+  {
+    "name": "Samahan Health Centers",
+    "address": "2743 Highland Ave, National City, CA 91950",
+    "phone": "(844) 200-2426",
+    "type": "VFA",
+    "lat": 32.661148,
+    "lng": -117.09185,
+    "distance": 5.516003170086986
+  },
+  {
+    "name": "Samahan Health Center",
+    "address": "2835 Highland Ave, Ste A, National City, CA 91950",
+    "phone": "(844) 200-2426",
+    "type": "fqhc",
+    "lat": 32.66021,
+    "lng": -117.091309,
+    "distance": 5.583387328136016
+  },
+  {
+    "name": "Joseph Tulagan Md",
+    "address": "3400 E 8th St, Ste 105, National City, CA 91950",
+    "phone": "(619) 382-3350",
+    "type": "private",
+    "lat": 32.685329,
+    "lng": -117.071571,
+    "distance": 5.61279932236287
+  },
+  {
+    "name": "City Heights Family Health Center",
+    "address": "5454 El Cajon Blvd, San Diego, CA 92115",
+    "phone": "(619) 515-2441",
+    "type": "VFA",
+    "lat": 32.758389,
+    "lng": -117.077797,
+    "distance": 5.669497110344016
+  },
+  {
+    "name": "Family Medicine Clinic",
+    "address": "5507 El Cajon Blvd, Ste L, San Diego, CA 92115",
+    "phone": "(619) 286-2789",
+    "type": "private",
+    "lat": 32.758011,
+    "lng": -117.076263,
+    "distance": 5.732458678406931
+  },
+  {
+    "name": "Intelligent Care Medical Clinic",
+    "address": "5507 El Cajon Blvd, Ste B, San Diego, CA 92115",
+    "phone": "(619) 582-8814",
+    "type": "private",
+    "lat": 32.758011,
+    "lng": -117.076263,
+    "distance": 5.732458678406931
+  },
+  {
+    "name": "Samahan Health Center",
+    "address": "2101 Granger Ave, Ste 101-a, National City, CA 91950",
+    "phone": "(844) 200-2426",
+    "type": "VFA",
+    "lat": 32.6726,
+    "lng": -117.073845,
+    "distance": 5.883336125677748
+  },
+  {
+    "name": "Sacramento Native Amer Health Ctr",
+    "address": "2020 J St, Sacramento, CA 95811",
+    "phone": "(916) 341-0575",
+    "type": "VFA",
+    "lat": 38.576199,
+    "lng": -121.479362,
+    "distance": 0.893923476975617
+  },
+  {
+    "name": "Elica Health Center- V Street Medic",
+    "address": "923 V St, Sacramento, CA 95818",
+    "phone": "(916) 454-2345",
+    "type": "fqhc",
+    "lat": 38.567532,
+    "lng": -121.499718,
+    "distance": 1.0136501157590085
+  },
+  {
+    "name": "One Community Health Midtown",
+    "address": "1500 21st St Bldg B, Sacramento, CA 95811",
+    "phone": "(916) 443-3299",
+    "type": "VFA",
+    "lat": 38.57058,
+    "lng": -121.481491,
+    "distance": 1.0325362063194892
+  },
+  {
+    "name": "Sutter Medical Center Sacramento",
+    "address": "2825 Capitol Ave, Sacramento, CA 95816",
+    "phone": "(916) 887-0350",
+    "type": "private",
+    "lat": 38.570751,
+    "lng": -121.469566,
+    "distance": 1.5367302117567287
+  },
+  {
+    "name": "West Sac Pediatric Medical Group",
+    "address": "1035 Jefferson Blvd Ste 1, West Sacramento, CA 95691",
+    "phone": "(916) 371-3787",
+    "type": "private",
+    "lat": 38.573402,
+    "lng": -121.523506,
+    "distance": 1.6711816646095619
+  },
+  {
+    "name": "Vida Family Health",
+    "address": "954 Sacramento Ave, West Sacramento, CA 95605",
+    "phone": "(916) 914-2650",
+    "type": "fqhc",
+    "lat": 38.589664,
+    "lng": -121.524963,
+    "distance": 1.742301364378534
+  },
+  {
+    "name": "Alhambra Family Medicine",
+    "address": "1201 Alhambra Blvd, Ste 330, Sacramento, CA 95816",
+    "phone": "(916) 451-4400",
+    "type": "private",
+    "lat": 38.570068,
+    "lng": -121.465698,
+    "distance": 1.7432155106334226
+  },
+  {
+    "name": "Mercy Medical Group",
+    "address": "3000 Q St, Fl 2, Sacramento, CA 95816",
+    "phone": "(916) 733-3305",
+    "type": "private",
+    "lat": 38.56498,
+    "lng": -121.469643,
+    "distance": 1.7628388229341532
+  },
+  {
+    "name": "Uc Davis Medical Center, Upa Clinic",
+    "address": "3160 Folsom Blvd, Ste 2900, Sacramento, CA 95816",
+    "phone": "(916) 734-5846",
+    "type": "private",
+    "lat": 38.568432,
+    "lng": -121.465874,
+    "distance": 1.7895645170625991
+  },
+  {
+    "name": "Salud Clinic",
+    "address": "500 Jefferson Blvd, # 180, West Sacramento, CA 95605",
+    "phone": "(916) 403-2900",
+    "type": "VFA",
+    "lat": 38.587589,
+    "lng": -121.527618,
+    "distance": 1.8413270180924035
+  },
+  {
+    "name": "Sutter Med Grp Peds",
+    "address": "1625 Stockton Blvd, Ste 106, Sacramento, CA 95816",
+    "phone": "(916) 262-9005",
+    "type": "private",
+    "lat": 38.565819,
+    "lng": -121.466843,
+    "distance": 1.845323387432429
+  },
+  {
+    "name": "Elica Health Center",
+    "address": "155 15th St Ste A, W Sacramento, CA 95691",
+    "phone": "(916) 454-2345",
+    "type": "VFA",
+    "lat": 38.570858,
+    "lng": -121.525955,
+    "distance": 1.8591744637672345
+  },
+  {
+    "name": "Pucci's Pharmacy",
+    "address": "3257 Folsom Blvd, Sacramento, CA 95816",
+    "phone": "#N/A",
+    "type": "private",
+    "lat": 38.567905,
+    "lng": -121.464371,
+    "distance": 1.8780043159727475
+  },
+  {
+    "name": "Wellspace Health Alhambra",
+    "address": "2425 Alhambra Blvd, Sacramento, CA 95817",
+    "phone": "(916) 737-5555",
+    "type": "fqhc",
+    "lat": 38.556259,
+    "lng": -121.471863,
+    "distance": 2.132704428506231
+  },
+  {
+    "name": "Elica Health Center",
+    "address": "3701 J St, Ste 201, Sacramento, CA 95816",
+    "phone": "(916) 454-2345",
+    "type": "fqhc",
+    "lat": 38.570862,
+    "lng": -121.456688,
+    "distance": 2.168087172282371
+  },
+  {
+    "name": "River Bend Medical Associates",
+    "address": "2101 Stone Blvd, Ste 190, W Sacramento, CA 95691",
+    "phone": "(916) 392-3186",
+    "type": "private",
+    "lat": 38.562721,
+    "lng": -121.538322,
+    "distance": 2.7077221675384147
+  },
+  {
+    "name": "Ucdmc Pediatric Ambulatory Serv",
+    "address": "2521 Stockton Blvd, Rm 2200, Sacramento, CA 95817",
+    "phone": "(916) 734-1189",
+    "type": "private",
+    "lat": 38.55204,
+    "lng": -121.455338,
+    "distance": 2.9369445095328763
+  },
+  {
+    "name": "East Sac Pediatric Med Group, Inc",
+    "address": "5030 J St Ste 301, Sacramento, CA 95819",
+    "phone": "(916) 451-8430",
+    "type": "private",
+    "lat": 38.566406,
+    "lng": -121.44207,
+    "distance": 3.0155557755111255
+  },
+  {
+    "name": "Wellspace Oak Park Community Clinic",
+    "address": "3415 Martin Luther King Jr Blvd, Sacramento, CA 95817",
+    "phone": "(916) 737-5555",
+    "type": "fqhc",
+    "lat": 38.543541,
+    "lng": -121.464218,
+    "distance": 3.094347440772985
+  },
+  {
+    "name": "Elica Health Centers Halyard",
+    "address": "1276 Halyard Dr, West Sacramento, CA 95691",
+    "phone": "(916) 454-2345",
+    "type": "VFA",
+    "lat": 38.573219,
+    "lng": -121.55069,
+    "distance": 3.095317880444026
+  },
+  {
+    "name": "Ucdmc Family Practice And Comm Med",
+    "address": "4860 Y St, Ste 1600, Sacramento, CA 95817",
+    "phone": "(916) 734-3630",
+    "type": "private",
+    "lat": 38.552555,
+    "lng": -121.448868,
+    "distance": 3.174742191166684
+  },
+  {
+    "name": "Land Park Pediatric Medical Group",
+    "address": "4617 Freeport Blvd, Ste B, Sacramento, CA 95822",
+    "phone": "(916) 422-7273",
+    "type": "private",
+    "lat": 38.533298,
+    "lng": -121.493912,
+    "distance": 3.337621798670938
+  },
+  {
+    "name": "Sacramento Community Fong Ranch",
+    "address": "3301 Fong Ranch Rd, Sacramento, CA 95834",
+    "phone": "(916) 642-1867",
+    "type": "fqhc",
+    "lat": 38.630619,
+    "lng": -121.495651,
+    "distance": 3.3877716914752956
+  },
+  {
+    "name": "Sacramento Community Clinic",
+    "address": "965 El Camino Ave, Sacramento, CA 95815",
+    "phone": "(916) 642-1867",
+    "type": "fqhc",
+    "lat": 38.611683,
+    "lng": -121.44455,
+    "distance": 3.4012136438849794
+  },
+  {
+    "name": "Kaiser Pharmacy-point West Main",
+    "address": "1650 Response Rd, Sacramento, CA 95815",
+    "phone": "(916) 614-4568",
+    "type": "private",
+    "lat": 38.596481,
+    "lng": -121.430183,
+    "distance": 3.6175179463810876
+  },
+  {
+    "name": "Elica Health Center- Franklin",
+    "address": "5385 Franklin Blvd, Sacramento, CA 95820",
+    "phone": "(916) 454-2345",
+    "type": "VFA",
+    "lat": 38.526272,
+    "lng": -121.471512,
+    "distance": 4.018119949887131
+  },
+  {
+    "name": "Peach Tree N Sacramento",
+    "address": "3810 Rosin Ct, Ste 100, Sacramento, CA 95834",
+    "phone": "(916) 779-7656",
+    "type": "fqhc",
+    "lat": 38.637749,
+    "lng": -121.474716,
+    "distance": 4.022678820507895
+  },
+  {
+    "name": "One Community Health Arden",
+    "address": "1442 Ethan Way Ste 100, Sacramento, CA 95825",
+    "phone": "(916) 443-3299",
+    "type": "VFA",
+    "lat": 38.591808,
+    "lng": -121.419922,
+    "distance": 4.084026226179304
+  },
+  {
+    "name": "Elica Health Centers Cadillac",
+    "address": "77 Cadillac Dr Ste 200, Sacramento, CA 95825",
+    "phone": "(916) 454-2345",
+    "type": "fqhc",
+    "lat": 38.572502,
+    "lng": -121.418236,
+    "distance": 4.162021727201056
+  },
+  {
+    "name": "Palatnik Medical Corp",
+    "address": "701 Howe Ave, Ste D38, Sacramento, CA 95825",
+    "phone": "(916) 518-0888",
+    "type": "private",
+    "lat": 38.578735,
+    "lng": -121.415939,
+    "distance": 4.2427587072265736
+  },
+  {
+    "name": "Pediatric Med Asso Of Sacto Inc",
+    "address": "650 Howe Ave, Ste 100, Sacramento, CA 95825",
+    "phone": "(916) 924-9337",
+    "type": "private",
+    "lat": 38.577271,
+    "lng": -121.414589,
+    "distance": 4.3214934064020865
+  },
+  {
+    "name": "Pediatrics On Scripps Drive",
+    "address": "1 Scripps Dr, Ste 107, Sacramento, CA 95825",
+    "phone": "(916) 929-3456",
+    "type": "private",
+    "lat": 38.5732,
+    "lng": -121.411797,
+    "distance": 4.49967613344495
+  },
+  {
+    "name": "Elica Health Centers - Marysville",
+    "address": "3234 Marysville Blvd, Sacramento, CA 95815",
+    "phone": "(916) 454-2345",
+    "type": "fqhc",
+    "lat": 38.626362,
+    "lng": -121.432213,
+    "distance": 4.565344758026578
+  },
+  {
+    "name": "San Lucas Pediatric Clinic",
+    "address": "4100 E Commerce Way, Ste 100, Sacramento, CA 95834",
+    "phone": "(916) 575-9090",
+    "type": "public",
+    "lat": 38.644878,
+    "lng": -121.51915,
+    "distance": 4.572019095869133
+  },
+  {
+    "name": "Sacramento Nativeamerican Hc So Ave",
+    "address": "1221 South Ave, Sacramento, CA 95838",
+    "phone": "(916) 341-0575",
+    "type": "fqhc",
+    "lat": 38.633068,
+    "lng": -121.437973,
+    "distance": 4.682998477178118
+  },
+  {
+    "name": "Wellspace Health",
+    "address": "3441 Marysville Blvd, Sacramento, CA 95838",
+    "phone": "(916) 313-8427",
+    "type": "private",
+    "lat": 38.631222,
+    "lng": -121.431511,
+    "distance": 4.825724127452209
+  },
+  {
+    "name": "Elica Health Centers-arden Arcade",
+    "address": "2400 Glendale Ln, Sacramento, CA 95825",
+    "phone": "(916) 454-2345",
+    "type": "fqhc",
+    "lat": 38.59734,
+    "lng": -121.405327,
+    "distance": 4.932162629948171
+  },
+  {
+    "name": "Wellspace Health Arden Arcade Com",
+    "address": "2433 Marconi Ave, Sacramento, CA 95821",
+    "phone": "(916) 822-8970",
+    "type": "fqhc",
+    "lat": 38.619202,
+    "lng": -121.404617,
+    "distance": 5.500635780753335
+  },
+  {
+    "name": "Doris Say Md",
+    "address": "1355 Florin Rd, Ste 16, Sacramento, CA 95822",
+    "phone": "(916) 424-9446",
+    "type": "private",
+    "lat": 38.496349,
+    "lng": -121.504501,
+    "distance": 5.915860476639852
+  },
+  {
+    "name": "Pira Rochanayon",
+    "address": "3811 Florin Rd, Ste 23, Sacramento, CA 95823",
+    "phone": "(916) 399-1171",
+    "type": "private",
+    "lat": 38.497181,
+    "lng": -121.46209,
+    "distance": 6.088936951021138
+  },
+  {
+    "name": "Dr Jack Lamendola",
+    "address": "7248 S Land Park Dr, Ste 113, Sacramento, CA 95831",
+    "phone": "(916) 395-5226",
+    "type": "private",
+    "lat": 38.494541,
+    "lng": -121.513771,
+    "distance": 6.105983208925334
+  },
+  {
+    "name": "River Bend Medical Associates",
+    "address": "7248 S Land Park Dr, Ste 205, Sacramento, CA 95831",
+    "phone": "(916) 392-3186",
+    "type": "private",
+    "lat": 38.494541,
+    "lng": -121.513771,
+    "distance": 6.105983208925334
+  },
+  {
+    "name": "Naomi Sato, Md",
+    "address": "900 Florin Rd, Ste B, Sacramento, CA 95831",
+    "phone": "(916) 421-8245",
+    "type": "private",
+    "lat": 38.496445,
+    "lng": -121.526627,
+    "distance": 6.136403738216365
+  },
+  {
+    "name": "Wellspace Health Florin",
+    "address": "4241 Florin Rd, Ste 40, Sacramento, CA 95823",
+    "phone": "(916) 737-5555",
+    "type": "private",
+    "lat": 38.49675,
+    "lng": -121.458138,
+    "distance": 6.181840977628421
+  },
+  {
+    "name": "Sacramentonative American Hc Florin",
+    "address": "3800 Florin Rd, Sacramento, CA 95823",
+    "phone": "(916) 341-0575",
+    "type": "fqhc",
+    "lat": 38.495041,
+    "lng": -121.46386,
+    "distance": 6.204616094351499
+  },
+  {
+    "name": "South Area Pediatric Med Grp Inc",
+    "address": "4760 Florin Rd, Ste D, Sacramento, CA 95823",
+    "phone": "(916) 394-2580",
+    "type": "private",
+    "lat": 38.495255,
+    "lng": -121.450012,
+    "distance": 6.430531772935701
+  },
+  {
+    "name": "Duong",
+    "address": "7260 E Southgate Dr, Ste D, Sacramento, CA 95823",
+    "phone": "(916) 428-8134",
+    "type": "private",
+    "lat": 38.493969,
+    "lng": -121.438377,
+    "distance": 6.769961069643611
+  },
+  {
+    "name": "Walton Pediatrics Medical Associate",
+    "address": "7237 E Southgate Dr, Ste A, Sacramento, CA 95823",
+    "phone": "(916) 422-6635",
+    "type": "private",
+    "lat": 38.49477,
+    "lng": -121.435654,
+    "distance": 6.788087752358999
+  },
+  {
+    "name": "Sacramento Community Clinic",
+    "address": "5524 Assembly Ct, Sacramento, CA 95823",
+    "phone": "(916) 642-1867",
+    "type": "fqhc",
+    "lat": 38.49324,
+    "lng": -121.439262,
+    "distance": 6.7939167761883
+  },
+  {
+    "name": "Niazi Family Medicine",
+    "address": "7275 E Southgate Dr, Ste 102, Sacramento, CA 95823",
+    "phone": "(916) 244-4464",
+    "type": "private",
+    "lat": 38.493404,
+    "lng": -121.436264,
+    "distance": 6.856467936271182
+  },
+  {
+    "name": "San Francisco Co Health Department",
+    "address": "101 Grove St, Ste 406, San Francisco, CA 94102",
+    "phone": "(415) 554-2955",
+    "type": "public",
+    "lat": 37.778137,
+    "lng": -122.418678,
+    "distance": 0.22712957251059498
+  },
+  {
+    "name": "North East Medical Services - Polk",
+    "address": "650 Polk St, San Francisco, CA 94102",
+    "phone": "(415) 391-9686",
+    "type": "fqhc",
+    "lat": 37.782829,
+    "lng": -122.418854,
+    "distance": 0.5487059752116545
+  },
+  {
+    "name": "St Anthony Medical Clinic",
+    "address": "150 Golden Gate Ave, Fl 2, San Francisco, CA 94102",
+    "phone": "(415) 241-8320",
+    "type": "public",
+    "lat": 37.78223,
+    "lng": -122.413223,
+    "distance": 0.6085621817723967
+  },
+  {
+    "name": "South Of Market Health Center",
+    "address": "229 7th St, San Francisco, CA 94103",
+    "phone": "(415) 503-6000",
+    "type": "public",
+    "lat": 37.77774,
+    "lng": -122.408829,
+    "distance": 0.6098018140659496
+  },
+  {
+    "name": "Mission Neighborhood Health Center",
+    "address": "240 Shotwell St, San Francisco, CA 94110",
+    "phone": "(415) 552-3870",
+    "type": "VFA",
+    "lat": 37.764751,
+    "lng": -122.416557,
+    "distance": 0.7182253105893281
+  },
+  {
+    "name": "Native American Health Center",
+    "address": "160 Capp St, Fl 2, San Francisco, CA 94110",
+    "phone": "(415) 417-3501",
+    "type": "public",
+    "lat": 37.76403,
+    "lng": -122.418877,
+    "distance": 0.7516029991587643
+  },
+  {
+    "name": "Castro Mission Health Center",
+    "address": "3850 17th St, San Francisco, CA 94114",
+    "phone": "(628) 217-5700",
+    "type": "public",
+    "lat": 37.762978,
+    "lng": -122.431885,
+    "distance": 1.0694326508878178
+  },
+  {
+    "name": "Kaiser Perm San Francisco Med Ctr",
+    "address": "2238 Geary Blvd, San Francisco, CA 94115",
+    "phone": "(415) 204-5014",
+    "type": "private",
+    "lat": 37.783508,
+    "lng": -122.44062,
+    "distance": 1.3026454582500877
+  },
+  {
+    "name": "Ucsf Pediatrics At Mount Zion",
+    "address": "2330 Post St, Ste 320, San Francisco, CA 94115",
+    "phone": "(415) 885-7478",
+    "type": "private",
+    "lat": 37.784512,
+    "lng": -122.440407,
+    "distance": 1.325607996059624
+  },
+  {
+    "name": "Kaiser Sfo Mission Bay",
+    "address": "1600 Owens St, San Francisco, CA 94158",
+    "phone": "(415) 833-2000",
+    "type": "private",
+    "lat": 37.768223,
+    "lng": -122.395477,
+    "distance": 1.3856951363288867
+  },
+  {
+    "name": "Childrens Health Cent  Sf Gen Hosp",
+    "address": "1001 Potrero Ave, Rm Gr-1, San Francisco, CA 94110",
+    "phone": "(628) 206-8756",
+    "type": "public",
+    "lat": 37.75563,
+    "lng": -122.405098,
+    "distance": 1.5437437880273663
+  },
+  {
+    "name": "Family Health Center",
+    "address": "1001 Potrero Ave, Rm Gr-1, San Francisco, CA 94110",
+    "phone": "(628) 206-5545",
+    "type": "fqhc",
+    "lat": 37.75563,
+    "lng": -122.405098,
+    "distance": 1.5437437880273663
+  },
+  {
+    "name": "Sf General Epiphany Clinic",
+    "address": "100 Masonic Ave, San Francisco, CA 94118",
+    "phone": "(415) 351-4048",
+    "type": "public",
+    "lat": 37.780689,
+    "lng": -122.446877,
+    "distance": 1.5530115182006468
+  },
+  {
+    "name": "Chinatown Public Health Center",
+    "address": "1490 Mason St, Fl 2, San Francisco, CA 94133",
+    "phone": "(628) 217-6500",
+    "type": "public",
+    "lat": 37.796856,
+    "lng": -122.411774,
+    "distance": 1.5732246318687846
+  },
+  {
+    "name": "Kelly K Wong, Md",
+    "address": "728 Pacific Ave, Ste 703, San Francisco, CA 94133",
+    "phone": "(415) 805-7782",
+    "type": "private",
+    "lat": 37.797089,
+    "lng": -122.407463,
+    "distance": 1.6659996138385644
+  },
+  {
+    "name": "Su-mui Kuo Md",
+    "address": "728 Pacific Ave, Ste 406, San Francisco, CA 94133",
+    "phone": "(415) 393-6500",
+    "type": "private",
+    "lat": 37.797089,
+    "lng": -122.407463,
+    "distance": 1.6659996138385644
+  },
+  {
+    "name": "Cole Street Youth Clinic",
+    "address": "555 Cole St, San Francisco, CA 94117",
+    "phone": "(415) 751-8181",
+    "type": "public",
+    "lat": 37.770004,
+    "lng": -122.450371,
+    "distance": 1.7250610941186921
+  },
+  {
+    "name": "North East Medical Services",
+    "address": "1520 Stockton St, Fl 5, San Francisco, CA 94133",
+    "phone": "(415) 391-9686",
+    "type": "VFA",
+    "lat": 37.799938,
+    "lng": -122.40873,
+    "distance": 1.825566440549822
+  },
+  {
+    "name": "Potrero Hill Health Center",
+    "address": "1050 Wisconsin St, San Francisco, CA 94107",
+    "phone": "(628) 217-7930",
+    "type": "public",
+    "lat": 37.753899,
+    "lng": -122.399101,
+    "distance": 1.8262693067076836
+  },
+  {
+    "name": "Ucsf Adolescent Medicine",
+    "address": "675 18th St, Fl 3, San Francisco, CA 94107",
+    "phone": "(415) 353-2002",
+    "type": "public",
+    "lat": 37.762955,
+    "lng": -122.389534,
+    "distance": 1.8282291666278276
+  },
+  {
+    "name": "Mission Bernal Pediatric Clinic",
+    "address": "1580 Valencia St, Ste 701, San Francisco, CA 94110",
+    "phone": "(415) 852-4080",
+    "type": "private",
+    "lat": 37.747559,
+    "lng": -122.42038,
+    "distance": 1.8899829133942383
+  },
+  {
+    "name": "Irina Khidekel",
+    "address": "3635 California St, San Francisco, CA 94118",
+    "phone": "(415) 752-2242",
+    "type": "private",
+    "lat": 37.786091,
+    "lng": -122.454086,
+    "distance": 2.0460423400887424
+  },
+  {
+    "name": "Sutter Pacific Medical Foundation F",
+    "address": "3838 California St, Rm 510, San Francisco, CA 94118",
+    "phone": "(415) 600-2403",
+    "type": "private",
+    "lat": 37.785923,
+    "lng": -122.457626,
+    "distance": 2.222233057249308
+  },
+  {
+    "name": "Winchell Quock",
+    "address": "402 8th Ave, Ste 202, San Francisco, CA 94118",
+    "phone": "(415) 751-1411",
+    "type": "private",
+    "lat": 37.780628,
+    "lng": -122.466049,
+    "distance": 2.5782722977671315
+  },
+  {
+    "name": "Bayview Child Health Center",
+    "address": "3450 3rd St, Ste 2a, San Francisco, CA 94124",
+    "phone": "(415) 697-0500",
+    "type": "fqhc",
+    "lat": 37.74559,
+    "lng": -122.38736,
+    "distance": 2.676759938281993
+  },
+  {
+    "name": "Special Program For Youth Spy",
+    "address": "375 Woodside Ave, San Francisco, CA 94127",
+    "phone": "(415) 753-7811",
+    "type": "public",
+    "lat": 37.745953,
+    "lng": -122.452515,
+    "distance": 2.6968683657291432
+  },
+  {
+    "name": "North East Medical Services",
+    "address": "1033 Clement St, San Francisco, CA 94118",
+    "phone": "(415) 391-9686",
+    "type": "VFA",
+    "lat": 37.782471,
+    "lng": -122.470299,
+    "distance": 2.828556428718582
+  },
+  {
+    "name": "Silver Ave Family Health Center",
+    "address": "1525 Silver Ave, San Francisco, CA 94134",
+    "phone": "(628) 754-8000",
+    "type": "public",
+    "lat": 37.73238,
+    "lng": -122.406433,
+    "distance": 3.0222331775417146
+  },
+  {
+    "name": "North East Medical Services",
+    "address": "2574 San Bruno Ave, Fl 2, San Francisco, CA 94134",
+    "phone": "(415) 391-9686",
+    "type": "VFA",
+    "lat": 37.729019,
+    "lng": -122.404472,
+    "distance": 3.273474042086358
+  },
+  {
+    "name": "Nems - 2633 San Bruno",
+    "address": "2633 San Bruno Ave, Fl 2, San Francisco, CA 94134",
+    "phone": "(415) 391-9686",
+    "type": "fqhc",
+    "lat": 37.728466,
+    "lng": -122.403671,
+    "distance": 3.3215560933678256
+  },
+  {
+    "name": "Mission Neighborhood Health Center",
+    "address": "4434 Mission St, San Francisco, CA 94112",
+    "phone": "(415) 406-1353",
+    "type": "VFA",
+    "lat": 37.726864,
+    "lng": -122.433517,
+    "distance": 3.4076177437141135
+  },
+  {
+    "name": "North East Medical Services",
+    "address": "1450 Noriega St, San Francisco, CA 94122",
+    "phone": "(415) 391-9686",
+    "type": "VFA",
+    "lat": 37.754372,
+    "lng": -122.479424,
+    "distance": 3.5723995062581966
+  },
+  {
+    "name": "Ocean Park Health Center",
+    "address": "1351 24th Ave, San Francisco, CA 94122",
+    "phone": "(628) 754-8201",
+    "type": "public",
+    "lat": 37.76236,
+    "lng": -122.482948,
+    "distance": 3.5775929353908236
+  },
+  {
+    "name": "Carol K Lee",
+    "address": "1518 Noriega St, Ste 200, San Francisco, CA 94122",
+    "phone": "(415) 566-7556",
+    "type": "private",
+    "lat": 37.75433,
+    "lng": -122.48011,
+    "distance": 3.607996250321026
+  },
+  {
+    "name": "Southeast Health Center",
+    "address": "2403 Keith St, San Francisco, CA 94124",
+    "phone": "(628) 217-5500",
+    "type": "fqhc",
+    "lat": 37.725681,
+    "lng": -122.392654,
+    "distance": 3.701522923564186
+  },
+  {
+    "name": "Balboa Teen Health Center",
+    "address": "1000 Cayuga Ave, Rm 156, San Francisco, CA 94112",
+    "phone": "(415) 469-4512",
+    "type": "public",
+    "lat": 37.722061,
+    "lng": -122.441475,
+    "distance": 3.845087840425982
+  },
+  {
+    "name": "Bayview Helth And Wellness Center",
+    "address": "6301 3rd St, San Francisco, CA 94124",
+    "phone": "(415) 339-8813",
+    "type": "fqhc",
+    "lat": 37.720631,
+    "lng": -122.396042,
+    "distance": 3.9610990853753116
+  },
+  {
+    "name": "Nems - Ocean Ave",
+    "address": "1443 Ocean Ave, San Francisco, CA 94112",
+    "phone": "(415) 391-9686",
+    "type": "fqhc",
+    "lat": 37.724037,
+    "lng": -122.457962,
+    "distance": 4.0976192121536315
+  },
+  {
+    "name": "Sutter Pacific Medical Foundation",
+    "address": "2645 Ocean Ave, Lbby 3, San Francisco, CA 94132",
+    "phone": "(415) 547-4800",
+    "type": "private",
+    "lat": 37.731804,
+    "lng": -122.474144,
+    "distance": 4.220464684443377
+  },
+  {
+    "name": "Benjamin N Wan Md",
+    "address": "595 Buckingham Way, Ste 500, San Francisco, CA 94132",
+    "phone": "(415) 665-6100",
+    "type": "private",
+    "lat": 37.73103,
+    "lng": -122.476089,
+    "distance": 4.333707588732237
+  },
+  {
+    "name": "Kelly Wong Md",
+    "address": "595 Buckingham Way, Ste 314, San Francisco, CA 94132",
+    "phone": "(415) 566-1734",
+    "type": "private",
+    "lat": 37.73103,
+    "lng": -122.476089,
+    "distance": 4.333707588732237
+  },
+  {
+    "name": "North East Medical Services",
+    "address": "3431 Taraval St, San Francisco, CA 94116",
+    "phone": "(415) 391-9686",
+    "type": "VFA",
+    "lat": 37.741604,
+    "lng": -122.502998,
+    "distance": 5.113648016205694
+  },
+  {
+    "name": "Pediahealth Medical Group, Inc",
+    "address": "6760 Mission St, Daly City, CA 94014",
+    "phone": "(650) 994-3000",
+    "type": "private",
+    "lat": 37.700352,
+    "lng": -122.463951,
+    "distance": 5.697404616469582
+  },
+  {
+    "name": "Vivien D Hernandez",
+    "address": "341 Westlake Ctr, Ste 317, Daly City, CA 94015",
+    "phone": "(650) 991-3404",
+    "type": "private",
+    "lat": 37.700401,
+    "lng": -122.482819,
+    "distance": 6.2054698980170055
+  },
+  {
+    "name": "Daly City Youth Health Center",
+    "address": "350 90th St Fl 3rd, Daly City, CA 94015",
+    "phone": "(650) 877-5700",
+    "type": "fqhc",
+    "lat": 37.695984,
+    "lng": -122.480042,
+    "distance": 6.380863662397108
+  },
+  {
+    "name": "San Mateo Med Center- Daly City",
+    "address": "380 90th St, Daly City, CA 94015",
+    "phone": "(650) 301-8685",
+    "type": "fqhc",
+    "lat": 37.691319,
+    "lng": -122.474213,
+    "distance": 6.50584451766654
+  },
+  {
+    "name": "North East Medical Svcseastmoor",
+    "address": "211 Eastmoor Ave, Daly City, CA 94015",
+    "phone": "(650) 550-3923",
+    "type": "fqhc",
+    "lat": 37.685009,
+    "lng": -122.478401,
+    "distance": 6.998307267500665
+  },
+  {
+    "name": "Lifelong Medical Care- West Oakland",
+    "address": "991 14th St, Bldg H, Oakland, CA 94607",
+    "phone": "(510) 874-7272",
+    "type": "fqhc",
+    "lat": 37.808739,
+    "lng": -122.282715,
+    "distance": 7.821214972647935
+  },
+  {
+    "name": "Sound Pediatrics",
+    "address": "333 Gellert Blvd, Ste 229, Daly City, CA 94015",
+    "phone": "(650) 992-8668",
+    "type": "private",
+    "lat": 37.666653,
+    "lng": -122.466782,
+    "distance": 7.915263998596751
+  },
+  {
+    "name": "Gellert Health Services",
+    "address": "386 Gellert Blvd, Ste C Daly City, CA 94015",
+    "phone": "(650) 761-3500",
+    "type": "private",
+    "lat": 37.665371,
+    "lng": -122.469414,
+    "distance": 8.046742555713315
+  },
+  {
+    "name": "The Children's Clinic Of Bakersfiel",
+    "address": "1700 A St, Bakersfield, CA 93301",
+    "phone": "(661) 327-3271",
+    "type": "private",
+    "lat": 35.374599,
+    "lng": -119.029121,
+    "distance": 0.5939835298218947
+  },
+  {
+    "name": "James Im",
+    "address": "2731 H St, Ste B, Bakersfield, CA 93301",
+    "phone": "(661) 664-8484",
+    "type": "private",
+    "lat": 35.384579,
+    "lng": -119.021362,
+    "distance": 0.7936333928749851
+  },
+  {
+    "name": "Adventist Health Community Care -",
+    "address": "2800 K St, Bldg B, Bakersfield, CA 93301",
+    "phone": "(661) 869-6740",
+    "type": "fqhc",
+    "lat": 35.385075,
+    "lng": -119.017151,
+    "distance": 0.8182650384330803
+  },
+  {
+    "name": "Adventist Health Bakersfield - Cmip",
+    "address": "2800 K St, Bldg B, Bakersfield, CA 93301",
+    "phone": "(661) 869-6740",
+    "type": "fqhc",
+    "lat": 35.385101,
+    "lng": -119.017181,
+    "distance": 0.8199184593958363
+  },
+  {
+    "name": "Omni Family Health",
+    "address": "2811 H St, Bakersfield, CA 93301",
+    "phone": "(800) 300-6664",
+    "type": "fqhc",
+    "lat": 35.385292,
+    "lng": -119.0215,
+    "distance": 0.8434995848445268
+  },
+  {
+    "name": "Coastal Kids Dba Bakersfield Peds",
+    "address": "1215 34th St, Bakersfield, CA 93301",
+    "phone": "(661) 663-4700",
+    "type": "private",
+    "lat": 35.39019,
+    "lng": -119.0159,
+    "distance": 1.1776813180150818
+  },
+  {
+    "name": "Pinnacle Primary Care Inc",
+    "address": "1520 Brundage Ln, Bakersfield, CA 93304",
+    "phone": "(661) 321-9138",
+    "type": "private",
+    "lat": 35.35495,
+    "lng": -119.019577,
+    "distance": 1.2689067666410407
+  },
+  {
+    "name": "Comprehensive Care Center",
+    "address": "625 34th St, Ste 100, Bakersfield, CA 93301",
+    "phone": "(661) 328-4223",
+    "type": "fqhc",
+    "lat": 35.390072,
+    "lng": -119.00927,
+    "distance": 1.2748657501044058
+  },
+  {
+    "name": "Family Health Center",
+    "address": "1611 1st St, Bakersfield, CA 93304",
+    "phone": "(661) 336-5300",
+    "type": "VFA",
+    "lat": 35.354729,
+    "lng": -119.020447,
+    "distance": 1.2870014246497967
+  },
+  {
+    "name": "Baker Street Village Chc",
+    "address": "1015 Baker St, # 4, Bakersfield, CA 93305",
+    "phone": "(661) 328-4283",
+    "type": "VFA",
+    "lat": 35.37907,
+    "lng": -118.992035,
+    "distance": 1.5543196997573923
+  },
+  {
+    "name": "Central Bakersfield Comm Health Ctr",
+    "address": "301 Brundage Ln, Bakersfield, CA 93304",
+    "phone": "(661) 323-6086",
+    "type": "VFA",
+    "lat": 35.353222,
+    "lng": -119.005318,
+    "distance": 1.5790418578727583
+  },
+  {
+    "name": "Kc Wellness Center",
+    "address": "331 S H St, Bakersfield, CA 93304",
+    "phone": "(661) 412-7788",
+    "type": "private",
+    "lat": 35.350529,
+    "lng": -119.021553,
+    "distance": 1.581632724625637
+  },
+  {
+    "name": "Kern Pediatrics",
+    "address": "3941 San Dimas St, Ste 101, Bakersfield, CA 93301",
+    "phone": "(661) 864-7944",
+    "type": "private",
+    "lat": 35.395561,
+    "lng": -119.008621,
+    "distance": 1.6396411351880285
+  },
+  {
+    "name": "34th Street Community Health Center",
+    "address": "2000 Physicians Blvd, Bakersfield, CA 93301",
+    "phone": "(661) 324-1455",
+    "type": "VFA",
+    "lat": 35.396851,
+    "lng": -119.008507,
+    "distance": 1.7256303913232829
+  },
+  {
+    "name": "San Dimas Pediatrics",
+    "address": "500 40th St, Bakersfield, CA 93301",
+    "phone": "(661) 327-3784",
+    "type": "private",
+    "lat": 35.396568,
+    "lng": -119.007393,
+    "distance": 1.7293647741361462
+  },
+  {
+    "name": "East Bakersfield Community Health",
+    "address": "815 Dr Martin Luther King Jr Blvd, Bakersfield, CA 93307",
+    "phone": "(661) 322-3905",
+    "type": "VFA",
+    "lat": 35.365501,
+    "lng": -118.984871,
+    "distance": 1.9807971108073184
+  },
+  {
+    "name": "Omni Family Health",
+    "address": "4900 California Ave Ste 100b, Bakersfield, CA 93309",
+    "phone": "(661) 237-6670",
+    "type": "fqhc",
+    "lat": 35.365231,
+    "lng": -119.056091,
+    "distance": 2.1793413572067197
+  },
+  {
+    "name": "Omni Family Health",
+    "address": "210 N Chester Ave, Bakersfield, CA 93308",
+    "phone": "(661) 237-6608",
+    "type": "fqhc",
+    "lat": 35.40741,
+    "lng": -119.020309,
+    "distance": 2.358638712074558
+  },
+  {
+    "name": "Premier Valley Medical Group",
+    "address": "4043 Stockdale Hwy, Bakersfield, CA 93309",
+    "phone": "(661) 412-9391",
+    "type": "private",
+    "lat": 35.353764,
+    "lng": -119.053505,
+    "distance": 2.380894262690939
+  },
+  {
+    "name": "Ming Primary Care Clinic",
+    "address": "2734 Ming Ave, Bakersfield, CA 93304",
+    "phone": "(661) 397-0100",
+    "type": "private",
+    "lat": 35.340141,
+    "lng": -119.034111,
+    "distance": 2.450258879895771
+  },
+  {
+    "name": "Omni Family Health",
+    "address": "525 Roberts Ln, Bakersfield, CA 93308",
+    "phone": "(866) 707-6664",
+    "type": "fqhc",
+    "lat": 35.408295,
+    "lng": -119.031769,
+    "distance": 2.5276254203297763
+  },
+  {
+    "name": "Sagebrush Medical Plaza",
+    "address": "1111 Columbus St, Ste 2000, Bakersfield, CA 93305",
+    "phone": "(661) 326-5682",
+    "type": "private",
+    "lat": 35.39679,
+    "lng": -118.982483,
+    "distance": 2.607099187625155
+  },
+  {
+    "name": "Kern Medical",
+    "address": "1700 Mount Vernon Ave, Rm 1150 Bakersfield, CA 93306",
+    "phone": "(661) 326-2191",
+    "type": "public",
+    "lat": 35.382404,
+    "lng": -118.970711,
+    "distance": 2.7758812593818645
+  },
+  {
+    "name": "Juvenile Correctional Services",
+    "address": "1831 Ridge Rd, Bakersfield, CA 93305",
+    "phone": "(661) 868-4333",
+    "type": "public",
+    "lat": 35.386597,
+    "lng": -118.971893,
+    "distance": 2.7924403376488196
+  },
+  {
+    "name": "Poly Clinic Medical Center, Inc",
+    "address": "2145 Niles St, Bakersfield, CA 93305",
+    "phone": "(661) 327-5984",
+    "type": "private",
+    "lat": 35.37619,
+    "lng": -118.968307,
+    "distance": 2.8461789639791504
+  },
+  {
+    "name": "Premier Valley Medical Group",
+    "address": "1311 Columbus St, Bakersfield, CA 93305",
+    "phone": "(661) 397-6061",
+    "type": "private",
+    "lat": 35.397236,
+    "lng": -118.97747,
+    "distance": 2.8513079229437888
+  },
+  {
+    "name": "Kern County Health Dept",
+    "address": "1800 Mount Vernon Ave, Fl 1, Bakersfield, CA 93306",
+    "phone": "(661) 321-3000",
+    "type": "public",
+    "lat": 35.380409,
+    "lng": -118.967598,
+    "distance": 2.920671411256876
+  },
+  {
+    "name": "South Bakersfield Chc",
+    "address": "2400 Wible Rd, Ste 14, Bakersfield, CA 93304",
+    "phone": "(661) 835-1240",
+    "type": "VFA",
+    "lat": 35.33287,
+    "lng": -119.038498,
+    "distance": 3.0081494032158083
+  },
+  {
+    "name": "Omni Family Health- Stine Rd",
+    "address": "1701 Stine Rd, Bakersfield, CA 93309",
+    "phone": "(661) 770-3310",
+    "type": "fqhc",
+    "lat": 35.338268,
+    "lng": -119.051903,
+    "distance": 3.0594798667364094
+  },
+  {
+    "name": "Centric Health Care",
+    "address": "2415 Niles St, Bakersfield, CA 93306",
+    "phone": "(661) 631-1591",
+    "type": "private",
+    "lat": 35.375607,
+    "lng": -118.963943,
+    "distance": 3.0891621292174376
+  },
+  {
+    "name": "Mirna Chambi Md Inc",
+    "address": "1420 Crestmont Dr, Bakersfield, CA 93306",
+    "phone": "(661) 873-7515",
+    "type": "private",
+    "lat": 35.376801,
+    "lng": -118.954483,
+    "distance": 3.626110642749143
+  },
+  {
+    "name": "Clinica La Victoria",
+    "address": "2303 S Union Ave, Ste C2, Bakersfield, CA 93307",
+    "phone": "(661) 885-7007",
+    "type": "private",
+    "lat": 35.321499,
+    "lng": -119.004303,
+    "distance": 3.6701528899427864
+  },
+  {
+    "name": "Omni Family Health White Lane Plaza",
+    "address": "1451 White Ln, Bakersfield, CA 93307",
+    "phone": "(661) 237-6845",
+    "type": "fqhc",
+    "lat": 35.317017,
+    "lng": -119.018967,
+    "distance": 3.889075956920209
+  },
+  {
+    "name": "Omni Family Health - Mall View",
+    "address": "3800 Mall View Rd, Bakersfield, CA 93306",
+    "phone": "(661) 237-6852",
+    "type": "fqhc",
+    "lat": 35.394321,
+    "lng": -118.950249,
+    "distance": 4.1206761346630305
+  },
+  {
+    "name": "Premier Valley Med Grp - White Ln",
+    "address": "5401 White Ln, Bakersfield, CA 93309",
+    "phone": "(661) 396-7100",
+    "type": "private",
+    "lat": 35.317436,
+    "lng": -119.062775,
+    "distance": 4.590296882062166
+  },
+  {
+    "name": "A Miriam Jamison Childrens Center",
+    "address": "1010 Shalimar Dr, Bakersfield, CA 93306",
+    "phone": "(661) 334-3511",
+    "type": "private",
+    "lat": 35.37368,
+    "lng": -118.936966,
+    "distance": 4.605124916082981
+  },
+  {
+    "name": "Niles Children's Clinic",
+    "address": "6055 Niles St, Bakersfield, CA 93306",
+    "phone": "(661) 363-0436",
+    "type": "private",
+    "lat": 35.37569,
+    "lng": -118.936783,
+    "distance": 4.618263770203012
+  },
+  {
+    "name": "Vanguard Medical Corporation",
+    "address": "8150 Hageman Rd, Bakersfield, CA 93312",
+    "phone": "(661) 459-1010",
+    "type": "public",
+    "lat": 35.402275,
+    "lng": -119.093369,
+    "distance": 4.658403153053798
+  },
+  {
+    "name": "Omni Family Health",
+    "address": "6700 Niles St, Ste 185 Bakersfield, CA 93306",
+    "phone": "(866) 707-6664",
+    "type": "fqhc",
+    "lat": 35.376816,
+    "lng": -118.929749,
+    "distance": 5.017479407934643
+  },
+  {
+    "name": "Kern Medical Stockdale Pediatrics",
+    "address": "9330 Stockdale Hwy, Ste 500, Bakersfield, CA 93311",
+    "phone": "(661) 664-2200",
+    "type": "private",
+    "lat": 35.355556,
+    "lng": -119.106323,
+    "distance": 5.087356434208393
+  },
+  {
+    "name": "Brimhall Community Health Center",
+    "address": "1014 Calloway Dr, Bakersfield, CA 93312",
+    "phone": "(661) 630-7605",
+    "type": "fqhc",
+    "lat": 35.366989,
+    "lng": -119.11013,
+    "distance": 5.169991453272054
+  },
+  {
+    "name": "Omni Family Health- Calloway",
+    "address": "1022 Calloway Dr, Bakersfield, CA 93312",
+    "phone": "(661) 630-7660",
+    "type": "fqhc",
+    "lat": 35.367271,
+    "lng": -119.11058,
+    "distance": 5.193654131558634
+  },
+  {
+    "name": "Riverwalk Pediatrics Clinic",
+    "address": "9508 Stockdale Hwy, Ste 150, Bakersfield, CA 93311",
+    "phone": "(661) 663-7500",
+    "type": "private",
+    "lat": 35.355518,
+    "lng": -119.108582,
+    "distance": 5.211569212880289
+  },
+  {
+    "name": "Brimhall Pediatrics",
+    "address": "9840 Brimhall Rd, Bakersfield, CA 93312",
+    "phone": "(661) 587-8882",
+    "type": "private",
+    "lat": 35.370541,
+    "lng": -119.111153,
+    "distance": 5.212545123551116
+  },
+  {
+    "name": "Omni Family Health-mexicali",
+    "address": "4151 Mexicali Dr, Bakersfield, CA 93313",
+    "phone": "(661) 564-3101",
+    "type": "fqhc",
+    "lat": 35.317211,
+    "lng": -119.082199,
+    "distance": 5.275310087455937
+  },
+  {
+    "name": "Rosedale Community Health Center",
+    "address": "3409 Calloway Dr, Unit 300, Bakersfield, CA 93312",
+    "phone": "(661) 587-3011",
+    "type": "VFA",
+    "lat": 35.391331,
+    "lng": -119.110786,
+    "distance": 5.335261638620201
+  },
+  {
+    "name": "Omni Family Health - Panama Grove",
+    "address": "1507 Panama Ln, Ste G100, Bakersfield, CA 93307",
+    "phone": "(866) 707-6664",
+    "type": "fqhc",
+    "lat": 35.295204,
+    "lng": -119.018646,
+    "distance": 5.396234620654992
+  },
+  {
+    "name": "Stockdale Pediatrics",
+    "address": "300 Old River Rd, Ste 125, Bakersfield, CA 93311",
+    "phone": "(661) 663-3122",
+    "type": "private",
+    "lat": 35.352631,
+    "lng": -119.112251,
+    "distance": 5.4615859301088525
+  },
+  {
+    "name": "Pinnacle Primary Care, Inc",
+    "address": "7400 District Blvd, Ste C, Bakersfield, CA 93313",
+    "phone": "(661) 847-9773",
+    "type": "private",
+    "lat": 35.313583,
+    "lng": -119.08316,
+    "distance": 5.497824591859383
+  },
+  {
+    "name": "Sutter Davis Family Practice Group",
+    "address": "635 Anderson Rd, Ste 10, Davis, CA 95616",
+    "phone": "(530) 297-2700",
+    "type": "private",
+    "lat": 38.54882,
+    "lng": -121.759529,
+    "distance": 0.5644148658643798
+  },
+  {
+    "name": "Davis Community Clinic",
+    "address": "2035 Lyndell Ter Ste 120, Davis, CA 95616",
+    "phone": "(530) 758-2060",
+    "type": "VFA",
+    "lat": 38.562813,
+    "lng": -121.769363,
+    "distance": 1.638775021216874
+  },
+  {
+    "name": "Sutter Medical Foundation",
+    "address": "2020 Sutter Pl, Ste 201, Davis, CA 95616",
+    "phone": "(530) 750-5959",
+    "type": "public",
+    "lat": 38.56255,
+    "lng": -121.771584,
+    "distance": 1.6693954179942696
+  },
+  {
+    "name": "Sutter West Family Practice",
+    "address": "2030 Sutter Pl, Ste 2000, Davis, CA 95616",
+    "phone": "(530) 750-5800",
+    "type": "private",
+    "lat": 38.562885,
+    "lng": -121.772034,
+    "distance": 1.7007953824349584
+  },
+  {
+    "name": "Dhmf- Davis Clinic",
+    "address": "2330 W Covell Blvd, Davis, CA 95616",
+    "phone": "(530) 668-2600",
+    "type": "private",
+    "lat": 38.560661,
+    "lng": -121.780228,
+    "distance": 1.8148548812592027
+  },
+  {
+    "name": "Northbay - Dixon Primary Care",
+    "address": "1305 Stratford Ave, Dixon, CA 95620",
+    "phone": "(707) 646-5500",
+    "type": "private",
+    "lat": 38.457542,
+    "lng": -121.84008,
+    "distance": 7.247513961474761
+  },
+  {
+    "name": "Dixon Family Practice",
+    "address": "131 W A St, Ste 1, Dixon, CA 95620",
+    "phone": "(707) 635-1637",
+    "type": "VFA",
+    "lat": 38.445278,
+    "lng": -121.823288,
+    "distance": 7.469133334821327
+  },
+  {
+    "name": "Sutter West Medical Grp",
+    "address": "125 N Lincoln St, Ste G, Dixon, CA 95620",
+    "phone": "(707) 678-1624",
+    "type": "private",
+    "lat": 38.446171,
+    "lng": -121.836662,
+    "distance": 7.783177781495093
+  },
+  {
+    "name": "Northern Valley Indian Health, Inc",
+    "address": "1280 E Gibson Rd, Woodland, CA 95776",
+    "phone": "(530) 650-4500",
+    "type": "public",
+    "lat": 38.660809,
+    "lng": -121.762039,
+    "distance": 8.301538029635479
+  },
+  {
+    "name": "Woodland Clinic Med Grp",
+    "address": "632 W Gibson Rd, Woodland, CA 95695",
+    "phone": "(530) 668-2600",
+    "type": "private",
+    "lat": 38.66386,
+    "lng": -121.794571,
+    "distance": 8.731351612709433
+  },
+  {
+    "name": "Dignity Health Medical Group",
+    "address": "2081 Bronze Star Dr, Woodland, CA 95776",
+    "phone": "(530) 668-2600",
+    "type": "private",
+    "lat": 38.670433,
+    "lng": -121.724472,
+    "distance": 9.149527141021673
+  },
+  {
+    "name": "Hansen Family Health Center",
+    "address": "215 W Beamer St, Woodland, CA 95695",
+    "phone": "(530) 405-2800",
+    "type": "VFA",
+    "lat": 38.68412,
+    "lng": -121.794197,
+    "distance": 10.096701419997714
+  },
+  {
+    "name": "Winters Healthcare",
+    "address": "172 E Grant Ave, Winters, CA 95694",
+    "phone": "(530) 795-4377",
+    "type": "fqhc",
+    "lat": 38.526131,
+    "lng": -121.966576,
+    "distance": 11.297091779777556
+  },
+  {
+    "name": "Center For Primary Care",
+    "address": "421 Nut Tree Rd, Vacaville, CA 95687",
+    "phone": "(707) 624-7500",
+    "type": "private",
+    "lat": 38.363972,
+    "lng": -121.95295,
+    "distance": 16.122911866650245
+  },
+  {
+    "name": "Community Med Centers, Vacaville",
+    "address": "600 Nut Tree Rd, Ste 310, Vacaville, CA 95687",
+    "phone": "(707) 359-1800",
+    "type": "VFA",
+    "lat": 38.361351,
+    "lng": -121.949287,
+    "distance": 16.13302490549437
+  },
+  {
+    "name": "Solano Co Fhs Vacaville",
+    "address": "1119 E Monte Vista Ave, Vacaville, CA 95688",
+    "phone": "(707) 469-4640",
+    "type": "public",
+    "lat": 38.360859,
+    "lng": -121.976357,
+    "distance": 17.132601204542063
+  },
+  {
+    "name": "Santa Cruz Women Health Ctr",
+    "address": "250 Locust St, Santa Cruz, CA 95060",
+    "phone": "(831) 427-3500",
+    "type": "VFA",
+    "lat": 36.97506,
+    "lng": -122.028831,
+    "distance": 0.09771212096248319
+  },
+  {
+    "name": "Planned Parenthood Westside Hlt Ctr",
+    "address": "1119 Pacific Ave, Ste 200, Santa Cruz, CA 95060",
+    "phone": "(831) 460-3122",
+    "type": "public",
+    "lat": 36.972191,
+    "lng": -122.025963,
+    "distance": 0.32125582084560195
+  },
+  {
+    "name": "Palo Alto Medical Foundation-westsi",
+    "address": "1301 Mission St, Fl 2 Santa Cruz, CA 95060",
+    "phone": "(831) 458-6300",
+    "type": "private",
+    "lat": 36.967995,
+    "lng": -122.038193,
+    "distance": 0.6403078851133328
+  },
+  {
+    "name": "Dignity Health Medical Group",
+    "address": "2018 Mission St, Santa Cruz, CA 95060",
+    "phone": "(831) 706-2220",
+    "type": "private",
+    "lat": 36.962849,
+    "lng": -122.044128,
+    "distance": 1.1237288729618269
+  },
+  {
+    "name": "Santa Cruz Health Department",
+    "address": "1080 Emeline Ave, Bldg D, Santa Cruz, CA 95060",
+    "phone": "(831) 454-4100",
+    "type": "public",
+    "lat": 36.991058,
+    "lng": -122.017525,
+    "distance": 1.3236519186696072
+  },
+  {
+    "name": "Palo Alto Medical Foundation Santa",
+    "address": "2025 Soquel Ave, Fl 2, Santa Cruz, CA 95062",
+    "phone": "(831) 462-7181",
+    "type": "private",
+    "lat": 36.982361,
+    "lng": -121.997704,
+    "distance": 1.8857454193540255
+  },
+  {
+    "name": "East Cliff Family Health Center",
+    "address": "1510 Capitola Rd, Santa Cruz, CA 95062",
+    "phone": "(831) 427-3500",
+    "type": "VFA",
+    "lat": 36.976063,
+    "lng": -121.984795,
+    "distance": 2.529593772104567
+  },
+  {
+    "name": "Scotts Valley Medical Clinic",
+    "address": "245 Mount Hermon Rd, Ste L, Scotts Valley, CA 95066",
+    "phone": "(831) 335-9111",
+    "type": "private",
+    "lat": 37.045864,
+    "lng": -122.029694,
+    "distance": 4.896793933724196
+  },
+  {
+    "name": "Pamf - Scotts Valley",
+    "address": "4663 Scotts Valley Dr, Scotts Valley, CA 95066",
+    "phone": "(831) 458-6330",
+    "type": "private",
+    "lat": 37.049858,
+    "lng": -122.01622,
+    "distance": 5.2330097988984585
+  },
+  {
+    "name": "Palo Alto Medical Foundation Aptos",
+    "address": "7600 Old Dominion Ct, Ste 1, Aptos, CA 95003",
+    "phone": "(831) 458-6200",
+    "type": "private",
+    "lat": 36.979172,
+    "lng": -121.910011,
+    "distance": 6.662784356066707
+  },
+  {
+    "name": "Dignity Health Medical Foundation",
+    "address": "105 Post Office Dr, Ste F, Aptos, CA 95003",
+    "phone": "(831) 612-6264",
+    "type": "private",
+    "lat": 36.976593,
+    "lng": -121.900833,
+    "distance": 7.164151074050173
+  },
+  {
+    "name": "Santa Cruz Mountain Health Center",
+    "address": "231 Main St, Ste A Ben Lomond, CA 95005",
+    "phone": "(831) 427-3500",
+    "type": "fqhc",
+    "lat": 37.091164,
+    "lng": -122.090019,
+    "distance": 8.6700094193978
+  },
+  {
+    "name": "Watsonville Community Hospital",
+    "address": "75 Nielson St, Watsonville, CA 95076",
+    "phone": "(831) 724-4741",
+    "type": "private",
+    "lat": 36.926865,
+    "lng": -121.792961,
+    "distance": 13.537223020339974
+  },
+  {
+    "name": "Clinica Del Valle Pajaro",
+    "address": "45 Nielson St, Watsonville, CA 95076",
+    "phone": "(831) 728-0222",
+    "type": "VFA",
+    "lat": 36.927135,
+    "lng": -121.792862,
+    "distance": 13.537925209029941
+  },
+  {
+    "name": "Pajaro Valley  High School Clinica",
+    "address": "500 Harkins Slough Rd, Watsonville, CA 95076",
+    "phone": "(831) 728-0222",
+    "type": "fqhc",
+    "lat": 36.91415,
+    "lng": -121.792297,
+    "distance": 13.815370052243662
+  },
+  {
+    "name": "Salud Para La Gente 64 Aspen Way",
+    "address": "64 Aspen Way, Ste 102, Watsonville, CA 95076",
+    "phone": "(831) 728-0222",
+    "type": "fqhc",
+    "lat": 36.930969,
+    "lng": -121.779739,
+    "distance": 14.182168903063907
+  },
+  {
+    "name": "Palo Alto Medical -  Watsonville",
+    "address": "550 S Green Valley Rd, Watsonville, CA 95076",
+    "phone": "(831) 458-5864",
+    "type": "private",
+    "lat": 36.925991,
+    "lng": -121.779243,
+    "distance": 14.28696108383872
+  },
+  {
+    "name": "Planned Parenthood Mar Monte",
+    "address": "398 S Green Valley Rd, Watsonville, CA 95076",
+    "phone": "(831) 786-2000",
+    "type": "public",
+    "lat": 36.93029,
+    "lng": -121.776428,
+    "distance": 14.37087491806501
+  },
+  {
+    "name": "Pediatric Medical Grp Of Watsonvile",
+    "address": "222 Green Valley Rd, Freedom, CA 95019",
+    "phone": "(831) 728-2969",
+    "type": "private",
+    "lat": 36.937916,
+    "lng": -121.771065,
+    "distance": 14.557622928041116
+  },
+  {
+    "name": "Salud Para La Gente",
+    "address": "440 Arthur Rd, # A, Watsonville, CA 95076",
+    "phone": "(831) 728-0222",
+    "type": "fqhc",
+    "lat": 36.92086,
+    "lng": -121.769249,
+    "distance": 14.909159187316071
+  },
+  {
+    "name": "Plazita Medical Clinic",
+    "address": "1150 Main St, Ste 3, Watsonville, CA 95076",
+    "phone": "(831) 728-0551",
+    "type": "private",
+    "lat": 36.916889,
+    "lng": -121.769699,
+    "distance": 14.956778917891324
+  },
+  {
+    "name": "Watsonville Health Center",
+    "address": "1430 Freedom Blvd, Ste D, Watsonville, CA 95076",
+    "phone": "(831) 763-8400",
+    "type": "public",
+    "lat": 36.92775,
+    "lng": -121.764259,
+    "distance": 15.065109017084014
+  },
+  {
+    "name": "Dhmg Watsonville Family Practice",
+    "address": "575 Auto Center Dr, Watsonville, CA 95076",
+    "phone": "(831) 288-6537",
+    "type": "private",
+    "lat": 36.917446,
+    "lng": -121.766762,
+    "distance": 15.102864077826036
+  },
+  {
+    "name": "Clinica Familiar Costa Central",
+    "address": "1185 Freedom Blvd, Ste 1, Watsonville, CA 95076",
+    "phone": "(831) 786-9250",
+    "type": "private",
+    "lat": 36.923107,
+    "lng": -121.762123,
+    "distance": 15.252936573030528
+  },
+  {
+    "name": "Salud Para La Gente Clinic",
+    "address": "204 E Beach St, Watsonville, CA 95076",
+    "phone": "(831) 728-0222",
+    "type": "VFA",
+    "lat": 36.91222,
+    "lng": -121.753708,
+    "distance": 15.894677971352797
+  },
+  {
+    "name": "Csvs Pajro",
+    "address": "29 Bishop St Ste A, Royal Oaks, CA 95076",
+    "phone": "(831) 633-1514",
+    "type": "VFA",
+    "lat": 36.901543,
+    "lng": -121.749519,
+    "distance": 16.332400205050234
+  },
+  {
+    "name": "Salud Para La Gente",
+    "address": "250 Salinas Rd, Royal Oaks, CA 95076",
+    "phone": "(831) 728-0222",
+    "type": "fqhc",
+    "lat": 36.899689,
+    "lng": -121.748138,
+    "distance": 16.445173481117077
+  },
+  {
+    "name": "Marina Yam",
+    "address": "825 Pollard Rd, Ste 109, Los Gatos, CA 95032",
+    "phone": "(408) 376-3666",
+    "type": "private",
+    "lat": 37.262768,
+    "lng": -121.970322,
+    "distance": 20.15951358906309
+  },
+  {
+    "name": "Children's Recovery Center",
+    "address": "3777 S Bascom Ave, Campbell, CA 95008",
+    "phone": "(408) 558-3640",
+    "type": "private",
+    "lat": 37.259743,
+    "lng": -121.947601,
+    "distance": 20.199508919304296
+  },
+  {
+    "name": "Pediatric Subacute Center",
+    "address": "13425 Sousa Ln, Saratoga, CA 95070",
+    "phone": "(408) 340-1554",
+    "type": "private",
+    "lat": 37.27301,
+    "lng": -121.996117,
+    "distance": 20.67924181307555
+  },
+  {
+    "name": "Clinica De Salud-castroville",
+    "address": "10561 Merritt St, Castroville, CA 95012",
+    "phone": "(831) 633-1514",
+    "type": "VFA",
+    "lat": 36.767151,
+    "lng": -121.759422,
+    "distance": 20.75960279714316
+  },
+  {
+    "name": "Planned Parenthood- Blossom Hill",
+    "address": "5440 Thornwood Dr, Ste G, San Jose, CA 95123",
+    "phone": "(408) 574-1039",
+    "type": "public",
+    "lat": 37.25375,
+    "lng": -121.860443,
+    "distance": 21.42167575685906
+  },
+  {
+    "name": "Indian Health Center Of Scv",
+    "address": "1333 Meridian Ave, San Jose, CA 95125",
+    "phone": "(408) 445-3400",
+    "type": "VFA",
+    "lat": 37.301651,
+    "lng": -121.914169,
+    "distance": 23.464268952506757
+  },
+  {
+    "name": "Acacia Family Medical Group",
+    "address": "8036 San Miguel Canyon Rd, Prunedale, CA 93907",
+    "phone": "(831) 663-0123",
+    "type": "private",
+    "lat": 36.800446,
+    "lng": -121.665077,
+    "distance": 23.527447377811068
+  },
+  {
+    "name": "Dr Indira Vemuri",
+    "address": "15585 Monterey St, Ste A, Morgan Hill, CA 95037",
+    "phone": "(408) 776-9560",
+    "type": "private",
+    "lat": 37.108521,
+    "lng": -121.63736,
+    "distance": 23.569276701388073
+  },
+  {
+    "name": "Geetha B Thippeswamy",
+    "address": "10430 S De Anza Blvd, Ste 130, Cupertino, CA 95014",
+    "phone": "(408) 865-1015",
+    "type": "private",
+    "lat": 37.317139,
+    "lng": -122.031158,
+    "distance": 23.640975999717437
+  },
+  {
+    "name": "Scvmc-family Baby Unit",
+    "address": "871 Enborg Ct, Unit 200, San Jose, CA 95128",
+    "phone": "(408) 885-2395",
+    "type": "public",
+    "lat": 37.311474,
+    "lng": -121.934296,
+    "distance": 23.846953687857336
+  },
+  {
+    "name": "Scvmc-nicu",
+    "address": "871 Enborg Ct, Unit 200, San Jose, CA 95128",
+    "phone": "(408) 793-6528",
+    "type": "public",
+    "lat": 37.31142,
+    "lng": -121.933846,
+    "distance": 23.848884298741467
+  },
+  {
+    "name": "Monterey County Health Ctr--marina",
+    "address": "3155 De Forest Rd, Marina, CA 93933",
+    "phone": "(831) 883-7558",
+    "type": "public",
+    "lat": 36.685211,
+    "lng": -121.793457,
+    "distance": 23.936740458764234
+  },
+  {
+    "name": "Vhc Bascom Pediatrics",
+    "address": "750 S Bascom Ave, Ste 230, San Jose, CA 95128",
+    "phone": "(408) 793-6528",
+    "type": "fqhc",
+    "lat": 37.314045,
+    "lng": -121.931763,
+    "distance": 24.051365479257775
+  },
+  {
+    "name": "Aaci Health Clinic",
+    "address": "2400 Moorpark Ave, Ste 319, San Jose, CA 95128",
+    "phone": "(408) 975-2763",
+    "type": "VFA",
+    "lat": 37.315708,
+    "lng": -121.937103,
+    "distance": 24.098742732352452
+  },
+  {
+    "name": "Joseph C Barbara",
+    "address": "7880 Wren Ave, Ste C133, Gilroy, CA 95020",
+    "phone": "(408) 842-0278",
+    "type": "private",
+    "lat": 37.00985,
+    "lng": -121.58577,
+    "distance": 24.667659311125387
+  },
+  {
+    "name": "Fareeda Adeeb",
+    "address": "275 Oconnor Dr Ste B, San Jose, CA 95128",
+    "phone": "(408) 279-8798",
+    "type": "private",
+    "lat": 37.32542,
+    "lng": -121.940178,
+    "distance": 24.72001050482161
+  },
+  {
+    "name": "Nayyara  Dawood Md Pediatrics",
+    "address": "275 Oconnor Dr, Ste C, San Jose, CA 95128",
+    "phone": "(408) 279-8786",
+    "type": "private",
+    "lat": 37.32542,
+    "lng": -121.940178,
+    "distance": 24.72001050482161
+  },
+  {
+    "name": "Gilroy Neighborhood Clinic  Svjh",
+    "address": "9300 Wren Ave, Gilroy, CA 95020",
+    "phone": "(408) 842-1017",
+    "type": "public",
+    "lat": 37.030708,
+    "lng": -121.586945,
+    "distance": 24.782412294347772
+  },
+  {
+    "name": "Family Health Center",
+    "address": "455 Oconnor Dr, Ste 200, San Jose, CA 95128",
+    "phone": "(408) 445-3400",
+    "type": "VFA",
+    "lat": 37.326542,
+    "lng": -121.940239,
+    "distance": 24.79523870252621
+  },
+  {
+    "name": "Sima Stein",
+    "address": "105 N Bascom Ave, Ste 102, San Jose, CA 95128",
+    "phone": "(408) 292-0100",
+    "type": "private",
+    "lat": 37.325829,
+    "lng": -121.932373,
+    "distance": 24.83770044948075
+  },
+  {
+    "name": "Riverside Mission Pediatrics",
+    "address": "6926 Brockton Ave, Ste 6, Riverside, CA 92506",
+    "phone": "(951) 779-1670",
+    "type": "private",
+    "lat": 33.947861,
+    "lng": -117.396141,
+    "distance": 0.37585645620404357
+  },
+  {
+    "name": "Pediatric Medical Group Of Riversid",
+    "address": "6950 Brockton Ave, Ste 5, Riverside, CA 92506",
+    "phone": "(951) 686-3636",
+    "type": "private",
+    "lat": 33.947399,
+    "lng": -117.396141,
+    "distance": 0.4077492168631751
+  },
+  {
+    "name": "Fqhc Central Neighborhood Hlth Foun",
+    "address": "3750 Arlington Ave, Riverside, CA 92506",
+    "phone": "(951) 774-3050",
+    "type": "VFA",
+    "lat": 33.946091,
+    "lng": -117.398842,
+    "distance": 0.5206524166335612
+  },
+  {
+    "name": "Iecmg Inc",
+    "address": "7101 Magnolia Ave Ste A, Riverside, CA 92504",
+    "phone": "(951) 682-9780",
+    "type": "private",
+    "lat": 33.945969,
+    "lng": -117.402298,
+    "distance": 0.6154608469345425
+  },
+  {
+    "name": "Riverside Medical Clinic",
+    "address": "7117 Brockton Ave, Riverside, CA 92506",
+    "phone": "(951) 782-3875",
+    "type": "private",
+    "lat": 33.943069,
+    "lng": -117.395981,
+    "distance": 0.7070173624937302
+  },
+  {
+    "name": "Tiny Treasures Pediatrics",
+    "address": "7392 Magnolia Ave, Riverside, CA 92504",
+    "phone": "(951) 352-3330",
+    "type": "private",
+    "lat": 33.942245,
+    "lng": -117.407082,
+    "distance": 0.9861498353356273
+  },
+  {
+    "name": "Riverside Neighborhood Health",
+    "address": "7140 Indiana Ave, Riverside, CA 92504",
+    "phone": "(951) 358-6000",
+    "type": "VFA",
+    "lat": 33.938908,
+    "lng": -117.397736,
+    "distance": 0.9983662864049441
+  },
+  {
+    "name": "Metropolitan Clinic",
+    "address": "4990 Arlington Ave, Ste D, Riverside, CA 92504",
+    "phone": "(951) 785-9011",
+    "type": "private",
+    "lat": 33.94556,
+    "lng": -117.411621,
+    "distance": 1.0331019750835333
+  },
+  {
+    "name": "Stanley H Schwartz, Md Inc",
+    "address": "7724 California Ave, Riverside, CA 92504",
+    "phone": "(951) 977-8580",
+    "type": "private",
+    "lat": 33.945309,
+    "lng": -117.41774,
+    "distance": 1.3524904135887437
+  },
+  {
+    "name": "Mario Carcamo",
+    "address": "4440 Brockton Ave, Ste 420, Riverside, CA 92501",
+    "phone": "(951) 684-8020",
+    "type": "private",
+    "lat": 33.977459,
+    "lng": -117.383667,
+    "distance": 1.8172823508043874
+  },
+  {
+    "name": "Sal A Baqai",
+    "address": "4440 Brockton Ave, Ste 430, Riverside, CA 92501",
+    "phone": "(951) 683-5380",
+    "type": "private",
+    "lat": 33.977459,
+    "lng": -117.383667,
+    "distance": 1.8172823508043874
+  },
+  {
+    "name": "Riverside Unified School District",
+    "address": "5700 Arlington Ave, Riverside, CA 92504",
+    "phone": "(951) 274-4213",
+    "type": "public",
+    "lat": 33.945549,
+    "lng": -117.427231,
+    "distance": 1.857528550171536
+  },
+  {
+    "name": "Vien Doan",
+    "address": "4343 Market St, Ste D, Riverside, CA 92501",
+    "phone": "(951) 784-7406",
+    "type": "private",
+    "lat": 33.977558,
+    "lng": -117.379562,
+    "distance": 1.9283856292850796
+  },
+  {
+    "name": "Ucr Health",
+    "address": "3390 University Ave Ste 100, Riverside, CA 92501",
+    "phone": "(844) 827-8000",
+    "type": "private",
+    "lat": 33.979591,
+    "lng": -117.371101,
+    "distance": 2.3171279682695967
+  },
+  {
+    "name": "University Community Health Center",
+    "address": "2933 University Ave, Riverside, CA 92507",
+    "phone": "(951) 224-8220",
+    "type": "VFA",
+    "lat": 33.977669,
+    "lng": -117.364967,
+    "distance": 2.457418442501821
+  },
+  {
+    "name": "Don Schroederrubidoux Family Care",
+    "address": "5256 Mission Blvd, Riverside, CA 92509",
+    "phone": "(951) 955-5310",
+    "type": "VFA",
+    "lat": 33.992561,
+    "lng": -117.39888,
+    "distance": 2.7172070707530636
+  },
+  {
+    "name": "Neighborhood Healthcare - Eastside",
+    "address": "1971 University Ave Bldg B, Riverside, CA 92507",
+    "phone": "(833) 867-4642",
+    "type": "VFA",
+    "lat": 33.975891,
+    "lng": -117.354469,
+    "distance": 2.8558802622198014
+  },
+  {
+    "name": "Inland Pediatrics, Inc",
+    "address": "3838 Sherman Dr, Ste 7, Riverside, CA 92503",
+    "phone": "(951) 688-0361",
+    "type": "private",
+    "lat": 33.926708,
+    "lng": -117.436913,
+    "distance": 2.970347349119581
+  },
+  {
+    "name": "Arlington Prescription Pharmacy",
+    "address": "8990 Garfield St, Ste 12 Riverside, CA 92503",
+    "phone": "(951) 688-5232",
+    "type": "private",
+    "lat": 33.928627,
+    "lng": -117.439476,
+    "distance": 3.0100984268620854
+  },
+  {
+    "name": "Valentine Medical Clinic",
+    "address": "8990 Garfield St, Ste 6, Riverside, CA 92503",
+    "phone": "(951) 343-1616",
+    "type": "private",
+    "lat": 33.928619,
+    "lng": -117.439522,
+    "distance": 3.0125599226710205
+  },
+  {
+    "name": "Aruna Pallapati, Md Inc",
+    "address": "8990 Garfield St, Ste 11, Riverside, CA 92503",
+    "phone": "(951) 665-8815",
+    "type": "private",
+    "lat": 33.928619,
+    "lng": -117.439522,
+    "distance": 3.0125599226710205
+  },
+  {
+    "name": "Mommy  Me Medical Group, Inc",
+    "address": "4190 Chicago Ave, Riverside, CA 92507",
+    "phone": "(951) 683-2106",
+    "type": "private",
+    "lat": 33.972172,
+    "lng": -117.347862,
+    "distance": 3.0617821458759913
+  },
+  {
+    "name": "Aspen Medical Group",
+    "address": "9041 Magnolia Ave, Ste 305, Riverside, CA 92503",
+    "phone": "(951) 343-3481",
+    "type": "private",
+    "lat": 33.92593,
+    "lng": -117.438293,
+    "distance": 3.0658239956732776
+  },
+  {
+    "name": "The Childrens Doctor Professional C",
+    "address": "3975 Jackson St, Ste 207, Riverside, CA 92503",
+    "phone": "(951) 352-2092",
+    "type": "private",
+    "lat": 33.927631,
+    "lng": -117.440842,
+    "distance": 3.1136184682996038
+  },
+  {
+    "name": "Rpp Family And Eldercare,inc",
+    "address": "3975 Jackson St, Ste 203, Riverside, CA 92503",
+    "phone": "(951) 689-6889",
+    "type": "private",
+    "lat": 33.927631,
+    "lng": -117.440842,
+    "distance": 3.1136184682996038
+  },
+  {
+    "name": "Chulhwe Koo",
+    "address": "3975 Jackson St, Ste 305, Riverside, CA 92503",
+    "phone": "(951) 352-5070",
+    "type": "private",
+    "lat": 33.927631,
+    "lng": -117.440842,
+    "distance": 3.1136184682996038
+  },
+  {
+    "name": "Chicago Clinica Medica Familiar",
+    "address": "4022 Chicago Ave, Riverside, CA 92507",
+    "phone": "(855) 505-7467",
+    "type": "private",
+    "lat": 33.974064,
+    "lng": -117.347305,
+    "distance": 3.1480555422600873
+  },
+  {
+    "name": "Ucr Health Hulen Place",
+    "address": "2880 Hulen Pl, Riverside, CA 92507",
+    "phone": "(844) 827-8000",
+    "type": "private",
+    "lat": 33.986946,
+    "lng": -117.353516,
+    "distance": 3.3746070097357026
+  },
+  {
+    "name": "Unicare Comm Health Center Riversid",
+    "address": "5549 Van Buren Blvd, Riverside, CA 92503",
+    "phone": "(951) 324-5901",
+    "type": "VFA",
+    "lat": 33.939461,
+    "lng": -117.453278,
+    "distance": 3.408607155818604
+  },
+  {
+    "name": "Magnolia Community Health Center",
+    "address": "9380 Magnolia Ave, Riverside, CA 92503",
+    "phone": "(951) 373-5620",
+    "type": "VFA",
+    "lat": 33.921108,
+    "lng": -117.444069,
+    "distance": 3.532465252740292
+  },
+  {
+    "name": "Arlington Clinica Medica Familiar",
+    "address": "8151 Arlington Ave Ste U-v, Riverside, CA 92503",
+    "phone": "(951) 688-3001",
+    "type": "private",
+    "lat": 33.946529,
+    "lng": -117.459824,
+    "distance": 3.6766795103650196
+  },
+  {
+    "name": "Neighborhood Healthcare Arlanza",
+    "address": "8856 Arlington Ave, Riverside, CA 92503",
+    "phone": "(833) 867-4642",
+    "type": "VFA",
+    "lat": 33.946079,
+    "lng": -117.46743,
+    "distance": 4.113169279024388
+  },
+  {
+    "name": "Javierriosincdba Magnoliaclinicamed",
+    "address": "9939 Magnolia Ave, Riverside, CA 92503",
+    "phone": "(855) 505-7467",
+    "type": "private",
+    "lat": 33.915428,
+    "lng": -117.455498,
+    "distance": 4.290019698567355
+  },
+  {
+    "name": "Bolivar Family Medical Clinic",
+    "address": "10327 Hole Ave, Riverside, CA 92505",
+    "phone": "(951) 351-1600",
+    "type": "private",
+    "lat": 33.915688,
+    "lng": -117.465576,
+    "distance": 4.751091974554365
+  },
+  {
+    "name": "Centro Medico Community Clinic, Inc",
+    "address": "10368 Arlington Ave, Riverside, CA 92505",
+    "phone": "(951) 509-5975",
+    "type": "fqhc",
+    "lat": 33.94648,
+    "lng": -117.479691,
+    "distance": 4.8086813202124485
+  },
+  {
+    "name": "La Sierra Clinica Familiar Medical",
+    "address": "10600 Magnolia Ave, Ste I, Riverside, CA 92505",
+    "phone": "(951) 324-8100",
+    "type": "private",
+    "lat": 33.90786,
+    "lng": -117.467522,
+    "distance": 5.155385336664169
+  },
+  {
+    "name": "Silver Oaks",
+    "address": "19330 Jesse Ln, Ste 100, Riverside, CA 92508",
+    "phone": "(844) 827-8000",
+    "type": "private",
+    "lat": 33.905727,
+    "lng": -117.326309,
+    "distance": 5.182783363916171
+  },
+  {
+    "name": "Kaiser Permanente-riverside",
+    "address": "10800 Magnolia Ave, Riverside, CA 92505",
+    "phone": "(951) 353-5804",
+    "type": "private",
+    "lat": 33.904957,
+    "lng": -117.469391,
+    "distance": 5.363424051147566
+  },
+  {
+    "name": "Jurupa Health Center",
+    "address": "8876 Mission Blvd, Riverside, CA 92509",
+    "phone": "(951) 360-8795",
+    "type": "VFA",
+    "lat": 34.01123,
+    "lng": -117.477058,
+    "distance": 6.122630889656682
+  },
+  {
+    "name": "All Kids Health",
+    "address": "4199 Flat Rock Dr, # 147, Riverside, CA 92505",
+    "phone": "(951) 790-6209",
+    "type": "public",
+    "lat": 33.904316,
+    "lng": -117.492615,
+    "distance": 6.481624585999677
+  },
+  {
+    "name": "Orangecrest Medical Clinic",
+    "address": "14200 Meridian Pkwy Ste 101, Riverside, CA 92518",
+    "phone": "(951) 653-0655",
+    "type": "private",
+    "lat": 33.911877,
+    "lng": -117.289543,
+    "distance": 6.751381550062398
+  },
+  {
+    "name": "Riverside Medical Clinic",
+    "address": "6405 Day St, Riverside, CA 92507",
+    "phone": "(951) 697-5470",
+    "type": "private",
+    "lat": 33.934071,
+    "lng": -117.280067,
+    "distance": 6.7883082214014685
+  },
+  {
+    "name": "Rosemarie Tweed, Do Apc",
+    "address": "6485 Day St, Ste 103, Riverside, CA 92507",
+    "phone": "(951) 653-1683",
+    "type": "private",
+    "lat": 33.932079,
+    "lng": -117.279449,
+    "distance": 6.8512508960516465
+  },
+  {
+    "name": "Rogelio Drenning-manrriquez",
+    "address": "6485 Day St, Ste 201, Riverside, CA 92507",
+    "phone": "(951) 697-4549",
+    "type": "private",
+    "lat": 33.932079,
+    "lng": -117.279449,
+    "distance": 6.8512508960516465
+  },
+  {
+    "name": "James S Ruppert",
+    "address": "6485 Day St, Ste 206, Riverside, CA 92507",
+    "phone": "(951) 697-7823",
+    "type": "private",
+    "lat": 33.932079,
+    "lng": -117.279449,
+    "distance": 6.8512508960516465
+  },
+  {
+    "name": "San Manuel Indian Health Clinic",
+    "address": "11980 Mount Vernon Ave, Grand Terrace, CA 92313",
+    "phone": "(909) 864-1097",
+    "type": "public",
+    "lat": 34.036388,
+    "lng": -117.31498,
+    "distance": 7.389955413154222
+  },
+  {
+    "name": "Rosemarie Tweed",
+    "address": "14114 Business Center Dr, Ste A, Moreno Valley, CA 92553",
+    "phone": "(951) 697-4133",
+    "type": "private",
+    "lat": 33.914711,
+    "lng": -117.271896,
+    "distance": 7.608706766739248
+  },
+  {
+    "name": "Condry",
+    "address": "14114 Business Center Dr, Ste B, Moreno Valley, CA 92553",
+    "phone": "(951) 697-5777",
+    "type": "private",
+    "lat": 33.914711,
+    "lng": -117.271896,
+    "distance": 7.608706766739248
+  },
+  {
+    "name": "Moreno Valley Fam Hlth Ctr",
+    "address": "22675 Alessandro Blvd, Moreno Valley, CA 92553",
+    "phone": "(951) 571-2350",
+    "type": "VFA",
+    "lat": 33.91592,
+    "lng": -117.267227,
+    "distance": 7.831970424181527
+  },
+  {
+    "name": "Qazi Med Group Inc",
+    "address": "12980 Frederick St, Ste C, Moreno Valley, CA 92553",
+    "phone": "(951) 582-2704",
+    "type": "private",
+    "lat": 33.931969,
+    "lng": -117.260712,
+    "distance": 7.905242001486585
+  },
+  {
+    "name": "Ucla Childrens Health Center",
+    "address": "200 Ucla Medical Plz, Ste 265, Los Angeles, CA 90095",
+    "phone": "(310) 825-4589",
+    "type": "private",
+    "lat": 34.065277,
+    "lng": -118.446266,
+    "distance": 0.25766497278876005
+  },
+  {
+    "name": "Integrated Healthcare Medical Group",
+    "address": "1762 Westwood Blvd, Ste 110, Los Angeles, CA 90024",
+    "phone": "(310) 441-2000",
+    "type": "private",
+    "lat": 34.050751,
+    "lng": -118.437401,
+    "distance": 1.3311713237502485
+  },
+  {
+    "name": "Kids And Teens Medical Group",
+    "address": "3200 Santa Monica Blvd, Ste 204 Santa Monica, CA 90404",
+    "phone": "(310) 829-3311",
+    "type": "private",
+    "lat": 34.037868,
+    "lng": -118.468208,
+    "distance": 2.516464230365649
+  },
+  {
+    "name": "California Kids Pediatrics",
+    "address": "2990 S Sepulveda Blvd Ste 202, Los Angeles, CA 90064",
+    "phone": "(424) 277-2020",
+    "type": "private",
+    "lat": 34.027721,
+    "lng": -118.428497,
+    "distance": 3.0017331508122482
+  },
+  {
+    "name": "Coral Clinics - Santa Monica",
+    "address": "2222 Santa Monica Blvd, Ste 301, Santa Monica, CA 90404",
+    "phone": "(310) 449-0093",
+    "type": "private",
+    "lat": 34.030388,
+    "lng": -118.477577,
+    "distance": 3.2430477578889745
+  },
+  {
+    "name": "Venice Fam Clinic- Simmsmann Healt",
+    "address": "2509 Pico Blvd, Fl 2, Santa Monica, CA 90405",
+    "phone": "(310) 664-7844",
+    "type": "VFA",
+    "lat": 34.023331,
+    "lng": -118.463371,
+    "distance": 3.3161513798498876
+  },
+  {
+    "name": "Brenda G Bass, Md",
+    "address": "9201 W Sunset Blvd, Ste 408, Los Angeles, CA 90069",
+    "phone": "(310) 273-7401",
+    "type": "private",
+    "lat": 34.09087,
+    "lng": -118.392502,
+    "distance": 3.376456474281494
+  },
+  {
+    "name": "Ucla Family Health Center",
+    "address": "1920 Colorado Ave, Fl 2, Santa Monica, CA 90404",
+    "phone": "(310) 319-4700",
+    "type": "private",
+    "lat": 34.025227,
+    "lng": -118.47683,
+    "distance": 3.5193680356267354
+  },
+  {
+    "name": "Kids  Teens Med Group J De Silva",
+    "address": "8733 Beverly Blvd, Ste 200 West Hollywood, CA 90048",
+    "phone": "(818) 361-5437",
+    "type": "private",
+    "lat": 34.077106,
+    "lng": -118.381599,
+    "distance": 3.684093458104813
+  },
+  {
+    "name": "Rahul Grover Inc",
+    "address": "8673 W Pico Blvd, Los Angeles, CA 90035",
+    "phone": "(310) 652-3981",
+    "type": "private",
+    "lat": 34.05447,
+    "lng": -118.381027,
+    "distance": 3.806345931754807
+  },
+  {
+    "name": "Complete Care Community Health Ctr",
+    "address": "3831 Hughes Ave Ste 601, Culver City, CA 90232",
+    "phone": "(310) 945-4921",
+    "type": "fqhc",
+    "lat": 34.022308,
+    "lng": -118.398354,
+    "distance": 4.190247969777341
+  },
+  {
+    "name": "Kids And Teens Medical Group",
+    "address": "3831 Hughes Ave, Ste 502, Culver City, CA 90232",
+    "phone": "(818) 361-5437",
+    "type": "private",
+    "lat": 34.022312,
+    "lng": -118.398346,
+    "distance": 4.190325045968931
+  },
+  {
+    "name": "United Care Family Medical Center",
+    "address": "1835 S La Cienega Blvd, Ste 205, Los Angeles, CA 90035",
+    "phone": "(310) 836-2273",
+    "type": "private",
+    "lat": 34.043381,
+    "lng": -118.376617,
+    "distance": 4.303917666731153
+  },
+  {
+    "name": "Coach For Kids",
+    "address": "6500 Wilshire Blvd, Ste 1150cfk, Los Angeles, CA 90048",
+    "phone": "(888) 926-2249",
+    "type": "public",
+    "lat": 34.063648,
+    "lng": -118.370163,
+    "distance": 4.310404484586342
+  },
+  {
+    "name": "Westside Family Health Center",
+    "address": "3861 Sepulveda Blvd, Culver City, CA 90230",
+    "phone": "(310) 450-4773",
+    "type": "VFA",
+    "lat": 34.011211,
+    "lng": -118.416252,
+    "distance": 4.317010786804872
+  },
+  {
+    "name": "David H Keene Pediatrics",
+    "address": "6330 San Vicente Blvd, Ste 305, Los Angeles, CA 90048",
+    "phone": "(323) 525-0330",
+    "type": "private",
+    "lat": 34.060871,
+    "lng": -118.36821,
+    "distance": 4.441752626164776
+  },
+  {
+    "name": "Kaiser  Permanente-west Los Angeles",
+    "address": "6041 Cadillac Ave, Los Angeles, CA 90034",
+    "phone": "(323) 648-1255",
+    "type": "private",
+    "lat": 34.038681,
+    "lng": -118.375153,
+    "distance": 4.521149017341359
+  },
+  {
+    "name": "Kids And Teens Mg - Sm Lincoln",
+    "address": "2221 Lincoln Blvd, Ste 200, Santa Monica, CA 90405",
+    "phone": "(818) 361-5437",
+    "type": "private",
+    "lat": 34.00993,
+    "lng": -118.47963,
+    "distance": 4.526534467737018
+  },
+  {
+    "name": "Benjamin Behroozan",
+    "address": "2221 Lincoln Blvd, Ste 200, Santa Monica, CA 90405",
+    "phone": "(310) 396-9999",
+    "type": "private",
+    "lat": 34.009918,
+    "lng": -118.479607,
+    "distance": 4.526675857920358
+  },
+  {
+    "name": "Lausd-mark Twain Middle School",
+    "address": "2224 Walgrove Ave, Los Angeles, CA 90066",
+    "phone": "(323) 270-1133",
+    "type": "public",
+    "lat": 34.00111,
+    "lng": -118.445801,
+    "distance": 4.684246302704267
+  },
+  {
+    "name": "Yussef Sakhai",
+    "address": "5797 Washington Blvd, Culver City, CA 90232",
+    "phone": "(323) 653-3500",
+    "type": "private",
+    "lat": 34.034081,
+    "lng": -118.371269,
+    "distance": 4.86854899149345
+  },
+  {
+    "name": "Svetlana Kruglyakov Md Inc",
+    "address": "5901 W Olympic Blvd, Ste 503b, Los Angeles, CA 90036",
+    "phone": "(323) 456-0500",
+    "type": "private",
+    "lat": 34.057892,
+    "lng": -118.360199,
+    "distance": 4.924699660140191
+  },
+  {
+    "name": "Venice Family Clinic",
+    "address": "604 Rose Ave, Venice, CA 90291",
+    "phone": "(310) 664-7637",
+    "type": "VFA",
+    "lat": 33.999001,
+    "lng": -118.471642,
+    "distance": 5.061642390163201
+  },
+  {
+    "name": "Vfc Robert Levine",
+    "address": "905 Venice Blvd, Venice, CA 90291",
+    "phone": "(310) 664-7979",
+    "type": "VFA",
+    "lat": 33.993591,
+    "lng": -118.45433,
+    "distance": 5.229849130481057
+  },
+  {
+    "name": "Colen Family Health Center",
+    "address": "4700 Inglewood Blvd, Ste 102, Los Angeles, CA 90230",
+    "phone": "(310) 664-7785",
+    "type": "VFA",
+    "lat": 33.99371,
+    "lng": -118.414658,
+    "distance": 5.481956894362801
+  },
+  {
+    "name": "Janeo, Llc Dba Elements Pharmacy",
+    "address": "12602 Ventura Blvd, Studio City, CA 91604",
+    "phone": "(818) 305-6024",
+    "type": "private",
+    "lat": 34.143345,
+    "lng": -118.408035,
+    "distance": 5.566101327654134
+  },
+  {
+    "name": "Eisner Health So",
+    "address": "15477 Ventura Blvd, Ste 300, Sherman Oaks, CA 91403",
+    "phone": "(818) 907-0322",
+    "type": "fqhc",
+    "lat": 34.15509,
+    "lng": -118.471069,
+    "distance": 6.136674039637272
+  },
+  {
+    "name": "The Clinic,inc  Labrea",
+    "address": "3721 S La Brea Ave, Los Angeles, CA 90016",
+    "phone": "(323) 730-1920",
+    "type": "VFA",
+    "lat": 34.019707,
+    "lng": -118.355652,
+    "distance": 6.151479080720711
+  },
+  {
+    "name": "Yousef Mehrabi Md",
+    "address": "16030 Ventura Blvd Ste 140, Encino, CA 91436",
+    "phone": "(818) 609-9997",
+    "type": "private",
+    "lat": 34.15572,
+    "lng": -118.482452,
+    "distance": 6.3663383301511045
+  },
+  {
+    "name": "Hollywood Hs Wellness Center",
+    "address": "1521 N Highland Ave, Los Angeles, CA 90028",
+    "phone": "(323) 993-2355",
+    "type": "public",
+    "lat": 34.099178,
+    "lng": -118.340057,
+    "distance": 6.370426650797818
+  },
+  {
+    "name": "Jila Dayani",
+    "address": "12626 Riverside Dr, Ste 101, Valley Village, CA 91607",
+    "phone": "(818) 766-7640",
+    "type": "private",
+    "lat": 34.15723,
+    "lng": -118.408112,
+    "distance": 6.461698395927872
+  },
+  {
+    "name": "The Achievable Foundation",
+    "address": "5901 Green Valley Cir, Ste 405, Culver City, CA 90230",
+    "phone": "(424) 266-7474",
+    "type": "public",
+    "lat": 33.984581,
+    "lng": -118.391899,
+    "distance": 6.577379745224785
+  },
+  {
+    "name": "Tajav Toomari",
+    "address": "16661 Ventura Blvd, Ste 504, Encino, CA 91436",
+    "phone": "(818) 205-1666",
+    "type": "private",
+    "lat": 34.158661,
+    "lng": -118.496323,
+    "distance": 6.8572116043973566
+  },
+  {
+    "name": "St Anthony Med Ctr-hollywood Cl",
+    "address": "6368 Hollywood Blvd, Hollywood, CA 90028",
+    "phone": "(323) 469-5555",
+    "type": "VFA",
+    "lat": 34.101334,
+    "lng": -118.328964,
+    "distance": 7.019206884785311
+  },
+  {
+    "name": "Crenshaw Community Clinic",
+    "address": "3631 Crenshaw Blvd, Ste 109, Los Angeles, CA 90016",
+    "phone": "(323) 732-0100",
+    "type": "VFA",
+    "lat": 34.023109,
+    "lng": -118.335487,
+    "distance": 7.033300929510474
+  },
+  {
+    "name": "Milk And Honey Pediatrics",
+    "address": "17200 Ventura Blvd, Ste 212 Encino, CA 91316",
+    "phone": "(818) 208-2626",
+    "type": "private",
+    "lat": 34.159855,
+    "lng": -118.507706,
+    "distance": 7.23079747774622
+  },
+  {
+    "name": "Central Medical Clinic",
+    "address": "3533 W Pico Blvd, Los Angeles, CA 90019",
+    "phone": "(323) 734-1600",
+    "type": "VFA",
+    "lat": 34.047379,
+    "lng": -118.319702,
+    "distance": 7.336450789417649
+  },
+  {
+    "name": "St Luke Medical Clinic",
+    "address": "5912 Santa Monica Blvd, Los Angeles, CA 90038",
+    "phone": "(323) 461-3888",
+    "type": "private",
+    "lat": 34.090706,
+    "lng": -118.318161,
+    "distance": 7.425005172364779
+  },
+  {
+    "name": "Hollywood-wilshire Health Center",
+    "address": "5205 Melrose Ave, Rm 109, Los Angeles, CA 90038",
+    "phone": "(323) 769-7800",
+    "type": "public",
+    "lat": 34.083767,
+    "lng": -118.314262,
+    "distance": 7.564028507547182
+  },
+  {
+    "name": "Los Angeles Free Clinic Dba The Sab",
+    "address": "5205 Melrose Ave, Los Angeles, CA 90038",
+    "phone": "(323) 653-1990",
+    "type": "fqhc",
+    "lat": 34.08392,
+    "lng": -118.314102,
+    "distance": 7.574544055045572
+  },
+  {
+    "name": "Rahul Grover Md",
+    "address": "5400 Balboa Blvd Ste 210, Encino, CA 91316",
+    "phone": "(818) 501-7111",
+    "type": "private",
+    "lat": 34.169296,
+    "lng": -118.500549,
+    "distance": 7.625532966727278
+  },
+  {
+    "name": "St Johns Well Child And Fam Center",
+    "address": "4251 Crenshaw Blvd, Los Angeles, CA 90008",
+    "phone": "(323) 541-1640",
+    "type": "VFA",
+    "lat": 34.00671,
+    "lng": -118.335037,
+    "distance": 7.632440627513645
+  },
+  {
+    "name": "North Hollywood Health Center",
+    "address": "5300 Tujunga Ave, North Hollywood, CA 91601",
+    "phone": "(747) 256-3130",
+    "type": "public",
+    "lat": 34.16729,
+    "lng": -118.378387,
+    "distance": 7.799175343126229
+  },
+  {
+    "name": "Clinica Western",
+    "address": "875 N Western Ave, Los Angeles, CA 90029",
+    "phone": "(323) 461-0777",
+    "type": "private",
+    "lat": 34.086128,
+    "lng": -118.309532,
+    "distance": 7.855289385362681
+  },
+  {
+    "name": "St John Urgent Care",
+    "address": "1119 N Western Ave, Ste G, Los Angeles, CA 90029",
+    "phone": "(323) 957-9300",
+    "type": "private",
+    "lat": 34.09153,
+    "lng": -118.309578,
+    "distance": 7.917637595012242
+  },
+  {
+    "name": "Ardmore Medical Group, Inc",
+    "address": "3518 W 8th St, Los Angeles, CA 90005",
+    "phone": "(213) 384-9949",
+    "type": "private",
+    "lat": 34.057636,
+    "lng": -118.307091,
+    "distance": 7.943838660258319
+  },
+  {
+    "name": "San Judas Community Health Center",
+    "address": "1080 N Western Ave, Los Angeles, CA 90029",
+    "phone": "(323) 957-8787",
+    "type": "fqhc",
+    "lat": 34.090271,
+    "lng": -118.308731,
+    "distance": 7.948593644733366
+  },
+  {
+    "name": "Hollywood Cross Med Clinic, Inc",
+    "address": "1110 N Western Ave, Ste 201, Los Angeles, CA 90029",
+    "phone": "(323) 463-6881",
+    "type": "private",
+    "lat": 34.09129,
+    "lng": -118.3088,
+    "distance": 7.958067804184871
+  },
+  {
+    "name": "Harold Valery",
+    "address": "1655 S Western Ave, Los Angeles, CA 90006",
+    "phone": "(323) 737-5200",
+    "type": "private",
+    "lat": 34.042759,
+    "lng": -118.309082,
+    "distance": 7.998931701669162
+  },
+  {
+    "name": "Janet Kim",
+    "address": "300 S Hobart Blvd, Ste 300, Los Angeles, CA 90020",
+    "phone": "(213) 388-7828",
+    "type": "private",
+    "lat": 34.068813,
+    "lng": -118.305069,
+    "distance": 8.020823985352855
+  },
+  {
+    "name": "Santa Clara County Health Dept",
+    "address": "976 Lenzen Ave, Ste 1400, San Jose, CA 95126",
+    "phone": "(408) 792-5170",
+    "type": "public",
+    "lat": 37.33429,
+    "lng": -121.911789,
+    "distance": 1.42616212151752
+  },
+  {
+    "name": "Planned Parenthood Mar Monte",
+    "address": "1691 The Alameda, San Jose, CA 95126",
+    "phone": "(408) 795-3675",
+    "type": "public",
+    "lat": 37.33699,
+    "lng": -121.919662,
+    "distance": 1.834766153078266
+  },
+  {
+    "name": "Ihc- Pediatric Clinic",
+    "address": "2039 Forest Ave, Ste 105, San Jose, CA 95128",
+    "phone": "(408) 947-2929",
+    "type": "public",
+    "lat": 37.3274,
+    "lng": -121.934181,
+    "distance": 2.73445225157667
+  },
+  {
+    "name": "Mina Sehhat",
+    "address": "2101 Forest Ave, Ste 104, San Jose, CA 95128",
+    "phone": "(408) 975-7680",
+    "type": "private",
+    "lat": 37.327095,
+    "lng": -121.936935,
+    "distance": 2.885864984524181
+  },
+  {
+    "name": "Farda Qureshi Md Inc",
+    "address": "2101 Forest Ave, Ste 117, San Jose, CA 95128",
+    "phone": "(408) 730-2200",
+    "type": "private",
+    "lat": 37.327095,
+    "lng": -121.936935,
+    "distance": 2.885864984524181
+  },
+  {
+    "name": "Redding Rancheria Tribal Health",
+    "address": "1441 Liberty St, Redding, CA 96001",
+    "phone": "(530) 226-1726",
+    "type": "public",
+    "lat": 40.585911,
+    "lng": -122.386597,
+    "distance": 0.27087193594090464
+  },
+  {
+    "name": "Schc Fellowship",
+    "address": "1035 Placer St, Redding, CA 96001",
+    "phone": "(530) 646-3959",
+    "type": "fqhc",
+    "lat": 40.582821,
+    "lng": -122.385391,
+    "distance": 0.41740361674705806
+  },
+  {
+    "name": "Schc Peds",
+    "address": "1035 Placer St, Redding, CA 96001",
+    "phone": "(530) 646-3959",
+    "type": "fqhc",
+    "lat": 40.582821,
+    "lng": -122.385391,
+    "distance": 0.41740361674705806
+  },
+  {
+    "name": "Schc Family Practice",
+    "address": "1035 Placer St, Redding, CA 96001",
+    "phone": "(530) 646-3959",
+    "type": "fqhc",
+    "lat": 40.582821,
+    "lng": -122.385391,
+    "distance": 0.41740361674705806
+  },
+  {
+    "name": "Schc Urgent Care",
+    "address": "1035 Placer St, Redding, CA 96001",
+    "phone": "(530) 646-3959",
+    "type": "fqhc",
+    "lat": 40.582821,
+    "lng": -122.385391,
+    "distance": 0.41740361674705806
+  },
+  {
+    "name": "Schc Residency",
+    "address": "1035 Placer St, Redding, CA 96001",
+    "phone": "(530) 646-3959",
+    "type": "fqhc",
+    "lat": 40.582821,
+    "lng": -122.385391,
+    "distance": 0.41740361674705806
+  },
+  {
+    "name": "Mercy Family Health Center",
+    "address": "2480 Sonoma St, Redding, CA 96001",
+    "phone": "(530) 225-7836",
+    "type": "public",
+    "lat": 40.5737,
+    "lng": -122.404091,
+    "distance": 1.0977716086642808
+  },
+  {
+    "name": "Shasta Countyhhsapublic Health Br",
+    "address": "2650 Breslauer Way, Redding, CA 96001",
+    "phone": "(530) 229-8463",
+    "type": "public",
+    "lat": 40.550838,
+    "lng": -122.378349,
+    "distance": 2.5618303198413948
+  },
+  {
+    "name": "Churn Creek Healthcare",
+    "address": "3184 Churn Creek Rd, Redding, CA 96002",
+    "phone": "(530) 768-2436",
+    "type": "public",
+    "lat": 40.56142,
+    "lng": -122.353737,
+    "distance": 2.640642039656301
+  },
+  {
+    "name": "Schc Enterprise",
+    "address": "3270 Churn Creek Rd, Redding, CA 96002",
+    "phone": "(530) 229-5114",
+    "type": "fqhc",
+    "lat": 40.56002,
+    "lng": -122.353546,
+    "distance": 2.712507932944416
+  },
+  {
+    "name": "Shasta Lake Family Health Center",
+    "address": "4215 Front St, Shasta Lake, CA 96019",
+    "phone": "(530) 646-3959",
+    "type": "fqhc",
+    "lat": 40.681114,
+    "lng": -122.370369,
+    "distance": 6.632609737776316
+  },
+  {
+    "name": "Anderson Family Health Center",
+    "address": "2965 East St, Anderson, CA 96007",
+    "phone": "(530) 246-5833",
+    "type": "fqhc",
+    "lat": 40.451839,
+    "lng": -122.298248,
+    "distance": 10.52015440471443
+  },
+  {
+    "name": "Andersonrx",
+    "address": "2940 East St, Anderson, CA 96007",
+    "phone": "(530) 378-5566",
+    "type": "private",
+    "lat": 40.450863,
+    "lng": -122.298294,
+    "distance": 10.578784496450043
+  },
+  {
+    "name": "Lassen Medical Clinic Cottonwood",
+    "address": "20833 Long Branch Dr, Cottonwood, CA 96022",
+    "phone": "(530) 347-3418",
+    "type": "private",
+    "lat": 40.393631,
+    "lng": -122.280167,
+    "distance": 14.558684279789489
+  },
+  {
+    "name": "Shingletown Medical Center Inc",
+    "address": "31292 Alpine Meadows Rd, Shingletown, CA 96088",
+    "phone": "(530) 474-3390",
+    "type": "fqhc",
+    "lat": 40.491669,
+    "lng": -121.88546,
+    "distance": 27.379104383468988
+  },
+  {
+    "name": "Redding Rancheria Trinity Healthctr",
+    "address": "81 Arbuckle Court, Weaverville, CA 96093",
+    "phone": "(530) 623-0021",
+    "type": "public",
+    "lat": 40.711479,
+    "lng": -122.926498,
+    "distance": 29.336766281171744
+  },
+  {
+    "name": "Tehama County Medical Outpatient Cl",
+    "address": "1850 Walnut St, Ste E, Red Bluff, CA 96080",
+    "phone": "(530) 527-0350",
+    "type": "fqhc",
+    "lat": 40.16906,
+    "lng": -122.254234,
+    "distance": 29.73785926409498
+  },
+  {
+    "name": "Tehama Co Public Hlth Department",
+    "address": "1860 Walnut St, Bldg C, Red Bluff, CA 96080",
+    "phone": "(530) 527-6824",
+    "type": "public",
+    "lat": 40.168972,
+    "lng": -122.254395,
+    "distance": 29.74169022419436
+  },
+  {
+    "name": "Trinity Community Health Clinic",
+    "address": "31 Easter Avenue, Weaverville, CA 96093",
+    "phone": "(530) 623-4186",
+    "type": "fqhc",
+    "lat": 40.737389,
+    "lng": -122.939941,
+    "distance": 30.569024730370213
+  },
+  {
+    "name": "Greenville Rancheria Tribal Hlth",
+    "address": "1425 Montgomery Rd, Red Bluff, CA 96080",
+    "phone": "(530) 528-8600",
+    "type": "public",
+    "lat": 40.157806,
+    "lng": -122.225571,
+    "distance": 30.885689669333267
+  },
+  {
+    "name": "Lassen Medical Clinic-red Bluff",
+    "address": "2450 Sister Mary Columba Dr, Red Bluff, CA 96080",
+    "phone": "(530) 527-0414",
+    "type": "private",
+    "lat": 40.149448,
+    "lng": -122.222038,
+    "distance": 31.492385146096357
+  },
+  {
+    "name": "Rolling Hills Clinic",
+    "address": "2526 Sister Mary Columba Dr, Red Bluff, CA 96080",
+    "phone": "(530) 690-2778",
+    "type": "public",
+    "lat": 40.149544,
+    "lng": -122.219521,
+    "distance": 31.52392025660552
+  },
+  {
+    "name": "Ampla Health Los Molinos",
+    "address": "7981 State Highway 99e, Los Molinos, CA 96055",
+    "phone": "(530) 384-4010",
+    "type": "fqhc",
+    "lat": 40.027672,
+    "lng": -122.100754,
+    "distance": 41.54569133058644
+  },
+  {
+    "name": "Hayfork Community Hlth Clinic",
+    "address": "6961 Highway 3, Hayfork, CA 96041",
+    "phone": "(530) 628-5517",
+    "type": "fqhc",
+    "lat": 40.554211,
+    "lng": -123.18605,
+    "distance": 41.752638929361986
+  },
+  {
+    "name": "Pit River Health Services",
+    "address": "36977 Park Ave, Burney, CA 96013",
+    "phone": "(530) 335-3651",
+    "type": "public",
+    "lat": 40.873371,
+    "lng": -121.673599,
+    "distance": 42.50566902239932
+  },
+  {
+    "name": "Mtn Valleys Hlth Ctrburney Hlth",
+    "address": "37491 Enterprise Dr, Burney, CA 96013",
+    "phone": "(530) 999-9030",
+    "type": "fqhc",
+    "lat": 40.8876,
+    "lng": -121.652519,
+    "distance": 43.93834419217826
+  },
+  {
+    "name": "Mayers Rural Health Center",
+    "address": "20641 Commerce Way, Burney, CA 96013",
+    "phone": "(530) 335-6070",
+    "type": "fqhc",
+    "lat": 40.88895,
+    "lng": -121.651535,
+    "distance": 44.027602949177776
+  },
+  {
+    "name": "Dunsmuir Community Health Center",
+    "address": "4309 Stagecoach Rd, Dunsmuir, CA 96025",
+    "phone": "(530) 235-4138",
+    "type": "fqhc",
+    "lat": 41.22263,
+    "lng": -122.276833,
+    "distance": 44.36246473802023
+  },
+  {
+    "name": "Dignity Health Solano Street",
+    "address": "2126 Solano St, Corning, CA 96021",
+    "phone": "(530) 824-4002",
+    "type": "fqhc",
+    "lat": 39.928379,
+    "lng": -122.195839,
+    "distance": 46.632628613116125
+  },
+  {
+    "name": "Rolling Hills Clinic",
+    "address": "706 Peach St, Corning, CA 96021",
+    "phone": "(530) 690-2827",
+    "type": "public",
+    "lat": 39.928711,
+    "lng": -122.174759,
+    "distance": 46.86909613138789
+  },
+  {
+    "name": "James Ooi Md",
+    "address": "320 Solano St, Corning, CA 96021",
+    "phone": "(530) 824-3283",
+    "type": "private",
+    "lat": 39.928169,
+    "lng": -122.169884,
+    "distance": 46.968763045786524
+  },
+  {
+    "name": "Corning Rural Health Clinic",
+    "address": "155 Solano St, Corning, CA 96021",
+    "phone": "(530) 824-4663",
+    "type": "fqhc",
+    "lat": 39.927807,
+    "lng": -122.1688,
+    "distance": 47.00727463664871
+  },
+  {
+    "name": "Tehama County Health Department",
+    "address": "275 Solano St, Corning, CA 96021",
+    "phone": "(530) 824-4890",
+    "type": "public",
+    "lat": 39.927311,
+    "lng": -122.168869,
+    "distance": 47.03955930517144
+  },
+  {
+    "name": "Mccloud Health Care Clinic",
+    "address": "116 W Minnesota Avenue, Mccloud, CA 96057",
+    "phone": "(530) 964-2389",
+    "type": "fqhc",
+    "lat": 41.251759,
+    "lng": -122.136559,
+    "distance": 47.85909584074373
+  },
+  {
+    "name": "Mt Shasta Health Center",
+    "address": "101 Old Mccloud Rd, Mount Shasta, CA 96067",
+    "phone": "(530) 999-9040",
+    "type": "fqhc",
+    "lat": 41.304829,
+    "lng": -122.310471,
+    "distance": 49.81549324280721
+  },
+  {
+    "name": "Mercy Pine Street Clinic",
+    "address": "408 Pine St, Mount Shasta, CA 96067",
+    "phone": "(530) 926-7196",
+    "type": "fqhc",
+    "lat": 41.31324,
+    "lng": -122.3153,
+    "distance": 50.374019441104856
+  },
+  {
+    "name": "Mercy Mt Shasta Community Clinic",
+    "address": "912 Pine St, Mount Shasta, CA 96067",
+    "phone": "(530) 926-7131",
+    "type": "fqhc",
+    "lat": 41.318932,
+    "lng": -122.323112,
+    "distance": 50.73566207203398
+  },
+  {
+    "name": "Weed Health Center",
+    "address": "50 Alamo Ave, Weed, CA 96094",
+    "phone": "(530) 999-9050",
+    "type": "private",
+    "lat": 41.426754,
+    "lng": -122.384842,
+    "distance": 58.060623317925646
+  },
+  {
+    "name": "Orland Childrens Center",
+    "address": "116 E Walker St, Orland, CA 95963",
+    "phone": "(530) 865-5400",
+    "type": "public",
+    "lat": 39.746971,
+    "lng": -122.18412,
+    "distance": 59.03577472519533
+  },
+  {
+    "name": "Fall River Valley Health Center",
+    "address": "43658 Hwy 299 E, Fall River Mills, CA 96028",
+    "phone": "(530) 999-9020",
+    "type": "fqhc",
+    "lat": 41.028648,
+    "lng": -121.421555,
+    "distance": 59.22652216167913
+  },
+  {
+    "name": "The Wecare Group, Inc.",
+    "address": "321 Van Duzen Rd, Mad River, CA 95526",
+    "phone": "(707) 574-6616",
+    "type": "fqhc",
+    "lat": 40.460751,
+    "lng": -123.529778,
+    "distance": 60.40381212888867
+  },
+  {
+    "name": "Northern Valley Indian Health, Inc",
+    "address": "845 W East Ave, Chico, CA 95926",
+    "phone": "(530) 896-9400",
+    "type": "public",
+    "lat": 39.747299,
+    "lng": -121.876457,
+    "distance": 64.051415582144
+  },
+  {
+    "name": "Ampla Health Family Dental Medical",
+    "address": "285 Cohasset Rd, Chico, CA 95926",
+    "phone": "(530) 342-6065",
+    "type": "fqhc",
+    "lat": 39.751122,
+    "lng": -121.850922,
+    "distance": 64.39842232458682
+  },
+  {
+    "name": "Ampla Health Chico Med  Ped",
+    "address": "680 Cohasset Rd, Chico, CA 95926",
+    "phone": "(530) 342-4395",
+    "type": "fqhc",
+    "lat": 39.752811,
+    "lng": -121.846161,
+    "distance": 64.40564320541647
+  },
+  {
+    "name": "Enloe Medical Center Pharmacy",
+    "address": "1531 Esplanade, Chico, CA 95926",
+    "phone": "(530) 332-7709",
+    "type": "private",
+    "lat": 39.742149,
+    "lng": -121.849861,
+    "distance": 64.98014971363266
+  },
+  {
+    "name": "Mercy Lake Shastina Comm Clinic",
+    "address": "16337 Everhart Dr, Weed, CA 96094",
+    "phone": "(530) 938-2297",
+    "type": "fqhc",
+    "lat": 41.527321,
+    "lng": -122.362717,
+    "distance": 65.02598596508606
+  },
+  {
+    "name": "Butte County Phd, Chico Clinic",
+    "address": "695 Oleander Ave, Chico, CA 95926",
+    "phone": "(530) 552-3959",
+    "type": "public",
+    "lat": 39.734909,
+    "lng": -121.841827,
+    "distance": 65.61698360269082
+  },
+  {
+    "name": "Scott Valley Rural Health Clinic",
+    "address": "8 Commercial St, Etna, CA 96027",
+    "phone": "(530) 467-5393",
+    "type": "fqhc",
+    "lat": 41.462639,
+    "lng": -122.890182,
+    "distance": 65.880044090402
+  },
+  {
+    "name": "Nvih- Children Health Center",
+    "address": "1515 Springfield Dr Ste 175, Chico, CA 95928",
+    "phone": "(530) 781-1440",
+    "type": "public",
+    "lat": 39.73045,
+    "lng": -121.810379,
+    "distance": 66.64234982817996
+  },
+  {
+    "name": "Nvih- Meriam Park",
+    "address": "1990 Concord Ave, Chico, CA 95928",
+    "phone": "(530) 809-3300",
+    "type": "public",
+    "lat": 39.72797,
+    "lng": -121.792068,
+    "distance": 67.2446075564661
+  },
+  {
+    "name": "Community Health Centers-san Luis O",
+    "address": "77 Casa St, Ste 202, San Luis Obispo, CA 93405",
+    "phone": "(805) 931-2669",
+    "type": "VFA",
+    "lat": 35.292889,
+    "lng": -120.66526,
+    "distance": 0.7667271823829506
+  },
+  {
+    "name": "San Luis Obispo Health Department",
+    "address": "2191 Johnson Ave, San Luis Obispo, CA 93401",
+    "phone": "(805) 781-5500",
+    "type": "public",
+    "lat": 35.274738,
+    "lng": -120.647522,
+    "distance": 0.8800352438769786
+  },
+  {
+    "name": "Pismo Beach Pediatric Center",
+    "address": "2 James Way, Ste 209, Pismo Beach, CA 93449",
+    "phone": "(805) 549-6915",
+    "type": "public",
+    "lat": 35.139427,
+    "lng": -120.631676,
+    "distance": 10.031363219451373
+  },
+  {
+    "name": "Grover Beach Public Health Departme",
+    "address": "286 S 16th St, Grover Beach, CA 93433",
+    "phone": "(805) 473-7050",
+    "type": "public",
+    "lat": 35.119244,
+    "lng": -120.611755,
+    "distance": 11.61972910272217
+  },
+  {
+    "name": "Chc Station Way",
+    "address": "260 Station Way, Ste F, Arroyo Grande, CA 93420",
+    "phone": "(805) 931-2669",
+    "type": "VFA",
+    "lat": 35.119701,
+    "lng": -120.578323,
+    "distance": 12.168227683137825
+  },
+  {
+    "name": "Community Health Centers Del Mar",
+    "address": "2120 Cienaga St, Oceano, CA 93445",
+    "phone": "(805) 931-2669",
+    "type": "VFA",
+    "lat": 35.097721,
+    "lng": -120.608429,
+    "distance": 13.110898257912213
+  },
+  {
+    "name": "Community Health Center-atascadero",
+    "address": "7512 Morro Rd, Atascadero, CA 93422",
+    "phone": "(805) 931-2669",
+    "type": "VFA",
+    "lat": 35.47715,
+    "lng": -120.667511,
+    "distance": 13.436506734615724
+  },
+  {
+    "name": "Community Health Centers-templeton",
+    "address": "1330 Las Tablas Rd, Templeton, CA 93465",
+    "phone": "(805) 931-2669",
+    "type": "VFA",
+    "lat": 35.554863,
+    "lng": -120.723763,
+    "distance": 19.142940635410273
+  },
+  {
+    "name": "Fair Oaks Community Health Center",
+    "address": "150 Tejas Pl, Nipomo, CA 93444",
+    "phone": "(805) 931-2669",
+    "type": "VFA",
+    "lat": 35.026989,
+    "lng": -120.498802,
+    "distance": 19.873581090900927
+  },
+  {
+    "name": "Nipomo Community Medical Center",
+    "address": "150 Tejas Pl, Nipomo, CA 93444",
+    "phone": "(805) 931-2669",
+    "type": "VFA",
+    "lat": 35.026989,
+    "lng": -120.498802,
+    "distance": 19.873581090900927
+  },
+  {
+    "name": "Community Health Center-guadalupe",
+    "address": "4723 W Main St, Ste H, Guadalupe, CA 93434",
+    "phone": "(805) 931-2669",
+    "type": "VFA",
+    "lat": 34.957626,
+    "lng": -120.577667,
+    "distance": 22.940929750706342
+  },
+  {
+    "name": "San Luis Obispo Phd- Paso Robles",
+    "address": "805 4th St, Suite 201, Paso Robles, CA 93446",
+    "phone": "(805) 237-3050",
+    "type": "public",
+    "lat": 35.618526,
+    "lng": -120.689117,
+    "distance": 23.25730999110866
+  },
+  {
+    "name": "Chc Santa Maria 2- Pediatrics",
+    "address": "1835 N Broadway, Santa Maria, CA 93454",
+    "phone": "(805) 931-2669",
+    "type": "fqhc",
+    "lat": 34.973377,
+    "lng": -120.435867,
+    "distance": 24.83914386616603
+  },
+  {
+    "name": "Community Health Center-paso Robles",
+    "address": "2800 Riverside Ave, Paso Robles, CA 93446",
+    "phone": "(805) 931-2669",
+    "type": "VFA",
+    "lat": 35.643513,
+    "lng": -120.688187,
+    "distance": 24.976247842681747
+  },
+  {
+    "name": "Chc Del Valle",
+    "address": "430 S Blosser Rd, Santa Maria, CA 93458",
+    "phone": "(805) 931-2669",
+    "type": "VFA",
+    "lat": 34.948914,
+    "lng": -120.453735,
+    "distance": 25.838887012125756
+  },
+  {
+    "name": "Jeffrey Kaplan Md Inc",
+    "address": "821 E Chapel St, Ste 203, Santa Maria, CA 93454",
+    "phone": "(805) 354-5200",
+    "type": "private",
+    "lat": 34.954552,
+    "lng": -120.423592,
+    "distance": 26.312793783889195
+  },
+  {
+    "name": "Pediatric Med Grpof Santa Maria",
+    "address": "1430 E Main St, Ste 201, Santa Maria, CA 93454",
+    "phone": "(805) 922-3548",
+    "type": "private",
+    "lat": 34.952854,
+    "lng": -120.413071,
+    "distance": 26.719260313304193
+  },
+  {
+    "name": "Family Medicine Center",
+    "address": "1400 E Church St, Bldg 8, Santa Maria, CA 93454",
+    "phone": "(805) 739-3561",
+    "type": "public",
+    "lat": 34.950981,
+    "lng": -120.413223,
+    "distance": 26.825379755378105
+  },
+  {
+    "name": "Robert S Barry",
+    "address": "1420 S Miller St, Ste A, Santa Maria, CA 93454",
+    "phone": "(805) 922-3573",
+    "type": "private",
+    "lat": 34.936371,
+    "lng": -120.431038,
+    "distance": 27.20136914754404
+  },
+  {
+    "name": "Himat G Tank Pediatrics",
+    "address": "1505 Shepard Dr, Ste 102, Santa Maria, CA 93454",
+    "phone": "(805) 928-9300",
+    "type": "private",
+    "lat": 34.934078,
+    "lng": -120.421387,
+    "distance": 27.602944137546938
+  },
+  {
+    "name": "Santa Maria Health Care Center",
+    "address": "2115 Centerpointe Pkwy, Rm 157, Santa Maria, CA 93455",
+    "phone": "(805) 346-7230",
+    "type": "fqhc",
+    "lat": 34.92263,
+    "lng": -120.429718,
+    "distance": 28.075466387275913
+  },
+  {
+    "name": "Chc Santa Maria",
+    "address": "2801 Santa Maria Way, Ste A, Santa Maria, CA 93455",
+    "phone": "(805) 931-2669",
+    "type": "VFA",
+    "lat": 34.908798,
+    "lng": -120.434723,
+    "distance": 28.80054180860132
+  },
+  {
+    "name": "Community Health Center Cambria",
+    "address": "2515 Main St, Ste B, Cambria, CA 93428",
+    "phone": "(805) 931-2669",
+    "type": "VFA",
+    "lat": 35.56469,
+    "lng": -121.0812,
+    "distance": 30.707012890940504
+  },
+  {
+    "name": "Chc San Miguel",
+    "address": "1385 Mission St, San Miguel, CA 93451",
+    "phone": "(805) 931-2669",
+    "type": "VFA",
+    "lat": 35.75251,
+    "lng": -120.696236,
+    "distance": 32.521167049226605
+  },
+  {
+    "name": "Community Health Centers Los Alamos",
+    "address": "490 Bell St, Unit 103, Los Alamos, CA 93440",
+    "phone": "(805) 931-2669",
+    "type": "fqhc",
+    "lat": 34.74382,
+    "lng": -120.278061,
+    "distance": 43.04873181114852
+  },
+  {
+    "name": "Lompoc Health - H Street Center",
+    "address": "1225 N H St, Lompoc, CA 93436",
+    "phone": "(805) 737-8760",
+    "type": "private",
+    "lat": 34.65807,
+    "lng": -120.458748,
+    "distance": 44.64027826537267
+  },
+  {
+    "name": "Santa Barbara Co Hlth Care Service",
+    "address": "301 N R St, Lompoc, CA 93436",
+    "phone": "(805) 737-6450",
+    "type": "fqhc",
+    "lat": 34.642937,
+    "lng": -120.471092,
+    "distance": 45.483351696915506
+  },
+  {
+    "name": "Community Health Center- Lompoc",
+    "address": "1300 W Ocean Ave, Lompoc, CA 93436",
+    "phone": "(805) 931-2669",
+    "type": "VFA",
+    "lat": 34.638172,
+    "lng": -120.473351,
+    "distance": 45.77387797525658
+  },
+  {
+    "name": "Lvmcphysician Services",
+    "address": "136 N 3rd St, Lompoc, CA 93436",
+    "phone": "(805) 736-1253",
+    "type": "private",
+    "lat": 34.640049,
+    "lng": -120.444489,
+    "distance": 46.05274674629487
+  },
+  {
+    "name": "Lompoc Valley Pediatric Care Center",
+    "address": "1111 E Ocean Ave, Ste 6, Lompoc, CA 93436",
+    "phone": "(805) 736-4970",
+    "type": "private",
+    "lat": 34.639561,
+    "lng": -120.444237,
+    "distance": 46.08906503213548
+  },
+  {
+    "name": "Buellton Medical Center",
+    "address": "195 W Highway 246, Buellton, CA 93427",
+    "phone": "(805) 686-8555",
+    "type": "private",
+    "lat": 34.615108,
+    "lng": -120.197617,
+    "distance": 53.038827178612785
+  },
+  {
+    "name": "Santa Ynez Tribal Health Clinic",
+    "address": "90 Via Juana Rd, Santa Ynez, CA 93460",
+    "phone": "(805) 688-7070",
+    "type": "public",
+    "lat": 34.605217,
+    "lng": -120.093285,
+    "distance": 56.75297777374191
+  },
+  {
+    "name": "Aria Community Health Center Amc",
+    "address": "148 E Kings St, Avenal, CA 93204",
+    "phone": "(559) 386-9000",
+    "type": "VFA",
+    "lat": 36.002258,
+    "lng": -120.136597,
+    "distance": 57.73940887371174
+  },
+  {
+    "name": "Ahmo-avenal",
+    "address": "216 E Fresno St, Avenal, CA 93204",
+    "phone": "(559) 386-5364",
+    "type": "fqhc",
+    "lat": 36.003239,
+    "lng": -120.135612,
+    "distance": 57.82575165422362
+  },
+  {
+    "name": "Ahmo Avenal West",
+    "address": "337 E Kings St, Avenal, CA 93204",
+    "phone": "(559) 386-5200",
+    "type": "fqhc",
+    "lat": 36.00272,
+    "lng": -120.133598,
+    "distance": 57.852603361204935
+  },
+  {
+    "name": "Lost Hills Community Health",
+    "address": "21138 Paso Robles Hwy, Lost Hills, CA 93249",
+    "phone": "(661) 630-7511",
+    "type": "fqhc",
+    "lat": 35.616341,
+    "lng": -119.694748,
+    "distance": 58.997622539032754
+  },
+  {
+    "name": "Chc Cuyama",
+    "address": "4711 Highway 166, New Cuyama, CA 93254",
+    "phone": "(805) 931-2669",
+    "type": "VFA",
+    "lat": 34.945969,
+    "lng": -119.683502,
+    "distance": 59.87907737900683
+  },
+  {
+    "name": "Aria Community Health Center",
+    "address": "191 East Polk Street, Coalinga, CA 93210",
+    "phone": "(559) 935-2100",
+    "type": "VFA",
+    "lat": 36.136574,
+    "lng": -120.359818,
+    "distance": 61.34447567739501
+  },
+  {
+    "name": "Ahmo-coalinga",
+    "address": "155 S 5th St, Ste B, Coalinga, CA 93210",
+    "phone": "(559) 935-4282",
+    "type": "VFA",
+    "lat": 36.13871,
+    "lng": -120.35807,
+    "distance": 61.513263710812915
+  },
+  {
+    "name": "Coalinga Valley Health Clinics Inc",
+    "address": "1145 Phelps Ave, Ste 104, Coalinga, CA 93210",
+    "phone": "(559) 935-4374",
+    "type": "fqhc",
+    "lat": 36.151546,
+    "lng": -120.341431,
+    "distance": 62.62576924865562
+  },
+  {
+    "name": "Coalinga Regional Medical Center",
+    "address": "1165 Phelps Ave, Ste 105, Coalinga, CA 93210",
+    "phone": "(559) 821-6153",
+    "type": "public",
+    "lat": 36.151516,
+    "lng": -120.33989,
+    "distance": 62.64844598120757
+  },
+  {
+    "name": "Aria Community Health Center- Kc",
+    "address": "304 Becky Pease Street, Kettleman City, CA 93239",
+    "phone": "(559) 386-4501",
+    "type": "VFA",
+    "lat": 36.009499,
+    "lng": -119.959938,
+    "distance": 63.75529683462368
+  },
+  {
+    "name": "Buttonwillow Health Center",
+    "address": "277 E Front St, Buttonwillow,ca 93206",
+    "phone": "(661) 630-7318",
+    "type": "VFA",
+    "lat": 35.39941,
+    "lng": -119.46582,
+    "distance": 67.76705246891886
+  },
+  {
+    "name": "Ahmo-taft",
+    "address": "501 6th St, Taft, CA 93268",
+    "phone": "(661) 763-5131",
+    "type": "fqhc",
+    "lat": 35.144428,
+    "lng": -119.459251,
+    "distance": 68.43435361607725
+  },
+  {
+    "name": "Taft Community Health Center",
+    "address": "1100 4th St, Taft, CA 93268",
+    "phone": "(661) 630-7411",
+    "type": "fqhc",
+    "lat": 35.148899,
+    "lng": -119.452759,
+    "distance": 68.75319158094328
+  },
+  {
+    "name": "West Side Family Health Care",
+    "address": "100 E North St, Taft, CA 93268",
+    "phone": "(661) 765-1935",
+    "type": "fqhc",
+    "lat": 35.139641,
+    "lng": -119.451736,
+    "distance": 68.90315474074484
+  },
+  {
+    "name": "Mee Memorial King City Clinic",
+    "address": "210 Canal St, King City, CA 93930",
+    "phone": "(831) 385-5471",
+    "type": "fqhc",
+    "lat": 36.207001,
+    "lng": -121.133118,
+    "distance": 69.16111913245756
+  },
+  {
+    "name": "Mmchwc",
+    "address": "809 Broadway St, Ste D, King City, CA 93930",
+    "phone": "(831) 386-7437",
+    "type": "private",
+    "lat": 36.207481,
+    "lng": -121.133385,
+    "distance": 69.19750397938286
+  },
+  {
+    "name": "Clinica De Salud",
+    "address": "122 E San Antonio Dr, King City, CA 93930",
+    "phone": "(831) 385-5944",
+    "type": "VFA",
+    "lat": 36.221958,
+    "lng": -121.126846,
+    "distance": 69.98317728442285
+  },
+  {
+    "name": "Coalinga Valley Health Clinics Inc",
+    "address": "36617 Central Avenue, Huron, CA 93234",
+    "phone": "(559) 945-9251",
+    "type": "fqhc",
+    "lat": 36.200588,
+    "lng": -120.102585,
+    "distance": 70.69339855011694
+  },
+  {
+    "name": "Hyesun Kim, Md, Inc",
+    "address": "62 Corporate Park, Ste 115, Irvine, CA 92606",
+    "phone": "(949) 752-7575",
+    "type": "private",
+    "lat": 33.691605,
+    "lng": -117.824524,
+    "distance": 0.4971575554411487
+  },
+  {
+    "name": "Moon Mock Oh Md, Inc",
+    "address": "3500 Barranca Pkwy, Ste 330, Irvine, CA 92606",
+    "phone": "(949) 552-8217",
+    "type": "private",
+    "lat": 33.686451,
+    "lng": -117.815033,
+    "distance": 0.6715961941181476
+  },
+  {
+    "name": "Memorialcare Medical Group-irvine",
+    "address": "4050 Barranca Pkwy, Ste 200, Irvine, CA 92604",
+    "phone": "(949) 551-1090",
+    "type": "private",
+    "lat": 33.681801,
+    "lng": -117.807808,
+    "distance": 1.092008424516025
+  },
+  {
+    "name": "Memorialcare Irvine University Park",
+    "address": "18102 Culver Dr, Irvine, CA 92612",
+    "phone": "(657) 241-8221",
+    "type": "private",
+    "lat": 33.663502,
+    "lng": -117.826057,
+    "distance": 1.4580609620192035
+  },
+  {
+    "name": "Center For Advanced Care",
+    "address": "19200 Jamboree Rd, Ste 2000, Irvine, CA 92612",
+    "phone": "(949) 898-6000",
+    "type": "private",
+    "lat": 33.67012,
+    "lng": -117.849503,
+    "distance": 1.6584632319553234
+  },
+  {
+    "name": "Cedars Family Medicine, Inc",
+    "address": "18021 Sky Park Cir, Ste G, Irvine, CA 92614",
+    "phone": "(949) 260-0744",
+    "type": "private",
+    "lat": 33.688354,
+    "lng": -117.855598,
+    "distance": 1.6930118154248366
+  },
+  {
+    "name": "Taeed",
+    "address": "4950 Barranca Pkwy, Ste 308, Irvine, CA 92604",
+    "phone": "(949) 654-5700",
+    "type": "private",
+    "lat": 33.675289,
+    "lng": -117.794907,
+    "distance": 1.9271611679795808
+  },
+  {
+    "name": "Hurtt Family Health Clinic",
+    "address": "1 Hope Dr, Tustin, CA 92782",
+    "phone": "(714) 247-0300",
+    "type": "VFA",
+    "lat": 33.715408,
+    "lng": -117.83242,
+    "distance": 2.155814803857905
+  },
+  {
+    "name": "Grace Pediatrics",
+    "address": "4902 Irvine Center Dr, Ste 102, Irvine, CA 92604",
+    "phone": "(949) 757-3690",
+    "type": "private",
+    "lat": 33.685493,
+    "lng": -117.786385,
+    "distance": 2.3073031024969954
+  },
+  {
+    "name": "Coastal Kids A Professional Medical",
+    "address": "4968 Booth Cir, Ste 106, Irvine, CA 92604",
+    "phone": "(949) 387-4900",
+    "type": "private",
+    "lat": 33.685192,
+    "lng": -117.785049,
+    "distance": 2.383597814742242
+  },
+  {
+    "name": "Kcs - Macarthur",
+    "address": "19742 Macarthur Blvd, Ste 250, Irvine, CA 92612",
+    "phone": "(714) 503-6550",
+    "type": "fqhc",
+    "lat": 33.65749,
+    "lng": -117.861435,
+    "distance": 2.7468049369787195
+  },
+  {
+    "name": "Hurtt Family Health Clinic",
+    "address": "14642 Newport Ave, Ste 200, Tustin, CA 92780",
+    "phone": "(714) 247-0300",
+    "type": "fqhc",
+    "lat": 33.730648,
+    "lng": -117.829018,
+    "distance": 3.185097733389078
+  },
+  {
+    "name": "Strong Kids Medical Group, Inc",
+    "address": "2222 S Main St, Santa Ana, CA 92707",
+    "phone": "(714) 542-1331",
+    "type": "private",
+    "lat": 33.717239,
+    "lng": -117.868248,
+    "distance": 3.293312560153207
+  },
+  {
+    "name": "Ncmg - Sand Canyon",
+    "address": "16300 Sand Canyon Ave, Ste 488, Irvine, CA 92618",
+    "phone": "(949) 655-8880",
+    "type": "private",
+    "lat": 33.66045,
+    "lng": -117.773178,
+    "distance": 3.4909076792806837
+  },
+  {
+    "name": "Providence St Joseph Heritage Med",
+    "address": "13400 Jamboree Rd, Ste 200, Irvine, CA 92602",
+    "phone": "(714) 263-9279",
+    "type": "private",
+    "lat": 33.724861,
+    "lng": -117.788063,
+    "distance": 3.5526007526073284
+  },
+  {
+    "name": "Santa Maria Medical Clinic",
+    "address": "1701 E Mcfadden Ave, Ste D, Santa Ana, CA 92705",
+    "phone": "(714) 953-6430",
+    "type": "private",
+    "lat": 33.733891,
+    "lng": -117.844963,
+    "distance": 3.5673689873153083
+  },
+  {
+    "name": "Alan Dakak Md",
+    "address": "1220 Hemlock Way, Ste 105b, Santa Ana, CA 92707",
+    "phone": "(714) 966-6666",
+    "type": "private",
+    "lat": 33.709763,
+    "lng": -117.883904,
+    "distance": 3.7300175782962466
+  },
+  {
+    "name": "Mansoor Mosley",
+    "address": "1220 Hemlock Way, Ste 104, Santa Ana, CA 92707",
+    "phone": "(714) 754-5400",
+    "type": "private",
+    "lat": 33.709763,
+    "lng": -117.883904,
+    "distance": 3.7300175782962466
+  },
+  {
+    "name": "Celebrating Life Chc",
+    "address": "1444 S Main St, Santa Ana, CA 92707",
+    "phone": "(949) 866-3600",
+    "type": "public",
+    "lat": 33.727421,
+    "lng": -117.868294,
+    "distance": 3.811306136016855
+  },
+  {
+    "name": "Altamed Med Grp - Santa Ana Bristol",
+    "address": "2720 S Bristol St, Ste 110, Santa Ana, CA 92704",
+    "phone": "(714) 426-5222",
+    "type": "VFA",
+    "lat": 33.710934,
+    "lng": -117.885475,
+    "distance": 3.847764978684253
+  },
+  {
+    "name": "South Coast Pediatrics",
+    "address": "2650 S Bristol St, Ste 103, Santa Ana, CA 92704",
+    "phone": "(714) 754-1444",
+    "type": "private",
+    "lat": 33.711231,
+    "lng": -117.88607,
+    "distance": 3.887626265012585
+  },
+  {
+    "name": "Laguna Beach Pediatric Associates",
+    "address": "18 Endeavor, Ste 101, Irvine, CA 92618",
+    "phone": "(949) 509-9915",
+    "type": "private",
+    "lat": 33.66687,
+    "lng": -117.76207,
+    "distance": 3.902183910100515
+  },
+  {
+    "name": "Royalkids Clinic",
+    "address": "18 Endeavor, Ste 203, Irvine, CA 92618",
+    "phone": "(949) 910-1188",
+    "type": "private",
+    "lat": 33.667126,
+    "lng": -117.761681,
+    "distance": 3.917949253330524
+  },
+  {
+    "name": "Clchc-irvine Community Health Ctr",
+    "address": "15785 Laguna Canyon Rd, Ste 250 Irvine, CA 92618",
+    "phone": "(949) 866-3600",
+    "type": "public",
+    "lat": 33.665741,
+    "lng": -117.762024,
+    "distance": 3.929883658134207
+  },
+  {
+    "name": "Annu G Sharma",
+    "address": "15785 Laguna Canyon Rd, Ste 215, Irvine, CA 92618",
+    "phone": "(949) 753-0901",
+    "type": "private",
+    "lat": 33.665722,
+    "lng": -117.761971,
+    "distance": 3.933218292758229
+  },
+  {
+    "name": "Sea View Pediatrics",
+    "address": "15785 Laguna Canyon Rd, Ste 120, Irvine, CA 92618",
+    "phone": "(949) 951-5437",
+    "type": "private",
+    "lat": 33.665722,
+    "lng": -117.761971,
+    "distance": 3.933218292758229
+  },
+  {
+    "name": "Sushil Anand Associates Med Corp",
+    "address": "13372 Newport Ave, Ste B Tustin, CA 92780",
+    "phone": "(714) 544-3430",
+    "type": "private",
+    "lat": 33.743973,
+    "lng": -117.813927,
+    "distance": 4.165679364897274
+  },
+  {
+    "name": "Families Together Of Orange County",
+    "address": "661 W 1st St, Ste G, Tustin, CA 92780",
+    "phone": "(714) 665-9890",
+    "type": "VFA",
+    "lat": 33.746208,
+    "lng": -117.831253,
+    "distance": 4.265733821853037
+  },
+  {
+    "name": "Saint Youstina",
+    "address": "809 S Main St, Suite A, Santa Ana, CA 92701",
+    "phone": "(714) 973-7770",
+    "type": "private",
+    "lat": 33.737923,
+    "lng": -117.867462,
+    "distance": 4.372493726853802
+  },
+  {
+    "name": "Kars Pediatrics - Tustin",
+    "address": "17662 Irvine Blvd, Ste 18, Tustin, CA 92780",
+    "phone": "(949) 662-0152",
+    "type": "private",
+    "lat": 33.748074,
+    "lng": -117.824043,
+    "distance": 4.388143293107298
+  },
+  {
+    "name": "St Joseph Heritage Medical Group",
+    "address": "2212 E 4th St, Santa Ana, CA 92705",
+    "phone": "(714) 288-3230",
+    "type": "private",
+    "lat": 33.747734,
+    "lng": -117.835144,
+    "distance": 4.390610953211686
+  },
+  {
+    "name": "Friends Of Family Health Center",
+    "address": "13152 Newport Ave, Ste B, Tustin, CA 92780",
+    "phone": "(714) 263-8600",
+    "type": "fqhc",
+    "lat": 33.74712,
+    "lng": -117.812141,
+    "distance": 4.398095167323939
+  },
+  {
+    "name": "Brightside Specialty Pharmacy",
+    "address": "431 N Tustin Ave, Ste C, Santa Ana, CA 92705",
+    "phone": "(714) 707-5115",
+    "type": "private",
+    "lat": 33.74884,
+    "lng": -117.833725,
+    "distance": 4.458232993149534
+  },
+  {
+    "name": "Choc-socpa Irvine",
+    "address": "114 Pacifica, Ste 260, Irvine, CA 92618",
+    "phone": "(949) 770-4242",
+    "type": "private",
+    "lat": 33.661068,
+    "lng": -117.754196,
+    "distance": 4.4644123612160795
+  },
+  {
+    "name": "Coastal Kids Aprofessional Med Cor",
+    "address": "114 Pacifica, Ste 340, Irvine, CA 92618",
+    "phone": "(949) 390-9010",
+    "type": "private",
+    "lat": 33.661083,
+    "lng": -117.754189,
+    "distance": 4.464436742915923
+  },
+  {
+    "name": "Oc Urgent Care Medical Group Inc",
+    "address": "2001 E 4th St Ste 104, Santa Ana, CA 92705",
+    "phone": "(657) 230-7800",
+    "type": "private",
+    "lat": 33.748631,
+    "lng": -117.838623,
+    "distance": 4.478884107176559
+  },
+  {
+    "name": "South Main Aloha Pharmacy",
+    "address": "618 S Main St, Santa Ana, CA 92701",
+    "phone": "(714) 676-2078",
+    "type": "private",
+    "lat": 33.740055,
+    "lng": -117.867943,
+    "distance": 4.511862288370387
+  },
+  {
+    "name": "Clinica Choc Para Ninos",
+    "address": "406 S Main St, Santa Ana, CA 92701",
+    "phone": "(714) 509-4815",
+    "type": "public",
+    "lat": 33.742222,
+    "lng": -117.868156,
+    "distance": 4.645986870668717
+  },
+  {
+    "name": "P K A Medical Corporation",
+    "address": "1610 W Edinger Ave, Ste B, Santa Ana, CA 92704",
+    "phone": "(714) 641-1610",
+    "type": "private",
+    "lat": 33.726711,
+    "lng": -117.889542,
+    "distance": 4.647428918633116
+  },
+  {
+    "name": "David Chen",
+    "address": "719 E 1st St, Ste C, Santa Ana, CA 92701",
+    "phone": "(714) 547-0104",
+    "type": "private",
+    "lat": 33.745789,
+    "lng": -117.860992,
+    "distance": 4.669697137152631
+  },
+  {
+    "name": "Bristol Mcfadden Medgrp Inc",
+    "address": "1212 S Bristol St, Ste 16, Santa Ana, CA 92704",
+    "phone": "(714) 966-0646",
+    "type": "private",
+    "lat": 33.73193,
+    "lng": -117.886017,
+    "distance": 4.7327554942918235
+  },
+  {
+    "name": "Hurtt Family Health Clinic",
+    "address": "1100b N Tustin Ave, Ste A, Santa Ana, CA 92705",
+    "phone": "(714) 247-0300",
+    "type": "VFA",
+    "lat": 33.754871,
+    "lng": -117.834641,
+    "distance": 4.87806988848432
+  },
+  {
+    "name": "Clinica Medica Familiar",
+    "address": "517 N Main St, Ste 100, Santa Ana, CA 92701",
+    "phone": "(714) 647-0401",
+    "type": "private",
+    "lat": 33.749512,
+    "lng": -117.867287,
+    "distance": 5.060896152960934
+  },
+  {
+    "name": "Uci Family Health Center- Santa Ana",
+    "address": "800 N Main St, Santa Ana, CA 92701",
+    "phone": "(714) 480-2443",
+    "type": "VFA",
+    "lat": 33.75127,
+    "lng": -117.868103,
+    "distance": 5.190330285115227
+  },
+  {
+    "name": "Coastal Kids A Professional Medical",
+    "address": "2071 San Joaquin Hills Rd, Newport Beach, CA 92660",
+    "phone": "(949) 759-1720",
+    "type": "private",
+    "lat": 33.616638,
+    "lng": -117.869423,
+    "distance": 5.3054483223946
+  },
+  {
+    "name": "Sos-el Sol Wellness Center",
+    "address": "1014 N Broadway, Santa Ana, CA 92701",
+    "phone": "(949) 270-2100",
+    "type": "VFA",
+    "lat": 33.753609,
+    "lng": -117.869743,
+    "distance": 5.377165126624688
+  },
+  {
+    "name": "Serve The People Chc",
+    "address": "1206 E 17th St, Ste 101, Santa Ana, CA 92701",
+    "phone": "(714) 352-2911",
+    "type": "VFA",
+    "lat": 33.759232,
+    "lng": -117.853951,
+    "distance": 5.392781464364901
+  },
+  {
+    "name": "Alta Med Medcl Grp-santa Ana, Main",
+    "address": "1400 N Main St, Santa Ana, CA 92701",
+    "phone": "(714) 352-7388",
+    "type": "VFA",
+    "lat": 33.756729,
+    "lng": -117.868141,
+    "distance": 5.528760400368183
+  },
+  {
+    "name": "Kids Care Pediatrics Med Group",
+    "address": "1125 E 17th St, Ste N351, Santa Ana, CA 92701",
+    "phone": "(714) 480-0044",
+    "type": "private",
+    "lat": 33.761509,
+    "lng": -117.854858,
+    "distance": 5.558517688633031
+  },
+  {
+    "name": "Choc Boys And Girls Club Clinic",
+    "address": "1000 W Highland St, Santa Ana, CA 92703",
+    "phone": "(714) 509-4837",
+    "type": "private",
+    "lat": 33.737312,
+    "lng": -117.89994,
+    "distance": 5.575424877802975
+  },
+  {
+    "name": "United Health Centers",
+    "address": "1570 7th St, Sanger Ca 93657",
+    "phone": "(559) 875-0557",
+    "type": "fqhc",
+    "lat": 36.706261,
+    "lng": -119.559593,
+    "distance": 9.291458121573026
+  },
+  {
+    "name": "Family Healthcare Network -squaw Va",
+    "address": "30924 E Kings Canyon Rd, Squaw Valley, CA 93675",
+    "phone": "(559) 332-9399",
+    "type": "fqhc",
+    "lat": 36.74028,
+    "lng": -119.247742,
+    "distance": 9.779100942960662
+  },
+  {
+    "name": "Ahmo-sanger",
+    "address": "1939 Academy Ave, Sanger, CA 93657",
+    "phone": "(559) 875-6900",
+    "type": "VFA",
+    "lat": 36.689522,
+    "lng": -119.55571,
+    "distance": 9.791251387251986
+  },
+  {
+    "name": "Sanger Family Hlth Ctr Of Uhc",
+    "address": "2502 Jensen Ave, Sanger, CA 93657",
+    "phone": "(559) 875-6000",
+    "type": "VFA",
+    "lat": 36.707249,
+    "lng": -119.572144,
+    "distance": 9.851001429029447
+  },
+  {
+    "name": "Jorge F Montoy",
+    "address": "2514 Jensen Ave, Ste 102, Sanger, CA 93657",
+    "phone": "(559) 875-6970",
+    "type": "private",
+    "lat": 36.707039,
+    "lng": -119.572441,
+    "distance": 9.872520865678247
+  },
+  {
+    "name": "Bautista Health Care",
+    "address": "2570 Jensen Ave, Ste 106, Sanger, CA 93657",
+    "phone": "(559) 875-3428",
+    "type": "private",
+    "lat": 36.707249,
+    "lng": -119.573509,
+    "distance": 9.916629745461906
+  },
+  {
+    "name": "Sanger Pediatrics, A Medical Corp",
+    "address": "2640 Jensen Ave, Sanger, CA 93657",
+    "phone": "(559) 876-1402",
+    "type": "private",
+    "lat": 36.706856,
+    "lng": -119.57489,
+    "distance": 9.996533761788971
+  },
+  {
+    "name": "United Hlth Ctrs Of Orange Cove",
+    "address": "445 11th St, Orange Cove, CA 93646",
+    "phone": "(559) 626-4031",
+    "type": "VFA",
+    "lat": 36.6273,
+    "lng": -119.319244,
+    "distance": 11.778496122151095
+  },
+  {
+    "name": "Ahmo-orange Cove",
+    "address": "1455 Park Blvd, Orange Cove, CA 93646",
+    "phone": "(559) 626-0882",
+    "type": "fqhc",
+    "lat": 36.624306,
+    "lng": -119.32473,
+    "distance": 11.82646145061567
+  },
+  {
+    "name": "Ahmo-reedley Children's",
+    "address": "1433 N Acacia Ave, Reedley, CA 93654",
+    "phone": "(559) 391-3100",
+    "type": "fqhc",
+    "lat": 36.608929,
+    "lng": -119.450981,
+    "distance": 11.845805827424822
+  },
+  {
+    "name": "Ahmo- Reedley Cypress",
+    "address": "372 W Cypress Ave, Reedley, CA 93654",
+    "phone": "(559) 391-3110",
+    "type": "fqhc",
+    "lat": 36.608219,
+    "lng": -119.452019,
+    "distance": 11.903240608067135
+  },
+  {
+    "name": "Omni Family Health",
+    "address": "1530 E Manning Ave, Reedley, CA 93654",
+    "phone": "(559) 638-8187",
+    "type": "fqhc",
+    "lat": 36.60416,
+    "lng": -119.432861,
+    "distance": 12.061153137307752
+  },
+  {
+    "name": "Orchard Medical Center",
+    "address": "555 6th St, Orange Cove, CA 93646",
+    "phone": "(559) 626-7118",
+    "type": "VFA",
+    "lat": 36.62529,
+    "lng": -119.312698,
+    "distance": 12.072585000690971
+  },
+  {
+    "name": "Family Healthcare Network - Reedley",
+    "address": "826 E Manning Ave, Reedley, CA 93654",
+    "phone": "(559) 638-0400",
+    "type": "fqhc",
+    "lat": 36.60437,
+    "lng": -119.44062,
+    "distance": 12.083886698789128
+  },
+  {
+    "name": "Ahmo-reedley",
+    "address": "811 E 11th St, Reedley, CA 93654",
+    "phone": "(559) 391-3120",
+    "type": "VFA",
+    "lat": 36.60323,
+    "lng": -119.440277,
+    "distance": 12.16031966856488
+  },
+  {
+    "name": "Javier Amu Md Professional Corp",
+    "address": "1093 11th St, Reedley, CA 93654",
+    "phone": "(559) 743-7340",
+    "type": "private",
+    "lat": 36.60112,
+    "lng": -119.444901,
+    "distance": 12.333779542859133
+  },
+  {
+    "name": "United Health Centers Of The Sjv",
+    "address": "601 3rd St, Parlier, CA 93648",
+    "phone": "(559) 646-7444",
+    "type": "fqhc",
+    "lat": 36.614861,
+    "lng": -119.527611,
+    "distance": 12.825133045266002
+  },
+  {
+    "name": "Ahmo-reedley Jefferson",
+    "address": "1150 E Washington Ave, Reedley, CA 93654",
+    "phone": "(559) 391-3105",
+    "type": "fqhc",
+    "lat": 36.591515,
+    "lng": -119.438118,
+    "distance": 12.954952572969775
+  },
+  {
+    "name": "United Health Centers - Parlier",
+    "address": "429 E Manning Ave, Parlier, CA 93648",
+    "phone": "(559) 646-0451",
+    "type": "VFA",
+    "lat": 36.60511,
+    "lng": -119.523026,
+    "distance": 13.30923291441485
+  },
+  {
+    "name": "Ahmo-parlier Newmark",
+    "address": "155 S Newmark Ave, Parlier, CA 93648",
+    "phone": "(559) 646-1200",
+    "type": "fqhc",
+    "lat": 36.606777,
+    "lng": -119.530273,
+    "distance": 13.38770547530706
+  },
+  {
+    "name": "Clovis Pediatric Group-n Med Ctr",
+    "address": "726 N Medical Center Dr Ste 205, Clovis, CA 93611",
+    "phone": "(559) 900-3045",
+    "type": "private",
+    "lat": 36.841541,
+    "lng": -119.660896,
+    "distance": 14.135305579109563
+  },
+  {
+    "name": "Community Pediatric Care",
+    "address": "782 N Medical Center Dr, Ste 309, Clovis, CA 93611",
+    "phone": "(559) 387-2150",
+    "type": "public",
+    "lat": 36.843792,
+    "lng": -119.661034,
+    "distance": 14.191166129771634
+  },
+  {
+    "name": "United Health Centers",
+    "address": "2497 Herndon Ave Ste 103, Clovis, CA 93611",
+    "phone": "(559) 701-8880",
+    "type": "fqhc",
+    "lat": 36.837685,
+    "lng": -119.666542,
+    "distance": 14.354554631509199
+  },
+  {
+    "name": "Magnolia Pediatrics",
+    "address": "2497 Herndon Ave Ste 101, Clovis, CA 93611",
+    "phone": "(559) 538-3070",
+    "type": "private",
+    "lat": 36.837719,
+    "lng": -119.66674,
+    "distance": 14.365745969790035
+  },
+  {
+    "name": "Albert L Lim, Md Office",
+    "address": "5755 E Kings Canyon Rd, Ste 104, Fresno, CA 93727",
+    "phone": "(559) 255-7777",
+    "type": "private",
+    "lat": 36.736599,
+    "lng": -119.69355,
+    "distance": 15.529460808944917
+  },
+  {
+    "name": "Valley Health Clinic Dba Dinuba Chc",
+    "address": "888 N Alta Ave, Dinuba, CA 93618",
+    "phone": "(559) 595-1000",
+    "type": "private",
+    "lat": 36.552872,
+    "lng": -119.394707,
+    "distance": 15.629505472048468
+  },
+  {
+    "name": "Clovis Pediatric Group Kings Canyon",
+    "address": "5606 E Kings Canyon Rd, Fresno, CA 93727",
+    "phone": "(559) 900-3045",
+    "type": "private",
+    "lat": 36.735538,
+    "lng": -119.699684,
+    "distance": 15.876844563023509
+  },
+  {
+    "name": "Sierra Vista Health Center",
+    "address": "510 Barstow Ave, Clovis, CA 93612",
+    "phone": "(559) 327-7976",
+    "type": "public",
+    "lat": 36.814838,
+    "lng": -119.702728,
+    "distance": 15.96079768287169
+  },
+  {
+    "name": "Ranu Pediatrics Inc",
+    "address": "5557 E Kings Canyon Rd, Fresno, CA 93727",
+    "phone": "(559) 251-7505",
+    "type": "private",
+    "lat": 36.73595,
+    "lng": -119.702095,
+    "distance": 16.002726685465685
+  },
+  {
+    "name": "Fhcn-dinuba",
+    "address": "324 N Vermont Ave, Dinuba, CA 93618",
+    "phone": "(559) 591-1224",
+    "type": "fqhc",
+    "lat": 36.547791,
+    "lng": -119.389069,
+    "distance": 16.007614395195944
+  },
+  {
+    "name": "United Health Centers Kings Canyon",
+    "address": "5539 E Kings Canyon Rd, Fresno, CA 93727",
+    "phone": "(800) 492-4227",
+    "type": "fqhc",
+    "lat": 36.736202,
+    "lng": -119.703072,
+    "distance": 16.052693226995583
+  },
+  {
+    "name": "Narayan Medical Clinic",
+    "address": "317 W El Monte Way, Dinuba, CA 93618",
+    "phone": "(559) 591-6200",
+    "type": "fqhc",
+    "lat": 36.546261,
+    "lng": -119.399673,
+    "distance": 16.065142554407302
+  },
+  {
+    "name": "Ahmo-dinuba West",
+    "address": "250 W El Monte Way, Dinuba, CA 93618",
+    "phone": "(559) 595-9890",
+    "type": "VFA",
+    "lat": 36.54567,
+    "lng": -119.396744,
+    "distance": 16.116918790266585
+  },
+  {
+    "name": "Ahmo- Dinuba Plaza",
+    "address": "444 W El Monte Way, Dinuba, CA 93618",
+    "phone": "(559) 591-4166",
+    "type": "fqhc",
+    "lat": 36.545319,
+    "lng": -119.39901,
+    "distance": 16.132466510857544
+  },
+  {
+    "name": "Dinuba Rural Health Center",
+    "address": "420 E El Monte Way, Dinuba, CA 93618",
+    "phone": "(559) 595-9500",
+    "type": "private",
+    "lat": 36.545574,
+    "lng": -119.390678,
+    "distance": 16.151422788793823
+  },
+  {
+    "name": "United Health Centers-westgate",
+    "address": "300 Westgate Way, Dinuba, CA 93618",
+    "phone": "(559) 725-3500",
+    "type": "fqhc",
+    "lat": 36.544518,
+    "lng": -119.407814,
+    "distance": 16.16347589595202
+  },
+  {
+    "name": "Kaweah Delta Dinuba Health Clinic",
+    "address": "355 Monte Vista Dr, Ste A, Dinuba, CA 93618",
+    "phone": "(559) 595-7650",
+    "type": "fqhc",
+    "lat": 36.544319,
+    "lng": -119.404694,
+    "distance": 16.184074527019494
+  },
+  {
+    "name": "Ahmo- Dinuba",
+    "address": "1451 E El Monte Way, Dinuba, CA 93618",
+    "phone": "(559) 591-3342",
+    "type": "VFA",
+    "lat": 36.545876,
+    "lng": -119.379761,
+    "distance": 16.198502986764147
+  },
+  {
+    "name": "United Health Centers",
+    "address": "645 S Minnewawa Ave, Fresno, CA 93727",
+    "phone": "(800) 492-4227",
+    "type": "fqhc",
+    "lat": 36.736393,
+    "lng": -119.708656,
+    "distance": 16.354479214033752
+  },
+  {
+    "name": "Aria Community Health Center Dinuba",
+    "address": "271 N L St, Dinuba, CA 93618",
+    "phone": "(559) 591-1820",
+    "type": "fqhc",
+    "lat": 36.542229,
+    "lng": -119.392326,
+    "distance": 16.373433460842808
+  },
+  {
+    "name": "Clovis Community Health Center",
+    "address": "180 W Shaw Ave, Ste B, Clovis, CA 93612",
+    "phone": "(559) 203-6600",
+    "type": "VFA",
+    "lat": 36.808132,
+    "lng": -119.712662,
+    "distance": 16.4399358319243
+  },
+  {
+    "name": "United Health Centers Of Sjv",
+    "address": "313 W Shaw Ave, Clovis, CA 93612",
+    "phone": "(559) 701-8880",
+    "type": "fqhc",
+    "lat": 36.80891,
+    "lng": -119.716187,
+    "distance": 16.640118902242662
+  },
+  {
+    "name": "Dr Ochoa Family Clinic",
+    "address": "3275 Mccall Ave, Ste 102, Selma, CA 93662",
+    "phone": "(559) 896-3808",
+    "type": "fqhc",
+    "lat": 36.583199,
+    "lng": -119.611061,
+    "distance": 17.21373445137152
+  },
+  {
+    "name": "North Fine Chc",
+    "address": "1945 N Fine Ave Ste 100, Fresno, CA 93727",
+    "phone": "(559) 457-5650",
+    "type": "VFA",
+    "lat": 36.768551,
+    "lng": -119.729424,
+    "distance": 17.25528706476844
+  },
+  {
+    "name": "Childrens Medical Center Of Fresno",
+    "address": "5043 E Kings Canyon Rd, Ste 101, Fresno, CA 93727",
+    "phone": "(559) 455-1500",
+    "type": "private",
+    "lat": 36.736221,
+    "lng": -119.725571,
+    "distance": 17.278859493049964
+  },
+  {
+    "name": "Clovis Pediatric Group - E Ashlan",
+    "address": "4910 E Ashlan Ave Ste 116, Fresno, CA 93726",
+    "phone": "(559) 228-2990",
+    "type": "private",
+    "lat": 36.793671,
+    "lng": -119.730927,
+    "distance": 17.35500924170323
+  },
+  {
+    "name": "United Health Centers - Church",
+    "address": "5090 E Church Ave, Fresno, CA 93725",
+    "phone": "(559) 646-6618",
+    "type": "fqhc",
+    "lat": 36.713711,
+    "lng": -119.724411,
+    "distance": 17.547788083255533
+  },
+  {
+    "name": "Virender Kaleka Md",
+    "address": "12572 Avenue 416, Ste B, Orosi, CA 93647",
+    "phone": "(559) 528-4779",
+    "type": "private",
+    "lat": 36.545162,
+    "lng": -119.292206,
+    "distance": 17.551278894766696
+  },
+  {
+    "name": "Green Valley Medical Clinic",
+    "address": "41689 Road 128, Orosi, CA 93647",
+    "phone": "(559) 528-1777",
+    "type": "fqhc",
+    "lat": 36.546768,
+    "lng": -119.287331,
+    "distance": 17.559089868976546
+  },
+  {
+    "name": "Ahmo-selma",
+    "address": "1041 Rose Ave, Selma, CA 93662",
+    "phone": "(559) 856-6090",
+    "type": "VFA",
+    "lat": 36.56797,
+    "lng": -119.59623,
+    "distance": 17.575277050665687
+  }
+]
