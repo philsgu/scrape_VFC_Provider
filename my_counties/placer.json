@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Sutter  Pediatrics",
+    "address": "11795 Education St, Ste 100, Auburn, CA 95602",
+    "phone": "(530) 886-2300",
+    "type": "private",
+    "lat": 38.945038,
+    "lng": -121.098946,
+    "distance": 0.6536682092889335
+  },
+  {
+    "name": "Western Sierra Medical Clinic Inc",
+    "address": "11720 Education St, Ste 3 Auburn, CA 95602",
+    "phone": "(530) 537-3000",
+    "type": "fqhc",
+    "lat": 38.944038,
+    "lng": -121.102043,
+    "distance": 0.7617980710218499
+  },
+  {
+    "name": "Placer County Public Health",
+    "address": "11459 F Ave, Auburn, CA 95603",
+    "phone": "(530) 889-7169",
+    "type": "public",
+    "lat": 38.936218,
+    "lng": -121.103867,
+    "distance": 1.3063991806695021
+  },
+  {
+    "name": "Chapa-de Indian Hlth Program",
+    "address": "11670 Atwood Rd, Auburn, CA 95603",
+    "phone": "(530) 887-2810",
+    "type": "public",
+    "lat": 38.93338,
+    "lng": -121.098717,
+    "distance": 1.4547079307397608
+  },
+  {
+    "name": "Stallant Health",
+    "address": "20601 W Paoli Ln, Weimar, CA 95736",
+    "phone": "(530) 637-4025",
+    "type": "fqhc",
+    "lat": 39.036999,
+    "lng": -120.976433,
+    "distance": 8.63917218606071
+  },
+  {
+    "name": "Divide Wellness Center",
+    "address": "6065 State Highway 193, Georgetown, CA 95634",
+    "phone": "(530) 333-2548",
+    "type": "fqhc",
+    "lat": 38.908428,
+    "lng": -120.85173,
+    "distance": 13.571209883826084
+  },
+  {
+    "name": "Lakshmi K Avala Md",
+    "address": "6000 Fairway Dr, Ste 3 Rocklin, CA 95677",
+    "phone": "(916) 782-3786",
+    "type": "private",
+    "lat": 38.792763,
+    "lng": -121.262527,
+    "distance": 14.277232018030713
+  },
+  {
+    "name": "Uc Davis Health Roseville",
+    "address": "1620 E Roseville Pkwy, Ste 200, Roseville, CA 95661",
+    "phone": "(916) 783-7109",
+    "type": "private",
+    "lat": 38.748596,
+    "lng": -121.242516,
+    "distance": 16.228693076372785
+  },
+  {
+    "name": "Sutter Roseville Peds",
+    "address": "3100 Douglas Blvd, Fl 1, Roseville, CA 95661",
+    "phone": "(916) 782-5956",
+    "type": "private",
+    "lat": 38.74329,
+    "lng": -121.235023,
+    "distance": 16.364422960520105
+  },
+  {
+    "name": "Kaiser Permanente, Roseville",
+    "address": "1840 Sierra Gardens Dr, Roseville, CA 95661",
+    "phone": "(916) 787-6465",
+    "type": "private",
+    "lat": 38.74781,
+    "lng": -121.261124,
+    "distance": 16.78038285912755
+  },
+  {
+    "name": "Wsmc Penn Valley",
+    "address": "10544 Spenceville Rd, Penn Valley, CA 95946",
+    "phone": "(530) 274-9762",
+    "type": "fqhc",
+    "lat": 39.19635,
+    "lng": -121.178093,
+    "distance": 17.272115532554235
+  },
+  {
+    "name": "Nevada County Health Department",
+    "address": "500 Crown Point Cir, Ste 110, Grass Valley, CA 95945",
+    "phone": "(530) 265-7049",
+    "type": "public",
+    "lat": 39.219849,
+    "lng": -121.031464,
+    "distance": 15.298474683512454
+  },
+  {
+    "name": "Sierra Care Physicians Pediatrics",
+    "address": "140 Litton Dr, Ste 100, Grass Valley, CA 95945",
+    "phone": "(530) 272-9780",
+    "type": "private",
+    "lat": 39.233677,
+    "lng": -121.052773,
+    "distance": 16.020506068580726
+  },
+  {
+    "name": "Chapa De Indian Health Program, Inc",
+    "address": "1350 E Main St, Grass Valley, CA 95945",
+    "phone": "(530) 477-1727",
+    "type": "public",
+    "lat": 39.233086,
+    "lng": -121.046097,
+    "distance": 16.037349853952676
+  },
+  {
+    "name": "Western Sierra Med Clinic",
+    "address": "844 Old Tunnel Rd, Grass Valley, CA 95945",
+    "phone": "(530) 274-9762",
+    "type": "fqhc",
+    "lat": 39.236179,
+    "lng": -121.031197,
+    "distance": 16.40159089367182
+  },
+  {
+    "name": "Roseville Pediatric Medical Group",
+    "address": "902 Cirby Way, Roseville, CA 95661",
+    "phone": "(916) 789-1798",
+    "type": "private",
+    "lat": 38.729137,
+    "lng": -121.276291,
+    "distance": 15.47973881298132
+  },
+  {
+    "name": "Mission Care Pediatrics",
+    "address": "2170 E Bidwell St, Ste 100, Folsom, CA 95630",
+    "phone": "(916) 983-8696",
+    "type": "private",
+    "lat": 38.667309,
+    "lng": -121.14357,
+    "distance": 16.571711653091903
+  },
+  {
+    "name": "Wellspace Health",
+    "address": "7777 Sunrise Blvd, Ste 2500 Citrus Heights, CA 95610",
+    "phone": "(916) 737-5555",
+    "type": "fqhc",
+    "lat": 38.706535,
+    "lng": -121.273407,
+    "distance": 16.64170077017969
+  },
+  {
+    "name": "Nativity Pediarics, Inc",
+    "address": "740 Oak Avenue Pkwy, Ste 145, Folsom, CA 95630",
+    "phone": "(916) 984-9588",
+    "type": "private",
+    "lat": 38.665184,
+    "lng": -121.135963,
+    "distance": 16.66058748841763
+  },
+  {
+    "name": "Shingle Springs Tribal Hlth Prgm",
+    "address": "5168 Honpie Rd, Placerville, CA 95667",
+    "phone": "(530) 387-4975",
+    "type": "public",
+    "lat": 38.694649,
+    "lng": -120.902077,
+    "distance": 17.901500120350175
+  },
+  {
+    "name": "Marshall Family Medicine",
+    "address": "3581 Palmer Dr, Ste 602, Cameron Park, CA 95682",
+    "phone": "(530) 672-7000",
+    "type": "private",
+    "lat": 38.662022,
+    "lng": -120.964706,
+    "distance": 18.2048614495085
+  },
+  {
+    "name": "Marshall Center For Primary Care",
+    "address": "5137 Golden Foothill Pkwy, Ste 120, El Dorado Hills, CA 9576",
+    "phone": "(916) 933-8010",
+    "type": "private",
+    "lat": 38.640129,
+    "lng": -121.069588,
+    "distance": 18.320968038473683
+  },
+  {
+    "name": "El Dorado Co Hhsa Public Health",
+    "address": "931 Spring St, Placerville, CA 95667",
+    "phone": "(530) 621-6155",
+    "type": "public",
+    "lat": 38.733688,
+    "lng": -120.802788,
+    "distance": 20.13944437627846
+  },
+  {
+    "name": "Marshall Sierra Primary Medicine",
+    "address": "4341b Golden Center Dr, Placerville, CA 95667",
+    "phone": "(530) 621-3600",
+    "type": "private",
+    "lat": 38.705826,
+    "lng": -120.826897,
+    "distance": 18.137963877921255
+  },
+  {
+    "name": "Marshall Center For Primary Care",
+    "address": "4341a Golden Center Dr, Placerville, CA 95667",
+    "phone": "(530) 626-1144",
+    "type": "private",
+    "lat": 38.706001,
+    "lng": -120.826485,
+    "distance": 18.143307588799512
+  },
+  {
+    "name": "Marshall Center For  Primary Care",
+    "address": "1095 Marshall Way, Placerville, CA 95667",
+    "phone": "(530) 626-2920",
+    "type": "private",
+    "lat": 38.72578,
+    "lng": -120.791115,
+    "distance": 18.504596939330355
+  },
+  {
+    "name": "Wellspace Health San Juan",
+    "address": "5959 Greenback Ln, Ste 500, Citrus Heights, CA 95621",
+    "phone": "(916) 737-5555",
+    "type": "fqhc",
+    "lat": 38.681126,
+    "lng": -121.324623,
+    "distance": 21.476560372563316
+  },
+  {
+    "name": "Lakshmi K Avala Md Inc",
+    "address": "5959 Greenback Ln Ste 210, Citrus Heights, CA 95621",
+    "phone": "(916) 722-4791",
+    "type": "private",
+    "lat": 38.681126,
+    "lng": -121.324623,
+    "distance": 21.476560372563316
+  },
+  {
+    "name": "Western Sierra Medical Center",
+    "address": "3070 Camino Heights Dr, Ste B, Camino, CA 95709",
+    "phone": "(530) 651-2000",
+    "type": "private",
+    "lat": 38.735973,
+    "lng": -120.711311,
+    "distance": 21.503944453959427
+  },
+  {
+    "name": "Pediatric Center Of Carmichael",
+    "address": "6633 Coyle Ave, Ste 2, Carmichael, CA 95608",
+    "phone": "(916) 965-6560",
+    "type": "private",
+    "lat": 38.668293,
+    "lng": -121.309212,
+    "distance": 21.571085279157547
+  }
+]

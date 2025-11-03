@@ -1,0 +1,551 @@
+[
+  {
+    "name": "Family Health Center",
+    "address": "455 Oconnor Dr, Ste 200, San Jose, CA 95128",
+    "phone": "(408) 445-3400",
+    "type": "VFA",
+    "lat": 37.326542,
+    "lng": -121.940239,
+    "distance": 2.074002332866778
+  },
+  {
+    "name": "Mina Sehhat",
+    "address": "2101 Forest Ave, Ste 104, San Jose, CA 95128",
+    "phone": "(408) 975-7680",
+    "type": "private",
+    "lat": 37.327095,
+    "lng": -121.936935,
+    "distance": 2.1186403356903556
+  },
+  {
+    "name": "Farda Qureshi Md Inc",
+    "address": "2101 Forest Ave, Ste 117, San Jose, CA 95128",
+    "phone": "(408) 730-2200",
+    "type": "private",
+    "lat": 37.327095,
+    "lng": -121.936935,
+    "distance": 2.1186403356903556
+  },
+  {
+    "name": "Fareeda Adeeb",
+    "address": "275 Oconnor Dr Ste B, San Jose, CA 95128",
+    "phone": "(408) 279-8798",
+    "type": "private",
+    "lat": 37.32542,
+    "lng": -121.940178,
+    "distance": 2.146661008100717
+  },
+  {
+    "name": "Nayyara  Dawood Md Pediatrics",
+    "address": "275 Oconnor Dr, Ste C, San Jose, CA 95128",
+    "phone": "(408) 279-8786",
+    "type": "private",
+    "lat": 37.32542,
+    "lng": -121.940178,
+    "distance": 2.146661008100717
+  },
+  {
+    "name": "Ihc- Pediatric Clinic",
+    "address": "2039 Forest Ave, Ste 105, San Jose, CA 95128",
+    "phone": "(408) 947-2929",
+    "type": "public",
+    "lat": 37.3274,
+    "lng": -121.934181,
+    "distance": 2.176442912630601
+  },
+  {
+    "name": "Planned Parenthood Mar Monte",
+    "address": "1691 The Alameda, San Jose, CA 95126",
+    "phone": "(408) 795-3675",
+    "type": "public",
+    "lat": 37.33699,
+    "lng": -121.919662,
+    "distance": 2.282226511356904
+  },
+  {
+    "name": "Sima Stein",
+    "address": "105 N Bascom Ave, Ste 102, San Jose, CA 95128",
+    "phone": "(408) 292-0100",
+    "type": "private",
+    "lat": 37.325829,
+    "lng": -121.932373,
+    "distance": 2.321355762835338
+  },
+  {
+    "name": "Kaiser Perm Santa Clara Homestead",
+    "address": "710 Lawrence Expy Pharmacy, Santa Clara, CA 95051",
+    "phone": "(408) 851-1000",
+    "type": "private",
+    "lat": 37.336342,
+    "lng": -121.997475,
+    "distance": 2.6264893661368904
+  },
+  {
+    "name": "Santa Clara County Health Dept",
+    "address": "976 Lenzen Ave, Ste 1400, San Jose, CA 95126",
+    "phone": "(408) 792-5170",
+    "type": "public",
+    "lat": 37.33429,
+    "lng": -121.911789,
+    "distance": 2.749645559827236
+  },
+  {
+    "name": "Aaci Health Clinic",
+    "address": "2400 Moorpark Ave, Ste 319, San Jose, CA 95128",
+    "phone": "(408) 975-2763",
+    "type": "VFA",
+    "lat": 37.315708,
+    "lng": -121.937103,
+    "distance": 2.832976079647647
+  },
+  {
+    "name": "Vhc Bascom Pediatrics",
+    "address": "750 S Bascom Ave, Ste 230, San Jose, CA 95128",
+    "phone": "(408) 793-6528",
+    "type": "fqhc",
+    "lat": 37.314045,
+    "lng": -121.931763,
+    "distance": 3.0525819356996626
+  },
+  {
+    "name": "Scvmc-family Baby Unit",
+    "address": "871 Enborg Ct, Unit 200, San Jose, CA 95128",
+    "phone": "(408) 885-2395",
+    "type": "public",
+    "lat": 37.311474,
+    "lng": -121.934296,
+    "distance": 3.1613686038649744
+  },
+  {
+    "name": "Scvmc-nicu",
+    "address": "871 Enborg Ct, Unit 200, San Jose, CA 95128",
+    "phone": "(408) 793-6528",
+    "type": "public",
+    "lat": 37.31142,
+    "lng": -121.933846,
+    "distance": 3.1738656785956016
+  },
+  {
+    "name": "St James Health Center",
+    "address": "55 E Julian St, San Jose, CA 95112",
+    "phone": "(408) 918-2634",
+    "type": "fqhc",
+    "lat": 37.341179,
+    "lng": -121.892632,
+    "distance": 3.5509866594116177
+  },
+  {
+    "name": "Farda Qureshi Md Inc",
+    "address": "500 E Remington Dr, Ste 15, Sunnyvale, CA 94087",
+    "phone": "(408) 730-2200",
+    "type": "private",
+    "lat": 37.358261,
+    "lng": -122.028061,
+    "distance": 4.012143828241644
+  },
+  {
+    "name": "Indian Health Center Of Scv",
+    "address": "1333 Meridian Ave, San Jose, CA 95125",
+    "phone": "(408) 445-3400",
+    "type": "VFA",
+    "lat": 37.301651,
+    "lng": -121.914169,
+    "distance": 4.268083713550771
+  },
+  {
+    "name": "Minh Thai",
+    "address": "60 N 13th St Ste B, San Jose, CA 95112",
+    "phone": "(408) 294-2616",
+    "type": "public",
+    "lat": 37.343079,
+    "lng": -121.878479,
+    "distance": 4.282522722573573
+  },
+  {
+    "name": "Joann Nguyen Md Inc",
+    "address": "652 E Santa Clara St, San Jose, CA 95112",
+    "phone": "(408) 294-2868",
+    "type": "private",
+    "lat": 37.3424,
+    "lng": -121.876793,
+    "distance": 4.382126603584859
+  },
+  {
+    "name": "Vhc At Downtown Pharmacy Dept",
+    "address": "777 E Santa Clara St, Ste 1004, San Jose, CA 95112",
+    "phone": "(408) 885-2395",
+    "type": "fqhc",
+    "lat": 37.344021,
+    "lng": -121.875679,
+    "distance": 4.423214147687288
+  },
+  {
+    "name": "Gardner Downtown Health Center",
+    "address": "725 E Santa Clara St, Ste 103, San Jose, CA 95112",
+    "phone": "(669) 444-5464",
+    "type": "fqhc",
+    "lat": 37.343529,
+    "lng": -121.875778,
+    "distance": 4.4233360293620345
+  },
+  {
+    "name": "North East Medical Services",
+    "address": "1870 Lundy Ave, San Jose, CA 95131",
+    "phone": "(408) 573-9686",
+    "type": "VFA",
+    "lat": 37.392841,
+    "lng": -121.889641,
+    "distance": 4.486163332374989
+  },
+  {
+    "name": "Mayview Community Health Center",
+    "address": "785 Morse Ave, Sunnyvale, CA 94085",
+    "phone": "(408) 746-0455",
+    "type": "VFA",
+    "lat": 37.394161,
+    "lng": -122.020142,
+    "distance": 4.514312020456312
+  },
+  {
+    "name": "Vhc At Lundy Pharmacy",
+    "address": "1996 Lundy Ave, Ste B, San Jose, CA 95131",
+    "phone": "(669) 220-3030",
+    "type": "private",
+    "lat": 37.395237,
+    "lng": -121.890182,
+    "distance": 4.563509258095505
+  },
+  {
+    "name": "San Jose High Neighborhood Health C",
+    "address": "1149 E Julian St, Bldg H, San Jose, CA 95116",
+    "phone": "(408) 535-6001",
+    "type": "VFA",
+    "lat": 37.350815,
+    "lng": -121.871658,
+    "distance": 4.5942994233473975
+  },
+  {
+    "name": "Washington Neighborhood Clinic",
+    "address": "100 Oak St, Bldg F3 Clinic, San Jose, CA 95110",
+    "phone": "(408) 295-0980",
+    "type": "VFA",
+    "lat": 37.321739,
+    "lng": -121.881699,
+    "distance": 4.615764280819932
+  },
+  {
+    "name": "Gardner Health Center Inc",
+    "address": "195 E Virginia St, San Jose, CA 95112",
+    "phone": "(408) 918-5517",
+    "type": "fqhc",
+    "lat": 37.326099,
+    "lng": -121.877823,
+    "distance": 4.670390486547952
+  },
+  {
+    "name": "Geetha B Thippeswamy",
+    "address": "10430 S De Anza Blvd, Ste 130, Cupertino, CA 95014",
+    "phone": "(408) 865-1015",
+    "type": "private",
+    "lat": 37.317139,
+    "lng": -122.031158,
+    "distance": 4.89258286729145
+  },
+  {
+    "name": "Aaci Health Center",
+    "address": "749 Story Rd Ste 50, San Jose, CA 95122",
+    "phone": "(408) 975-2763",
+    "type": "fqhc",
+    "lat": 37.328545,
+    "lng": -121.861206,
+    "distance": 5.4571518271462125
+  },
+  {
+    "name": "Jt Family Care",
+    "address": "1855 Alum Rock Ave, Ste C, San Jose, CA 95116",
+    "phone": "(408) 254-7524",
+    "type": "private",
+    "lat": 37.354282,
+    "lng": -121.853317,
+    "distance": 5.595991477969022
+  },
+  {
+    "name": "Vhc East Valley",
+    "address": "1993a Mckee Rd, San Jose, CA 95116",
+    "phone": "(408) 793-2173",
+    "type": "fqhc",
+    "lat": 37.364731,
+    "lng": -121.851868,
+    "distance": 5.722543100883256
+  },
+  {
+    "name": "Fardis Shahrivar",
+    "address": "200 Jose Figueres Ave, Ste 295, San Jose, CA 95116",
+    "phone": "(408) 729-4473",
+    "type": "private",
+    "lat": 37.361622,
+    "lng": -121.850487,
+    "distance": 5.7746006859059795
+  },
+  {
+    "name": "Erlinda  Reyes",
+    "address": "200 Jose Figueres Ave, Ste 220, San Jose, CA 95116",
+    "phone": "(408) 251-9090",
+    "type": "private",
+    "lat": 37.361622,
+    "lng": -121.850487,
+    "distance": 5.7746006859059795
+  },
+  {
+    "name": "Krishnamshetty",
+    "address": "200 Jose Figueres Ave, Ste 435, San Jose, CA 95116",
+    "phone": "(408) 258-4244",
+    "type": "private",
+    "lat": 37.361622,
+    "lng": -121.850487,
+    "distance": 5.7746006859059795
+  },
+  {
+    "name": "Bay Area Primary Care",
+    "address": "200 Jose Figueres Ave, Ste 285, San Jose, CA 95116",
+    "phone": "(408) 498-4567",
+    "type": "private",
+    "lat": 37.361622,
+    "lng": -121.850487,
+    "distance": 5.7746006859059795
+  },
+  {
+    "name": "Dr Yaminali M Javid",
+    "address": "200 Jose Figueres Ave, Ste 320, San Jose, CA 95116",
+    "phone": "(408) 251-6748",
+    "type": "private",
+    "lat": 37.361622,
+    "lng": -121.850487,
+    "distance": 5.7746006859059795
+  },
+  {
+    "name": "One Health Primary Care",
+    "address": "227 N Jackson Ave, Ste 235, San Jose, CA 95116",
+    "phone": "(408) 270-4582",
+    "type": "private",
+    "lat": 37.364273,
+    "lng": -121.850624,
+    "distance": 5.786374792115498
+  },
+  {
+    "name": "Kapoor  Naresh K Md",
+    "address": "175 N Jackson Ave, Ste 212, San Jose, CA 95116",
+    "phone": "(408) 254-8280",
+    "type": "private",
+    "lat": 37.36203,
+    "lng": -121.847427,
+    "distance": 5.94448593518564
+  },
+  {
+    "name": "Virender Sachdeva, Md",
+    "address": "175 N Jackson Ave, Ste 108, San Jose, CA 95116",
+    "phone": "(408) 926-1340",
+    "type": "private",
+    "lat": 37.36203,
+    "lng": -121.847427,
+    "distance": 5.94448593518564
+  },
+  {
+    "name": "Jerry Mercado Md",
+    "address": "2360 Mckee Rd Ste 4, San Jose, CA 95116",
+    "phone": "(408) 729-0701",
+    "type": "private",
+    "lat": 37.366371,
+    "lng": -121.847771,
+    "distance": 5.960765850120471
+  },
+  {
+    "name": "Di Dac Tran",
+    "address": "2395 Montpelier Dr, Ste 6, San Jose, CA 95116",
+    "phone": "(408) 272-9228",
+    "type": "private",
+    "lat": 37.365639,
+    "lng": -121.847237,
+    "distance": 5.982874507687382
+  },
+  {
+    "name": "Bay Area Community Health Yerba Bue",
+    "address": "1855 Lucretia Ave, Rm 1100, San Jose, CA 95122",
+    "phone": "(408) 729-9700",
+    "type": "fqhc",
+    "lat": 37.320339,
+    "lng": -121.848793,
+    "distance": 6.294062386579235
+  },
+  {
+    "name": "Franklin-mckinley Neighborhood Heal",
+    "address": "645 Wool Creek Dr Ste 86, San Jose, CA 95112",
+    "phone": "(408) 283-6051",
+    "type": "public",
+    "lat": 37.31514,
+    "lng": -121.849503,
+    "distance": 6.400671763269288
+  },
+  {
+    "name": "Alicia Vazquez",
+    "address": "2820 Alum Rock Ave, Ste 50, San Jose, CA 95127",
+    "phone": "(408) 937-1894",
+    "type": "private",
+    "lat": 37.362919,
+    "lng": -121.833138,
+    "distance": 7.28081975664135
+  },
+  {
+    "name": "Mayview Community Health Center",
+    "address": "900 Miramonte Ave, Fl 2, Mountain View, CA 94040",
+    "phone": "(650) 965-3323",
+    "type": "VFA",
+    "lat": 37.38718,
+    "lng": -122.088661,
+    "distance": 7.41908872816993
+  },
+  {
+    "name": "Comprecare Health Center",
+    "address": "3030 Alum Rock Ave, San Jose, CA 95127",
+    "phone": "(408) 272-6300",
+    "type": "fqhc",
+    "lat": 37.364498,
+    "lng": -121.828773,
+    "distance": 7.461174017947318
+  },
+  {
+    "name": "Bay Area Community Health Bach Fam",
+    "address": "1066 S White Rd, San Jose, CA 95127",
+    "phone": "(408) 729-9700",
+    "type": "VFA",
+    "lat": 37.357643,
+    "lng": -121.820282,
+    "distance": 8.0734355825068
+  },
+  {
+    "name": "Trach P Dang, Md",
+    "address": "2114 Senter Rd, Ste 24, San Jose, CA 95112",
+    "phone": "(408) 293-2188",
+    "type": "private",
+    "lat": 37.31181,
+    "lng": -121.851318,
+    "distance": 5.734079627100103
+  },
+  {
+    "name": "Tully Health Center",
+    "address": "621 Tully Rd, # A105, San Jose, CA 95111",
+    "phone": "(408) 279-2988",
+    "type": "private",
+    "lat": 37.30925,
+    "lng": -121.84684,
+    "distance": 5.9661372341485155
+  },
+  {
+    "name": "Planned Parenthood- Blossom Hill",
+    "address": "5440 Thornwood Dr, Ste G, San Jose, CA 95123",
+    "phone": "(408) 574-1039",
+    "type": "public",
+    "lat": 37.25375,
+    "lng": -121.860443,
+    "distance": 6.264659431426587
+  },
+  {
+    "name": "East Valley Community Clinic",
+    "address": "2470 Alvin Ave, Ste 60, San Jose, CA 95121",
+    "phone": "(408) 270-8839",
+    "type": "public",
+    "lat": 37.319729,
+    "lng": -121.826653,
+    "distance": 7.146593700954273
+  },
+  {
+    "name": "Overfelt High School Clinic",
+    "address": "1835 Cunningham Ave, San Jose, CA 95122",
+    "phone": "(408) 347-5988",
+    "type": "VFA",
+    "lat": 37.331921,
+    "lng": -121.829903,
+    "distance": 7.1486717799170005
+  },
+  {
+    "name": "Bay Area Community Health Story Rd",
+    "address": "2880 Story Rd, Fl 1, San Jose, CA 95127",
+    "phone": "(408) 729-9700",
+    "type": "VFA",
+    "lat": 37.353371,
+    "lng": -121.82235,
+    "distance": 4.55092296724556
+  },
+  {
+    "name": "Dung My Phan Md",
+    "address": "1693 Flanigan Dr, Ste 100, San Jose, CA 95121",
+    "phone": "(408) 274-3881",
+    "type": "private",
+    "lat": 37.319,
+    "lng": -121.823601,
+    "distance": 5.096951752036694
+  },
+  {
+    "name": "Planned Parenthood",
+    "address": "225 San Antonio Rd, Ste 11, Mountain View, CA 94040",
+    "phone": "(650) 947-4359",
+    "type": "private",
+    "lat": 37.406078,
+    "lng": -122.11013,
+    "distance": 6.789175329216017
+  },
+  {
+    "name": "Bay Area Community Health Mt Pleas",
+    "address": "1650 S White Rd, San Jose, CA 95127",
+    "phone": "(669) 263-8321",
+    "type": "VFA",
+    "lat": 37.34647,
+    "lng": -121.810249,
+    "distance": 6.560522541694934
+  },
+  {
+    "name": "Mayview Community Health Center",
+    "address": "270 Grant Ave, Ste 102, Palo Alto, CA 94306",
+    "phone": "(650) 327-8717",
+    "type": "VFA",
+    "lat": 37.427017,
+    "lng": -122.142288,
+    "distance": 7.688342438313965
+  },
+  {
+    "name": "Ravenswood Family Health Center",
+    "address": "1885 Bay Rd, East Palo Alto, CA 94303",
+    "phone": "(650) 330-7403",
+    "type": "VFA",
+    "lat": 37.472946,
+    "lng": -122.132477,
+    "distance": 8.449315793309738
+  },
+  {
+    "name": "Khoi Nguyen Do",
+    "address": "1693 Flanigan Dr, Ste 101, San Jose, CA 95121",
+    "phone": "(408) 274-1339",
+    "type": "private",
+    "lat": 37.319,
+    "lng": -121.823601,
+    "distance": 4.60110751889244
+  },
+  {
+    "name": "Hien Ngoc Truong",
+    "address": "2593 S King Rd Ste 4, San Jose, CA 95122",
+    "phone": "(408) 532-0960",
+    "type": "private",
+    "lat": 37.318588,
+    "lng": -121.82328,
+    "distance": 4.6120219281252846
+  },
+  {
+    "name": "Indian Health Center -silver Creek",
+    "address": "1642 E Capitol Expy, San Jose, CA 95121",
+    "phone": "(408) 445-3400",
+    "type": "VFA",
+    "lat": 37.305691,
+    "lng": -121.811058,
+    "distance": 5.175370857193906
+  }
+]

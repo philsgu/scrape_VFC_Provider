@@ -1,0 +1,515 @@
+[
+  {
+    "name": "Mabie First St Healthcare Center",
+    "address": "321 1st St, Hollister, CA 95023",
+    "phone": "(831) 638-1652",
+    "type": "fqhc",
+    "lat": 36.855309,
+    "lng": -121.402542,
+    "distance": 0.1909848124927382
+  },
+  {
+    "name": "Mabie Healthcare Center",
+    "address": "991 Fourth St, Hollister, CA 95023",
+    "phone": "(831) 636-3277",
+    "type": "fqhc",
+    "lat": 36.852257,
+    "lng": -121.414711,
+    "distance": 0.7366109569375004
+  },
+  {
+    "name": "San Benito Health Foundation",
+    "address": "351 Felice Dr, Hollister, CA 95023",
+    "phone": "(831) 637-5306",
+    "type": "VFA",
+    "lat": 36.853321,
+    "lng": -121.416389,
+    "distance": 0.829882156580556
+  },
+  {
+    "name": "San Benito Co Public Health Svcs",
+    "address": "351 Tres Pinos Rd Ste 202a, Hollister, CA 95023",
+    "phone": "(831) 637-5367",
+    "type": "public",
+    "lat": 36.83815,
+    "lng": -121.395821,
+    "distance": 1.0516403567581913
+  },
+  {
+    "name": "Hollister Pediatrics",
+    "address": "930 Sunnyslope Rd Ste E3, Hollister, CA 95023",
+    "phone": "(831) 630-1477",
+    "type": "private",
+    "lat": 36.83984,
+    "lng": -121.385208,
+    "distance": 1.2614390168139018
+  },
+  {
+    "name": "Barragan Family Health Care And",
+    "address": "930 Sunnyslope Rd Ste A2, Hollister, CA 95023",
+    "phone": "(831) 637-2022",
+    "type": "fqhc",
+    "lat": 36.839783,
+    "lng": -121.385025,
+    "distance": 1.271418116297391
+  },
+  {
+    "name": "Hazel Hawkins Comm Health Clinic",
+    "address": "930 Sunset Dr, Ste 3, Hollister, CA 95023",
+    "phone": "(831) 636-2664",
+    "type": "fqhc",
+    "lat": 36.835442,
+    "lng": -121.38562,
+    "distance": 1.4776603500009649
+  },
+  {
+    "name": "Marni Jonna Friedman, Md",
+    "address": "901 Sunset Dr, Ste 6, Hollister, CA 95023",
+    "phone": "(831) 637-7466",
+    "type": "private",
+    "lat": 36.834911,
+    "lng": -121.38633,
+    "distance": 1.485018412086226
+  },
+  {
+    "name": "Comm Clinic At San Juan Bautista",
+    "address": "301 The Alameda, Ste B3, San Juan Bautista, CA 95045",
+    "phone": "(831) 623-4615",
+    "type": "private",
+    "lat": 36.841309,
+    "lng": -121.534729,
+    "distance": 7.4142768378735635
+  },
+  {
+    "name": "Bay Area Community Health Glenview",
+    "address": "480 W 8th St Ste 104, Gilroy, CA 95020",
+    "phone": "(669) 205-4498",
+    "type": "VFA",
+    "lat": 37.001526,
+    "lng": -121.572754,
+    "distance": 13.976297268329217
+  },
+  {
+    "name": "Gardner South County Health Center",
+    "address": "7526 Monterey St, Gilroy, CA 95020",
+    "phone": "(408) 848-9423",
+    "type": "VFA",
+    "lat": 37.008629,
+    "lng": -121.569,
+    "distance": 14.205001542895683
+  },
+  {
+    "name": "Joseph C Barbara",
+    "address": "7880 Wren Ave, Ste C133, Gilroy, CA 95020",
+    "phone": "(408) 842-0278",
+    "type": "private",
+    "lat": 37.00985,
+    "lng": -121.58577,
+    "distance": 14.886634505341078
+  },
+  {
+    "name": "Acacia Family Medical Group",
+    "address": "8036 San Miguel Canyon Rd, Prunedale, CA 93907",
+    "phone": "(831) 663-0123",
+    "type": "private",
+    "lat": 36.800446,
+    "lng": -121.665077,
+    "distance": 15.024137917292476
+  },
+  {
+    "name": "Bay Area Community Health - Gilroy",
+    "address": "9460 N Name Uno, Ste 110, Gilroy, CA 95020",
+    "phone": "(408) 907-0355",
+    "type": "VFA",
+    "lat": 37.037842,
+    "lng": -121.571259,
+    "distance": 15.863309490170998
+  },
+  {
+    "name": "Kawaljeet K Bhatia",
+    "address": "9460 N Name Uno, Ste 135, Gilroy, CA 95020",
+    "phone": "(408) 848-5522",
+    "type": "private",
+    "lat": 37.037842,
+    "lng": -121.571259,
+    "distance": 15.863309490170998
+  },
+  {
+    "name": "Gilroy Neighborhood Clinic  Svjh",
+    "address": "9300 Wren Ave, Gilroy, CA 95020",
+    "phone": "(408) 842-1017",
+    "type": "public",
+    "lat": 37.030708,
+    "lng": -121.586945,
+    "distance": 16.008974955254768
+  },
+  {
+    "name": "Laurel Internal Medicine Clinic",
+    "address": "1441 Constitution Blvd, Bldg 151, Salinas, CA 93906",
+    "phone": "(831) 769-8640",
+    "type": "public",
+    "lat": 36.700108,
+    "lng": -121.623268,
+    "distance": 16.185031885279024
+  },
+  {
+    "name": "Natividad Medical Center",
+    "address": "1441 Constitution Blvd, Bldg 580, Salinas, CA 93906",
+    "phone": "(831) 772-7723",
+    "type": "public",
+    "lat": 36.700108,
+    "lng": -121.623268,
+    "distance": 16.185031885279024
+  },
+  {
+    "name": "Laurel Health Clinics Peds",
+    "address": "1441 Constitution Blvd, Ste 103, Salinas, CA 93906",
+    "phone": "(831) 755-4124",
+    "type": "public",
+    "lat": 36.700108,
+    "lng": -121.623268,
+    "distance": 16.185031885279024
+  },
+  {
+    "name": "Laurel Family Practice",
+    "address": "1441 Constitution Blvd, Ste 300, Salinas, CA 93906",
+    "phone": "(831) 755-4123",
+    "type": "private",
+    "lat": 36.700108,
+    "lng": -121.623268,
+    "distance": 16.185031885279024
+  },
+  {
+    "name": "Clinica De Salud N Main",
+    "address": "2180 N Main St, Salinas, CA 93906",
+    "phone": "(831) 442-2190",
+    "type": "VFA",
+    "lat": 36.726711,
+    "lng": -121.655861,
+    "distance": 16.554644947667313
+  },
+  {
+    "name": "Valle Verde Medical Group",
+    "address": "1332 Natividad Rd, Ste C, Salinas, CA 93906",
+    "phone": "(831) 754-1544",
+    "type": "private",
+    "lat": 36.699211,
+    "lng": -121.634354,
+    "distance": 16.6946506669878
+  },
+  {
+    "name": "Santa Lucia Medical Grp, Inc",
+    "address": "1336 Natividad Rd, Salinas, CA 93906",
+    "phone": "(831) 754-4444",
+    "type": "private",
+    "lat": 36.698719,
+    "lng": -121.634682,
+    "distance": 16.73031251427953
+  },
+  {
+    "name": "Santa Lucia Medical Group Ste B",
+    "address": "1326 Natividad Rd Ste B, Salinas, CA 93906",
+    "phone": "(831) 754-4444",
+    "type": "private",
+    "lat": 36.698994,
+    "lng": -121.635155,
+    "distance": 16.738458358011606
+  },
+  {
+    "name": "Clinica De Salud- Circle",
+    "address": "950 Circle Dr, Salinas, CA 93905",
+    "phone": "(831) 757-6237",
+    "type": "VFA",
+    "lat": 36.679428,
+    "lng": -121.626984,
+    "distance": 17.299234448713822
+  },
+  {
+    "name": "Clinica De Salud - Sanborn",
+    "address": "219 N Sanborn Rd, Salinas, CA 93905",
+    "phone": "(831) 757-1365",
+    "type": "VFA",
+    "lat": 36.677292,
+    "lng": -121.626938,
+    "distance": 17.400025696173348
+  },
+  {
+    "name": "Alisal Health Center",
+    "address": "559 E Alisal St, Ste 202, Salinas, CA 93905",
+    "phone": "(831) 769-8808",
+    "type": "public",
+    "lat": 36.674179,
+    "lng": -121.635841,
+    "distance": 17.90464627447823
+  },
+  {
+    "name": "St Junipero Clinic, Inc",
+    "address": "333 Abbott St Ste C, Salinas, CA 93901",
+    "phone": "(831) 288-8811",
+    "type": "private",
+    "lat": 36.66695,
+    "lng": -121.643913,
+    "distance": 18.57316802933236
+  },
+  {
+    "name": "Salinas Valley Health Primecare",
+    "address": "355 Abbott St Ste 100, Salinas, CA 93901",
+    "phone": "(831) 751-7070",
+    "type": "private",
+    "lat": 36.66571,
+    "lng": -121.643387,
+    "distance": 18.611561256094166
+  },
+  {
+    "name": "Doctors On Duty Abbott",
+    "address": "558a Abbott St, Salinas, CA 93901",
+    "phone": "(831) 755-7880",
+    "type": "private",
+    "lat": 36.662449,
+    "lng": -121.642616,
+    "distance": 18.738495984635836
+  },
+  {
+    "name": "Salinas Pediatric Medical Group",
+    "address": "601 E Romie Ln Ste 3, Salinas, CA 93901",
+    "phone": "(831) 422-9066",
+    "type": "private",
+    "lat": 36.659889,
+    "lng": -121.644081,
+    "distance": 18.920649470147975
+  },
+  {
+    "name": "Romie Lane Pediatric",
+    "address": "610 E Romie Ln, Ste 2, Salinas, CA 93901",
+    "phone": "(831) 422-9001",
+    "type": "private",
+    "lat": 36.659248,
+    "lng": -121.644386,
+    "distance": 18.963876530277606
+  },
+  {
+    "name": "Salinas Pediatric Medical Gp",
+    "address": "505 E Romie Ln, Ste K, Salinas, CA 93901",
+    "phone": "(831) 422-9066",
+    "type": "private",
+    "lat": 36.660301,
+    "lng": -121.646461,
+    "distance": 18.994484942331464
+  },
+  {
+    "name": "Acacia Family Medical Group",
+    "address": "400 E Romie Ln, Salinas, CA 93901",
+    "phone": "(831) 770-0123",
+    "type": "private",
+    "lat": 36.660172,
+    "lng": -121.648399,
+    "distance": 19.077512862520326
+  },
+  {
+    "name": "Santa Lucia Medical Group",
+    "address": "130 E Romie Ln, Ste A Salinas, CA 93901",
+    "phone": "(831) 754-4444",
+    "type": "private",
+    "lat": 36.66156,
+    "lng": -121.653976,
+    "distance": 19.233909285806853
+  },
+  {
+    "name": "Salud Para La Gente",
+    "address": "250 Salinas Rd, Royal Oaks, CA 95076",
+    "phone": "(831) 728-0222",
+    "type": "fqhc",
+    "lat": 36.899689,
+    "lng": -121.748138,
+    "distance": 19.438513045220937
+  },
+  {
+    "name": "Csvs Pajro",
+    "address": "29 Bishop St Ste A, Royal Oaks, CA 95076",
+    "phone": "(831) 633-1514",
+    "type": "VFA",
+    "lat": 36.901543,
+    "lng": -121.749519,
+    "distance": 19.535265847149674
+  },
+  {
+    "name": "Csvs - Plaza",
+    "address": "55 Plaza Cir, Ste A100, Salinas, CA 93901",
+    "phone": "(831) 757-8689",
+    "type": "fqhc",
+    "lat": 36.657249,
+    "lng": -121.657768,
+    "distance": 19.59145744306126
+  },
+  {
+    "name": "Doctors On Duty- S. Main",
+    "address": "1212 S Main St, Salinas, CA 93901",
+    "phone": "(831) 422-7777",
+    "type": "private",
+    "lat": 36.657738,
+    "lng": -121.66008,
+    "distance": 19.66120192582456
+  },
+  {
+    "name": "Salud Para La Gente Clinic",
+    "address": "204 E Beach St, Watsonville, CA 95076",
+    "phone": "(831) 728-0222",
+    "type": "VFA",
+    "lat": 36.91222,
+    "lng": -121.753708,
+    "distance": 19.901272378905603
+  },
+  {
+    "name": "Clinica Familiar Costa Central",
+    "address": "1185 Freedom Blvd, Ste 1, Watsonville, CA 95076",
+    "phone": "(831) 786-9250",
+    "type": "private",
+    "lat": 36.923107,
+    "lng": -121.762123,
+    "distance": 20.52039157736605
+  },
+  {
+    "name": "Clinica De Salud-castroville",
+    "address": "10561 Merritt St, Castroville, CA 95012",
+    "phone": "(831) 633-1514",
+    "type": "VFA",
+    "lat": 36.767151,
+    "lng": -121.759422,
+    "distance": 20.669587950105868
+  },
+  {
+    "name": "Dhmg Watsonville Family Practice",
+    "address": "575 Auto Center Dr, Watsonville, CA 95076",
+    "phone": "(831) 288-6537",
+    "type": "private",
+    "lat": 36.917446,
+    "lng": -121.766762,
+    "distance": 20.68213148637235
+  },
+  {
+    "name": "Watsonville Health Center",
+    "address": "1430 Freedom Blvd, Ste D, Watsonville, CA 95076",
+    "phone": "(831) 763-8400",
+    "type": "public",
+    "lat": 36.92775,
+    "lng": -121.764259,
+    "distance": 20.712487336027003
+  },
+  {
+    "name": "Plazita Medical Clinic",
+    "address": "1150 Main St, Ste 3, Watsonville, CA 95076",
+    "phone": "(831) 728-0551",
+    "type": "private",
+    "lat": 36.916889,
+    "lng": -121.769699,
+    "distance": 20.832499570797708
+  },
+  {
+    "name": "Salud Para La Gente",
+    "address": "440 Arthur Rd, # A, Watsonville, CA 95076",
+    "phone": "(831) 728-0222",
+    "type": "fqhc",
+    "lat": 36.92086,
+    "lng": -121.769249,
+    "distance": 20.867887265146372
+  },
+  {
+    "name": "Pediatric Medical Grp Of Watsonvile",
+    "address": "222 Green Valley Rd, Freedom, CA 95019",
+    "phone": "(831) 728-2969",
+    "type": "private",
+    "lat": 36.937916,
+    "lng": -121.771065,
+    "distance": 21.259238881111642
+  },
+  {
+    "name": "Planned Parenthood Mar Monte",
+    "address": "398 S Green Valley Rd, Watsonville, CA 95076",
+    "phone": "(831) 786-2000",
+    "type": "public",
+    "lat": 36.93029,
+    "lng": -121.776428,
+    "distance": 21.407178599365196
+  },
+  {
+    "name": "Palo Alto Medical -  Watsonville",
+    "address": "550 S Green Valley Rd, Watsonville, CA 95076",
+    "phone": "(831) 458-5864",
+    "type": "private",
+    "lat": 36.925991,
+    "lng": -121.779243,
+    "distance": 21.486453908555454
+  },
+  {
+    "name": "Salud Para La Gente 64 Aspen Way",
+    "address": "64 Aspen Way, Ste 102, Watsonville, CA 95076",
+    "phone": "(831) 728-0222",
+    "type": "fqhc",
+    "lat": 36.930969,
+    "lng": -121.779739,
+    "distance": 21.59598970421259
+  },
+  {
+    "name": "Dr Indira Vemuri",
+    "address": "15585 Monterey St, Ste A, Morgan Hill, CA 95037",
+    "phone": "(408) 776-9560",
+    "type": "private",
+    "lat": 37.108521,
+    "lng": -121.63736,
+    "distance": 19.28163286469667
+  },
+  {
+    "name": "Pajaro Valley  High School Clinica",
+    "address": "500 Harkins Slough Rd, Watsonville, CA 95076",
+    "phone": "(831) 728-0222",
+    "type": "fqhc",
+    "lat": 36.91415,
+    "lng": -121.792297,
+    "distance": 21.61162067404916
+  },
+  {
+    "name": "Clinica Del Valle Pajaro",
+    "address": "45 Nielson St, Watsonville, CA 95076",
+    "phone": "(831) 728-0222",
+    "type": "VFA",
+    "lat": 36.927135,
+    "lng": -121.792862,
+    "distance": 21.692294959289104
+  },
+  {
+    "name": "Watsonville Community Hospital",
+    "address": "75 Nielson St, Watsonville, CA 95076",
+    "phone": "(831) 724-4741",
+    "type": "private",
+    "lat": 36.926865,
+    "lng": -121.792961,
+    "distance": 21.696347722846884
+  },
+  {
+    "name": "Tffh And Wc",
+    "address": "850 5th St, Gonzales, CA 93926",
+    "phone": "(831) 675-3601",
+    "type": "fqhc",
+    "lat": 36.514301,
+    "lng": -121.435982,
+    "distance": 20.01963599821919
+  },
+  {
+    "name": "Csvs Gonzales",
+    "address": "126 5th St, Gonzales, CA 93926",
+    "phone": "(831) 675-2930",
+    "type": "VFA",
+    "lat": 36.50835,
+    "lng": -121.444397,
+    "distance": 20.478025316855824
+  },
+  {
+    "name": "Yasmeen Gangani",
+    "address": "18550 De Paul Dr, Ste 102, Morgan Hill, CA 95037",
+    "phone": "(408) 778-2025",
+    "type": "private",
+    "lat": 37.154129,
+    "lng": -121.646309,
+    "distance": 23.80075299167895
+  }
+]

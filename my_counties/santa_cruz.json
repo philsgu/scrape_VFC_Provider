@@ -1,0 +1,641 @@
+[
+  {
+    "name": "Santa Cruz Women Health Ctr",
+    "address": "250 Locust St, Santa Cruz, CA 95060",
+    "phone": "(831) 427-3500",
+    "type": "VFA",
+    "lat": 36.97506,
+    "lng": -122.028831,
+    "distance": 0.12729527595400078
+  },
+  {
+    "name": "Planned Parenthood Westside Hlt Ctr",
+    "address": "1119 Pacific Ave, Ste 200, Santa Cruz, CA 95060",
+    "phone": "(831) 460-3122",
+    "type": "public",
+    "lat": 36.972191,
+    "lng": -122.025963,
+    "distance": 0.2978353461151554
+  },
+  {
+    "name": "Palo Alto Medical Foundation-westsi",
+    "address": "1301 Mission St, Fl 2 Santa Cruz, CA 95060",
+    "phone": "(831) 458-6300",
+    "type": "private",
+    "lat": 36.967995,
+    "lng": -122.038193,
+    "distance": 0.5869631083233915
+  },
+  {
+    "name": "Dignity Health Medical Group",
+    "address": "2018 Mission St, Santa Cruz, CA 95060",
+    "phone": "(831) 706-2220",
+    "type": "private",
+    "lat": 36.962849,
+    "lng": -122.044128,
+    "distance": 1.0704393947468416
+  },
+  {
+    "name": "Santa Cruz Health Department",
+    "address": "1080 Emeline Ave, Bldg D, Santa Cruz, CA 95060",
+    "phone": "(831) 454-4100",
+    "type": "public",
+    "lat": 36.991058,
+    "lng": -122.017525,
+    "distance": 1.382024032611915
+  },
+  {
+    "name": "Palo Alto Medical Foundation Santa",
+    "address": "2025 Soquel Ave, Fl 2, Santa Cruz, CA 95062",
+    "phone": "(831) 462-7181",
+    "type": "private",
+    "lat": 36.982361,
+    "lng": -121.997704,
+    "distance": 1.914005637830455
+  },
+  {
+    "name": "East Cliff Family Health Center",
+    "address": "1510 Capitola Rd, Santa Cruz, CA 95062",
+    "phone": "(831) 427-3500",
+    "type": "VFA",
+    "lat": 36.976063,
+    "lng": -121.984795,
+    "distance": 2.5432017477461817
+  },
+  {
+    "name": "Scotts Valley Medical Clinic",
+    "address": "245 Mount Hermon Rd, Ste L, Scotts Valley, CA 95066",
+    "phone": "(831) 335-9111",
+    "type": "private",
+    "lat": 37.045864,
+    "lng": -122.029694,
+    "distance": 4.959102129874975
+  },
+  {
+    "name": "Pamf - Scotts Valley",
+    "address": "4663 Scotts Valley Dr, Scotts Valley, CA 95066",
+    "phone": "(831) 458-6330",
+    "type": "private",
+    "lat": 37.049858,
+    "lng": -122.01622,
+    "distance": 5.296152705489605
+  },
+  {
+    "name": "Palo Alto Medical Foundation Aptos",
+    "address": "7600 Old Dominion Ct, Ste 1, Aptos, CA 95003",
+    "phone": "(831) 458-6200",
+    "type": "private",
+    "lat": 36.979172,
+    "lng": -121.910011,
+    "distance": 6.676828605664312
+  },
+  {
+    "name": "Dignity Health Medical Foundation",
+    "address": "105 Post Office Dr, Ste F, Aptos, CA 95003",
+    "phone": "(831) 612-6264",
+    "type": "private",
+    "lat": 36.976593,
+    "lng": -121.900833,
+    "distance": 7.176455853649728
+  },
+  {
+    "name": "Santa Cruz Mountain Health Center",
+    "address": "231 Main St, Ste A Ben Lomond, CA 95005",
+    "phone": "(831) 427-3500",
+    "type": "fqhc",
+    "lat": 37.091164,
+    "lng": -122.090019,
+    "distance": 8.7234844011851
+  },
+  {
+    "name": "Watsonville Community Hospital",
+    "address": "75 Nielson St, Watsonville, CA 95076",
+    "phone": "(831) 724-4741",
+    "type": "private",
+    "lat": 36.926865,
+    "lng": -121.792961,
+    "distance": 13.532871031398116
+  },
+  {
+    "name": "Clinica Del Valle Pajaro",
+    "address": "45 Nielson St, Watsonville, CA 95076",
+    "phone": "(831) 728-0222",
+    "type": "VFA",
+    "lat": 36.927135,
+    "lng": -121.792862,
+    "distance": 13.533663934765233
+  },
+  {
+    "name": "Pajaro Valley  High School Clinica",
+    "address": "500 Harkins Slough Rd, Watsonville, CA 95076",
+    "phone": "(831) 728-0222",
+    "type": "fqhc",
+    "lat": 36.91415,
+    "lng": -121.792297,
+    "distance": 13.807180826514697
+  },
+  {
+    "name": "Salud Para La Gente 64 Aspen Way",
+    "address": "64 Aspen Way, Ste 102, Watsonville, CA 95076",
+    "phone": "(831) 728-0222",
+    "type": "fqhc",
+    "lat": 36.930969,
+    "lng": -121.779739,
+    "distance": 14.179835116838229
+  },
+  {
+    "name": "Palo Alto Medical -  Watsonville",
+    "address": "550 S Green Valley Rd, Watsonville, CA 95076",
+    "phone": "(831) 458-5864",
+    "type": "private",
+    "lat": 36.925991,
+    "lng": -121.779243,
+    "distance": 14.283169021079102
+  },
+  {
+    "name": "Planned Parenthood Mar Monte",
+    "address": "398 S Green Valley Rd, Watsonville, CA 95076",
+    "phone": "(831) 786-2000",
+    "type": "public",
+    "lat": 36.93029,
+    "lng": -121.776428,
+    "distance": 14.368511437550039
+  },
+  {
+    "name": "Pediatric Medical Grp Of Watsonvile",
+    "address": "222 Green Valley Rd, Freedom, CA 95019",
+    "phone": "(831) 728-2969",
+    "type": "private",
+    "lat": 36.937916,
+    "lng": -121.771065,
+    "distance": 14.557767821990392
+  },
+  {
+    "name": "Salud Para La Gente",
+    "address": "440 Arthur Rd, # A, Watsonville, CA 95076",
+    "phone": "(831) 728-0222",
+    "type": "fqhc",
+    "lat": 36.92086,
+    "lng": -121.769249,
+    "distance": 14.904462094867247
+  },
+  {
+    "name": "Plazita Medical Clinic",
+    "address": "1150 Main St, Ste 3, Watsonville, CA 95076",
+    "phone": "(831) 728-0551",
+    "type": "private",
+    "lat": 36.916889,
+    "lng": -121.769699,
+    "distance": 14.95093741212099
+  },
+  {
+    "name": "Watsonville Health Center",
+    "address": "1430 Freedom Blvd, Ste D, Watsonville, CA 95076",
+    "phone": "(831) 763-8400",
+    "type": "public",
+    "lat": 36.92775,
+    "lng": -121.764259,
+    "distance": 15.062630296198693
+  },
+  {
+    "name": "Dhmg Watsonville Family Practice",
+    "address": "575 Auto Center Dr, Watsonville, CA 95076",
+    "phone": "(831) 288-6537",
+    "type": "private",
+    "lat": 36.917446,
+    "lng": -121.766762,
+    "distance": 15.097358045059305
+  },
+  {
+    "name": "Clinica Familiar Costa Central",
+    "address": "1185 Freedom Blvd, Ste 1, Watsonville, CA 95076",
+    "phone": "(831) 786-9250",
+    "type": "private",
+    "lat": 36.923107,
+    "lng": -121.762123,
+    "distance": 15.249267678754265
+  },
+  {
+    "name": "Salud Para La Gente Clinic",
+    "address": "204 E Beach St, Watsonville, CA 95076",
+    "phone": "(831) 728-0222",
+    "type": "VFA",
+    "lat": 36.91222,
+    "lng": -121.753708,
+    "distance": 15.888542788631778
+  },
+  {
+    "name": "Csvs Pajro",
+    "address": "29 Bishop St Ste A, Royal Oaks, CA 95076",
+    "phone": "(831) 633-1514",
+    "type": "VFA",
+    "lat": 36.901543,
+    "lng": -121.749519,
+    "distance": 16.32377961882544
+  },
+  {
+    "name": "Salud Para La Gente",
+    "address": "250 Salinas Rd, Royal Oaks, CA 95076",
+    "phone": "(831) 728-0222",
+    "type": "fqhc",
+    "lat": 36.899689,
+    "lng": -121.748138,
+    "distance": 16.436179721243793
+  },
+  {
+    "name": "Marina Yam",
+    "address": "825 Pollard Rd, Ste 109, Los Gatos, CA 95032",
+    "phone": "(408) 376-3666",
+    "type": "private",
+    "lat": 37.262768,
+    "lng": -121.970322,
+    "distance": 20.222670354636126
+  },
+  {
+    "name": "Children's Recovery Center",
+    "address": "3777 S Bascom Ave, Campbell, CA 95008",
+    "phone": "(408) 558-3640",
+    "type": "private",
+    "lat": 37.259743,
+    "lng": -121.947601,
+    "distance": 20.262583290216238
+  },
+  {
+    "name": "Clinica De Salud-castroville",
+    "address": "10561 Merritt St, Castroville, CA 95012",
+    "phone": "(831) 633-1514",
+    "type": "VFA",
+    "lat": 36.767151,
+    "lng": -121.759422,
+    "distance": 20.724693655889318
+  },
+  {
+    "name": "Pediatric Subacute Center",
+    "address": "13425 Sousa Ln, Saratoga, CA 95070",
+    "phone": "(408) 340-1554",
+    "type": "private",
+    "lat": 37.27301,
+    "lng": -121.996117,
+    "distance": 20.742180647298177
+  },
+  {
+    "name": "Planned Parenthood- Blossom Hill",
+    "address": "5440 Thornwood Dr, Ste G, San Jose, CA 95123",
+    "phone": "(408) 574-1039",
+    "type": "public",
+    "lat": 37.25375,
+    "lng": -121.860443,
+    "distance": 21.482445400070795
+  },
+  {
+    "name": "Kaiser Permanente San Jose",
+    "address": "276 International Circle, San Jose, CA 95119",
+    "phone": "(408) 972-6910",
+    "type": "private",
+    "lat": 37.240108,
+    "lng": -121.80217,
+    "distance": 22.283973443573945
+  },
+  {
+    "name": "Bay Area Community Health Monterey",
+    "address": "5504 Monterey Hwy, San Jose, CA 95138",
+    "phone": "(408) 907-0500",
+    "type": "VFA",
+    "lat": 37.255077,
+    "lng": -121.798515,
+    "distance": 23.254036455508555
+  },
+  {
+    "name": "Acacia Family Medical Group",
+    "address": "8036 San Miguel Canyon Rd, Prunedale, CA 93907",
+    "phone": "(831) 663-0123",
+    "type": "private",
+    "lat": 36.800446,
+    "lng": -121.665077,
+    "distance": 23.50523385984908
+  },
+  {
+    "name": "Indian Health Center Of Scv",
+    "address": "1333 Meridian Ave, San Jose, CA 95125",
+    "phone": "(408) 445-3400",
+    "type": "VFA",
+    "lat": 37.301651,
+    "lng": -121.914169,
+    "distance": 23.527111162833638
+  },
+  {
+    "name": "Dr Indira Vemuri",
+    "address": "15585 Monterey St, Ste A, Morgan Hill, CA 95037",
+    "phone": "(408) 776-9560",
+    "type": "private",
+    "lat": 37.108521,
+    "lng": -121.63736,
+    "distance": 23.60394730320543
+  },
+  {
+    "name": "Geetha B Thippeswamy",
+    "address": "10430 S De Anza Blvd, Ste 130, Cupertino, CA 95014",
+    "phone": "(408) 865-1015",
+    "type": "private",
+    "lat": 37.317139,
+    "lng": -122.031158,
+    "distance": 23.703152039639697
+  },
+  {
+    "name": "Monterey County Health Ctr--marina",
+    "address": "3155 De Forest Rd, Marina, CA 93933",
+    "phone": "(831) 883-7558",
+    "type": "public",
+    "lat": 36.685211,
+    "lng": -121.793457,
+    "distance": 23.89086136237258
+  },
+  {
+    "name": "Scvmc-family Baby Unit",
+    "address": "871 Enborg Ct, Unit 200, San Jose, CA 95128",
+    "phone": "(408) 885-2395",
+    "type": "public",
+    "lat": 37.311474,
+    "lng": -121.934296,
+    "distance": 23.910041080264644
+  },
+  {
+    "name": "Scvmc-nicu",
+    "address": "871 Enborg Ct, Unit 200, San Jose, CA 95128",
+    "phone": "(408) 793-6528",
+    "type": "public",
+    "lat": 37.31142,
+    "lng": -121.933846,
+    "distance": 23.91196848973442
+  },
+  {
+    "name": "Vhc Bascom Pediatrics",
+    "address": "750 S Bascom Ave, Ste 230, San Jose, CA 95128",
+    "phone": "(408) 793-6528",
+    "type": "fqhc",
+    "lat": 37.314045,
+    "lng": -121.931763,
+    "distance": 24.114440266643342
+  },
+  {
+    "name": "Aaci Health Clinic",
+    "address": "2400 Moorpark Ave, Ste 319, San Jose, CA 95128",
+    "phone": "(408) 975-2763",
+    "type": "VFA",
+    "lat": 37.315708,
+    "lng": -121.937103,
+    "distance": 24.161854706596987
+  },
+  {
+    "name": "Yasmeen Gangani",
+    "address": "18550 De Paul Dr, Ste 102, Morgan Hill, CA 95037",
+    "phone": "(408) 778-2025",
+    "type": "private",
+    "lat": 37.154129,
+    "lng": -121.646309,
+    "distance": 24.57990120015953
+  },
+  {
+    "name": "Joseph C Barbara",
+    "address": "7880 Wren Ave, Ste C133, Gilroy, CA 95020",
+    "phone": "(408) 842-0278",
+    "type": "private",
+    "lat": 37.00985,
+    "lng": -121.58577,
+    "distance": 24.684934548900554
+  },
+  {
+    "name": "Fareeda Adeeb",
+    "address": "275 Oconnor Dr Ste B, San Jose, CA 95128",
+    "phone": "(408) 279-8798",
+    "type": "private",
+    "lat": 37.32542,
+    "lng": -121.940178,
+    "distance": 24.78314836507263
+  },
+  {
+    "name": "Nayyara  Dawood Md Pediatrics",
+    "address": "275 Oconnor Dr, Ste C, San Jose, CA 95128",
+    "phone": "(408) 279-8786",
+    "type": "private",
+    "lat": 37.32542,
+    "lng": -121.940178,
+    "distance": 24.78314836507263
+  },
+  {
+    "name": "Gilroy Neighborhood Clinic  Svjh",
+    "address": "9300 Wren Ave, Gilroy, CA 95020",
+    "phone": "(408) 842-1017",
+    "type": "public",
+    "lat": 37.030708,
+    "lng": -121.586945,
+    "distance": 24.803188909997463
+  },
+  {
+    "name": "Family Health Center",
+    "address": "455 Oconnor Dr, Ste 200, San Jose, CA 95128",
+    "phone": "(408) 445-3400",
+    "type": "VFA",
+    "lat": 37.326542,
+    "lng": -121.940239,
+    "distance": 24.858377826640375
+  },
+  {
+    "name": "Sima Stein",
+    "address": "105 N Bascom Ave, Ste 102, San Jose, CA 95128",
+    "phone": "(408) 292-0100",
+    "type": "private",
+    "lat": 37.325829,
+    "lng": -121.932373,
+    "distance": 24.900801530480063
+  },
+  {
+    "name": "Mina Sehhat",
+    "address": "2101 Forest Ave, Ste 104, San Jose, CA 95128",
+    "phone": "(408) 975-7680",
+    "type": "private",
+    "lat": 37.327095,
+    "lng": -121.936935,
+    "distance": 21.56459283152896
+  },
+  {
+    "name": "Farda Qureshi Md Inc",
+    "address": "2101 Forest Ave, Ste 117, San Jose, CA 95128",
+    "phone": "(408) 730-2200",
+    "type": "private",
+    "lat": 37.327095,
+    "lng": -121.936935,
+    "distance": 21.56459283152896
+  },
+  {
+    "name": "Ihc- Pediatric Clinic",
+    "address": "2039 Forest Ave, Ste 105, San Jose, CA 95128",
+    "phone": "(408) 947-2929",
+    "type": "public",
+    "lat": 37.3274,
+    "lng": -121.934181,
+    "distance": 21.62186838365016
+  },
+  {
+    "name": "Kaiser Perm Santa Clara Homestead",
+    "address": "710 Lawrence Expy Pharmacy, Santa Clara, CA 95051",
+    "phone": "(408) 851-1000",
+    "type": "private",
+    "lat": 37.336342,
+    "lng": -121.997475,
+    "distance": 21.65302229811516
+  },
+  {
+    "name": "Washington Neighborhood Clinic",
+    "address": "100 Oak St, Bldg F3 Clinic, San Jose, CA 95110",
+    "phone": "(408) 295-0980",
+    "type": "VFA",
+    "lat": 37.321739,
+    "lng": -121.881699,
+    "distance": 22.144018011786695
+  },
+  {
+    "name": "Tully Health Center",
+    "address": "621 Tully Rd, # A105, San Jose, CA 95111",
+    "phone": "(408) 279-2988",
+    "type": "private",
+    "lat": 37.30925,
+    "lng": -121.84684,
+    "distance": 22.154396885898148
+  },
+  {
+    "name": "Trach P Dang, Md",
+    "address": "2114 Senter Rd, Ste 24, San Jose, CA 95112",
+    "phone": "(408) 293-2188",
+    "type": "private",
+    "lat": 37.31181,
+    "lng": -121.851318,
+    "distance": 22.200902688573485
+  },
+  {
+    "name": "Doctors On Duty- Lighthouse",
+    "address": "501 Lighthouse Ave, Monterey, CA 93940",
+    "phone": "(831) 649-0770",
+    "type": "private",
+    "lat": 36.612652,
+    "lng": -121.901253,
+    "distance": 22.68350902561506
+  },
+  {
+    "name": "Monterey County Hlth Dept-seaside",
+    "address": "1156 Fremont Blvd, Seaside, CA 93955",
+    "phone": "(831) 899-8100",
+    "type": "public",
+    "lat": 36.601742,
+    "lng": -121.848961,
+    "distance": 24.442951339803248
+  },
+  {
+    "name": "Clinica De Salud N Main",
+    "address": "2180 N Main St, Salinas, CA 93906",
+    "phone": "(831) 442-2190",
+    "type": "VFA",
+    "lat": 36.726711,
+    "lng": -121.655861,
+    "distance": 24.821089344656595
+  },
+  {
+    "name": "Stanford Pediatrics Monterey",
+    "address": "1900 Garden Rd, Ste 110, Monterey, CA 93940",
+    "phone": "(831) 372-5841",
+    "type": "private",
+    "lat": 36.586449,
+    "lng": -121.86274,
+    "distance": 25.117599192793275
+  },
+  {
+    "name": "Bay Area Community Health Glenview",
+    "address": "480 W 8th St Ste 104, Gilroy, CA 95020",
+    "phone": "(669) 205-4498",
+    "type": "VFA",
+    "lat": 37.001526,
+    "lng": -121.572754,
+    "distance": 25.848745762656673
+  },
+  {
+    "name": "Gardner South County Health Center",
+    "address": "7526 Monterey St, Gilroy, CA 95020",
+    "phone": "(408) 848-9423",
+    "type": "VFA",
+    "lat": 37.008629,
+    "lng": -121.569,
+    "distance": 26.155576262648893
+  },
+  {
+    "name": "Bay Area Community Health - Gilroy",
+    "address": "9460 N Name Uno, Ste 110, Gilroy, CA 95020",
+    "phone": "(408) 907-0355",
+    "type": "VFA",
+    "lat": 37.037842,
+    "lng": -121.571259,
+    "distance": 26.555211869898013
+  },
+  {
+    "name": "Kawaljeet K Bhatia",
+    "address": "9460 N Name Uno, Ste 135, Gilroy, CA 95020",
+    "phone": "(408) 848-5522",
+    "type": "private",
+    "lat": 37.037842,
+    "lng": -121.571259,
+    "distance": 26.555211869898013
+  },
+  {
+    "name": "Svmc - Primecare Monterey",
+    "address": "5 Lower Ragsdale Dr, # Ste100, Monterey, CA 93940",
+    "phone": "(831) 624-7070",
+    "type": "private",
+    "lat": 36.576649,
+    "lng": -121.815895,
+    "distance": 26.794580164917416
+  },
+  {
+    "name": "Santa Lucia Medical Group Ste B",
+    "address": "1326 Natividad Rd Ste B, Salinas, CA 93906",
+    "phone": "(831) 754-4444",
+    "type": "private",
+    "lat": 36.698994,
+    "lng": -121.635155,
+    "distance": 26.85113648073898
+  },
+  {
+    "name": "Samina Husaini Md",
+    "address": "763 Altos Oaks Dr, Ste 4, Los Altos, CA 94024",
+    "phone": "(650) 948-6681",
+    "type": "private",
+    "lat": 37.35947,
+    "lng": -122.093811,
+    "distance": 23.184346788597548
+  },
+  {
+    "name": "Farda Qureshi Md Inc",
+    "address": "500 E Remington Dr, Ste 15, Sunnyvale, CA 94087",
+    "phone": "(408) 730-2200",
+    "type": "private",
+    "lat": 37.358261,
+    "lng": -122.028061,
+    "distance": 23.271502358159964
+  },
+  {
+    "name": "Valle Verde Medical Group",
+    "address": "1332 Natividad Rd, Ste C, Salinas, CA 93906",
+    "phone": "(831) 754-1544",
+    "type": "private",
+    "lat": 36.699211,
+    "lng": -121.634354,
+    "distance": 24.673527992308177
+  },
+  {
+    "name": "Santa Lucia Medical Grp, Inc",
+    "address": "1336 Natividad Rd, Salinas, CA 93906",
+    "phone": "(831) 754-4444",
+    "type": "private",
+    "lat": 36.698719,
+    "lng": -121.634682,
+    "distance": 24.680922301041303
+  }
+]

@@ -1,0 +1,497 @@
+[
+  {
+    "name": "Willows Pediatrics",
+    "address": "263 N Villa Ave, Willows, CA 95988",
+    "phone": "(530) 934-8700",
+    "type": "public",
+    "lat": 39.52264,
+    "lng": -122.209877,
+    "distance": 11.012802525134354
+  },
+  {
+    "name": "Glenn County Hhsa",
+    "address": "240 N Villa Ave, Willows, CA 95988",
+    "phone": "(530) 934-6588",
+    "type": "public",
+    "lat": 39.522305,
+    "lng": -122.208817,
+    "distance": 11.07356282197503
+  },
+  {
+    "name": "Northern Valley Indian Health",
+    "address": "207 N Butte St, Willows, CA 95988",
+    "phone": "(530) 934-4641",
+    "type": "public",
+    "lat": 39.522129,
+    "lng": -122.195778,
+    "distance": 11.695402777057895
+  },
+  {
+    "name": "Orland Childrens Center",
+    "address": "116 E Walker St, Orland, CA 95963",
+    "phone": "(530) 865-5400",
+    "type": "public",
+    "lat": 39.746971,
+    "lng": -122.18412,
+    "distance": 15.09274417250322
+  },
+  {
+    "name": "Dignity Health Solano Street",
+    "address": "2126 Solano St, Corning, CA 96021",
+    "phone": "(530) 824-4002",
+    "type": "fqhc",
+    "lat": 39.928379,
+    "lng": -122.195839,
+    "distance": 25.07888021499939
+  },
+  {
+    "name": "Rolling Hills Clinic",
+    "address": "706 Peach St, Corning, CA 96021",
+    "phone": "(530) 690-2827",
+    "type": "public",
+    "lat": 39.928711,
+    "lng": -122.174759,
+    "distance": 25.584559360726214
+  },
+  {
+    "name": "Tehama County Health Department",
+    "address": "275 Solano St, Corning, CA 96021",
+    "phone": "(530) 824-4890",
+    "type": "public",
+    "lat": 39.927311,
+    "lng": -122.168869,
+    "distance": 25.641323783443326
+  },
+  {
+    "name": "James Ooi Md",
+    "address": "320 Solano St, Corning, CA 96021",
+    "phone": "(530) 824-3283",
+    "type": "private",
+    "lat": 39.928169,
+    "lng": -122.169884,
+    "distance": 25.669098062041886
+  },
+  {
+    "name": "Corning Rural Health Clinic",
+    "address": "155 Solano St, Corning, CA 96021",
+    "phone": "(530) 824-4663",
+    "type": "fqhc",
+    "lat": 39.927807,
+    "lng": -122.1688,
+    "distance": 25.67338210258352
+  },
+  {
+    "name": "Northern Valley Indian Health, Inc",
+    "address": "845 W East Ave, Chico, CA 95926",
+    "phone": "(530) 896-9400",
+    "type": "public",
+    "lat": 39.747299,
+    "lng": -121.876457,
+    "distance": 29.285550872600414
+  },
+  {
+    "name": "Enloe Medical Center Pharmacy",
+    "address": "1531 Esplanade, Chico, CA 95926",
+    "phone": "(530) 332-7709",
+    "type": "private",
+    "lat": 39.742149,
+    "lng": -121.849861,
+    "distance": 30.496780978168182
+  },
+  {
+    "name": "Ampla Health Family Dental Medical",
+    "address": "285 Cohasset Rd, Chico, CA 95926",
+    "phone": "(530) 342-6065",
+    "type": "fqhc",
+    "lat": 39.751122,
+    "lng": -121.850922,
+    "distance": 30.649864578879235
+  },
+  {
+    "name": "Butte County Phd, Chico Clinic",
+    "address": "695 Oleander Ave, Chico, CA 95926",
+    "phone": "(530) 552-3959",
+    "type": "public",
+    "lat": 39.734909,
+    "lng": -121.841827,
+    "distance": 30.745091625217942
+  },
+  {
+    "name": "Colusa Indian Health Clinic",
+    "address": "3710 State Highway 45, Ste A, Colusa, CA 95932",
+    "phone": "(530) 458-5501",
+    "type": "public",
+    "lat": 39.25061,
+    "lng": -122.031433,
+    "distance": 30.773700737902956
+  },
+  {
+    "name": "Ampla Health Chico Med  Ped",
+    "address": "680 Cohasset Rd, Chico, CA 95926",
+    "phone": "(530) 342-4395",
+    "type": "fqhc",
+    "lat": 39.752811,
+    "lng": -121.846161,
+    "distance": 30.927462928882598
+  },
+  {
+    "name": "Nvih- Children Health Center",
+    "address": "1515 Springfield Dr Ste 175, Chico, CA 95928",
+    "phone": "(530) 781-1440",
+    "type": "public",
+    "lat": 39.73045,
+    "lng": -121.810379,
+    "distance": 32.25328212858893
+  },
+  {
+    "name": "Nvih- Meriam Park",
+    "address": "1990 Concord Ave, Chico, CA 95928",
+    "phone": "(530) 809-3300",
+    "type": "public",
+    "lat": 39.72797,
+    "lng": -121.792068,
+    "distance": 33.142260187304394
+  },
+  {
+    "name": "Williams Health Center",
+    "address": "501 E St, Williams, CA 95987",
+    "phone": "(530) 619-0393",
+    "type": "fqhc",
+    "lat": 39.155071,
+    "lng": -122.146942,
+    "distance": 33.29730470568454
+  },
+  {
+    "name": "Ampla Health Los Molinos",
+    "address": "7981 State Highway 99e, Los Molinos, CA 96055",
+    "phone": "(530) 384-4010",
+    "type": "fqhc",
+    "lat": 40.027672,
+    "lng": -122.100754,
+    "distance": 33.457822819147324
+  },
+  {
+    "name": "Sycamore Pediatric Healthcare",
+    "address": "346 5th St, Colusa, CA 95932",
+    "phone": "(530) 458-0346",
+    "type": "fqhc",
+    "lat": 39.212597,
+    "lng": -122.008827,
+    "distance": 33.5887390298715
+  },
+  {
+    "name": "Ampla Health Colusa Medical",
+    "address": "555 Fremont St, Colusa, CA 95932",
+    "phone": "(530) 458-8635",
+    "type": "fqhc",
+    "lat": 39.207661,
+    "lng": -122.011276,
+    "distance": 33.78155232615018
+  },
+  {
+    "name": "Riverside Health Clinic Of Colusa",
+    "address": "717 Bridge St, Colusa, CA 95932",
+    "phone": "(530) 458-2300",
+    "type": "public",
+    "lat": 39.207619,
+    "lng": -122.002777,
+    "distance": 34.058764751386015
+  },
+  {
+    "name": "Colusa Health Center",
+    "address": "151 East Webster St, Colusa, CA 95932",
+    "phone": "(530) 458-4162",
+    "type": "fqhc",
+    "lat": 39.207447,
+    "lng": -122.000748,
+    "distance": 34.13436549678264
+  },
+  {
+    "name": "Colusa Co Health Department",
+    "address": "251 E Webster St, Colusa, CA 95932",
+    "phone": "(530) 458-0380",
+    "type": "public",
+    "lat": 39.207142,
+    "lng": -121.99958,
+    "distance": 34.18922354583643
+  },
+  {
+    "name": "Lassen Medical Clinic-red Bluff",
+    "address": "2450 Sister Mary Columba Dr, Red Bluff, CA 96080",
+    "phone": "(530) 527-0414",
+    "type": "private",
+    "lat": 40.149448,
+    "lng": -122.222038,
+    "distance": 39.14050817621607
+  },
+  {
+    "name": "Rolling Hills Clinic",
+    "address": "2526 Sister Mary Columba Dr, Red Bluff, CA 96080",
+    "phone": "(530) 690-2778",
+    "type": "public",
+    "lat": 40.149544,
+    "lng": -122.219521,
+    "distance": 39.17785531452716
+  },
+  {
+    "name": "Greenville Rancheria Tribal Hlth",
+    "address": "1425 Montgomery Rd, Red Bluff, CA 96080",
+    "phone": "(530) 528-8600",
+    "type": "public",
+    "lat": 40.157806,
+    "lng": -122.225571,
+    "distance": 39.66054829638334
+  },
+  {
+    "name": "Tehama Co Public Hlth Department",
+    "address": "1860 Walnut St, Bldg C, Red Bluff, CA 96080",
+    "phone": "(530) 527-6824",
+    "type": "public",
+    "lat": 40.168972,
+    "lng": -122.254395,
+    "distance": 40.10719024989473
+  },
+  {
+    "name": "Tehama County Medical Outpatient Cl",
+    "address": "1850 Walnut St, Ste E, Red Bluff, CA 96080",
+    "phone": "(530) 527-0350",
+    "type": "fqhc",
+    "lat": 40.16906,
+    "lng": -122.254234,
+    "distance": 40.114695743462
+  },
+  {
+    "name": "Ampla Health Gridley Medical",
+    "address": "520 Kentucky St, Gridley, CA 95948",
+    "phone": "(530) 846-6231",
+    "type": "fqhc",
+    "lat": 39.36396,
+    "lng": -121.696274,
+    "distance": 40.475864021791814
+  },
+  {
+    "name": "Chuk Ndulue, M D",
+    "address": "135 Spruce St, Gridley, CA 95948",
+    "phone": "(530) 846-1400",
+    "type": "fqhc",
+    "lat": 39.366669,
+    "lng": -121.68885,
+    "distance": 40.76456272573027
+  },
+  {
+    "name": "Sanjiv Midha, Md A Medical Corpo",
+    "address": "50 E Gridley Rd, Gridley, CA 95948",
+    "phone": "(530) 674-2100",
+    "type": "private",
+    "lat": 39.363186,
+    "lng": -121.685532,
+    "distance": 41.022946107161324
+  },
+  {
+    "name": "Feather River Hospital Health Ctr",
+    "address": "5125 Skyway, Ste H, Paradise, CA 95969",
+    "phone": "(530) 876-2000",
+    "type": "fqhc",
+    "lat": 39.746479,
+    "lng": -121.639389,
+    "distance": 41.31275868520027
+  },
+  {
+    "name": "Ampla Health Arbuckle Medical",
+    "address": "89 Putnam Way, Arbuckle, CA 95912",
+    "phone": "(530) 476-2200",
+    "type": "fqhc",
+    "lat": 39.021027,
+    "lng": -122.062363,
+    "distance": 43.599384869584966
+  },
+  {
+    "name": "Mchc - Lakeview",
+    "address": "5335 Lakeshore Blvd, Lakeport, CA 95453",
+    "phone": "(707) 263-7725",
+    "type": "fqhc",
+    "lat": 39.105541,
+    "lng": -122.904037,
+    "distance": 43.676024161012315
+  },
+  {
+    "name": "Arbuckle Health Center",
+    "address": "900 King St, Arbuckle, CA 95912",
+    "phone": "(530) 619-0392",
+    "type": "fqhc",
+    "lat": 39.01495,
+    "lng": -122.061401,
+    "distance": 44.00471452958585
+  },
+  {
+    "name": "Sutter Lakeside Community Clinic",
+    "address": "5196 Hill Rd, Ste 300, Lakeport, CA 95453",
+    "phone": "(707) 263-6885",
+    "type": "fqhc",
+    "lat": 39.102772,
+    "lng": -122.911339,
+    "distance": 44.0703144259821
+  },
+  {
+    "name": "Sutter Lakeside Medical Practice",
+    "address": "5176 Hill Rd, Lakeport, CA 95453",
+    "phone": "(707) 262-5088",
+    "type": "private",
+    "lat": 39.102764,
+    "lng": -122.911423,
+    "distance": 44.073548965821224
+  },
+  {
+    "name": "Feather River Tribal Health",
+    "address": "2145 5th Ave, Oroville, CA 95965",
+    "phone": "(530) 534-5394",
+    "type": "public",
+    "lat": 39.50362,
+    "lng": -121.563423,
+    "distance": 44.620859217903856
+  },
+  {
+    "name": "Live Oak Medical Clinic",
+    "address": "9980 Live Oak Blvd, Live Oak, CA 95953",
+    "phone": "(530) 749-3242",
+    "type": "fqhc",
+    "lat": 39.275738,
+    "lng": -121.661201,
+    "distance": 44.91091208958111
+  },
+  {
+    "name": "Butte County Phd Oroville Clinic",
+    "address": "78 Table Mountain Blvd, Oroville, CA 95965",
+    "phone": "(530) 552-3918",
+    "type": "public",
+    "lat": 39.521809,
+    "lng": -121.553383,
+    "distance": 44.97955033204582
+  },
+  {
+    "name": "Ampla Health Oroville",
+    "address": "2800 Lincoln St, Oroville, CA 95966",
+    "phone": "(530) 534-7500",
+    "type": "fqhc",
+    "lat": 39.501431,
+    "lng": -121.551811,
+    "distance": 45.25574134440774
+  },
+  {
+    "name": "Oroville Hosp-perinatal Hbv Program",
+    "address": "2767 Olive Hwy, Oroville, CA 95966",
+    "phone": "(530) 532-8377",
+    "type": "private",
+    "lat": 39.504593,
+    "lng": -121.54213,
+    "distance": 45.73353562213364
+  },
+  {
+    "name": "Oroville Hospital Ped Practice",
+    "address": "2809 Olive Hwy, Ste 270, Oroville, CA 95966",
+    "phone": "(530) 532-8629",
+    "type": "fqhc",
+    "lat": 39.50412,
+    "lng": -121.541374,
+    "distance": 45.778155119682566
+  },
+  {
+    "name": "Neal Pediatric Practice Associates",
+    "address": "2809 Olive Hwy, Ste 330, Oroville, CA 95966",
+    "phone": "(530) 532-8623",
+    "type": "private",
+    "lat": 39.50412,
+    "lng": -121.541374,
+    "distance": 45.778155119682566
+  },
+  {
+    "name": "Big Valley Health Center",
+    "address": "554-850 Medical Center Drive, Bieber, CA 96009",
+    "phone": "(530) 999-9010",
+    "type": "fqhc",
+    "lat": 39.50563,
+    "lng": -121.540169,
+    "distance": 45.82655412974522
+  },
+  {
+    "name": "Lcthc Southshore Site",
+    "address": "14440 Olympic Dr, Clearlake, CA 95422",
+    "phone": "(707) 533-2760",
+    "type": "public",
+    "lat": 38.962265,
+    "lng": -122.641373,
+    "distance": 45.922727548389275
+  },
+  {
+    "name": "Adventist Hlth Clearlake Fam Health",
+    "address": "15230 Lakeshore Dr, Clearlake, CA 95422",
+    "phone": "(707) 995-4531",
+    "type": "fqhc",
+    "lat": 38.949913,
+    "lng": -122.628265,
+    "distance": 46.545080145821366
+  },
+  {
+    "name": "Ukiah Valley Rural Health Center Ad",
+    "address": "487 S Main St, Lakeport, CA 95453",
+    "phone": "(707) 263-4631",
+    "type": "private",
+    "lat": 39.038658,
+    "lng": -122.915672,
+    "distance": 47.73624610974517
+  },
+  {
+    "name": "Round Valley Indian Health Clinic",
+    "address": "24065 Biggar Ln, Covelo Ca 95428",
+    "phone": "(707) 983-6181",
+    "type": "public",
+    "lat": 39.809284,
+    "lng": -123.246948,
+    "distance": 47.73751489688484
+  },
+  {
+    "name": "Lake Co Health Department",
+    "address": "922 Bevins Ct, Lakeport, CA 95453",
+    "phone": "(707) 263-1090",
+    "type": "public",
+    "lat": 39.038139,
+    "lng": -122.922501,
+    "distance": 45.24617141507214
+  },
+  {
+    "name": "St Helena Konocti Wellness Center",
+    "address": "9430 Lake St, Ste C, Lower Lake, CA 95457",
+    "phone": "(707) 995-4531",
+    "type": "fqhc",
+    "lat": 38.914909,
+    "lng": -122.607727,
+    "distance": 45.257859422562824
+  },
+  {
+    "name": "Lake County Tribal Health Peds Ob",
+    "address": "359 Lakeport Blvd, Lakeport, CA 95453",
+    "phone": "(707) 533-2740",
+    "type": "public",
+    "lat": 39.034592,
+    "lng": -122.918182,
+    "distance": 45.29397710862539
+  },
+  {
+    "name": "Sutter County Public Health Dept",
+    "address": "1445 Veterans Memorial Cir, Yuba City, CA 95993",
+    "phone": "(530) 822-7215",
+    "type": "public",
+    "lat": 39.143799,
+    "lng": -121.639435,
+    "distance": 48.92631653195176
+  },
+  {
+    "name": "Consolidated Tribal Health",
+    "address": "6991 N State St, Redwood Valley, CA 95470",
+    "phone": "(707) 485-5115",
+    "type": "public",
+    "lat": 39.2435,
+    "lng": -123.206398,
+    "distance": 47.601546216729886
+  }
+]

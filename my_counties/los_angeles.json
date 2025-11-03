@@ -1,0 +1,1757 @@
+[
+  {
+    "name": "Rhap Glendale Health Center",
+    "address": "241 N Figueroa St Rm 250, Los Angeles, CA 90012",
+    "phone": "(213) 288-8248",
+    "type": "public",
+    "lat": 34.059319,
+    "lng": -118.250389,
+    "distance": 0.6233582242456551
+  },
+  {
+    "name": "Central Health Center",
+    "address": "241 N Figueroa St, Rm 131 Los Angeles, CA 90012",
+    "phone": "(213) 288-8211",
+    "type": "public",
+    "lat": 34.059319,
+    "lng": -118.250412,
+    "distance": 0.6241639833950162
+  },
+  {
+    "name": "Precision Health Care",
+    "address": "709 N Hill St, Ste 18, Los Angeles, CA 90012",
+    "phone": "(213) 687-0888",
+    "type": "fqhc",
+    "lat": 34.061172,
+    "lng": -118.240913,
+    "distance": 0.6401711594910414
+  },
+  {
+    "name": "Chinatown Service Center",
+    "address": "767 N Hill St, Ste 200 Los Angeles, CA 90012",
+    "phone": "(213) 808-1792",
+    "type": "VFA",
+    "lat": 34.062668,
+    "lng": -118.240044,
+    "distance": 0.7529795598871359
+  },
+  {
+    "name": "Los Angeles Unified School District",
+    "address": "121 N Beaudry Ave, Los Angeles, CA 90012",
+    "phone": "(213) 202-7583",
+    "type": "public",
+    "lat": 34.05991,
+    "lng": -118.254097,
+    "distance": 0.7987838193371691
+  },
+  {
+    "name": "Clinica Santa Maria Echo Park",
+    "address": "625 W College St #105, Los Angeles, CA 90012",
+    "phone": "(213) 265-7433",
+    "type": "private",
+    "lat": 34.06535,
+    "lng": -118.240685,
+    "distance": 0.9248565222081951
+  },
+  {
+    "name": "St Johns Community Health",
+    "address": "1321 E 1st St, Los Angeles, CA 90033",
+    "phone": "(323) 541-1600",
+    "type": "fqhc",
+    "lat": 34.047935,
+    "lng": -118.225899,
+    "distance": 1.0608790255652576
+  },
+  {
+    "name": "Lausd-sepa Center Clinic",
+    "address": "1339 Angelina St, Los Angeles, CA 90026",
+    "phone": "(213) 482-3954",
+    "type": "public",
+    "lat": 34.065578,
+    "lng": -118.256882,
+    "distance": 1.1932929122397613
+  },
+  {
+    "name": "Aphcv- Belmont Health Center",
+    "address": "180 Union Pl, Los Angeles, CA 90026",
+    "phone": "(323) 644-3885",
+    "type": "VFA",
+    "lat": 34.061749,
+    "lng": -118.265083,
+    "distance": 1.3905945739970125
+  },
+  {
+    "name": "La Christian Health Centers",
+    "address": "1625 E 4th St, Los Angeles, CA 90033",
+    "phone": "(213) 893-1960",
+    "type": "VFA",
+    "lat": 34.04324,
+    "lng": -118.221947,
+    "distance": 1.3908349035858873
+  },
+  {
+    "name": "Gracelight Comm Health Westlake No",
+    "address": "303 Loma Dr Ste 202, Los Angeles, CA 90017",
+    "phone": "(213) 793-6092",
+    "type": "fqhc",
+    "lat": 34.059807,
+    "lng": -118.266335,
+    "distance": 1.3983001549599274
+  },
+  {
+    "name": "Angeles Medical Clinic, Inc",
+    "address": "1333 S Hill St, Los Angeles, CA 90015",
+    "phone": "(213) 457-4000",
+    "type": "private",
+    "lat": 34.037037,
+    "lng": -118.263153,
+    "distance": 1.5291300455897767
+  },
+  {
+    "name": "Family Care Specialists Medical Cor",
+    "address": "1701 E Cesar E Chavez Ave, Ste 402, Los Angeles, CA 90033",
+    "phone": "(323) 317-9200",
+    "type": "private",
+    "lat": 34.051208,
+    "lng": -118.216423,
+    "distance": 1.5630975546570547
+  },
+  {
+    "name": "Annapoorani Thenappan",
+    "address": "1701 E Cesar E Chavez Ave, Ste 128, Los Angeles, CA 90033",
+    "phone": "(323) 223-2338",
+    "type": "private",
+    "lat": 34.051208,
+    "lng": -118.216423,
+    "distance": 1.5630975546570547
+  },
+  {
+    "name": "Family Care Specialist",
+    "address": "1701 E Cesar E Chavez Ave, Ste 230, Los Angeles, CA 90033",
+    "phone": "(323) 226-1100",
+    "type": "private",
+    "lat": 34.051208,
+    "lng": -118.216423,
+    "distance": 1.5630975546570547
+  },
+  {
+    "name": "Modern Concepts Medical Group",
+    "address": "1701 E Cesar E Chavez Ave, Ste 354, Los Angeles, CA 90033",
+    "phone": "(323) 221-5366",
+    "type": "private",
+    "lat": 34.051208,
+    "lng": -118.216423,
+    "distance": 1.5630975546570547
+  },
+  {
+    "name": "White Memorial Community Health Ctr",
+    "address": "1828 E Cesar E Chavez Ave, Ste 5000, Los Angeles, CA 90033",
+    "phone": "(323) 987-1200",
+    "type": "VFA",
+    "lat": 34.04995,
+    "lng": -118.21566,
+    "distance": 1.6127986117609117
+  },
+  {
+    "name": "Northeast Community Clinic",
+    "address": "1414 S Grand Ave, Ste 380, Los Angeles, CA 90015",
+    "phone": "(213) 222-1300",
+    "type": "fqhc",
+    "lat": 34.03643,
+    "lng": -118.265327,
+    "distance": 1.6494360937240222
+  },
+  {
+    "name": "Northeast Community Clinic",
+    "address": "1414 S Grand Ave, Ste 300, Los Angeles, CA 90015",
+    "phone": "(213) 222-1300",
+    "type": "fqhc",
+    "lat": 34.036457,
+    "lng": -118.265358,
+    "distance": 1.6495307135536694
+  },
+  {
+    "name": "Northeast Community Clinic",
+    "address": "1414 S Grand Ave Ste 200, Los Angeles, CA 90015",
+    "phone": "(213) 419-9600",
+    "type": "fqhc",
+    "lat": 34.036446,
+    "lng": -118.265366,
+    "distance": 1.650380651908305
+  },
+  {
+    "name": "Eisner Pediatric And Family Clinic",
+    "address": "1530 S Olive St, Los Angeles, CA 90015",
+    "phone": "(213) 747-5542",
+    "type": "VFA",
+    "lat": 34.035549,
+    "lng": -118.264793,
+    "distance": 1.6680121678156803
+  },
+  {
+    "name": "Paja Medical Group Inc",
+    "address": "1800 Wilshire Blvd, Los Angeles, CA 90057",
+    "phone": "(213) 484-9934",
+    "type": "private",
+    "lat": 34.056351,
+    "lng": -118.272919,
+    "distance": 1.6971180065563238
+  },
+  {
+    "name": "Grand Medical Associates",
+    "address": "1513 S Grand Ave, Ste 320, Los Angeles, CA 90015",
+    "phone": "(213) 747-7307",
+    "type": "private",
+    "lat": 34.03624,
+    "lng": -118.266434,
+    "distance": 1.7059926510233752
+  },
+  {
+    "name": "Pediatric And Family Medical Center",
+    "address": "1513 S Grand Ave, Ste 250, Los Angeles, CA 90015",
+    "phone": "(213) 747-5542",
+    "type": "fqhc",
+    "lat": 34.036167,
+    "lng": -118.266693,
+    "distance": 1.7205716646092897
+  },
+  {
+    "name": "Angeles Community Health Center",
+    "address": "1919 W 7th St Fl 2, Los Angeles, CA 90057",
+    "phone": "(213) 413-2222",
+    "type": "VFA",
+    "lat": 34.055988,
+    "lng": -118.275002,
+    "distance": 1.810967314265413
+  },
+  {
+    "name": "Sequoia Quality Health, Inc",
+    "address": "2007 Wilshire Blvd Fl 3, Los Angeles, CA 90057",
+    "phone": "(213) 205-1890",
+    "type": "private",
+    "lat": 34.057678,
+    "lng": -118.274879,
+    "distance": 1.8246394497836969
+  },
+  {
+    "name": "Walter Jayasinghe Md, Apc",
+    "address": "2010 Wilshire Blvd, Fl 2, Los Angeles, CA 90057",
+    "phone": "(213) 483-9209",
+    "type": "private",
+    "lat": 34.057171,
+    "lng": -118.2752,
+    "distance": 1.835712363585403
+  },
+  {
+    "name": "Bhc-alvarado",
+    "address": "2065 W 6th St, Ste 110, Los Angeles, CA 90057",
+    "phone": "(213) 263-2468",
+    "type": "public",
+    "lat": 34.059673,
+    "lng": -118.274536,
+    "distance": 1.8392465944636656
+  },
+  {
+    "name": "Clinic Romero - Alvarado",
+    "address": "123 S Alvarado St, Los Angeles, CA 90057",
+    "phone": "(213) 989-7700",
+    "type": "VFA",
+    "lat": 34.066101,
+    "lng": -118.271103,
+    "distance": 1.839385023013631
+  },
+  {
+    "name": "Horacio G Lopez",
+    "address": "2105 Beverly Blvd, Ste 129, Los Angeles, CA 90057",
+    "phone": "(213) 353-3600",
+    "type": "private",
+    "lat": 34.067249,
+    "lng": -118.27037,
+    "distance": 1.8472235248669973
+  },
+  {
+    "name": "Altamed Medical Group West Lake",
+    "address": "2100 W 3rd St Ste 200, Los Angeles, CA 90057",
+    "phone": "(213) 355-9898",
+    "type": "fqhc",
+    "lat": 34.06258,
+    "lng": -118.27356,
+    "distance": 1.8537141478569588
+  },
+  {
+    "name": "House Of Healthcasa De Salud",
+    "address": "530 E Washington Blvd, Los Angeles, CA 90015",
+    "phone": "(213) 747-2626",
+    "type": "private",
+    "lat": 34.028774,
+    "lng": -118.260017,
+    "distance": 1.868946364505461
+  },
+  {
+    "name": "Sunmoon Urgent Care Medical Group",
+    "address": "1304 Echo Park Ave, Los Angeles, CA 90026",
+    "phone": "(213) 977-1286",
+    "type": "private",
+    "lat": 34.076969,
+    "lng": -118.256973,
+    "distance": 1.872551227881574
+  },
+  {
+    "name": "Universal Community Health Center",
+    "address": "1005 E Washington Blvd, Ste A, Los Angeles, CA 90021",
+    "phone": "(323) 233-3100",
+    "type": "VFA",
+    "lat": 34.02597,
+    "lng": -118.252922,
+    "distance": 1.8877526673794562
+  },
+  {
+    "name": "Universal Community Health Center",
+    "address": "1919 S San Pedro St, Los Angeles, CA 90011",
+    "phone": "(323) 233-3100",
+    "type": "fqhc",
+    "lat": 34.02713,
+    "lng": -118.25811,
+    "distance": 1.9187285235627336
+  },
+  {
+    "name": "Altamed Med Group1st St Boyle",
+    "address": "2219 E 1st St, Los Angeles, CA 90033",
+    "phone": "(888) 499-9303",
+    "type": "VFA",
+    "lat": 34.044842,
+    "lng": -118.21138,
+    "distance": 1.9189580424585357
+  },
+  {
+    "name": "Pico-union Medical Clinic",
+    "address": "1271 S Union Ave, Los Angeles, CA 90015",
+    "phone": "(213) 386-0214",
+    "type": "private",
+    "lat": 34.045025,
+    "lng": -118.276817,
+    "distance": 1.9597713342353853
+  },
+  {
+    "name": "Bruce Torkan Md Inc Fatima  Clinic",
+    "address": "820a S Alvarado St, Los Angeles, CA 90057",
+    "phone": "(310) 922-5571",
+    "type": "private",
+    "lat": 34.054543,
+    "lng": -118.277992,
+    "distance": 1.9698405281757028
+  },
+  {
+    "name": "Unicare Community Health Center",
+    "address": "741 S Alvarado St, Los Angeles, CA 90057",
+    "phone": "(213) 413-6666",
+    "type": "fqhc",
+    "lat": 34.055462,
+    "lng": -118.277893,
+    "distance": 1.9704233967543106
+  },
+  {
+    "name": "Amh Comprehensive Medical Centers",
+    "address": "711 N Alvarado St, Ste 101, Los Angeles, CA 90026",
+    "phone": "(213) 484-8786",
+    "type": "public",
+    "lat": 34.074322,
+    "lng": -118.265808,
+    "distance": 1.984440265653762
+  },
+  {
+    "name": "Eun Mi Yun",
+    "address": "819 S Alvarado St, Ste 101, Los Angeles, CA 90057",
+    "phone": "(213) 388-6000",
+    "type": "private",
+    "lat": 34.054401,
+    "lng": -118.278549,
+    "distance": 2.0008553190763023
+  },
+  {
+    "name": "Los Angeles Clinica Medica General",
+    "address": "2208 W 7th St, 1st Floor Clinic Mngmnt, Los Angeles, CA 9005",
+    "phone": "(213) 384-3434",
+    "type": "private",
+    "lat": 34.056831,
+    "lng": -118.278412,
+    "distance": 2.0127774153968683
+  },
+  {
+    "name": "Dr Ghalili's Pediatric Clinic",
+    "address": "648 E 21st St, Los Angeles, CA 90011",
+    "phone": "(213) 749-7110",
+    "type": "private",
+    "lat": 34.025829,
+    "lng": -118.259117,
+    "distance": 2.024720195526195
+  },
+  {
+    "name": "Sam Ghalili Md Inc",
+    "address": "2101 S San Pedro St, Los Angeles, CA 90011",
+    "phone": "(213) 745-8766",
+    "type": "private",
+    "lat": 34.025749,
+    "lng": -118.258942,
+    "distance": 2.0253537092274945
+  },
+  {
+    "name": "Dornika Medical Clinic",
+    "address": "2121 S San Pedro St, Ste E, Los Angeles, CA 90011",
+    "phone": "(213) 742-0300",
+    "type": "private",
+    "lat": 34.025398,
+    "lng": -118.259262,
+    "distance": 2.0551526158818536
+  },
+  {
+    "name": "Maria Elena Rodriguez",
+    "address": "2417 Whittier Blvd, Los Angeles, CA 90023",
+    "phone": "(323) 881-1641",
+    "type": "private",
+    "lat": 34.034328,
+    "lng": -118.21489,
+    "distance": 2.0605708024156466
+  },
+  {
+    "name": "St Johns Community Health",
+    "address": "444 S Mathews Street, Los Angeles, CA 90033",
+    "phone": "(323) 541-1411",
+    "type": "fqhc",
+    "lat": 34.03878,
+    "lng": -118.211464,
+    "distance": 2.0654822027530564
+  },
+  {
+    "name": "Clinica Msr Oscar Romero-northeast",
+    "address": "2032 Marengo St, Los Angeles, CA 90033",
+    "phone": "(213) 989-7700",
+    "type": "VFA",
+    "lat": 34.056431,
+    "lng": -118.207809,
+    "distance": 2.0753495350211297
+  },
+  {
+    "name": "Lac-usc Med Ctr-pharmacy Ward Servc",
+    "address": "1200 N State St Rm B2a100, Los Angeles, CA 90033",
+    "phone": "(323) 409-4063",
+    "type": "public",
+    "lat": 34.059658,
+    "lng": -118.208176,
+    "distance": 2.0979306615990705
+  },
+  {
+    "name": "Santa Maria Family Med Clinic",
+    "address": "2209 N San Fernando Rd, Los Angeles, CA 90065",
+    "phone": "(323) 226-0511",
+    "type": "private",
+    "lat": 34.103462,
+    "lng": -118.23764,
+    "distance": 0.35750326031971036
+  },
+  {
+    "name": "All Inclusive Community Health Ctr",
+    "address": "3920 Eagle Rock Blvd, Ste A, Los Angeles, CA 90065",
+    "phone": "(323) 255-5225",
+    "type": "fqhc",
+    "lat": 34.11903,
+    "lng": -118.229897,
+    "distance": 1.4056954135688087
+  },
+  {
+    "name": "Tri-state Community Healthcare Cent",
+    "address": "4137 Verdugo Rd, Los Angeles, CA 90065",
+    "phone": "(323) 344-9255",
+    "type": "VFA",
+    "lat": 34.126144,
+    "lng": -118.232178,
+    "distance": 1.780972552522131
+  },
+  {
+    "name": "John Marshall School Based Health C",
+    "address": "3111 Griffith Park Blvd, Los Angeles, CA 90027",
+    "phone": "(323) 665-1129",
+    "type": "fqhc",
+    "lat": 34.10894,
+    "lng": -118.277039,
+    "distance": 1.9634411071831737
+  },
+  {
+    "name": "Gracelight Comm Health Eagle Rock",
+    "address": "4448 York Blvd, Los Angeles, CA 90041",
+    "phone": "(323) 344-5234",
+    "type": "VFA",
+    "lat": 34.123169,
+    "lng": -118.218857,
+    "distance": 2.0295913723703527
+  },
+  {
+    "name": "Hollywood Sunset Free Clinic",
+    "address": "3324 W Sunset Blvd, Los Angeles, CA 90026",
+    "phone": "(323) 660-2400",
+    "type": "public",
+    "lat": 34.087109,
+    "lng": -118.275932,
+    "distance": 2.118730763511884
+  },
+  {
+    "name": "Asian Pacific Health Care Venture",
+    "address": "1530 Hillhurst Ave, Los Angeles, CA 90027",
+    "phone": "(323) 644-3880",
+    "type": "VFA",
+    "lat": 34.09922,
+    "lng": -118.287033,
+    "distance": 2.487900898870595
+  },
+  {
+    "name": "Unicare Community Health Center",
+    "address": "2409 N Broadway, Los Angeles, CA 90031",
+    "phone": "(323) 225-8038",
+    "type": "fqhc",
+    "lat": 34.073952,
+    "lng": -118.216599,
+    "distance": 2.493011394478975
+  },
+  {
+    "name": "Arroyo Vista Fhc-lincoln Heights Ii",
+    "address": "2411 N Broadway, Los Angeles, CA 90031",
+    "phone": "(323) 987-2000",
+    "type": "VFA",
+    "lat": 34.073959,
+    "lng": -118.216431,
+    "distance": 2.4985861468305774
+  },
+  {
+    "name": "Comprehensive Comm Hc-highland Park",
+    "address": "5059 York Blvd, Los Angeles, CA 90042",
+    "phone": "(323) 344-4144",
+    "type": "VFA",
+    "lat": 34.12138,
+    "lng": -118.204842,
+    "distance": 2.5881110848788103
+  },
+  {
+    "name": "Altamed General Pediatrics At Child",
+    "address": "4650 W Sunset Blvd, Stop 76, Los Angeles, CA 90027",
+    "phone": "(323) 361-6930",
+    "type": "fqhc",
+    "lat": 34.098106,
+    "lng": -118.290581,
+    "distance": 2.6972422011108814
+  },
+  {
+    "name": "Gracelight Comm Health Hollywood",
+    "address": "4618 Fountain Ave, Los Angeles, CA 90029",
+    "phone": "(323) 953-7170",
+    "type": "VFA",
+    "lat": 34.09528,
+    "lng": -118.2901,
+    "distance": 2.6976309939364183
+  },
+  {
+    "name": "Hollywood Presbyterian Med Center",
+    "address": "1300 N Vermont Ave, Los Angeles, CA 90027",
+    "phone": "(323) 913-4979",
+    "type": "private",
+    "lat": 34.09631,
+    "lng": -118.290703,
+    "distance": 2.720006282276763
+  },
+  {
+    "name": "Ralph Watchi, Md",
+    "address": "1300 N Vermont Ave, Ste 901, Los Angeles, CA 90027",
+    "phone": "(323) 912-9221",
+    "type": "private",
+    "lat": 34.09631,
+    "lng": -118.290703,
+    "distance": 2.720006282276763
+  },
+  {
+    "name": "Lagman Pediatrics",
+    "address": "1300 N Vermont Ave, Ste 802a, Los Angeles, CA 90027",
+    "phone": "(323) 660-6363",
+    "type": "private",
+    "lat": 34.09631,
+    "lng": -118.290703,
+    "distance": 2.720006282276763
+  },
+  {
+    "name": "Children's Hospital",
+    "address": "4650 W Sunset Blvd, Stop 44, Los Angeles, CA 90027",
+    "phone": "(323) 361-8506",
+    "type": "private",
+    "lat": 34.097816,
+    "lng": -118.290977,
+    "distance": 2.72197853357898
+  },
+  {
+    "name": "Northeast Community Clinic",
+    "address": "5420 N Figueroa St, Los Angeles, CA 90042",
+    "phone": "(323) 256-3884",
+    "type": "VFA",
+    "lat": 34.107479,
+    "lng": -118.196228,
+    "distance": 2.74043257060474
+  },
+  {
+    "name": "Kaiser Permanente- La Medical Ctr",
+    "address": "4700 W Sunset Blvd, Los Angeles, CA 90027",
+    "phone": "(323) 783-1750",
+    "type": "private",
+    "lat": 34.09779,
+    "lng": -118.292122,
+    "distance": 2.787262575928253
+  },
+  {
+    "name": "John Wesley Health Center - Vermont",
+    "address": "954 N Vermont Ave, Los Angeles, CA 90029",
+    "phone": "(323) 454-4850",
+    "type": "VFA",
+    "lat": 34.08902,
+    "lng": -118.291359,
+    "distance": 2.8750951153913227
+  },
+  {
+    "name": "Lilian Sababa",
+    "address": "866 N Vermont Ave, Ste 1, Los Angeles, CA 90029",
+    "phone": "(323) 660-2100",
+    "type": "private",
+    "lat": 34.087231,
+    "lng": -118.291344,
+    "distance": 2.9158224644685142
+  },
+  {
+    "name": "Gracelight Comm Health Echo Park",
+    "address": "150 N Reno St, Los Angeles, CA 90026",
+    "phone": "(213) 380-7298",
+    "type": "VFA",
+    "lat": 34.072659,
+    "lng": -118.280212,
+    "distance": 2.9210326613682445
+  },
+  {
+    "name": "St Johns Wellchild  Family Center",
+    "address": "2512 Alta St, Los Angeles, CA 90031",
+    "phone": "(323) 541-1600",
+    "type": "VFA",
+    "lat": 34.074829,
+    "lng": -118.203712,
+    "distance": 2.968683726006291
+  },
+  {
+    "name": "Saban Comm Clinic- Virgil Fam Hc",
+    "address": "137 N Virgil Ave, Los Angeles, CA 90004",
+    "phone": "(323) 337-1870",
+    "type": "fqhc",
+    "lat": 34.074574,
+    "lng": -118.287163,
+    "distance": 3.1352674328816517
+  },
+  {
+    "name": "Family Care Specialists Med Group I",
+    "address": "5823 York Blvd, Ste 1, Los Angeles, CA 90042",
+    "phone": "(323) 255-1575",
+    "type": "private",
+    "lat": 34.118778,
+    "lng": -118.191338,
+    "distance": 3.207196309189224
+  },
+  {
+    "name": "Arroyo Vista - Highland Park",
+    "address": "6000 N Figueroa St, Los Angeles, CA 90042",
+    "phone": "(323) 254-5221",
+    "type": "VFA",
+    "lat": 34.11124,
+    "lng": -118.188568,
+    "distance": 3.2154891623911337
+  },
+  {
+    "name": "Arroyo Vista Fam Hlt Ctr- Mobile 2",
+    "address": "6000 N Figueroa St, Los Angeles, CA 90042",
+    "phone": "(323) 254-5221",
+    "type": "fqhc",
+    "lat": 34.11124,
+    "lng": -118.188568,
+    "distance": 3.2154891623911337
+  },
+  {
+    "name": "Teresa Medical Center, Inc",
+    "address": "326 N Vermont Ave, Los Angeles, CA 90004",
+    "phone": "(323) 660-5900",
+    "type": "private",
+    "lat": 34.077171,
+    "lng": -118.291306,
+    "distance": 3.2267685963152553
+  },
+  {
+    "name": "Holmes School Based Clinic",
+    "address": "5108 Holmes Ave, Los Angeles, CA 90058",
+    "phone": "(323) 587-3638",
+    "type": "public",
+    "lat": 33.995831,
+    "lng": -118.240196,
+    "distance": 0.48372204257387946
+  },
+  {
+    "name": "South Central Family Health Center",
+    "address": "4425 S Central Ave, Los Angeles, CA 90011",
+    "phone": "(323) 908-4200",
+    "type": "VFA",
+    "lat": 34.003071,
+    "lng": -118.256859,
+    "distance": 0.7561711965174217
+  },
+  {
+    "name": "Scf Dental And Medical",
+    "address": "4415 S Central Ave, Los Angeles, CA 90011",
+    "phone": "(323) 908-4200",
+    "type": "VFA",
+    "lat": 34.00341,
+    "lng": -118.256866,
+    "distance": 0.758831449269251
+  },
+  {
+    "name": "Clinica Del Socorro Medical Group I",
+    "address": "1061 E Vernon Ave, Ste F, Los Angeles, CA 90011",
+    "phone": "(323) 233-9686",
+    "type": "private",
+    "lat": 34.003975,
+    "lng": -118.257034,
+    "distance": 0.7736042931636116
+  },
+  {
+    "name": "Scfhc Vernon Medical Building",
+    "address": "1028 E Vernon Ave, Los Angeles, CA 90011",
+    "phone": "(323) 908-4200",
+    "type": "VFA",
+    "lat": 34.00362,
+    "lng": -118.257599,
+    "distance": 0.8021873560982699
+  },
+  {
+    "name": "Wellness Center At Jefferson Hs",
+    "address": "3410 Hooper Ave, Los Angeles, CA 90011",
+    "phone": "(323) 432-4814",
+    "type": "VFA",
+    "lat": 34.01268,
+    "lng": -118.252106,
+    "distance": 0.8696010727245367
+  },
+  {
+    "name": "Altamed Health Services Hp",
+    "address": "1900 E Slauson Ave Ste A, Huntington Park, CA 90255",
+    "phone": "(323) 487-4110",
+    "type": "VFA",
+    "lat": 33.989143,
+    "lng": -118.238869,
+    "distance": 0.9436811629180719
+  },
+  {
+    "name": "Centralneigborhoodhealthfoundation",
+    "address": "2707 S Central Ave, Los Angeles, CA 90011",
+    "phone": "(323) 234-5000",
+    "type": "VFA",
+    "lat": 34.017544,
+    "lng": -118.255508,
+    "distance": 1.2575883477113636
+  },
+  {
+    "name": "Clinica Pacifica Medical Group",
+    "address": "2550 E Slauson Ave, Ste G, Huntington Park, CA 90255",
+    "phone": "(323) 581-0791",
+    "type": "private",
+    "lat": 33.989159,
+    "lng": -118.226212,
+    "distance": 1.3475050255642613
+  },
+  {
+    "name": "Harold C Valery, Md - Holmes",
+    "address": "6316 Holmes Ave, Los Angeles, CA 90001",
+    "phone": "(323) 583-5887",
+    "type": "private",
+    "lat": 33.982662,
+    "lng": -118.240906,
+    "distance": 1.3594725602386413
+  },
+  {
+    "name": "Central City Community Health Cent",
+    "address": "5970 S Central Ave, Los Angeles, CA 90001",
+    "phone": "(323) 234-3280",
+    "type": "VFA",
+    "lat": 33.98555,
+    "lng": -118.256409,
+    "distance": 1.3614992722576045
+  },
+  {
+    "name": "Sghiatti Vincent R",
+    "address": "6316 Holmes Ave, Los Angeles, CA 90001",
+    "phone": "(323) 583-5887",
+    "type": "private",
+    "lat": 33.982517,
+    "lng": -118.241165,
+    "distance": 1.3677621212755435
+  },
+  {
+    "name": "Kedren Community Care Clinic",
+    "address": "4211 Avalon Blvd, Ste A, Los Angeles, CA 90011",
+    "phone": "(323) 234-0616",
+    "type": "VFA",
+    "lat": 34.007381,
+    "lng": -118.266953,
+    "distance": 1.3792129868608263
+  },
+  {
+    "name": "D Rivera Learning Complex Clinic",
+    "address": "6100 S Central Ave, Los Angeles, CA 90001",
+    "phone": "(323) 846-2001",
+    "type": "public",
+    "lat": 33.984119,
+    "lng": -118.256111,
+    "distance": 1.4374862041320364
+  },
+  {
+    "name": "Universal Community Health Center",
+    "address": "2098 S Central Ave, Los Angeles, CA 90011",
+    "phone": "(323) 233-3100",
+    "type": "VFA",
+    "lat": 34.022549,
+    "lng": -118.252106,
+    "distance": 1.4861869840564677
+  },
+  {
+    "name": "Universal Community Health Center",
+    "address": "2801 S San Pedro St, Los Angeles, CA 90011",
+    "phone": "(323) 233-3100",
+    "type": "VFA",
+    "lat": 34.019741,
+    "lng": -118.262733,
+    "distance": 1.6301986667307067
+  },
+  {
+    "name": "Dr Mayers Women's And Children",
+    "address": "2568 Clarendon Ave, Huntington Park, CA 90255",
+    "phone": "(323) 582-5444",
+    "type": "private",
+    "lat": 33.983494,
+    "lng": -118.226013,
+    "distance": 1.6423764038089657
+  },
+  {
+    "name": "Florence Medical Center",
+    "address": "1557 E Florence Ave, Los Angeles, CA 90001",
+    "phone": "(323) 584-1490",
+    "type": "private",
+    "lat": 33.974979,
+    "lng": -118.246162,
+    "distance": 1.8861610748757587
+  },
+  {
+    "name": "Zacoalco Medical Group  Inc",
+    "address": "1414 E Florence Ave, Los Angeles, CA 90001",
+    "phone": "(323) 588-1383",
+    "type": "private",
+    "lat": 33.974705,
+    "lng": -118.249222,
+    "distance": 1.9260150426928166
+  },
+  {
+    "name": "City Medical Clinic Group",
+    "address": "1508 E Florence Ave, Los Angeles, CA 90001",
+    "phone": "(323) 531-0915",
+    "type": "private",
+    "lat": 33.974445,
+    "lng": -118.247398,
+    "distance": 1.9294496877886715
+  },
+  {
+    "name": "Centro Medico",
+    "address": "231 W Vernon Ave, Ste 203, Los Angeles, CA 90037",
+    "phone": "(323) 231-5181",
+    "type": "fqhc",
+    "lat": 34.004082,
+    "lng": -118.277443,
+    "distance": 1.93724363506164
+  },
+  {
+    "name": "Hubert H Humphrey Comprehensive",
+    "address": "5850 S Main St, Rm 2051, Los Angeles, CA 90003",
+    "phone": "(323) 897-6251",
+    "type": "public",
+    "lat": 33.98827,
+    "lng": -118.273361,
+    "distance": 1.952906968644889
+  },
+  {
+    "name": "Mahendra Sanathraangel Fam Pract",
+    "address": "2015 E Florence Ave, Los Angeles, CA 90001",
+    "phone": "(323) 581-0000",
+    "type": "private",
+    "lat": 33.974773,
+    "lng": -118.235336,
+    "distance": 1.9547520849829256
+  },
+  {
+    "name": "Advanced Family Care Medical Group",
+    "address": "1201 E Florence Ave, Los Angeles, CA 90001",
+    "phone": "(323) 588-0084",
+    "type": "private",
+    "lat": 33.97509,
+    "lng": -118.253922,
+    "distance": 1.9626375279867605
+  },
+  {
+    "name": "St John's Wellchild Family Center",
+    "address": "6818 Avalon Blvd, Los Angeles, CA 90003",
+    "phone": "(323) 541-1411",
+    "type": "fqhc",
+    "lat": 33.977711,
+    "lng": -118.264526,
+    "distance": 2.070512789977526
+  },
+  {
+    "name": "Clinica De Los Angeles",
+    "address": "4301 S Figueroa St, Ste F, Los Angeles, CA 90037",
+    "phone": "(323) 231-7700",
+    "type": "private",
+    "lat": 34.005081,
+    "lng": -118.283119,
+    "distance": 2.2667714972170714
+  },
+  {
+    "name": "H Claude Hudson Comp Health Center",
+    "address": "2829 S Grand Ave, Los Angeles, CA 90007",
+    "phone": "(213) 699-7476",
+    "type": "public",
+    "lat": 34.024441,
+    "lng": -118.274467,
+    "distance": 2.3381895360395624
+  },
+  {
+    "name": "Murchison Clinic",
+    "address": "1501 Murchison St, Los Angeles, CA 90033",
+    "phone": "(323) 909-1185",
+    "type": "public",
+    "lat": 34.06012,
+    "lng": -118.19603,
+    "distance": 0.5632441214760838
+  },
+  {
+    "name": "Complete Care Community Hlth Ctr",
+    "address": "2928 E Cesar E Chavez Ave, Los Angeles, CA 90033",
+    "phone": "(323) 266-6700",
+    "type": "public",
+    "lat": 34.043617,
+    "lng": -118.200638,
+    "distance": 0.7137766376793717
+  },
+  {
+    "name": "Usc Family Medicine",
+    "address": "1520 San Pablo St, Ste 1300, Los Angeles, CA 90033",
+    "phone": "(323) 442-5900",
+    "type": "public",
+    "lat": 34.062462,
+    "lng": -118.202591,
+    "distance": 0.8728280457347379
+  },
+  {
+    "name": "Cuidado Latino Medical Clinic Incp",
+    "address": "3710 E Cesar E Chavez Ave, Los Angeles, CA 90063",
+    "phone": "(323) 980-7777",
+    "type": "private",
+    "lat": 34.040474,
+    "lng": -118.185463,
+    "distance": 0.9374952293511205
+  },
+  {
+    "name": "Tri-state Chc - Ela",
+    "address": "3600 E 1st St, Los Angeles, CA 90063",
+    "phone": "(323) 694-0900",
+    "type": "fqhc",
+    "lat": 34.035828,
+    "lng": -118.189003,
+    "distance": 1.162815615106701
+  },
+  {
+    "name": "Arroyo Vista Family Health Center",
+    "address": "4815 Valley Blvd, Ste C, Los Angeles, CA 90032",
+    "phone": "(323) 222-1134",
+    "type": "VFA",
+    "lat": 34.066383,
+    "lng": -118.179665,
+    "distance": 1.2672805970197512
+  },
+  {
+    "name": "Lee Mi-jeong",
+    "address": "2675 W Olympic Blvd, Ste 103, Los Angeles, CA 90006",
+    "phone": "(213) 252-0036",
+    "type": "private",
+    "lat": 34.052608,
+    "lng": -118.29071,
+    "distance": 0.17346104284803116
+  },
+  {
+    "name": "St Anthony Medical Ctr - Pico Clin",
+    "address": "2515 W Pico Blvd, Los Angeles, CA 90006",
+    "phone": "(213) 384-4555",
+    "type": "VFA",
+    "lat": 34.047562,
+    "lng": -118.292107,
+    "distance": 0.33322828893586764
+  },
+  {
+    "name": "Kyu Hyun Kim Md Inc",
+    "address": "3000 W Olympic Blvd Ste 304, Los Angeles, CA 90006",
+    "phone": "(213) 380-1122",
+    "type": "private",
+    "lat": 34.052338,
+    "lng": -118.300301,
+    "distance": 0.377998780646761
+  },
+  {
+    "name": "3c Community Clinic",
+    "address": "3030 W Olympic Blvd, Ste 206, Los Angeles, CA 90006",
+    "phone": "(213) 322-2666",
+    "type": "public",
+    "lat": 34.052368,
+    "lng": -118.301582,
+    "distance": 0.45140712322090354
+  },
+  {
+    "name": "United Care Family Medical Center",
+    "address": "2324 W Pico Blvd, Los Angeles, CA 90006",
+    "phone": "(213) 383-3600",
+    "type": "private",
+    "lat": 34.047256,
+    "lng": -118.287308,
+    "distance": 0.5006094852007045
+  },
+  {
+    "name": "Kwang He Won Health Center",
+    "address": "815 S Ardmore Ave, Fl 1, Los Angeles, CA 90005",
+    "phone": "(213) 385-0448",
+    "type": "VFA",
+    "lat": 34.057178,
+    "lng": -118.302231,
+    "distance": 0.5973629130545489
+  },
+  {
+    "name": "Children's Hospital Adolescent Clin",
+    "address": "3250 Wilshire Blvd, Ste 300, Los Angeles, CA 90010",
+    "phone": "(323) 361-2153",
+    "type": "public",
+    "lat": 34.061211,
+    "lng": -118.293205,
+    "distance": 0.6232567659155609
+  },
+  {
+    "name": "Kheir Clinic - Wilshire",
+    "address": "3255 Wilshire Blvd, Ste 120, Los Angeles, CA 90010",
+    "phone": "(213) 235-2500",
+    "type": "fqhc",
+    "lat": 34.062248,
+    "lng": -118.293274,
+    "distance": 0.6947367201255769
+  },
+  {
+    "name": "Kheir Clinic 100",
+    "address": "3255 Wilshire Blvd, Ste 100, Los Angeles, CA 90010",
+    "phone": "(213) 235-2500",
+    "type": "fqhc",
+    "lat": 34.062248,
+    "lng": -118.293274,
+    "distance": 0.6947367201255769
+  },
+  {
+    "name": "La Paz Medical Group",
+    "address": "1107 S Alvarado St, Ste 102, Los Angeles, CA 90006",
+    "phone": "(213) 380-9999",
+    "type": "private",
+    "lat": 34.050121,
+    "lng": -118.281319,
+    "distance": 0.7232370540037902
+  },
+  {
+    "name": "Reynaldo L Makabali, Md, Inc",
+    "address": "2426 W 8th Street Ste 104, Los Angeles, CA 90057",
+    "phone": "(213) 389-9595",
+    "type": "private",
+    "lat": 34.056271,
+    "lng": -118.281708,
+    "distance": 0.7419136213035887
+  },
+  {
+    "name": "Century Women Medical Group",
+    "address": "2030 W Pico Blvd, Los Angeles, CA 90006",
+    "phone": "(213) 389-4544",
+    "type": "private",
+    "lat": 34.046719,
+    "lng": -118.282318,
+    "distance": 0.7537033930209425
+  },
+  {
+    "name": "Lee",
+    "address": "2030 W Pico Blvd, Ste 1, Los Angeles, CA 90006",
+    "phone": "(213) 427-0667",
+    "type": "private",
+    "lat": 34.046719,
+    "lng": -118.282318,
+    "distance": 0.7537033930209425
+  },
+  {
+    "name": "San Judas Community Health Center",
+    "address": "2972 Wilshire Blvd, Los Angeles, CA 90010",
+    "phone": "(213) 484-0000",
+    "type": "VFA",
+    "lat": 34.061481,
+    "lng": -118.286278,
+    "distance": 0.7693087064224866
+  },
+  {
+    "name": "Ardmore Medical Group, Inc",
+    "address": "3518 W 8th St, Los Angeles, CA 90005",
+    "phone": "(213) 384-9949",
+    "type": "private",
+    "lat": 34.057636,
+    "lng": -118.307091,
+    "distance": 0.8536713495277523
+  },
+  {
+    "name": "M Pakour Md, Inc",
+    "address": "3671 W 6th St Ste B, Los Angeles, CA 90020",
+    "phone": "(213) 375-7511",
+    "type": "private",
+    "lat": 34.063751,
+    "lng": -118.302467,
+    "distance": 0.9428442264936376
+  },
+  {
+    "name": "Kheir Family And Pediatrics",
+    "address": "3671 W 6th St, Ste A, Los Angeles, CA 90020",
+    "phone": "(213) 235-2500",
+    "type": "fqhc",
+    "lat": 34.063751,
+    "lng": -118.302513,
+    "distance": 0.9442417540860005
+  },
+  {
+    "name": "Stjohns Well Child And Family",
+    "address": "1910 Magnolia Ave, Ste 101, Los Angeles, CA 90007",
+    "phone": "(213) 749-0947",
+    "type": "VFA",
+    "lat": 34.039562,
+    "lng": -118.285667,
+    "distance": 0.9869395813655499
+  },
+  {
+    "name": "Kheir Health Services Comm Clinic",
+    "address": "3727 W 6th St, Ste 200, Los Angeles, CA 90020",
+    "phone": "(213) 235-2500",
+    "type": "VFA",
+    "lat": 34.063961,
+    "lng": -118.303719,
+    "distance": 0.994652995333639
+  },
+  {
+    "name": "Harold Valery",
+    "address": "1655 S Western Ave, Los Angeles, CA 90006",
+    "phone": "(323) 737-5200",
+    "type": "private",
+    "lat": 34.042759,
+    "lng": -118.309082,
+    "distance": 1.0959591911047808
+  },
+  {
+    "name": "Clinica Medica Familiar San Judas",
+    "address": "3900 W 3rd St, Los Angeles, CA 90020",
+    "phone": "(213) 427-0400",
+    "type": "private",
+    "lat": 34.068821,
+    "lng": -118.299568,
+    "distance": 1.1965858139409506
+  },
+  {
+    "name": "Afshin Akhavan, Do",
+    "address": "2409 S Vermont Ave, Los Angeles, CA 90007",
+    "phone": "(323) 730-1663",
+    "type": "private",
+    "lat": 34.034229,
+    "lng": -118.291878,
+    "distance": 1.2461089438317303
+  },
+  {
+    "name": "Janet Kim",
+    "address": "300 S Hobart Blvd, Ste 300, Los Angeles, CA 90020",
+    "phone": "(213) 388-7828",
+    "type": "private",
+    "lat": 34.068813,
+    "lng": -118.305069,
+    "distance": 1.3195870636688778
+  },
+  {
+    "name": "Renato V Mungcal, Md, Inc",
+    "address": "133 S Vermont Ave, Los Angeles, CA 90004",
+    "phone": "(213) 480-0748",
+    "type": "private",
+    "lat": 34.071701,
+    "lng": -118.292061,
+    "distance": 1.350738320367576
+  },
+  {
+    "name": "Central Medical Clinic",
+    "address": "3533 W Pico Blvd, Los Angeles, CA 90019",
+    "phone": "(323) 734-1600",
+    "type": "VFA",
+    "lat": 34.047379,
+    "lng": -118.319702,
+    "distance": 1.5254696063849549
+  },
+  {
+    "name": "Susana Santiago-soriano",
+    "address": "3908 Beverly Blvd, Los Angeles, CA 90004",
+    "phone": "(213) 388-2508",
+    "type": "private",
+    "lat": 34.07605,
+    "lng": -118.293427,
+    "distance": 1.6480382620105902
+  },
+  {
+    "name": "Arroyo Vista Family Health Center",
+    "address": "4837 Huntington Dr, Ste 1, Los Angeles, CA 90032",
+    "phone": "(323) 225-0024",
+    "type": "VFA",
+    "lat": 34.0863,
+    "lng": -118.178993,
+    "distance": 1.3839187103179513
+  },
+  {
+    "name": "Mosaic Family Medical Grp, Inc",
+    "address": "4857 Huntington Dr, Los Angeles, CA 90032",
+    "phone": "(323) 226-9042",
+    "type": "private",
+    "lat": 34.086334,
+    "lng": -118.178246,
+    "distance": 1.4084958797448865
+  },
+  {
+    "name": "Genora Health Clinic",
+    "address": "4880 Huntington Dr, Los Angeles, CA 90032",
+    "phone": "(323) 826-7388",
+    "type": "private",
+    "lat": 34.086182,
+    "lng": -118.177315,
+    "distance": 1.4505603933237081
+  },
+  {
+    "name": "El Sereno Medical Group, Inc",
+    "address": "3301 N Eastern Ave, Los Angeles, CA 90032",
+    "phone": "(323) 225-2351",
+    "type": "private",
+    "lat": 34.08379,
+    "lng": -118.178368,
+    "distance": 1.5453056309049256
+  },
+  {
+    "name": "Great Care Med Grp",
+    "address": "5255 W Sunset Blvd, Los Angeles, CA 90027",
+    "phone": "(323) 463-7262",
+    "type": "private",
+    "lat": 34.09845,
+    "lng": -118.304543,
+    "distance": 0.672321861447739
+  },
+  {
+    "name": "Kids And Teens Medical Group - La",
+    "address": "5255 W Sunset Blvd, Los Angeles, CA 90027",
+    "phone": "(818) 361-5437",
+    "type": "private",
+    "lat": 34.098442,
+    "lng": -118.304588,
+    "distance": 0.6749420817935481
+  },
+  {
+    "name": "Hollywood Cross Med Clinic, Inc",
+    "address": "1110 N Western Ave, Ste 201, Los Angeles, CA 90029",
+    "phone": "(323) 463-6881",
+    "type": "private",
+    "lat": 34.09129,
+    "lng": -118.3088,
+    "distance": 1.146662039191422
+  },
+  {
+    "name": "St John Urgent Care",
+    "address": "1119 N Western Ave, Ste G, Los Angeles, CA 90029",
+    "phone": "(323) 957-9300",
+    "type": "private",
+    "lat": 34.09153,
+    "lng": -118.309578,
+    "distance": 1.1700408629401713
+  },
+  {
+    "name": "San Judas Community Health Center",
+    "address": "1080 N Western Ave, Los Angeles, CA 90029",
+    "phone": "(323) 957-8787",
+    "type": "fqhc",
+    "lat": 34.090271,
+    "lng": -118.308731,
+    "distance": 1.1912747769673295
+  },
+  {
+    "name": "Clinica Western",
+    "address": "875 N Western Ave, Los Angeles, CA 90029",
+    "phone": "(323) 461-0777",
+    "type": "private",
+    "lat": 34.086128,
+    "lng": -118.309532,
+    "distance": 1.4331664178136931
+  },
+  {
+    "name": "St Luke Medical Clinic",
+    "address": "5912 Santa Monica Blvd, Los Angeles, CA 90038",
+    "phone": "(323) 461-3888",
+    "type": "private",
+    "lat": 34.090706,
+    "lng": -118.318161,
+    "distance": 1.6092799509457485
+  },
+  {
+    "name": "Los Angeles Free Clinic Dba The Sab",
+    "address": "5205 Melrose Ave, Los Angeles, CA 90038",
+    "phone": "(323) 653-1990",
+    "type": "fqhc",
+    "lat": 34.08392,
+    "lng": -118.314102,
+    "distance": 1.720013052954192
+  },
+  {
+    "name": "Hollywood-wilshire Health Center",
+    "address": "5205 Melrose Ave, Rm 109, Los Angeles, CA 90038",
+    "phone": "(323) 769-7800",
+    "type": "public",
+    "lat": 34.083767,
+    "lng": -118.314262,
+    "distance": 1.7339793305805706
+  },
+  {
+    "name": "Hollywood Hs Wellness Center",
+    "address": "1521 N Highland Ave, Los Angeles, CA 90028",
+    "phone": "(323) 993-2355",
+    "type": "public",
+    "lat": 34.099178,
+    "lng": -118.340057,
+    "distance": 2.660611856306607
+  },
+  {
+    "name": "Clinica Medica De La Caridad",
+    "address": "4347 Slauson Ave, Maywood, CA 90270",
+    "phone": "(323) 773-3137",
+    "type": "private",
+    "lat": 33.987751,
+    "lng": -118.1884,
+    "distance": 1.043533850935603
+  },
+  {
+    "name": "Maged Z Basilios Md Inc",
+    "address": "4505 Slauson Ave, Ste E, Maywood, CA 90270",
+    "phone": "(323) 771-0080",
+    "type": "private",
+    "lat": 33.987358,
+    "lng": -118.184761,
+    "distance": 1.1462867216593047
+  },
+  {
+    "name": "Ardmore Medical Group, Inc",
+    "address": "4528 Slauson Ave, Maywood, CA 90270",
+    "phone": "(323) 562-6170",
+    "type": "private",
+    "lat": 33.986908,
+    "lng": -118.184479,
+    "distance": 1.1813389327757073
+  },
+  {
+    "name": "Maywood Family Medical Center",
+    "address": "5920 Atlantic Blvd, Maywood, CA 90270",
+    "phone": "(323) 562-2535",
+    "type": "private",
+    "lat": 33.986427,
+    "lng": -118.185646,
+    "distance": 1.18349947785697
+  },
+  {
+    "name": "Randall G Shue",
+    "address": "4055 E Olympic Blvd, Ste 210, Los Angeles, CA 90023",
+    "phone": "(323) 268-3491",
+    "type": "private",
+    "lat": 34.018936,
+    "lng": -118.187401,
+    "distance": 1.2114053304387684
+  },
+  {
+    "name": "Amh Comprehensive Medical Centers",
+    "address": "6017 Atlantic Blvd, Maywood, CA 90270",
+    "phone": "(323) 560-8880",
+    "type": "public",
+    "lat": 33.984741,
+    "lng": -118.186302,
+    "distance": 1.2786406881880228
+  },
+  {
+    "name": "Tao T Nguyen Md Inc",
+    "address": "6043 Atlantic Blvd, Maywood, CA 90270",
+    "phone": "(323) 583-6516",
+    "type": "private",
+    "lat": 33.984074,
+    "lng": -118.186241,
+    "distance": 1.3233745869558409
+  },
+  {
+    "name": "Clinica Santa Marta Medical Group",
+    "address": "3742 Whittier Blvd, Los Angeles, CA 90023",
+    "phone": "(323) 780-4100",
+    "type": "private",
+    "lat": 34.023731,
+    "lng": -118.192574,
+    "distance": 1.4891544178266387
+  },
+  {
+    "name": "Precision Health Center",
+    "address": "3712 Whittier Blvd, Los Angeles, CA 90023",
+    "phone": "(323) 406-2297",
+    "type": "fqhc",
+    "lat": 34.024242,
+    "lng": -118.19342,
+    "distance": 1.5231608687453575
+  },
+  {
+    "name": "Altamed Medical Grp- Boyle Heights",
+    "address": "3945 Whittier Blvd, Los Angeles, CA 90023",
+    "phone": "(323) 307-0434",
+    "type": "VFA",
+    "lat": 34.024231,
+    "lng": -118.187714,
+    "distance": 1.5604218920364625
+  },
+  {
+    "name": "East Los Angeles Doctors Hospital",
+    "address": "4060 Whittier Blvd, Los Angeles, CA 90023",
+    "phone": "(323) 260-4102",
+    "type": "private",
+    "lat": 34.023884,
+    "lng": -118.184029,
+    "distance": 1.5974183131926694
+  },
+  {
+    "name": "Masad Arbid",
+    "address": "4055 Whittier Blvd, Los Angeles, CA 90023",
+    "phone": "(323) 780-4000",
+    "type": "private",
+    "lat": 34.02422,
+    "lng": -118.184219,
+    "distance": 1.6154895563475693
+  },
+  {
+    "name": "Unimed Health Center",
+    "address": "4065 Whittier Blvd, Los Angeles, CA 90023",
+    "phone": "(323) 968-1170",
+    "type": "private",
+    "lat": 34.024178,
+    "lng": -118.183929,
+    "distance": 1.6184255665128038
+  },
+  {
+    "name": "Ardmore Medical Group, Inc",
+    "address": "3500 Whittier Blvd, Ste 105, Los Angeles, CA 90023",
+    "phone": "(323) 262-8100",
+    "type": "private",
+    "lat": 34.026329,
+    "lng": -118.198532,
+    "distance": 1.6900727079003446
+  },
+  {
+    "name": "La Providencia Medical Clinic",
+    "address": "3412 Whittier Blvd, Los Angeles, CA 90023",
+    "phone": "(323) 264-4006",
+    "type": "private",
+    "lat": 34.02721,
+    "lng": -118.200569,
+    "distance": 1.7723648277927988
+  },
+  {
+    "name": "Bhs Nuestra Health Center",
+    "address": "4511 Whittier Blvd, Los Angeles, CA 90022",
+    "phone": "(323) 264-2890",
+    "type": "VFA",
+    "lat": 34.023396,
+    "lng": -118.17054,
+    "distance": 1.9760023735014867
+  },
+  {
+    "name": "Niloo Medical Group Inc",
+    "address": "4762 Whittier Blvd, Los Angeles, CA 90022",
+    "phone": "(323) 796-0500",
+    "type": "private",
+    "lat": 34.021751,
+    "lng": -118.16539,
+    "distance": 2.1105267703910537
+  },
+  {
+    "name": "Clinica Familiar",
+    "address": "2933 Whittier Blvd, Los Angeles, CA 90023",
+    "phone": "(323) 263-2669",
+    "type": "private",
+    "lat": 34.030865,
+    "lng": -118.207634,
+    "distance": 2.1353923487007345
+  },
+  {
+    "name": "Via Care Chc - Whittier Blvd",
+    "address": "5015 Whittier Blvd, Los Angeles, CA 90022",
+    "phone": "(323) 268-9191",
+    "type": "fqhc",
+    "lat": 34.021561,
+    "lng": -118.161186,
+    "distance": 2.2929699737519367
+  },
+  {
+    "name": "Guadalajara Medical Clinic",
+    "address": "2705 Whittier Blvd, Los Angeles, CA 90023",
+    "phone": "(323) 263-3861",
+    "type": "private",
+    "lat": 34.032879,
+    "lng": -118.211632,
+    "distance": 2.3555117504651446
+  },
+  {
+    "name": "Jshafai Md Inc",
+    "address": "7601 Atlantic Ave, Cudahy, CA 90201",
+    "phone": "(323) 562-3500",
+    "type": "private",
+    "lat": 33.967018,
+    "lng": -118.188026,
+    "distance": 2.4526197944311137
+  },
+  {
+    "name": "East Los Angeles Health Center",
+    "address": "133 N Sunol Dr, Los Angeles, CA 90063",
+    "phone": "(323) 768-2559",
+    "type": "public",
+    "lat": 34.036995,
+    "lng": -118.179268,
+    "distance": 2.5423564297572137
+  },
+  {
+    "name": "Gage Medical Clinicdba Clinica Vir",
+    "address": "985 W Vernon Ave, Los Angeles, CA 90037",
+    "phone": "(323) 234-6300",
+    "type": "private",
+    "lat": 34.003731,
+    "lng": -118.291214,
+    "distance": 0.17738950558664174
+  },
+  {
+    "name": "St John",
+    "address": "4085 S Vermont Ave, Los Angeles, CA 90037",
+    "phone": "(323) 541-1600",
+    "type": "VFA",
+    "lat": 34.009346,
+    "lng": -118.291611,
+    "distance": 0.5080678041082709
+  },
+  {
+    "name": "Vermont Community Clinic",
+    "address": "5320 S Vermont Ave, Los Angeles, CA 90037",
+    "phone": "(323) 776-1500",
+    "type": "fqhc",
+    "lat": 33.993855,
+    "lng": -118.291458,
+    "distance": 0.5907804156922708
+  },
+  {
+    "name": "Universal Community Health Center",
+    "address": "1021 W Martin Luther King Jr Blvd, Los Angeles, CA 90037",
+    "phone": "(323) 233-3100",
+    "type": "fqhc",
+    "lat": 34.011417,
+    "lng": -118.292618,
+    "distance": 0.6399088243740173
+  },
+  {
+    "name": "De Vaughn K Peace",
+    "address": "4326 S Western Ave, Los Angeles, CA 90062",
+    "phone": "(323) 299-9914",
+    "type": "private",
+    "lat": 34.004238,
+    "lng": -118.308571,
+    "distance": 0.863400355532581
+  },
+  {
+    "name": "Stjohn's Well Child  Family Center",
+    "address": "5701 S Hoover St, Los Angeles, CA 90037",
+    "phone": "(323) 541-1411",
+    "type": "VFA",
+    "lat": 33.990292,
+    "lng": -118.287323,
+    "distance": 0.9002928815523634
+  },
+  {
+    "name": "L Khadijah Lang",
+    "address": "4361 S Western Ave, Los Angeles, CA 90062",
+    "phone": "(323) 815-1299",
+    "type": "private",
+    "lat": 34.004311,
+    "lng": -118.309258,
+    "distance": 0.9030239646661291
+  },
+  {
+    "name": "Stjohn'swellchild Fam Ctr Williams",
+    "address": "808 W 58th St, Los Angeles, CA 90037",
+    "phone": "(323) 541-1411",
+    "type": "VFA",
+    "lat": 33.989471,
+    "lng": -118.287552,
+    "distance": 0.947414674048556
+  },
+  {
+    "name": "Next Door Med Net Inc",
+    "address": "5832 S Vermont Ave, Los Angeles, CA 90044",
+    "phone": "(323) 750-7354",
+    "type": "public",
+    "lat": 33.988281,
+    "lng": -118.29113,
+    "distance": 0.9729554554818497
+  },
+  {
+    "name": "St Johns Well Child And Fam Center",
+    "address": "1060 Exposition Blvd, Los Angeles, CA 90007",
+    "phone": "(323) 541-1411",
+    "type": "VFA",
+    "lat": 34.018139,
+    "lng": -118.293442,
+    "distance": 1.1014378116618702
+  },
+  {
+    "name": "The Clinic, Inc - Ruth Temple",
+    "address": "3834 S Western Ave, Los Angeles, CA 90062",
+    "phone": "(323) 730-1920",
+    "type": "VFA",
+    "lat": 34.016659,
+    "lng": -118.308548,
+    "distance": 1.312030579253879
+  },
+  {
+    "name": "Lausd-foshay Health Center",
+    "address": "3751 S Harvard Blvd, Los Angeles, CA 90018",
+    "phone": "(323) 373-2788",
+    "type": "public",
+    "lat": 34.01918,
+    "lng": -118.307281,
+    "distance": 1.4077545484845788
+  },
+  {
+    "name": "Florence Medical Clinic",
+    "address": "1039 W Florence Ave, Los Angeles, CA 90044",
+    "phone": "(323) 776-1500",
+    "type": "fqhc",
+    "lat": 33.97488,
+    "lng": -118.293243,
+    "distance": 1.8879121687123464
+  },
+  {
+    "name": "Umma Community Clinic",
+    "address": "711 W Florence Ave, Los Angeles, CA 90044",
+    "phone": "(323) 789-5610",
+    "type": "VFA",
+    "lat": 33.974831,
+    "lng": -118.28627,
+    "distance": 1.9384722224297348
+  },
+  {
+    "name": "The Clinic, Inc-crenshaw",
+    "address": "3206 W 50th St, Los Angeles, CA 90043",
+    "phone": "(323) 730-1920",
+    "type": "VFA",
+    "lat": 33.998096,
+    "lng": -118.328362,
+    "distance": 2.0057069652415755
+  },
+  {
+    "name": "Florence Western Medical Clinic",
+    "address": "7301 S Western Ave, Los Angeles, CA 90047",
+    "phone": "(323) 778-2131",
+    "type": "private",
+    "lat": 33.973419,
+    "lng": -118.309319,
+    "distance": 2.1807302440946232
+  },
+  {
+    "name": "Yms Health Center-crenshaw",
+    "address": "5141 Crenshaw Blvd, Los Angeles, CA 90043",
+    "phone": "(323) 776-1500",
+    "type": "fqhc",
+    "lat": 33.995586,
+    "lng": -118.331238,
+    "distance": 2.1983832718499845
+  },
+  {
+    "name": "Health Care Integrated Services",
+    "address": "5311 Crenshaw Blvd, Los Angeles, CA 90043",
+    "phone": "(888) 417-5163",
+    "type": "public",
+    "lat": 33.995213,
+    "lng": -118.33165,
+    "distance": 2.2269359371803095
+  },
+  {
+    "name": "St John's Well Child -traynham",
+    "address": "326 W 23rd St, Los Angeles, CA 90007",
+    "phone": "(323) 541-1411",
+    "type": "VFA",
+    "lat": 34.029282,
+    "lng": -118.271469,
+    "distance": 2.263366986983401
+  },
+  {
+    "name": "St Johns Well Child And Fam Center",
+    "address": "4251 Crenshaw Blvd, Los Angeles, CA 90008",
+    "phone": "(323) 541-1640",
+    "type": "VFA",
+    "lat": 34.00671,
+    "lng": -118.335037,
+    "distance": 2.388277190331144
+  },
+  {
+    "name": "St Johns Well Child  Family Ctr",
+    "address": "6505 8th Ave, Los Angeles, CA 90043",
+    "phone": "(323) 750-9232",
+    "type": "VFA",
+    "lat": 33.980488,
+    "lng": -118.326561,
+    "distance": 2.40728480952771
+  },
+  {
+    "name": "Umma Community Clinic - Vermont",
+    "address": "8114 S Vermont Ave, Los Angeles, CA 90044",
+    "phone": "(323) 789-5610",
+    "type": "fqhc",
+    "lat": 33.96497,
+    "lng": -118.291245,
+    "distance": 2.576372503088038
+  },
+  {
+    "name": "Perez Jose A",
+    "address": "8301 S Vermont Ave, Ste A, Los Angeles, CA 90044",
+    "phone": "(323) 778-7772",
+    "type": "private",
+    "lat": 33.963329,
+    "lng": -118.29258,
+    "distance": 2.6866374244310816
+  },
+  {
+    "name": "Crenshaw Community Clinic",
+    "address": "3631 Crenshaw Blvd, Ste 109, Los Angeles, CA 90016",
+    "phone": "(323) 732-0100",
+    "type": "VFA",
+    "lat": 34.023109,
+    "lng": -118.335487,
+    "distance": 2.7956825028164256
+  }
+]

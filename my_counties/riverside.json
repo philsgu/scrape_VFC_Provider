@@ -1,0 +1,650 @@
+[
+  {
+    "name": "Riverside Mission Pediatrics",
+    "address": "6926 Brockton Ave, Ste 6, Riverside, CA 92506",
+    "phone": "(951) 779-1670",
+    "type": "private",
+    "lat": 33.947861,
+    "lng": -117.396141,
+    "distance": 0.37585645620404357
+  },
+  {
+    "name": "Pediatric Medical Group Of Riversid",
+    "address": "6950 Brockton Ave, Ste 5, Riverside, CA 92506",
+    "phone": "(951) 686-3636",
+    "type": "private",
+    "lat": 33.947399,
+    "lng": -117.396141,
+    "distance": 0.4077492168631751
+  },
+  {
+    "name": "Fqhc Central Neighborhood Hlth Foun",
+    "address": "3750 Arlington Ave, Riverside, CA 92506",
+    "phone": "(951) 774-3050",
+    "type": "VFA",
+    "lat": 33.946091,
+    "lng": -117.398842,
+    "distance": 0.5206524166335612
+  },
+  {
+    "name": "Iecmg Inc",
+    "address": "7101 Magnolia Ave Ste A, Riverside, CA 92504",
+    "phone": "(951) 682-9780",
+    "type": "private",
+    "lat": 33.945969,
+    "lng": -117.402298,
+    "distance": 0.6154608469345425
+  },
+  {
+    "name": "Riverside Medical Clinic",
+    "address": "7117 Brockton Ave, Riverside, CA 92506",
+    "phone": "(951) 782-3875",
+    "type": "private",
+    "lat": 33.943069,
+    "lng": -117.395981,
+    "distance": 0.7070173624937302
+  },
+  {
+    "name": "Tiny Treasures Pediatrics",
+    "address": "7392 Magnolia Ave, Riverside, CA 92504",
+    "phone": "(951) 352-3330",
+    "type": "private",
+    "lat": 33.942245,
+    "lng": -117.407082,
+    "distance": 0.9861498353356273
+  },
+  {
+    "name": "Riverside Neighborhood Health",
+    "address": "7140 Indiana Ave, Riverside, CA 92504",
+    "phone": "(951) 358-6000",
+    "type": "VFA",
+    "lat": 33.938908,
+    "lng": -117.397736,
+    "distance": 0.9983662864049441
+  },
+  {
+    "name": "Metropolitan Clinic",
+    "address": "4990 Arlington Ave, Ste D, Riverside, CA 92504",
+    "phone": "(951) 785-9011",
+    "type": "private",
+    "lat": 33.94556,
+    "lng": -117.411621,
+    "distance": 1.0331019750835333
+  },
+  {
+    "name": "Stanley H Schwartz, Md Inc",
+    "address": "7724 California Ave, Riverside, CA 92504",
+    "phone": "(951) 977-8580",
+    "type": "private",
+    "lat": 33.945309,
+    "lng": -117.41774,
+    "distance": 1.3524904135887437
+  },
+  {
+    "name": "Mario Carcamo",
+    "address": "4440 Brockton Ave, Ste 420, Riverside, CA 92501",
+    "phone": "(951) 684-8020",
+    "type": "private",
+    "lat": 33.977459,
+    "lng": -117.383667,
+    "distance": 1.8172823508043874
+  },
+  {
+    "name": "Sal A Baqai",
+    "address": "4440 Brockton Ave, Ste 430, Riverside, CA 92501",
+    "phone": "(951) 683-5380",
+    "type": "private",
+    "lat": 33.977459,
+    "lng": -117.383667,
+    "distance": 1.8172823508043874
+  },
+  {
+    "name": "Riverside Unified School District",
+    "address": "5700 Arlington Ave, Riverside, CA 92504",
+    "phone": "(951) 274-4213",
+    "type": "public",
+    "lat": 33.945549,
+    "lng": -117.427231,
+    "distance": 1.857528550171536
+  },
+  {
+    "name": "Vien Doan",
+    "address": "4343 Market St, Ste D, Riverside, CA 92501",
+    "phone": "(951) 784-7406",
+    "type": "private",
+    "lat": 33.977558,
+    "lng": -117.379562,
+    "distance": 1.9283856292850796
+  },
+  {
+    "name": "Ucr Health",
+    "address": "3390 University Ave Ste 100, Riverside, CA 92501",
+    "phone": "(844) 827-8000",
+    "type": "private",
+    "lat": 33.979591,
+    "lng": -117.371101,
+    "distance": 2.3171279682695967
+  },
+  {
+    "name": "University Community Health Center",
+    "address": "2933 University Ave, Riverside, CA 92507",
+    "phone": "(951) 224-8220",
+    "type": "VFA",
+    "lat": 33.977669,
+    "lng": -117.364967,
+    "distance": 2.457418442501821
+  },
+  {
+    "name": "Don Schroederrubidoux Family Care",
+    "address": "5256 Mission Blvd, Riverside, CA 92509",
+    "phone": "(951) 955-5310",
+    "type": "VFA",
+    "lat": 33.992561,
+    "lng": -117.39888,
+    "distance": 2.7172070707530636
+  },
+  {
+    "name": "Neighborhood Healthcare - Eastside",
+    "address": "1971 University Ave Bldg B, Riverside, CA 92507",
+    "phone": "(833) 867-4642",
+    "type": "VFA",
+    "lat": 33.975891,
+    "lng": -117.354469,
+    "distance": 2.8558802622198014
+  },
+  {
+    "name": "Inland Pediatrics, Inc",
+    "address": "3838 Sherman Dr, Ste 7, Riverside, CA 92503",
+    "phone": "(951) 688-0361",
+    "type": "private",
+    "lat": 33.926708,
+    "lng": -117.436913,
+    "distance": 2.970347349119581
+  },
+  {
+    "name": "Arlington Prescription Pharmacy",
+    "address": "8990 Garfield St, Ste 12 Riverside, CA 92503",
+    "phone": "(951) 688-5232",
+    "type": "private",
+    "lat": 33.928627,
+    "lng": -117.439476,
+    "distance": 3.0100984268620854
+  },
+  {
+    "name": "Valentine Medical Clinic",
+    "address": "8990 Garfield St, Ste 6, Riverside, CA 92503",
+    "phone": "(951) 343-1616",
+    "type": "private",
+    "lat": 33.928619,
+    "lng": -117.439522,
+    "distance": 3.0125599226710205
+  },
+  {
+    "name": "Aruna Pallapati, Md Inc",
+    "address": "8990 Garfield St, Ste 11, Riverside, CA 92503",
+    "phone": "(951) 665-8815",
+    "type": "private",
+    "lat": 33.928619,
+    "lng": -117.439522,
+    "distance": 3.0125599226710205
+  },
+  {
+    "name": "Mommy  Me Medical Group, Inc",
+    "address": "4190 Chicago Ave, Riverside, CA 92507",
+    "phone": "(951) 683-2106",
+    "type": "private",
+    "lat": 33.972172,
+    "lng": -117.347862,
+    "distance": 3.0617821458759913
+  },
+  {
+    "name": "Aspen Medical Group",
+    "address": "9041 Magnolia Ave, Ste 305, Riverside, CA 92503",
+    "phone": "(951) 343-3481",
+    "type": "private",
+    "lat": 33.92593,
+    "lng": -117.438293,
+    "distance": 3.0658239956732776
+  },
+  {
+    "name": "The Childrens Doctor Professional C",
+    "address": "3975 Jackson St, Ste 207, Riverside, CA 92503",
+    "phone": "(951) 352-2092",
+    "type": "private",
+    "lat": 33.927631,
+    "lng": -117.440842,
+    "distance": 3.1136184682996038
+  },
+  {
+    "name": "Rpp Family And Eldercare,inc",
+    "address": "3975 Jackson St, Ste 203, Riverside, CA 92503",
+    "phone": "(951) 689-6889",
+    "type": "private",
+    "lat": 33.927631,
+    "lng": -117.440842,
+    "distance": 3.1136184682996038
+  },
+  {
+    "name": "Chulhwe Koo",
+    "address": "3975 Jackson St, Ste 305, Riverside, CA 92503",
+    "phone": "(951) 352-5070",
+    "type": "private",
+    "lat": 33.927631,
+    "lng": -117.440842,
+    "distance": 3.1136184682996038
+  },
+  {
+    "name": "Chicago Clinica Medica Familiar",
+    "address": "4022 Chicago Ave, Riverside, CA 92507",
+    "phone": "(855) 505-7467",
+    "type": "private",
+    "lat": 33.974064,
+    "lng": -117.347305,
+    "distance": 3.1480555422600873
+  },
+  {
+    "name": "Ucr Health Hulen Place",
+    "address": "2880 Hulen Pl, Riverside, CA 92507",
+    "phone": "(844) 827-8000",
+    "type": "private",
+    "lat": 33.986946,
+    "lng": -117.353516,
+    "distance": 3.3746070097357026
+  },
+  {
+    "name": "Unicare Comm Health Center Riversid",
+    "address": "5549 Van Buren Blvd, Riverside, CA 92503",
+    "phone": "(951) 324-5901",
+    "type": "VFA",
+    "lat": 33.939461,
+    "lng": -117.453278,
+    "distance": 3.408607155818604
+  },
+  {
+    "name": "Magnolia Community Health Center",
+    "address": "9380 Magnolia Ave, Riverside, CA 92503",
+    "phone": "(951) 373-5620",
+    "type": "VFA",
+    "lat": 33.921108,
+    "lng": -117.444069,
+    "distance": 3.532465252740292
+  },
+  {
+    "name": "Arlington Clinica Medica Familiar",
+    "address": "8151 Arlington Ave Ste U-v, Riverside, CA 92503",
+    "phone": "(951) 688-3001",
+    "type": "private",
+    "lat": 33.946529,
+    "lng": -117.459824,
+    "distance": 3.6766795103650196
+  },
+  {
+    "name": "Neighborhood Healthcare Arlanza",
+    "address": "8856 Arlington Ave, Riverside, CA 92503",
+    "phone": "(833) 867-4642",
+    "type": "VFA",
+    "lat": 33.946079,
+    "lng": -117.46743,
+    "distance": 4.113169279024388
+  },
+  {
+    "name": "Javierriosincdba Magnoliaclinicamed",
+    "address": "9939 Magnolia Ave, Riverside, CA 92503",
+    "phone": "(855) 505-7467",
+    "type": "private",
+    "lat": 33.915428,
+    "lng": -117.455498,
+    "distance": 4.290019698567355
+  },
+  {
+    "name": "Bolivar Family Medical Clinic",
+    "address": "10327 Hole Ave, Riverside, CA 92505",
+    "phone": "(951) 351-1600",
+    "type": "private",
+    "lat": 33.915688,
+    "lng": -117.465576,
+    "distance": 4.751091974554365
+  },
+  {
+    "name": "Centro Medico Community Clinic, Inc",
+    "address": "10368 Arlington Ave, Riverside, CA 92505",
+    "phone": "(951) 509-5975",
+    "type": "fqhc",
+    "lat": 33.94648,
+    "lng": -117.479691,
+    "distance": 4.8086813202124485
+  },
+  {
+    "name": "La Sierra Clinica Familiar Medical",
+    "address": "10600 Magnolia Ave, Ste I, Riverside, CA 92505",
+    "phone": "(951) 324-8100",
+    "type": "private",
+    "lat": 33.90786,
+    "lng": -117.467522,
+    "distance": 5.155385336664169
+  },
+  {
+    "name": "Silver Oaks",
+    "address": "19330 Jesse Ln, Ste 100, Riverside, CA 92508",
+    "phone": "(844) 827-8000",
+    "type": "private",
+    "lat": 33.905727,
+    "lng": -117.326309,
+    "distance": 5.182783363916171
+  },
+  {
+    "name": "Kaiser Permanente-riverside",
+    "address": "10800 Magnolia Ave, Riverside, CA 92505",
+    "phone": "(951) 353-5804",
+    "type": "private",
+    "lat": 33.904957,
+    "lng": -117.469391,
+    "distance": 5.363424051147566
+  },
+  {
+    "name": "Jurupa Health Center",
+    "address": "8876 Mission Blvd, Riverside, CA 92509",
+    "phone": "(951) 360-8795",
+    "type": "VFA",
+    "lat": 34.01123,
+    "lng": -117.477058,
+    "distance": 6.122630889656682
+  },
+  {
+    "name": "All Kids Health",
+    "address": "4199 Flat Rock Dr, # 147, Riverside, CA 92505",
+    "phone": "(951) 790-6209",
+    "type": "public",
+    "lat": 33.904316,
+    "lng": -117.492615,
+    "distance": 6.481624585999677
+  },
+  {
+    "name": "Orangecrest Medical Clinic",
+    "address": "14200 Meridian Pkwy Ste 101, Riverside, CA 92518",
+    "phone": "(951) 653-0655",
+    "type": "private",
+    "lat": 33.911877,
+    "lng": -117.289543,
+    "distance": 6.751381550062398
+  },
+  {
+    "name": "Riverside Medical Clinic",
+    "address": "6405 Day St, Riverside, CA 92507",
+    "phone": "(951) 697-5470",
+    "type": "private",
+    "lat": 33.934071,
+    "lng": -117.280067,
+    "distance": 6.7883082214014685
+  },
+  {
+    "name": "Rosemarie Tweed, Do Apc",
+    "address": "6485 Day St, Ste 103, Riverside, CA 92507",
+    "phone": "(951) 653-1683",
+    "type": "private",
+    "lat": 33.932079,
+    "lng": -117.279449,
+    "distance": 6.8512508960516465
+  },
+  {
+    "name": "Rogelio Drenning-manrriquez",
+    "address": "6485 Day St, Ste 201, Riverside, CA 92507",
+    "phone": "(951) 697-4549",
+    "type": "private",
+    "lat": 33.932079,
+    "lng": -117.279449,
+    "distance": 6.8512508960516465
+  },
+  {
+    "name": "James S Ruppert",
+    "address": "6485 Day St, Ste 206, Riverside, CA 92507",
+    "phone": "(951) 697-7823",
+    "type": "private",
+    "lat": 33.932079,
+    "lng": -117.279449,
+    "distance": 6.8512508960516465
+  },
+  {
+    "name": "Rosemarie Tweed",
+    "address": "14114 Business Center Dr, Ste A, Moreno Valley, CA 92553",
+    "phone": "(951) 697-4133",
+    "type": "private",
+    "lat": 33.914711,
+    "lng": -117.271896,
+    "distance": 7.608706766739248
+  },
+  {
+    "name": "Condry",
+    "address": "14114 Business Center Dr, Ste B, Moreno Valley, CA 92553",
+    "phone": "(951) 697-5777",
+    "type": "private",
+    "lat": 33.914711,
+    "lng": -117.271896,
+    "distance": 7.608706766739248
+  },
+  {
+    "name": "Moreno Valley Fam Hlth Ctr",
+    "address": "22675 Alessandro Blvd, Moreno Valley, CA 92553",
+    "phone": "(951) 571-2350",
+    "type": "VFA",
+    "lat": 33.91592,
+    "lng": -117.267227,
+    "distance": 7.831970424181527
+  },
+  {
+    "name": "Qazi Med Group Inc",
+    "address": "12980 Frederick St, Ste C, Moreno Valley, CA 92553",
+    "phone": "(951) 582-2704",
+    "type": "private",
+    "lat": 33.931969,
+    "lng": -117.260712,
+    "distance": 7.905242001486585
+  },
+  {
+    "name": "Unicare Comm Health Center - Corona",
+    "address": "107 N Mckinley St, Corona, CA 92879",
+    "phone": "(951) 358-0141",
+    "type": "VFA",
+    "lat": 33.882889,
+    "lng": -117.513237,
+    "distance": 6.859389814476161
+  },
+  {
+    "name": "Mckinley Medical Clinic",
+    "address": "127 N Mckinley St, Ste 101, Corona, CA 92879",
+    "phone": "(951) 278-2600",
+    "type": "private",
+    "lat": 33.882877,
+    "lng": -117.514626,
+    "distance": 6.93751106788311
+  },
+  {
+    "name": "Stanley H Schwartz",
+    "address": "12980 Frederick St, Ste I, Moreno Valley, CA 92553",
+    "phone": "(951) 924-3244",
+    "type": "private",
+    "lat": 33.931969,
+    "lng": -117.260712,
+    "distance": 5.117325110038984
+  },
+  {
+    "name": "Moreno Valley Clinica Medica Famili",
+    "address": "23080 Alessandro Blvd, Ste 202, Moreno Valley, CA 92553",
+    "phone": "(951) 697-7866",
+    "type": "private",
+    "lat": 33.918846,
+    "lng": -117.259911,
+    "distance": 5.489816891720529
+  },
+  {
+    "name": "California Medical Clinic, Inc",
+    "address": "23900 Ironwood Ave, Ste F, Moreno Valley, CA 92557",
+    "phone": "(951) 485-2570",
+    "type": "private",
+    "lat": 33.946758,
+    "lng": -117.245003,
+    "distance": 5.818027086715605
+  },
+  {
+    "name": "Loma Linda University Health Care",
+    "address": "11441 Heacock St, Ste C, Moreno Valley, CA 92557",
+    "phone": "(951) 247-5809",
+    "type": "private",
+    "lat": 33.95475,
+    "lng": -117.244423,
+    "distance": 5.834262822629611
+  },
+  {
+    "name": "Aspen Medical Group, Inc",
+    "address": "11441 Heacock St Ste B1, Moreno Valley, CA 92557",
+    "phone": "(951) 924-1906",
+    "type": "private",
+    "lat": 33.954857,
+    "lng": -117.244362,
+    "distance": 5.837888239507343
+  },
+  {
+    "name": "Kaiser Permanente Moreno Valley",
+    "address": "12815 Heacock St, Moreno Valley, CA 92553",
+    "phone": "(951) 601-6140",
+    "type": "private",
+    "lat": 33.934849,
+    "lng": -117.245003,
+    "distance": 5.939299983227161
+  },
+  {
+    "name": "Rancho Medical Clinic",
+    "address": "13050 Heacock St, Moreno Valley, CA 92553",
+    "phone": "(951) 485-8490",
+    "type": "private",
+    "lat": 33.931042,
+    "lng": -117.243584,
+    "distance": 6.0800611302708285
+  },
+  {
+    "name": "My Family  Me Primary Care - Sunny",
+    "address": "24226 Sunnymead Blvd, Moreno Valley, CA 92553",
+    "phone": "(951) 601-6802",
+    "type": "private",
+    "lat": 33.93959,
+    "lng": -117.239952,
+    "distance": 6.163425344959666
+  },
+  {
+    "name": "Moreno Valley Community Health Ctr",
+    "address": "23520 Cactus Ave, Moreno Valley, CA 92553",
+    "phone": "(951) 867-3900",
+    "type": "VFA",
+    "lat": 33.91106,
+    "lng": -117.251251,
+    "distance": 6.176529132731285
+  },
+  {
+    "name": "Rialto Clinica Medica Familar",
+    "address": "436 S Riverside Ave, Rialto, CA 92376",
+    "phone": "(909) 877-8868",
+    "type": "private",
+    "lat": 34.092972,
+    "lng": -117.370758,
+    "distance": 6.35362466900273
+  },
+  {
+    "name": "Alessandro Clinica Medica Familiar",
+    "address": "13925 Indian St, Moreno Valley, CA 92553",
+    "phone": "(855) 505-7467",
+    "type": "private",
+    "lat": 33.918381,
+    "lng": -117.235397,
+    "distance": 6.4388089980224
+  },
+  {
+    "name": "Vista Medical Group",
+    "address": "2071 Compton Ave, Ste 105, Corona, CA 92881",
+    "phone": "(951) 549-0900",
+    "type": "private",
+    "lat": 33.848579,
+    "lng": -117.535347,
+    "distance": 6.360134920630898
+  },
+  {
+    "name": "New Hope Medical Group",
+    "address": "1820 Fullerton Ave, Ste 230, Corona, CA 92881",
+    "phone": "(951) 268-6995",
+    "type": "private",
+    "lat": 33.858776,
+    "lng": -117.550949,
+    "distance": 6.750671443606991
+  },
+  {
+    "name": "Sukhdev K Uppal Md Inc",
+    "address": "800 Magnolia Ave, Ste 107, Corona, CA 92879",
+    "phone": "(951) 372-0955",
+    "type": "private",
+    "lat": 33.859039,
+    "lng": -117.552467,
+    "distance": 6.820127022711833
+  },
+  {
+    "name": "Totalcare Walk-in Clinic",
+    "address": "1973 Foothill Pkwy, Unit 104, Corona, CA 92881",
+    "phone": "(951) 460-2300",
+    "type": "private",
+    "lat": 33.832882,
+    "lng": -117.531189,
+    "distance": 6.888507462703596
+  },
+  {
+    "name": "Yvonne D'sylva Md Inc",
+    "address": "770 Magnolia Ave, Ste 2a, Corona, CA 92879",
+    "phone": "(951) 736-8144",
+    "type": "private",
+    "lat": 33.859131,
+    "lng": -117.553871,
+    "distance": 6.889392204396896
+  },
+  {
+    "name": "Corona Clinica Medica Familiar",
+    "address": "217 E 3rd St, Corona, CA 92879",
+    "phone": "(951) 273-1188",
+    "type": "private",
+    "lat": 33.878651,
+    "lng": -117.564293,
+    "distance": 6.9844161937430025
+  },
+  {
+    "name": "American Pediatrics",
+    "address": "900 S Main St, Ste 108, Corona, CA 92882",
+    "phone": "(951) 734-5450",
+    "type": "private",
+    "lat": 33.871979,
+    "lng": -117.567459,
+    "distance": 7.2843677822904
+  },
+  {
+    "name": "Aruna Pallapati, Md Inc",
+    "address": "900 S Main St, Ste 205, Corona, CA 92882",
+    "phone": "(951) 665-8815",
+    "type": "private",
+    "lat": 33.871979,
+    "lng": -117.567459,
+    "distance": 7.2843677822904
+  },
+  {
+    "name": "Jeong Ok Lee, Md",
+    "address": "760 Washburn Ave, Ste 21, Corona, CA 92882",
+    "phone": "(951) 734-8000",
+    "type": "private",
+    "lat": 33.87376,
+    "lng": -117.568199,
+    "distance": 7.289420145833013
+  },
+  {
+    "name": "Neighborhood Healthcare-corona",
+    "address": "308 W 6th St, Ste 109, Corona, CA 92882",
+    "phone": "(833) 867-4642",
+    "type": "fqhc",
+    "lat": 33.874249,
+    "lng": -117.56971,
+    "distance": 7.363353465036505
+  }
+]

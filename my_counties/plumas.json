@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Plumas County Public Health Agency",
+    "address": "270 County Hospital Rd, Ste 111, Quincy, CA 95971",
+    "phone": "(530) 283-6330",
+    "type": "public",
+    "lat": 39.952412,
+    "lng": -120.96434,
+    "distance": 8.836297603779201
+  },
+  {
+    "name": "Quincy Pharmacy",
+    "address": "411 Main St, Quincy, CA 95971",
+    "phone": "(530) 283-4545",
+    "type": "private",
+    "lat": 39.936867,
+    "lng": -120.946648,
+    "distance": 8.988379101269983
+  },
+  {
+    "name": "Greenville Rancheria Tribal Hc",
+    "address": "410 Main St, Greenville Ca 95947",
+    "phone": "(530) 284-6135",
+    "type": "public",
+    "lat": 40.140781,
+    "lng": -120.950455,
+    "distance": 9.09030280696803
+  },
+  {
+    "name": "Plumas Dist Hosp Clinic",
+    "address": "1065 Bucks Lake Rd, Quincy, CA 95971",
+    "phone": "(530) 283-0650",
+    "type": "fqhc",
+    "lat": 39.93932,
+    "lng": -120.962097,
+    "distance": 9.391544308264141
+  },
+  {
+    "name": "Westwood Family Practice",
+    "address": "209 Birch Street, Westwood, CA 96137",
+    "phone": "(530) 252-1212",
+    "type": "fqhc",
+    "lat": 40.30159,
+    "lng": -121.002274,
+    "distance": 20.03186717681607
+  },
+  {
+    "name": "Portola Medical Clinic",
+    "address": "480 1st Ave, Portola, CA 96122",
+    "phone": "(530) 832-6600",
+    "type": "fqhc",
+    "lat": 39.805729,
+    "lng": -120.463913,
+    "distance": 25.693692085113337
+  },
+  {
+    "name": "Graeagle Medical Clinic",
+    "address": "480 1st Ave, Portola, CA 96122",
+    "phone": "(530) 836-1122",
+    "type": "private",
+    "lat": 39.805721,
+    "lng": -120.463898,
+    "distance": 25.694653354364537
+  },
+  {
+    "name": "Banner Health Clinic",
+    "address": "1680 Bunyan Rd, Susanville, CA 96130",
+    "phone": "(530) 257-5730",
+    "type": "private",
+    "lat": 40.42123,
+    "lng": -120.647293,
+    "distance": 28.32860387348695
+  },
+  {
+    "name": "Lassen County Public Health",
+    "address": "1445 Bunyan Rd, Unit B, Susanville, CA 96130",
+    "phone": "(530) 251-8183",
+    "type": "public",
+    "lat": 40.422771,
+    "lng": -120.649094,
+    "distance": 28.393777654351922
+  },
+  {
+    "name": "Lassen Indian Health Center",
+    "address": "795 Joaquin St, Susanville, CA 96130",
+    "phone": "(530) 257-2542",
+    "type": "public",
+    "lat": 40.426888,
+    "lng": -120.657097,
+    "distance": 28.512689665608207
+  },
+  {
+    "name": "Northeastern Rural Health Clinics",
+    "address": "1850 Spring Ridge Dr, Susanville, CA 96130",
+    "phone": "(530) 251-5000",
+    "type": "VFA",
+    "lat": 40.437759,
+    "lng": -120.625587,
+    "distance": 29.81416669639138
+  },
+  {
+    "name": "Western Sierra Med Clinic",
+    "address": "209 Nevada Street, Downieville, CA 95936",
+    "phone": "(530) 289-3298",
+    "type": "public",
+    "lat": 39.55899,
+    "lng": -120.829132,
+    "distance": 33.173996783088135
+  },
+  {
+    "name": "Loyalton Medical Clinic",
+    "address": "701 Main Street, Loyalton, CA 96118",
+    "phone": "(530) 993-1231",
+    "type": "fqhc",
+    "lat": 39.676056,
+    "lng": -120.241417,
+    "distance": 40.522186036350284
+  },
+  {
+    "name": "Sierra Co Health Department",
+    "address": "202 Front St, Loyalton, CA 96118",
+    "phone": "(530) 993-6700",
+    "type": "public",
+    "lat": 39.674389,
+    "lng": -120.240913,
+    "distance": 40.61482232868226
+  },
+  {
+    "name": "Sutter North Medical Foundation",
+    "address": "16911 Willow Glen Rd, Brownsville, CA 95919",
+    "phone": "(530) 675-2732",
+    "type": "private",
+    "lat": 39.460838,
+    "lng": -121.282707,
+    "distance": 46.31792085325917
+  },
+  {
+    "name": "Feather River Hospital Health Ctr",
+    "address": "5125 Skyway, Ste H, Paradise, CA 95969",
+    "phone": "(530) 876-2000",
+    "type": "fqhc",
+    "lat": 39.746479,
+    "lng": -121.639389,
+    "distance": 46.880805248376845
+  },
+  {
+    "name": "Sierra Family Medical",
+    "address": "15301 Tyler Foote Rd, Nevada City, CA 95959",
+    "phone": "(530) 292-3478",
+    "type": "private",
+    "lat": 39.36591,
+    "lng": -121.035156,
+    "distance": 47.63470741762331
+  },
+  {
+    "name": "Butte County Phd Oroville Clinic",
+    "address": "78 Table Mountain Blvd, Oroville, CA 95965",
+    "phone": "(530) 552-3918",
+    "type": "public",
+    "lat": 39.521809,
+    "lng": -121.553383,
+    "distance": 52.01995790188498
+  },
+  {
+    "name": "Big Valley Health Center",
+    "address": "554-850 Medical Center Drive, Bieber, CA 96009",
+    "phone": "(530) 999-9010",
+    "type": "fqhc",
+    "lat": 39.50563,
+    "lng": -121.540169,
+    "distance": 52.29711684569423
+  },
+  {
+    "name": "Neal Pediatric Practice Associates",
+    "address": "2809 Olive Hwy, Ste 330, Oroville, CA 95966",
+    "phone": "(530) 532-8623",
+    "type": "private",
+    "lat": 39.50412,
+    "lng": -121.541374,
+    "distance": 52.416390411800755
+  },
+  {
+    "name": "Oroville Hospital Ped Practice",
+    "address": "2809 Olive Hwy, Ste 270, Oroville, CA 95966",
+    "phone": "(530) 532-8629",
+    "type": "fqhc",
+    "lat": 39.50412,
+    "lng": -121.541374,
+    "distance": 52.416390411800755
+  },
+  {
+    "name": "Oroville Hosp-perinatal Hbv Program",
+    "address": "2767 Olive Hwy, Oroville, CA 95966",
+    "phone": "(530) 532-8377",
+    "type": "private",
+    "lat": 39.504593,
+    "lng": -121.54213,
+    "distance": 52.4217234536284
+  },
+  {
+    "name": "Ampla Health Oroville",
+    "address": "2800 Lincoln St, Oroville, CA 95966",
+    "phone": "(530) 534-7500",
+    "type": "fqhc",
+    "lat": 39.501431,
+    "lng": -121.551811,
+    "distance": 52.94161969847633
+  },
+  {
+    "name": "Feather River Tribal Health",
+    "address": "2145 5th Ave, Oroville, CA 95965",
+    "phone": "(530) 534-5394",
+    "type": "public",
+    "lat": 39.50362,
+    "lng": -121.563423,
+    "distance": 53.27719817352195
+  },
+  {
+    "name": "Nvih- Meriam Park",
+    "address": "1990 Concord Ave, Chico, CA 95928",
+    "phone": "(530) 809-3300",
+    "type": "public",
+    "lat": 39.72797,
+    "lng": -121.792068,
+    "distance": 54.79147520349308
+  },
+  {
+    "name": "Nvih- Children Health Center",
+    "address": "1515 Springfield Dr Ste 175, Chico, CA 95928",
+    "phone": "(530) 781-1440",
+    "type": "public",
+    "lat": 39.73045,
+    "lng": -121.810379,
+    "distance": 55.61906714229448
+  },
+  {
+    "name": "Western Sierra Med Clinic",
+    "address": "844 Old Tunnel Rd, Grass Valley, CA 95945",
+    "phone": "(530) 274-9762",
+    "type": "fqhc",
+    "lat": 39.236179,
+    "lng": -121.031197,
+    "distance": 56.38382260444314
+  },
+  {
+    "name": "Chapa De Indian Health Program, Inc",
+    "address": "1350 E Main St, Grass Valley, CA 95945",
+    "phone": "(530) 477-1727",
+    "type": "public",
+    "lat": 39.233086,
+    "lng": -121.046097,
+    "distance": 56.74096785973974
+  },
+  {
+    "name": "Sierra Care Physicians Pediatrics",
+    "address": "140 Litton Dr, Ste 100, Grass Valley, CA 95945",
+    "phone": "(530) 272-9780",
+    "type": "private",
+    "lat": 39.233677,
+    "lng": -121.052773,
+    "distance": 56.77013794969286
+  },
+  {
+    "name": "Ampla Health Chico Med  Ped",
+    "address": "680 Cohasset Rd, Chico, CA 95926",
+    "phone": "(530) 342-4395",
+    "type": "fqhc",
+    "lat": 39.752811,
+    "lng": -121.846161,
+    "distance": 56.811755911042084
+  },
+  {
+    "name": "Butte County Phd, Chico Clinic",
+    "address": "695 Oleander Ave, Chico, CA 95926",
+    "phone": "(530) 552-3959",
+    "type": "public",
+    "lat": 39.734909,
+    "lng": -121.841827,
+    "distance": 57.046863040662316
+  },
+  {
+    "name": "Ampla Health Family Dental Medical",
+    "address": "285 Cohasset Rd, Chico, CA 95926",
+    "phone": "(530) 342-6065",
+    "type": "fqhc",
+    "lat": 39.751122,
+    "lng": -121.850922,
+    "distance": 57.089612768397345
+  },
+  {
+    "name": "Enloe Medical Center Pharmacy",
+    "address": "1531 Esplanade, Chico, CA 95926",
+    "phone": "(530) 332-7709",
+    "type": "private",
+    "lat": 39.742149,
+    "lng": -121.849861,
+    "distance": 57.25933535594858
+  },
+  {
+    "name": "Nevada County Health Department",
+    "address": "500 Crown Point Cir, Ste 110, Grass Valley, CA 95945",
+    "phone": "(530) 265-7049",
+    "type": "public",
+    "lat": 39.219849,
+    "lng": -121.031464,
+    "distance": 57.49706591339849
+  },
+  {
+    "name": "Northern Valley Indian Health, Inc",
+    "address": "845 W East Ave, Chico, CA 95926",
+    "phone": "(530) 896-9400",
+    "type": "public",
+    "lat": 39.747299,
+    "lng": -121.876457,
+    "distance": 58.45236310558925
+  },
+  {
+    "name": "Tahoe Forest Multispecialty Clinics",
+    "address": "10956 Donner Pass Rd Ste 310, Truckee, CA 96161",
+    "phone": "(530) 587-3523",
+    "type": "fqhc",
+    "lat": 39.32658,
+    "lng": -120.200722,
+    "distance": 59.86882397888231
+  },
+  {
+    "name": "Wsmc Penn Valley",
+    "address": "10544 Spenceville Rd, Penn Valley, CA 95946",
+    "phone": "(530) 274-9762",
+    "type": "fqhc",
+    "lat": 39.19635,
+    "lng": -121.178093,
+    "distance": 60.91894917506887
+  },
+  {
+    "name": "Shingletown Medical Center Inc",
+    "address": "31292 Alpine Meadows Rd, Shingletown, CA 96088",
+    "phone": "(530) 474-3390",
+    "type": "fqhc",
+    "lat": 40.491669,
+    "lng": -121.88546,
+    "distance": 63.30894087254546
+  },
+  {
+    "name": "Chuk Ndulue, M D",
+    "address": "135 Spruce St, Gridley, CA 95948",
+    "phone": "(530) 846-1400",
+    "type": "fqhc",
+    "lat": 39.366669,
+    "lng": -121.68885,
+    "distance": 64.70930645394009
+  },
+  {
+    "name": "Sanjiv Midha, Md A Medical Corpo",
+    "address": "50 E Gridley Rd, Gridley, CA 95948",
+    "phone": "(530) 674-2100",
+    "type": "private",
+    "lat": 39.363186,
+    "lng": -121.685532,
+    "distance": 64.76071147214327
+  },
+  {
+    "name": "Ampla Health Gridley Medical",
+    "address": "520 Kentucky St, Gridley, CA 95948",
+    "phone": "(530) 846-6231",
+    "type": "fqhc",
+    "lat": 39.36396,
+    "lng": -121.696274,
+    "distance": 65.11916923722478
+  },
+  {
+    "name": "Ampla Health Los Molinos",
+    "address": "7981 State Highway 99e, Los Molinos, CA 96055",
+    "phone": "(530) 384-4010",
+    "type": "fqhc",
+    "lat": 40.027672,
+    "lng": -122.100754,
+    "distance": 66.62608660578495
+  },
+  {
+    "name": "Live Oak Medical Clinic",
+    "address": "9980 Live Oak Blvd, Live Oak, CA 95953",
+    "phone": "(530) 749-3242",
+    "type": "fqhc",
+    "lat": 39.275738,
+    "lng": -121.661201,
+    "distance": 68.4308401216933
+  },
+  {
+    "name": "Stallant Health",
+    "address": "20601 W Paoli Ln, Weimar, CA 95736",
+    "phone": "(530) 637-4025",
+    "type": "fqhc",
+    "lat": 39.036999,
+    "lng": -120.976433,
+    "distance": 69.6082040705475
+  },
+  {
+    "name": "Western Sierra Medical Clinic Inc",
+    "address": "8665 Salmon Ave, Pob 1785, Kings Beach, CA 96143",
+    "phone": "(530) 584-9762",
+    "type": "fqhc",
+    "lat": 39.236359,
+    "lng": -120.021439,
+    "distance": 70.56867510564494
+  },
+  {
+    "name": "Corning Rural Health Clinic",
+    "address": "155 Solano St, Corning, CA 96021",
+    "phone": "(530) 824-4663",
+    "type": "fqhc",
+    "lat": 39.927807,
+    "lng": -122.1688,
+    "distance": 70.69158206099002
+  },
+  {
+    "name": "Tehama County Health Department",
+    "address": "275 Solano St, Corning, CA 96021",
+    "phone": "(530) 824-4890",
+    "type": "public",
+    "lat": 39.927311,
+    "lng": -122.168869,
+    "distance": 70.6991813423465
+  },
+  {
+    "name": "James Ooi Md",
+    "address": "320 Solano St, Corning, CA 96021",
+    "phone": "(530) 824-3283",
+    "type": "private",
+    "lat": 39.928169,
+    "lng": -122.169884,
+    "distance": 70.74569962846776
+  },
+  {
+    "name": "Rolling Hills Clinic",
+    "address": "706 Peach St, Corning, CA 96021",
+    "phone": "(530) 690-2827",
+    "type": "public",
+    "lat": 39.928711,
+    "lng": -122.174759,
+    "distance": 70.99799031396873
+  },
+  {
+    "name": "Dignity Health Solano Street",
+    "address": "2126 Solano St, Corning, CA 96021",
+    "phone": "(530) 824-4002",
+    "type": "fqhc",
+    "lat": 39.928379,
+    "lng": -122.195839,
+    "distance": 72.11027754118432
+  },
+  {
+    "name": "Pit River Health Services",
+    "address": "36977 Park Ave, Burney, CA 96013",
+    "phone": "(530) 335-3651",
+    "type": "public",
+    "lat": 40.873371,
+    "lng": -121.673599,
+    "distance": 69.64101004626937
+  },
+  {
+    "name": "Mtn Valleys Hlth Ctrburney Hlth",
+    "address": "37491 Enterprise Dr, Burney, CA 96013",
+    "phone": "(530) 999-9030",
+    "type": "fqhc",
+    "lat": 40.8876,
+    "lng": -121.652519,
+    "distance": 69.72339654997933
+  },
+  {
+    "name": "Mayers Rural Health Center",
+    "address": "20641 Commerce Way, Burney, CA 96013",
+    "phone": "(530) 335-6070",
+    "type": "fqhc",
+    "lat": 40.88895,
+    "lng": -121.651535,
+    "distance": 69.76543646093903
+  },
+  {
+    "name": "Harmony Health Wellness Center",
+    "address": "1930 North Beale Road, Marysville, CA 95901",
+    "phone": "(530) 645-7336",
+    "type": "fqhc",
+    "lat": 39.127499,
+    "lng": -121.545059,
+    "distance": 70.34374165692415
+  },
+  {
+    "name": "Harmony Health Medical Clinic Frc",
+    "address": "1908 N Beale Rd, Ste E, Marysville, CA 95901",
+    "phone": "(530) 743-6888",
+    "type": "private",
+    "lat": 39.127579,
+    "lng": -121.545807,
+    "distance": 70.36027681347767
+  },
+  {
+    "name": "Rolling Hills Clinic",
+    "address": "2526 Sister Mary Columba Dr, Red Bluff, CA 96080",
+    "phone": "(530) 690-2778",
+    "type": "public",
+    "lat": 40.149544,
+    "lng": -122.219521,
+    "distance": 70.61106658734984
+  },
+  {
+    "name": "Fall River Valley Health Center",
+    "address": "43658 Hwy 299 E, Fall River Mills, CA 96028",
+    "phone": "(530) 999-9020",
+    "type": "fqhc",
+    "lat": 41.028648,
+    "lng": -121.421555,
+    "distance": 72.86612255547627
+  },
+  {
+    "name": "Chuk Ndulue, M D",
+    "address": "620 E St, Marysville, CA 95901",
+    "phone": "(530) 741-2600",
+    "type": "fqhc",
+    "lat": 39.141918,
+    "lng": -121.591187,
+    "distance": 72.38996750928825
+  },
+  {
+    "name": "Marysville Clinic",
+    "address": "527 E St, Marysville, CA 95901",
+    "phone": "(530) 743-5300",
+    "type": "private",
+    "lat": 39.140835,
+    "lng": -121.590553,
+    "distance": 72.43087634290646
+  },
+  {
+    "name": "Adventist Health And Rideout",
+    "address": "726 4th St, Fl 4 Marysville, CA 95901",
+    "phone": "(530) 749-4417",
+    "type": "public",
+    "lat": 39.138203,
+    "lng": -121.593994,
+    "distance": 72.68622121809842
+  }
+]

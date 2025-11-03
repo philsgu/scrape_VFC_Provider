@@ -1,0 +1,497 @@
+[
+  {
+    "name": "Redding Rancheria Tribal Health",
+    "address": "1441 Liberty St, Redding, CA 96001",
+    "phone": "(530) 226-1726",
+    "type": "public",
+    "lat": 40.585911,
+    "lng": -122.386597,
+    "distance": 0.27087193594090464
+  },
+  {
+    "name": "Schc Peds",
+    "address": "1035 Placer St, Redding, CA 96001",
+    "phone": "(530) 646-3959",
+    "type": "fqhc",
+    "lat": 40.582821,
+    "lng": -122.385391,
+    "distance": 0.41740361674705806
+  },
+  {
+    "name": "Schc Family Practice",
+    "address": "1035 Placer St, Redding, CA 96001",
+    "phone": "(530) 646-3959",
+    "type": "fqhc",
+    "lat": 40.582821,
+    "lng": -122.385391,
+    "distance": 0.41740361674705806
+  },
+  {
+    "name": "Schc Residency",
+    "address": "1035 Placer St, Redding, CA 96001",
+    "phone": "(530) 646-3959",
+    "type": "fqhc",
+    "lat": 40.582821,
+    "lng": -122.385391,
+    "distance": 0.41740361674705806
+  },
+  {
+    "name": "Schc Urgent Care",
+    "address": "1035 Placer St, Redding, CA 96001",
+    "phone": "(530) 646-3959",
+    "type": "fqhc",
+    "lat": 40.582821,
+    "lng": -122.385391,
+    "distance": 0.41740361674705806
+  },
+  {
+    "name": "Schc Fellowship",
+    "address": "1035 Placer St, Redding, CA 96001",
+    "phone": "(530) 646-3959",
+    "type": "fqhc",
+    "lat": 40.582821,
+    "lng": -122.385391,
+    "distance": 0.41740361674705806
+  },
+  {
+    "name": "Mercy Family Health Center",
+    "address": "2480 Sonoma St, Redding, CA 96001",
+    "phone": "(530) 225-7836",
+    "type": "public",
+    "lat": 40.5737,
+    "lng": -122.404091,
+    "distance": 1.0977716086642808
+  },
+  {
+    "name": "Shasta Countyhhsapublic Health Br",
+    "address": "2650 Breslauer Way, Redding, CA 96001",
+    "phone": "(530) 229-8463",
+    "type": "public",
+    "lat": 40.550838,
+    "lng": -122.378349,
+    "distance": 2.5618303198413948
+  },
+  {
+    "name": "Churn Creek Healthcare",
+    "address": "3184 Churn Creek Rd, Redding, CA 96002",
+    "phone": "(530) 768-2436",
+    "type": "public",
+    "lat": 40.56142,
+    "lng": -122.353737,
+    "distance": 2.640642039656301
+  },
+  {
+    "name": "Schc Enterprise",
+    "address": "3270 Churn Creek Rd, Redding, CA 96002",
+    "phone": "(530) 229-5114",
+    "type": "fqhc",
+    "lat": 40.56002,
+    "lng": -122.353546,
+    "distance": 2.712507932944416
+  },
+  {
+    "name": "Shasta Lake Family Health Center",
+    "address": "4215 Front St, Shasta Lake, CA 96019",
+    "phone": "(530) 646-3959",
+    "type": "fqhc",
+    "lat": 40.681114,
+    "lng": -122.370369,
+    "distance": 6.632609737776316
+  },
+  {
+    "name": "Anderson Family Health Center",
+    "address": "2965 East St, Anderson, CA 96007",
+    "phone": "(530) 246-5833",
+    "type": "fqhc",
+    "lat": 40.451839,
+    "lng": -122.298248,
+    "distance": 10.52015440471443
+  },
+  {
+    "name": "Andersonrx",
+    "address": "2940 East St, Anderson, CA 96007",
+    "phone": "(530) 378-5566",
+    "type": "private",
+    "lat": 40.450863,
+    "lng": -122.298294,
+    "distance": 10.578784496450043
+  },
+  {
+    "name": "Lassen Medical Clinic Cottonwood",
+    "address": "20833 Long Branch Dr, Cottonwood, CA 96022",
+    "phone": "(530) 347-3418",
+    "type": "private",
+    "lat": 40.393631,
+    "lng": -122.280167,
+    "distance": 14.558684279789489
+  },
+  {
+    "name": "Shingletown Medical Center Inc",
+    "address": "31292 Alpine Meadows Rd, Shingletown, CA 96088",
+    "phone": "(530) 474-3390",
+    "type": "fqhc",
+    "lat": 40.491669,
+    "lng": -121.88546,
+    "distance": 27.379104383468988
+  },
+  {
+    "name": "Redding Rancheria Trinity Healthctr",
+    "address": "81 Arbuckle Court, Weaverville, CA 96093",
+    "phone": "(530) 623-0021",
+    "type": "public",
+    "lat": 40.711479,
+    "lng": -122.926498,
+    "distance": 29.336766281171744
+  },
+  {
+    "name": "Tehama County Medical Outpatient Cl",
+    "address": "1850 Walnut St, Ste E, Red Bluff, CA 96080",
+    "phone": "(530) 527-0350",
+    "type": "fqhc",
+    "lat": 40.16906,
+    "lng": -122.254234,
+    "distance": 29.73785926409498
+  },
+  {
+    "name": "Tehama Co Public Hlth Department",
+    "address": "1860 Walnut St, Bldg C, Red Bluff, CA 96080",
+    "phone": "(530) 527-6824",
+    "type": "public",
+    "lat": 40.168972,
+    "lng": -122.254395,
+    "distance": 29.74169022419436
+  },
+  {
+    "name": "Trinity Community Health Clinic",
+    "address": "31 Easter Avenue, Weaverville, CA 96093",
+    "phone": "(530) 623-4186",
+    "type": "fqhc",
+    "lat": 40.737389,
+    "lng": -122.939941,
+    "distance": 30.569024730370213
+  },
+  {
+    "name": "Greenville Rancheria Tribal Hlth",
+    "address": "1425 Montgomery Rd, Red Bluff, CA 96080",
+    "phone": "(530) 528-8600",
+    "type": "public",
+    "lat": 40.157806,
+    "lng": -122.225571,
+    "distance": 30.885689669333267
+  },
+  {
+    "name": "Lassen Medical Clinic-red Bluff",
+    "address": "2450 Sister Mary Columba Dr, Red Bluff, CA 96080",
+    "phone": "(530) 527-0414",
+    "type": "private",
+    "lat": 40.149448,
+    "lng": -122.222038,
+    "distance": 31.492385146096357
+  },
+  {
+    "name": "Rolling Hills Clinic",
+    "address": "2526 Sister Mary Columba Dr, Red Bluff, CA 96080",
+    "phone": "(530) 690-2778",
+    "type": "public",
+    "lat": 40.149544,
+    "lng": -122.219521,
+    "distance": 31.52392025660552
+  },
+  {
+    "name": "Ampla Health Los Molinos",
+    "address": "7981 State Highway 99e, Los Molinos, CA 96055",
+    "phone": "(530) 384-4010",
+    "type": "fqhc",
+    "lat": 40.027672,
+    "lng": -122.100754,
+    "distance": 41.54569133058644
+  },
+  {
+    "name": "Hayfork Community Hlth Clinic",
+    "address": "6961 Highway 3, Hayfork, CA 96041",
+    "phone": "(530) 628-5517",
+    "type": "fqhc",
+    "lat": 40.554211,
+    "lng": -123.18605,
+    "distance": 41.752638929361986
+  },
+  {
+    "name": "Pit River Health Services",
+    "address": "36977 Park Ave, Burney, CA 96013",
+    "phone": "(530) 335-3651",
+    "type": "public",
+    "lat": 40.873371,
+    "lng": -121.673599,
+    "distance": 42.50566902239932
+  },
+  {
+    "name": "Mtn Valleys Hlth Ctrburney Hlth",
+    "address": "37491 Enterprise Dr, Burney, CA 96013",
+    "phone": "(530) 999-9030",
+    "type": "fqhc",
+    "lat": 40.8876,
+    "lng": -121.652519,
+    "distance": 43.93834419217826
+  },
+  {
+    "name": "Mayers Rural Health Center",
+    "address": "20641 Commerce Way, Burney, CA 96013",
+    "phone": "(530) 335-6070",
+    "type": "fqhc",
+    "lat": 40.88895,
+    "lng": -121.651535,
+    "distance": 44.027602949177776
+  },
+  {
+    "name": "Dunsmuir Community Health Center",
+    "address": "4309 Stagecoach Rd, Dunsmuir, CA 96025",
+    "phone": "(530) 235-4138",
+    "type": "fqhc",
+    "lat": 41.22263,
+    "lng": -122.276833,
+    "distance": 44.36246473802023
+  },
+  {
+    "name": "Dignity Health Solano Street",
+    "address": "2126 Solano St, Corning, CA 96021",
+    "phone": "(530) 824-4002",
+    "type": "fqhc",
+    "lat": 39.928379,
+    "lng": -122.195839,
+    "distance": 46.632628613116125
+  },
+  {
+    "name": "Rolling Hills Clinic",
+    "address": "706 Peach St, Corning, CA 96021",
+    "phone": "(530) 690-2827",
+    "type": "public",
+    "lat": 39.928711,
+    "lng": -122.174759,
+    "distance": 46.86909613138789
+  },
+  {
+    "name": "James Ooi Md",
+    "address": "320 Solano St, Corning, CA 96021",
+    "phone": "(530) 824-3283",
+    "type": "private",
+    "lat": 39.928169,
+    "lng": -122.169884,
+    "distance": 46.968763045786524
+  },
+  {
+    "name": "Corning Rural Health Clinic",
+    "address": "155 Solano St, Corning, CA 96021",
+    "phone": "(530) 824-4663",
+    "type": "fqhc",
+    "lat": 39.927807,
+    "lng": -122.1688,
+    "distance": 47.00727463664871
+  },
+  {
+    "name": "Tehama County Health Department",
+    "address": "275 Solano St, Corning, CA 96021",
+    "phone": "(530) 824-4890",
+    "type": "public",
+    "lat": 39.927311,
+    "lng": -122.168869,
+    "distance": 47.03955930517144
+  },
+  {
+    "name": "Mccloud Health Care Clinic",
+    "address": "116 W Minnesota Avenue, Mccloud, CA 96057",
+    "phone": "(530) 964-2389",
+    "type": "fqhc",
+    "lat": 41.251759,
+    "lng": -122.136559,
+    "distance": 47.85909584074373
+  },
+  {
+    "name": "Mt Shasta Health Center",
+    "address": "101 Old Mccloud Rd, Mount Shasta, CA 96067",
+    "phone": "(530) 999-9040",
+    "type": "fqhc",
+    "lat": 41.304829,
+    "lng": -122.310471,
+    "distance": 49.81549324280721
+  },
+  {
+    "name": "Mercy Pine Street Clinic",
+    "address": "408 Pine St, Mount Shasta, CA 96067",
+    "phone": "(530) 926-7196",
+    "type": "fqhc",
+    "lat": 41.31324,
+    "lng": -122.3153,
+    "distance": 50.374019441104856
+  },
+  {
+    "name": "Mercy Mt Shasta Community Clinic",
+    "address": "912 Pine St, Mount Shasta, CA 96067",
+    "phone": "(530) 926-7131",
+    "type": "fqhc",
+    "lat": 41.318932,
+    "lng": -122.323112,
+    "distance": 50.73566207203398
+  },
+  {
+    "name": "Weed Health Center",
+    "address": "50 Alamo Ave, Weed, CA 96094",
+    "phone": "(530) 999-9050",
+    "type": "private",
+    "lat": 41.426754,
+    "lng": -122.384842,
+    "distance": 58.060623317925646
+  },
+  {
+    "name": "Orland Childrens Center",
+    "address": "116 E Walker St, Orland, CA 95963",
+    "phone": "(530) 865-5400",
+    "type": "public",
+    "lat": 39.746971,
+    "lng": -122.18412,
+    "distance": 59.03577472519533
+  },
+  {
+    "name": "Fall River Valley Health Center",
+    "address": "43658 Hwy 299 E, Fall River Mills, CA 96028",
+    "phone": "(530) 999-9020",
+    "type": "fqhc",
+    "lat": 41.028648,
+    "lng": -121.421555,
+    "distance": 59.22652216167913
+  },
+  {
+    "name": "The Wecare Group, Inc.",
+    "address": "321 Van Duzen Rd, Mad River, CA 95526",
+    "phone": "(707) 574-6616",
+    "type": "fqhc",
+    "lat": 40.460751,
+    "lng": -123.529778,
+    "distance": 60.40381212888867
+  },
+  {
+    "name": "Northern Valley Indian Health, Inc",
+    "address": "845 W East Ave, Chico, CA 95926",
+    "phone": "(530) 896-9400",
+    "type": "public",
+    "lat": 39.747299,
+    "lng": -121.876457,
+    "distance": 64.051415582144
+  },
+  {
+    "name": "Ampla Health Family Dental Medical",
+    "address": "285 Cohasset Rd, Chico, CA 95926",
+    "phone": "(530) 342-6065",
+    "type": "fqhc",
+    "lat": 39.751122,
+    "lng": -121.850922,
+    "distance": 64.39842232458682
+  },
+  {
+    "name": "Ampla Health Chico Med  Ped",
+    "address": "680 Cohasset Rd, Chico, CA 95926",
+    "phone": "(530) 342-4395",
+    "type": "fqhc",
+    "lat": 39.752811,
+    "lng": -121.846161,
+    "distance": 64.40564320541647
+  },
+  {
+    "name": "Enloe Medical Center Pharmacy",
+    "address": "1531 Esplanade, Chico, CA 95926",
+    "phone": "(530) 332-7709",
+    "type": "private",
+    "lat": 39.742149,
+    "lng": -121.849861,
+    "distance": 64.98014971363266
+  },
+  {
+    "name": "Mercy Lake Shastina Comm Clinic",
+    "address": "16337 Everhart Dr, Weed, CA 96094",
+    "phone": "(530) 938-2297",
+    "type": "fqhc",
+    "lat": 41.527321,
+    "lng": -122.362717,
+    "distance": 65.02598596508606
+  },
+  {
+    "name": "Butte County Phd, Chico Clinic",
+    "address": "695 Oleander Ave, Chico, CA 95926",
+    "phone": "(530) 552-3959",
+    "type": "public",
+    "lat": 39.734909,
+    "lng": -121.841827,
+    "distance": 65.61698360269082
+  },
+  {
+    "name": "Scott Valley Rural Health Clinic",
+    "address": "8 Commercial St, Etna, CA 96027",
+    "phone": "(530) 467-5393",
+    "type": "fqhc",
+    "lat": 41.462639,
+    "lng": -122.890182,
+    "distance": 65.880044090402
+  },
+  {
+    "name": "Nvih- Children Health Center",
+    "address": "1515 Springfield Dr Ste 175, Chico, CA 95928",
+    "phone": "(530) 781-1440",
+    "type": "public",
+    "lat": 39.73045,
+    "lng": -121.810379,
+    "distance": 66.64234982817996
+  },
+  {
+    "name": "Nvih- Meriam Park",
+    "address": "1990 Concord Ave, Chico, CA 95928",
+    "phone": "(530) 809-3300",
+    "type": "public",
+    "lat": 39.72797,
+    "lng": -121.792068,
+    "distance": 67.2446075564661
+  },
+  {
+    "name": "Willow Creek Community Health Ctr",
+    "address": "38883 Hwy 299, Willow Creek, CA 95573",
+    "phone": "(530) 629-3111",
+    "type": "fqhc",
+    "lat": 40.94035,
+    "lng": -123.633438,
+    "distance": 68.27008293694276
+  },
+  {
+    "name": "United Indian Health Serv Weitchpec",
+    "address": "Highway 96 And Highway 169, Weitchpec, CA 95546",
+    "phone": "(530) 625-4300",
+    "type": "public",
+    "lat": 40.952698,
+    "lng": -123.641052,
+    "distance": 68.9091663602565
+  },
+  {
+    "name": "Feather River Hospital Health Ctr",
+    "address": "5125 Skyway, Ste H, Paradise, CA 95969",
+    "phone": "(530) 876-2000",
+    "type": "fqhc",
+    "lat": 39.746479,
+    "lng": -121.639389,
+    "distance": 67.52017185217458
+  },
+  {
+    "name": "Round Valley Indian Health Clinic",
+    "address": "24065 Biggar Ln, Covelo Ca 95428",
+    "phone": "(707) 983-6181",
+    "type": "public",
+    "lat": 39.809284,
+    "lng": -123.246948,
+    "distance": 67.55606067530127
+  },
+  {
+    "name": "Kimaw Medical Center",
+    "address": "535 Airport Road, Hoopa, CA 95546",
+    "phone": "(530) 625-4261",
+    "type": "public",
+    "lat": 41.041851,
+    "lng": -123.664635,
+    "distance": 69.79525057201745
+  }
+]

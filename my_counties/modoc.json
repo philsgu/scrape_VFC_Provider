@@ -1,0 +1,470 @@
+[
+  {
+    "name": "Modoc County Public Health",
+    "address": "441 N Main St, Alturas, CA 96101",
+    "phone": "(530) 233-6311",
+    "type": "public",
+    "lat": 41.48806,
+    "lng": -120.54303,
+    "distance": 4.786741826431679
+  },
+  {
+    "name": "Modoc Medical Clinic",
+    "address": "1111 N Nagle St, Alturas, CA 96101",
+    "phone": "(530) 708-8820",
+    "type": "fqhc",
+    "lat": 41.484692,
+    "lng": -120.551735,
+    "distance": 5.039385125532568
+  },
+  {
+    "name": "Pit River Health Service",
+    "address": "150 Bia Rt 76a, Alturas, CA 96101",
+    "phone": "(530) 233-3223",
+    "type": "public",
+    "lat": 41.525375,
+    "lng": -120.477638,
+    "distance": 5.3780200084141825
+  },
+  {
+    "name": "Surprise Valley Medical Clinic",
+    "address": "745 Main St, Cedarville, CA 96104",
+    "phone": "(530) 279-6115",
+    "type": "fqhc",
+    "lat": 41.529041,
+    "lng": -120.17215,
+    "distance": 16.292812847522473
+  },
+  {
+    "name": "Last Frontier Healthcare District",
+    "address": "670 County Road 83, Canby, CA 96015",
+    "phone": "(530) 708-8830",
+    "type": "VFA",
+    "lat": 41.44305,
+    "lng": -120.871933,
+    "distance": 20.939739720048212
+  },
+  {
+    "name": "Fall River Valley Health Center",
+    "address": "43658 Hwy 299 E, Fall River Mills, CA 96028",
+    "phone": "(530) 999-9020",
+    "type": "fqhc",
+    "lat": 41.028648,
+    "lng": -121.421555,
+    "distance": 57.406826033590484
+  },
+  {
+    "name": "Tulelake Health Center",
+    "address": "498 Main St, Tulelake, CA 96134",
+    "phone": "(530) 999-9060",
+    "type": "fqhc",
+    "lat": 41.955059,
+    "lng": -121.476273,
+    "distance": 62.731803713800176
+  },
+  {
+    "name": "Northeastern Rural Health Clinics",
+    "address": "1850 Spring Ridge Dr, Susanville, CA 96130",
+    "phone": "(530) 251-5000",
+    "type": "VFA",
+    "lat": 40.437759,
+    "lng": -120.625587,
+    "distance": 70.28302458920498
+  },
+  {
+    "name": "Lassen Indian Health Center",
+    "address": "795 Joaquin St, Susanville, CA 96130",
+    "phone": "(530) 257-2542",
+    "type": "public",
+    "lat": 40.426888,
+    "lng": -120.657097,
+    "distance": 71.23874811485784
+  },
+  {
+    "name": "Lassen County Public Health",
+    "address": "1445 Bunyan Rd, Unit B, Susanville, CA 96130",
+    "phone": "(530) 251-8183",
+    "type": "public",
+    "lat": 40.422771,
+    "lng": -120.649094,
+    "distance": 71.46391277364519
+  },
+  {
+    "name": "Banner Health Clinic",
+    "address": "1680 Bunyan Rd, Susanville, CA 96130",
+    "phone": "(530) 257-5730",
+    "type": "private",
+    "lat": 40.42123,
+    "lng": -120.647293,
+    "distance": 71.55710554195635
+  },
+  {
+    "name": "Mayers Rural Health Center",
+    "address": "20641 Commerce Way, Burney, CA 96013",
+    "phone": "(530) 335-6070",
+    "type": "fqhc",
+    "lat": 40.88895,
+    "lng": -121.651535,
+    "distance": 72.68613645925409
+  },
+  {
+    "name": "Mtn Valleys Hlth Ctrburney Hlth",
+    "address": "37491 Enterprise Dr, Burney, CA 96013",
+    "phone": "(530) 999-9030",
+    "type": "fqhc",
+    "lat": 40.8876,
+    "lng": -121.652519,
+    "distance": 72.7796362992476
+  },
+  {
+    "name": "Pit River Health Services",
+    "address": "36977 Park Ave, Burney, CA 96013",
+    "phone": "(530) 335-3651",
+    "type": "public",
+    "lat": 40.873371,
+    "lng": -121.673599,
+    "distance": 74.23722398547089
+  },
+  {
+    "name": "Butte Valley Health Center",
+    "address": "610 West 3rd St, Dorris, CA 96023",
+    "phone": "(530) 999-9070",
+    "type": "fqhc",
+    "lat": 41.964256,
+    "lng": -121.924263,
+    "distance": 83.17744472205406
+  },
+  {
+    "name": "Westwood Family Practice",
+    "address": "209 Birch Street, Westwood, CA 96137",
+    "phone": "(530) 252-1212",
+    "type": "fqhc",
+    "lat": 40.30159,
+    "lng": -121.002274,
+    "distance": 83.98688698603763
+  },
+  {
+    "name": "Mccloud Health Care Clinic",
+    "address": "116 W Minnesota Avenue, Mccloud, CA 96057",
+    "phone": "(530) 964-2389",
+    "type": "fqhc",
+    "lat": 41.251759,
+    "lng": -122.136559,
+    "distance": 87.61818114739334
+  },
+  {
+    "name": "Greenville Rancheria Tribal Hc",
+    "address": "410 Main St, Greenville Ca 95947",
+    "phone": "(530) 284-6135",
+    "type": "public",
+    "lat": 40.140781,
+    "lng": -120.950455,
+    "distance": 93.78228237523386
+  },
+  {
+    "name": "Dunsmuir Community Health Center",
+    "address": "4309 Stagecoach Rd, Dunsmuir, CA 96025",
+    "phone": "(530) 235-4138",
+    "type": "fqhc",
+    "lat": 41.22263,
+    "lng": -122.276833,
+    "distance": 95.14228051513747
+  },
+  {
+    "name": "Mt Shasta Health Center",
+    "address": "101 Old Mccloud Rd, Mount Shasta, CA 96067",
+    "phone": "(530) 999-9040",
+    "type": "fqhc",
+    "lat": 41.304829,
+    "lng": -122.310471,
+    "distance": 96.05531209714455
+  },
+  {
+    "name": "Mercy Pine Street Clinic",
+    "address": "408 Pine St, Mount Shasta, CA 96067",
+    "phone": "(530) 926-7196",
+    "type": "fqhc",
+    "lat": 41.31324,
+    "lng": -122.3153,
+    "distance": 96.24029252028646
+  },
+  {
+    "name": "Mercy Mt Shasta Community Clinic",
+    "address": "912 Pine St, Mount Shasta, CA 96067",
+    "phone": "(530) 926-7131",
+    "type": "fqhc",
+    "lat": 41.318932,
+    "lng": -122.323112,
+    "distance": 96.60217323084011
+  },
+  {
+    "name": "Mercy Lake Shastina Comm Clinic",
+    "address": "16337 Everhart Dr, Weed, CA 96094",
+    "phone": "(530) 938-2297",
+    "type": "fqhc",
+    "lat": 41.527321,
+    "lng": -122.362717,
+    "distance": 98.23923680087667
+  },
+  {
+    "name": "Shingletown Medical Center Inc",
+    "address": "31292 Alpine Meadows Rd, Shingletown, CA 96088",
+    "phone": "(530) 474-3390",
+    "type": "fqhc",
+    "lat": 40.491669,
+    "lng": -121.88546,
+    "distance": 99.1787356399027
+  },
+  {
+    "name": "Weed Health Center",
+    "address": "50 Alamo Ave, Weed, CA 96094",
+    "phone": "(530) 999-9050",
+    "type": "private",
+    "lat": 41.426754,
+    "lng": -122.384842,
+    "distance": 99.31874518473252
+  },
+  {
+    "name": "Plumas County Public Health Agency",
+    "address": "270 County Hospital Rd, Ste 111, Quincy, CA 95971",
+    "phone": "(530) 283-6330",
+    "type": "public",
+    "lat": 39.952412,
+    "lng": -120.96434,
+    "distance": 106.5588213704578
+  },
+  {
+    "name": "Quincy Pharmacy",
+    "address": "411 Main St, Quincy, CA 95971",
+    "phone": "(530) 283-4545",
+    "type": "private",
+    "lat": 39.936867,
+    "lng": -120.946648,
+    "distance": 107.3811402435141
+  },
+  {
+    "name": "Plumas Dist Hosp Clinic",
+    "address": "1065 Bucks Lake Rd, Quincy, CA 95971",
+    "phone": "(530) 283-0650",
+    "type": "fqhc",
+    "lat": 39.93932,
+    "lng": -120.962097,
+    "distance": 107.40852061784906
+  },
+  {
+    "name": "Shasta Lake Family Health Center",
+    "address": "4215 Front St, Shasta Lake, CA 96019",
+    "phone": "(530) 646-3959",
+    "type": "fqhc",
+    "lat": 40.681114,
+    "lng": -122.370369,
+    "distance": 112.39205348665595
+  },
+  {
+    "name": "Portola Medical Clinic",
+    "address": "480 1st Ave, Portola, CA 96122",
+    "phone": "(530) 832-6600",
+    "type": "fqhc",
+    "lat": 39.805729,
+    "lng": -120.463913,
+    "distance": 113.47023022048036
+  },
+  {
+    "name": "Graeagle Medical Clinic",
+    "address": "480 1st Ave, Portola, CA 96122",
+    "phone": "(530) 836-1122",
+    "type": "private",
+    "lat": 39.805721,
+    "lng": -120.463898,
+    "distance": 113.4707587955115
+  },
+  {
+    "name": "Siskiyou County Health Department",
+    "address": "810 S Main St, Yreka, CA 96097",
+    "phone": "(530) 841-2145",
+    "type": "public",
+    "lat": 41.725754,
+    "lng": -122.638313,
+    "distance": 113.80850362180738
+  },
+  {
+    "name": "Karuk Tribal Clinic",
+    "address": "1519 S Oregon St, Yreka, CA 96097",
+    "phone": "(530) 842-9200",
+    "type": "public",
+    "lat": 41.717072,
+    "lng": -122.642792,
+    "distance": 113.94464010826464
+  },
+  {
+    "name": "Churn Creek Healthcare",
+    "address": "3184 Churn Creek Rd, Redding, CA 96002",
+    "phone": "(530) 768-2436",
+    "type": "public",
+    "lat": 40.56142,
+    "lng": -122.353737,
+    "distance": 115.85843703330568
+  },
+  {
+    "name": "Schc Enterprise",
+    "address": "3270 Churn Creek Rd, Redding, CA 96002",
+    "phone": "(530) 229-5114",
+    "type": "fqhc",
+    "lat": 40.56002,
+    "lng": -122.353546,
+    "distance": 115.90205005192573
+  },
+  {
+    "name": "Redding Rancheria Tribal Health",
+    "address": "1441 Liberty St, Redding, CA 96001",
+    "phone": "(530) 226-1726",
+    "type": "public",
+    "lat": 40.585911,
+    "lng": -122.386597,
+    "distance": 116.42578436146914
+  },
+  {
+    "name": "Schc Urgent Care",
+    "address": "1035 Placer St, Redding, CA 96001",
+    "phone": "(530) 646-3959",
+    "type": "fqhc",
+    "lat": 40.582821,
+    "lng": -122.385391,
+    "distance": 116.48320840587584
+  },
+  {
+    "name": "Schc Residency",
+    "address": "1035 Placer St, Redding, CA 96001",
+    "phone": "(530) 646-3959",
+    "type": "fqhc",
+    "lat": 40.582821,
+    "lng": -122.385391,
+    "distance": 116.48320840587584
+  },
+  {
+    "name": "Schc Peds",
+    "address": "1035 Placer St, Redding, CA 96001",
+    "phone": "(530) 646-3959",
+    "type": "fqhc",
+    "lat": 40.582821,
+    "lng": -122.385391,
+    "distance": 116.48320840587584
+  },
+  {
+    "name": "Schc Family Practice",
+    "address": "1035 Placer St, Redding, CA 96001",
+    "phone": "(530) 646-3959",
+    "type": "fqhc",
+    "lat": 40.582821,
+    "lng": -122.385391,
+    "distance": 116.48320840587584
+  },
+  {
+    "name": "Schc Fellowship",
+    "address": "1035 Placer St, Redding, CA 96001",
+    "phone": "(530) 646-3959",
+    "type": "fqhc",
+    "lat": 40.582821,
+    "lng": -122.385391,
+    "distance": 116.48320840587584
+  },
+  {
+    "name": "Shasta Countyhhsapublic Health Br",
+    "address": "2650 Breslauer Way, Redding, CA 96001",
+    "phone": "(530) 229-8463",
+    "type": "public",
+    "lat": 40.550838,
+    "lng": -122.378349,
+    "distance": 117.34102957190416
+  },
+  {
+    "name": "Mercy Family Health Center",
+    "address": "2480 Sonoma St, Redding, CA 96001",
+    "phone": "(530) 225-7836",
+    "type": "public",
+    "lat": 40.5737,
+    "lng": -122.404091,
+    "distance": 117.64926915984366
+  },
+  {
+    "name": "Anderson Family Health Center",
+    "address": "2965 East St, Anderson, CA 96007",
+    "phone": "(530) 246-5833",
+    "type": "fqhc",
+    "lat": 40.451839,
+    "lng": -122.298248,
+    "distance": 117.73880596470275
+  },
+  {
+    "name": "Andersonrx",
+    "address": "2940 East St, Anderson, CA 96007",
+    "phone": "(530) 378-5566",
+    "type": "private",
+    "lat": 40.450863,
+    "lng": -122.298294,
+    "distance": 117.78076801878872
+  },
+  {
+    "name": "Lassen Medical Clinic Cottonwood",
+    "address": "20833 Long Branch Dr, Cottonwood, CA 96022",
+    "phone": "(530) 347-3418",
+    "type": "private",
+    "lat": 40.393631,
+    "lng": -122.280167,
+    "distance": 119.41801079964203
+  },
+  {
+    "name": "Loyalton Medical Clinic",
+    "address": "701 Main Street, Loyalton, CA 96118",
+    "phone": "(530) 993-1231",
+    "type": "fqhc",
+    "lat": 39.676056,
+    "lng": -120.241417,
+    "distance": 123.00488606689352
+  },
+  {
+    "name": "Sierra Co Health Department",
+    "address": "202 Front St, Loyalton, CA 96118",
+    "phone": "(530) 993-6700",
+    "type": "public",
+    "lat": 39.674389,
+    "lng": -120.240913,
+    "distance": 123.1221020090116
+  },
+  {
+    "name": "Scott Valley Rural Health Clinic",
+    "address": "8 Commercial St, Etna, CA 96027",
+    "phone": "(530) 467-5393",
+    "type": "fqhc",
+    "lat": 41.462639,
+    "lng": -122.890182,
+    "distance": 125.45255727299737
+  },
+  {
+    "name": "Greenville Rancheria Tribal Hlth",
+    "address": "1425 Montgomery Rd, Red Bluff, CA 96080",
+    "phone": "(530) 528-8600",
+    "type": "public",
+    "lat": 40.157806,
+    "lng": -122.225571,
+    "distance": 128.05721119852493
+  },
+  {
+    "name": "Anav Tribal Health Clinic",
+    "address": "9024 Sniktaw Ln, Fort Jones, CA 96032",
+    "phone": "(530) 468-4470",
+    "type": "public",
+    "lat": 41.598869,
+    "lng": -122.97596,
+    "distance": 129.89089469861815
+  },
+  {
+    "name": "Rolling Hills Clinic",
+    "address": "2526 Sister Mary Columba Dr, Red Bluff, CA 96080",
+    "phone": "(530) 690-2778",
+    "type": "public",
+    "lat": 40.149544,
+    "lng": -122.219521,
+    "distance": 127.78336796330566
+  }
+]

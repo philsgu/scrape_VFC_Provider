@@ -1,0 +1,605 @@
+[
+  {
+    "name": "Marin Health Pediatric Care Sonoma",
+    "address": "651 1st St, Ste K, Sonoma, CA 95476",
+    "phone": "(707) 938-3870",
+    "type": "private",
+    "lat": 38.289543,
+    "lng": -122.459579,
+    "distance": 0.1840067319748234
+  },
+  {
+    "name": "Sonoma Valley Community Hlth Ctr",
+    "address": "19270 Sonoma Highway, Sonoma, CA 95476",
+    "phone": "(707) 939-6070",
+    "type": "VFA",
+    "lat": 38.298649,
+    "lng": -122.474564,
+    "distance": 1.0120744688804426
+  },
+  {
+    "name": "Kaiser Permanente Petaluma",
+    "address": "3900 Lakeville Hwy, Petaluma, CA 94954",
+    "phone": "(707) 765-3404",
+    "type": "private",
+    "lat": 38.229649,
+    "lng": -122.583954,
+    "distance": 8.074741611769973
+  },
+  {
+    "name": "Harvest Pediatrics",
+    "address": "1100 Trancas St, Ste 270, Napa, CA 94558",
+    "phone": "(707) 252-1254",
+    "type": "private",
+    "lat": 38.323643,
+    "lng": -122.298393,
+    "distance": 8.92755815437615
+  },
+  {
+    "name": "Harvest Pediatrics - Napa",
+    "address": "1100 Trancas St, Napa, CA 94558",
+    "phone": "(707) 252-1076",
+    "type": "private",
+    "lat": 38.323654,
+    "lng": -122.298378,
+    "distance": 8.928553764822503
+  },
+  {
+    "name": "Communicareole Nnc",
+    "address": "1141 Pear Tree Ln, Ste 100, Napa, CA 94558",
+    "phone": "(707) 254-1770",
+    "type": "VFA",
+    "lat": 38.321018,
+    "lng": -122.292267,
+    "distance": 9.208755559877849
+  },
+  {
+    "name": "Communicare+ole Snc",
+    "address": "300 Hartle Ct, Napa, CA 94559",
+    "phone": "(707) 254-1775",
+    "type": "VFA",
+    "lat": 38.283958,
+    "lng": -122.280472,
+    "distance": 9.643895594516307
+  },
+  {
+    "name": "Professional Pediatrics",
+    "address": "1550 Professional Dr, Ste 200a Petaluma, CA 94954",
+    "phone": "(707) 769-7403",
+    "type": "private",
+    "lat": 38.255871,
+    "lng": -122.630356,
+    "distance": 9.675326282867667
+  },
+  {
+    "name": "Faye Lundergan Md",
+    "address": "1456 Professional Dr, Ste 405, Petaluma, CA 94954",
+    "phone": "(707) 769-7500",
+    "type": "private",
+    "lat": 38.254841,
+    "lng": -122.633209,
+    "distance": 9.843318533770724
+  },
+  {
+    "name": "Napa County Hhsa -  Public Heath",
+    "address": "2751 Napa Valley Corporate Dr, Bldg B, Napa, CA 94558",
+    "phone": "(707) 253-4270",
+    "type": "public",
+    "lat": 38.24876,
+    "lng": -122.275948,
+    "distance": 10.316083942911154
+  },
+  {
+    "name": "Petaluma Health Center",
+    "address": "1179 N Mcdowell Blvd, Petaluma, CA 94954",
+    "phone": "(707) 559-7500",
+    "type": "VFA",
+    "lat": 38.268429,
+    "lng": -122.6604,
+    "distance": 11.097537450874894
+  },
+  {
+    "name": "Sonoma County Juvenile Hall",
+    "address": "7425 Rancho Los Guilicos Rd, Santa Rosa, CA 95409",
+    "phone": "(707) 565-6343",
+    "type": "public",
+    "lat": 38.443069,
+    "lng": -122.579803,
+    "distance": 12.35520914557164
+  },
+  {
+    "name": "Harvest Pediatric",
+    "address": "202 Main St, Saint Helena, CA 94574",
+    "phone": "(707) 963-0171",
+    "type": "private",
+    "lat": 38.495518,
+    "lng": -122.45768,
+    "distance": 14.069504162764854
+  },
+  {
+    "name": "Harvest Pediatrics - St Helena",
+    "address": "202 Main St, Saint Helena, CA 94574",
+    "phone": "",
+    "type": "private",
+    "lat": 38.49575,
+    "lng": -122.457283,
+    "distance": 14.08562575954951
+  },
+  {
+    "name": "Rohnert Park Health Center",
+    "address": "5900 State Farm Dr, Ste 200, Rohnert Park, CA 94928",
+    "phone": "(707) 559-7600",
+    "type": "VFA",
+    "lat": 38.353878,
+    "lng": -122.706573,
+    "distance": 14.139082482653587
+  },
+  {
+    "name": "Communicare+ole St Helena",
+    "address": "1222 Pine St, Ste A, Saint Helena, CA 94574",
+    "phone": "(707) 963-0931",
+    "type": "VFA",
+    "lat": 38.505981,
+    "lng": -122.472412,
+    "distance": 14.813084504480766
+  },
+  {
+    "name": "Tamalpais Pediatrics",
+    "address": "251 Vintage Way, Novato, CA 94945",
+    "phone": "(415) 892-0965",
+    "type": "private",
+    "lat": 38.086006,
+    "lng": -122.551178,
+    "distance": 15.099951597336652
+  },
+  {
+    "name": "Kaiser Permanente- Vallejo Med Ctr",
+    "address": "975 Sereno Dr, Vallejo, CA 94589",
+    "phone": "(707) 651-3427",
+    "type": "private",
+    "lat": 38.128365,
+    "lng": -122.247658,
+    "distance": 16.06572960375484
+  },
+  {
+    "name": "Sutter Regional Medical Foundation",
+    "address": "100 Hospital Dr, Fl 2, Vallejo, CA 94589",
+    "phone": "(707) 427-4900",
+    "type": "private",
+    "lat": 38.131741,
+    "lng": -122.239799,
+    "distance": 16.211431190614217
+  },
+  {
+    "name": "La Clinica North Vallejo",
+    "address": "220 Hospital Dr, Vallejo, CA 94589",
+    "phone": "(707) 641-1900",
+    "type": "public",
+    "lat": 38.131119,
+    "lng": -122.239159,
+    "distance": 16.26622526451181
+  },
+  {
+    "name": "Doyle Park Pediatrics",
+    "address": "500 Doyle Park Dr, Ste 100, Santa Rosa, CA 95405",
+    "phone": "(707) 544-6090",
+    "type": "private",
+    "lat": 38.44323,
+    "lng": -122.698257,
+    "distance": 16.696018895585013
+  },
+  {
+    "name": "Elsie Allen Campus",
+    "address": "599 Bellevue Ave, Rm G17, Santa Rosa, CA 95407",
+    "phone": "(707) 583-8777",
+    "type": "public",
+    "lat": 38.404823,
+    "lng": -122.734444,
+    "distance": 16.890734284803386
+  },
+  {
+    "name": "Jewish Community Free Clinic",
+    "address": "50 Montgomery Dr, Santa Rosa, CA 95404",
+    "phone": "(707) 585-7780",
+    "type": "private",
+    "lat": 38.443108,
+    "lng": -122.70372,
+    "distance": 16.922547229891382
+  },
+  {
+    "name": "La Clinica Vallejo",
+    "address": "415 Georgia St, Vallejo, CA 94590",
+    "phone": "(707) 556-8100",
+    "type": "fqhc",
+    "lat": 38.100914,
+    "lng": -122.256218,
+    "distance": 17.152781470911187
+  },
+  {
+    "name": "Santa Rosa Comm Hc Caritas Campus",
+    "address": "301 6th St, Ste 214, Santa Rosa, CA 95401",
+    "phone": "(707) 583-8700",
+    "type": "fqhc",
+    "lat": 38.440022,
+    "lng": -122.719215,
+    "distance": 17.464977022740243
+  },
+  {
+    "name": "Solano County Iz Program",
+    "address": "355 Tuolumne St, Ste 2400, Vallejo, CA 94590",
+    "phone": "(707) 553-5526",
+    "type": "public",
+    "lat": 38.103294,
+    "lng": -122.238968,
+    "distance": 17.643843167199016
+  },
+  {
+    "name": "Solano County Family Health Srvcs",
+    "address": "365 Tuolumne St, Vallejo, CA 94590",
+    "phone": "(707) 553-5044",
+    "type": "public",
+    "lat": 38.102596,
+    "lng": -122.238281,
+    "distance": 17.704646368179883
+  },
+  {
+    "name": "Pediatric Campus",
+    "address": "711 Stony Point Rd, Ste 17, Santa Rosa, CA 95407",
+    "phone": "(707) 578-2005",
+    "type": "public",
+    "lat": 38.429111,
+    "lng": -122.742577,
+    "distance": 18.100337218693735
+  },
+  {
+    "name": "Center For Primary Care",
+    "address": "4520 Business Center Dr, Suite 200, Fairfield, CA 94534",
+    "phone": "(707) 646-3500",
+    "type": "private",
+    "lat": 38.225861,
+    "lng": -122.13269,
+    "distance": 18.230590266845784
+  },
+  {
+    "name": "Lombardi Campus",
+    "address": "751 Lombardi Ct, Ste B, Santa Rosa, CA 95407",
+    "phone": "(707) 547-2222",
+    "type": "public",
+    "lat": 38.427818,
+    "lng": -122.749207,
+    "distance": 18.361550131436918
+  },
+  {
+    "name": "Santa Rosa Comm Hc Dutton Campus",
+    "address": "1300 N Dutton Ave, Santa Rosa, CA 95401",
+    "phone": "(707) 396-5151",
+    "type": "fqhc",
+    "lat": 38.449928,
+    "lng": -122.732948,
+    "distance": 18.46854918850773
+  },
+  {
+    "name": "Sutter Pacific Medical Foundation",
+    "address": "131 Stony Cir, Ste 1600, Santa Rosa, CA 95401",
+    "phone": "(707) 541-7700",
+    "type": "private",
+    "lat": 38.438889,
+    "lng": -122.74456,
+    "distance": 18.55214155971552
+  },
+  {
+    "name": "Sonoma County Indian Hth Proj",
+    "address": "144 Stony Point Rd, Santa Rosa, CA 95401",
+    "phone": "(707) 521-4500",
+    "type": "public",
+    "lat": 38.44043,
+    "lng": -122.74353,
+    "distance": 18.563992349641936
+  },
+  {
+    "name": "Vcusd Pennycook Elem School Clinic",
+    "address": "3620 Fernwood St, Vallejo, CA 94591",
+    "phone": "(707) 556-8921",
+    "type": "public",
+    "lat": 38.09914,
+    "lng": -122.212234,
+    "distance": 18.855227444664518
+  },
+  {
+    "name": "Kaiser Perm San Rafael Park",
+    "address": "1650 Los Gamos Dr, San Rafael, CA 94903",
+    "phone": "(415) 491-6504",
+    "type": "private",
+    "lat": 38.021004,
+    "lng": -122.541214,
+    "distance": 19.256580490422934
+  },
+  {
+    "name": "Vista Campus",
+    "address": "3569 Round Barn Cir, Santa Rosa, CA 95403",
+    "phone": "(707) 303-3600",
+    "type": "public",
+    "lat": 38.479744,
+    "lng": -122.729637,
+    "distance": 19.61945355186715
+  },
+  {
+    "name": "Kaiser Perm Santa Rosa",
+    "address": "3925 Old Redwood Hwy, Santa Rosa, CA 95403",
+    "phone": "(707) 566-5480",
+    "type": "private",
+    "lat": 38.482712,
+    "lng": -122.735657,
+    "distance": 19.99947154589049
+  },
+  {
+    "name": "Marinhealth Pediatrics",
+    "address": "4000 Civic Center Dr, Ste 205, San Rafael, CA 94903",
+    "phone": "(415) 925-8965",
+    "type": "private",
+    "lat": 38.004574,
+    "lng": -122.538078,
+    "distance": 20.324809414149765
+  },
+  {
+    "name": "Sutter Regional Medical Found-peds",
+    "address": "2720 Low Ct, Fl 2, Fairfield, CA 94534",
+    "phone": "(707) 427-4900",
+    "type": "private",
+    "lat": 38.236771,
+    "lng": -122.085854,
+    "distance": 20.546183839985236
+  },
+  {
+    "name": "Communicare Ole Wff",
+    "address": "470 Chadbourne Rd, Ste A, Fairfield, CA 94534",
+    "phone": "(707) 419-8989",
+    "type": "VFA",
+    "lat": 38.234772,
+    "lng": -122.083023,
+    "distance": 20.723243761033398
+  },
+  {
+    "name": "Communicareole Calistoga",
+    "address": "911 Washington St, Calistoga, CA 94515",
+    "phone": "(707) 709-2308",
+    "type": "VFA",
+    "lat": 38.57774,
+    "lng": -122.577347,
+    "distance": 20.780340954668745
+  },
+  {
+    "name": "Gravenstein Community Health Center",
+    "address": "652 Petaluma Ave, Ste H, Sebastopol, CA 95472",
+    "phone": "(707) 823-3166",
+    "type": "fqhc",
+    "lat": 38.396313,
+    "lng": -122.819962,
+    "distance": 20.900524452239388
+  },
+  {
+    "name": "Sutter Santa Rosa Regional Hospital",
+    "address": "30 Mark West Springs Rd, Santa Rosa, CA 95403",
+    "phone": "(707) 576-4340",
+    "type": "private",
+    "lat": 38.49509,
+    "lng": -122.751976,
+    "distance": 21.227012667891163
+  },
+  {
+    "name": "Lifelong Medical Care Pinole",
+    "address": "806 San Pablo Ave Ste 1, Pinole, CA 94564",
+    "phone": "(510) 981-4100",
+    "type": "VFA",
+    "lat": 38.005447,
+    "lng": -122.307335,
+    "distance": 21.41954022161866
+  },
+  {
+    "name": "Herculean Babies Pediatrics",
+    "address": "500 Alfred Nobel Dr, Ste 255a, Hercules, CA 94547",
+    "phone": "(510) 964-9647",
+    "type": "private",
+    "lat": 38.017361,
+    "lng": -122.273361,
+    "distance": 21.459429494726866
+  },
+  {
+    "name": "Center For Primary Care",
+    "address": "2458 Hilborn Rd, Fairfield, CA 94534",
+    "phone": "(707) 646-5500",
+    "type": "private",
+    "lat": 38.275833,
+    "lng": -122.052193,
+    "distance": 22.038224438152803
+  },
+  {
+    "name": "Packard Children's Health Alliance",
+    "address": "2160 Appian Way, Ste 100, Pinole, CA 94564",
+    "phone": "(510) 724-8300",
+    "type": "private",
+    "lat": 37.996368,
+    "lng": -122.303932,
+    "distance": 22.070219957810462
+  },
+  {
+    "name": "Communicare Ole Eff",
+    "address": "1101 B Gale Wilson Blvd Ste 101c, Fairfield, CA 94533",
+    "phone": "(707) 419-8990",
+    "type": "fqhc",
+    "lat": 38.260841,
+    "lng": -122.046089,
+    "distance": 22.446420460016096
+  },
+  {
+    "name": "Solano Countyfamily Health Pediatri",
+    "address": "275 Beck Ave, 2101 Ff, Ms 10-150, Fairfield, CA 94533",
+    "phone": "(707) 784-8730",
+    "type": "public",
+    "lat": 38.250469,
+    "lng": -122.047127,
+    "distance": 22.47199473618522
+  },
+  {
+    "name": "Ucsf Benioff Children's Physicians",
+    "address": "2970 Hilltop Mall Rd, Ste 305, Richmond, CA 94806",
+    "phone": "(510) 222-5437",
+    "type": "private",
+    "lat": 37.977577,
+    "lng": -122.329269,
+    "distance": 22.818027402879768
+  },
+  {
+    "name": "Alliance Medical Center",
+    "address": "8465 Old Redwood Hwy, Ste 320, Windsor, CA 95492",
+    "phone": "(707) 433-5494",
+    "type": "VFA",
+    "lat": 38.543442,
+    "lng": -122.801239,
+    "distance": 23.216296325672243
+  },
+  {
+    "name": "Healdsburg Pediatrics",
+    "address": "8911 Lakewood Dr, Ste 13 Windsor, CA 95492",
+    "phone": "(707) 387-3910",
+    "type": "private",
+    "lat": 38.551037,
+    "lng": -122.804314,
+    "distance": 23.665612304954784
+  },
+  {
+    "name": "North Richmond Health Center",
+    "address": "1501 Fred Jackson Way, Richmond, CA 94801",
+    "phone": "(510) 231-1355",
+    "type": "public",
+    "lat": 37.955002,
+    "lng": -122.36718,
+    "distance": 20.429836601151194
+  },
+  {
+    "name": "Westcounty Health Center",
+    "address": "13601 San Pablo Ave, San Pablo, CA 94806",
+    "phone": "(510) 231-9414",
+    "type": "public",
+    "lat": 37.9562,
+    "lng": -122.337288,
+    "distance": 20.803820105297238
+  },
+  {
+    "name": "Contra Costa Public Hlth San Pablo",
+    "address": "13601 San Pablo Ave, San Pablo, CA 94806",
+    "phone": "(925) 313-6740",
+    "type": "public",
+    "lat": 37.9562,
+    "lng": -122.337288,
+    "distance": 20.803820105297238
+  },
+  {
+    "name": "Lifelong Medical Brookside Center",
+    "address": "2023 Vale Rd, Ste 107 San Pablo, CA 94806",
+    "phone": "(510) 981-4100",
+    "type": "fqhc",
+    "lat": 37.954002,
+    "lng": -122.338264,
+    "distance": 20.93139800161931
+  },
+  {
+    "name": "Marin Pediatric Associates Meill",
+    "address": "1100 S Eliseo Dr, Ste 106, Greenbrae, CA 94904",
+    "phone": "(415) 461-8828",
+    "type": "private",
+    "lat": 37.943989,
+    "lng": -122.534683,
+    "distance": 21.003079960361372
+  },
+  {
+    "name": "Tamalpais Pediatrics",
+    "address": "5 Bon Air Rd, Ste 105, Larkspur, CA 94939",
+    "phone": "(415) 461-0440",
+    "type": "private",
+    "lat": 37.944172,
+    "lng": -122.540062,
+    "distance": 21.050738879220145
+  },
+  {
+    "name": "Kaiser Perm Richmond Medical Ctr",
+    "address": "901 Nevin Ave, Richmond, CA 94801",
+    "phone": "(510) 307-2522",
+    "type": "private",
+    "lat": 37.937183,
+    "lng": -122.360527,
+    "distance": 21.712205343836423
+  },
+  {
+    "name": "Lifelong William Jenkins Clinic",
+    "address": "150 Harbour Way, Richmond, CA 94801",
+    "phone": "(510) 806-1828",
+    "type": "VFA",
+    "lat": 37.93375,
+    "lng": -122.359657,
+    "distance": 21.95383606099672
+  },
+  {
+    "name": "Kaiser Perm Vacaville Medical Ctr",
+    "address": "1 Quality Dr, Vacaville, CA 95688",
+    "phone": "(707) 624-3010",
+    "type": "private",
+    "lat": 38.353447,
+    "lng": -122.000824,
+    "distance": 22.478621718601378
+  },
+  {
+    "name": "Pt Reyes Medical Clinic",
+    "address": "3 Sixth Street, Point Reyes Station, CA 94956",
+    "phone": "(415) 663-8666",
+    "type": "fqhc",
+    "lat": 38.069084,
+    "lng": -122.80838,
+    "distance": 22.432660585447294
+  },
+  {
+    "name": "Sutter  Medical Foundation",
+    "address": "770 Mason St Fl 3, Vacaville, CA 95688",
+    "phone": "(707) 427-4900",
+    "type": "private",
+    "lat": 38.35384,
+    "lng": -121.983749,
+    "distance": 23.005068346065936
+  },
+  {
+    "name": "Solano Co Fhs Vacaville",
+    "address": "1119 E Monte Vista Ave, Vacaville, CA 95688",
+    "phone": "(707) 469-4640",
+    "type": "public",
+    "lat": 38.360859,
+    "lng": -121.976357,
+    "distance": 23.426415236773728
+  },
+  {
+    "name": "Occidental Area Health Center",
+    "address": "3802 Main St, Occidental, CA 95465",
+    "phone": "(707) 874-2444",
+    "type": "fqhc",
+    "lat": 38.408836,
+    "lng": -122.947578,
+    "distance": 24.256865119053458
+  },
+  {
+    "name": "Brighter Beginnings",
+    "address": "2727 Macdonald Ave, Richmond, CA 94804",
+    "phone": "(510) 236-6990",
+    "type": "VFA",
+    "lat": 37.93523,
+    "lng": -122.342232,
+    "distance": 21.489878576760617
+  },
+  {
+    "name": "George And Cynthia Miller Wellness",
+    "address": "25 Allen Street, Martinez, CA 94553",
+    "phone": "(925) 655-0612",
+    "type": "fqhc",
+    "lat": 38.007568,
+    "lng": -122.133171,
+    "distance": 22.03045409016299
+  }
+]

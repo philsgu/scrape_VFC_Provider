@@ -1,0 +1,560 @@
+[
+  {
+    "name": "Sutter Davis Family Practice Group",
+    "address": "635 Anderson Rd, Ste 10, Davis, CA 95616",
+    "phone": "(530) 297-2700",
+    "type": "private",
+    "lat": 38.54882,
+    "lng": -121.759529,
+    "distance": 1.168529144960607
+  },
+  {
+    "name": "Davis Community Clinic",
+    "address": "2035 Lyndell Ter Ste 120, Davis, CA 95616",
+    "phone": "(530) 758-2060",
+    "type": "VFA",
+    "lat": 38.562813,
+    "lng": -121.769363,
+    "distance": 2.1541026592999732
+  },
+  {
+    "name": "Sutter Medical Foundation",
+    "address": "2020 Sutter Pl, Ste 201, Davis, CA 95616",
+    "phone": "(530) 750-5959",
+    "type": "public",
+    "lat": 38.56255,
+    "lng": -121.771584,
+    "distance": 2.232854673692954
+  },
+  {
+    "name": "Sutter West Family Practice",
+    "address": "2030 Sutter Pl, Ste 2000, Davis, CA 95616",
+    "phone": "(530) 750-5800",
+    "type": "private",
+    "lat": 38.562885,
+    "lng": -121.772034,
+    "distance": 2.2663849072649134
+  },
+  {
+    "name": "Dhmf- Davis Clinic",
+    "address": "2330 W Covell Blvd, Davis, CA 95616",
+    "phone": "(530) 668-2600",
+    "type": "private",
+    "lat": 38.560661,
+    "lng": -121.780228,
+    "distance": 2.5403008405486944
+  },
+  {
+    "name": "Northbay - Dixon Primary Care",
+    "address": "1305 Stratford Ave, Dixon, CA 95620",
+    "phone": "(707) 646-5500",
+    "type": "private",
+    "lat": 38.457542,
+    "lng": -121.84008,
+    "distance": 7.961343048808056
+  },
+  {
+    "name": "Dixon Family Practice",
+    "address": "131 W A St, Ste 1, Dixon, CA 95620",
+    "phone": "(707) 635-1637",
+    "type": "VFA",
+    "lat": 38.445278,
+    "lng": -121.823288,
+    "distance": 8.059763593882023
+  },
+  {
+    "name": "Northern Valley Indian Health, Inc",
+    "address": "1280 E Gibson Rd, Woodland, CA 95776",
+    "phone": "(530) 650-4500",
+    "type": "public",
+    "lat": 38.660809,
+    "lng": -121.762039,
+    "distance": 8.303595756713488
+  },
+  {
+    "name": "Sutter West Medical Grp",
+    "address": "125 N Lincoln St, Ste G, Dixon, CA 95620",
+    "phone": "(707) 678-1624",
+    "type": "private",
+    "lat": 38.446171,
+    "lng": -121.836662,
+    "distance": 8.437677280599921
+  },
+  {
+    "name": "Dignity Health Medical Group",
+    "address": "2081 Bronze Star Dr, Woodland, CA 95776",
+    "phone": "(530) 668-2600",
+    "type": "private",
+    "lat": 38.670433,
+    "lng": -121.724472,
+    "distance": 8.919804489513568
+  },
+  {
+    "name": "Woodland Clinic Med Grp",
+    "address": "632 W Gibson Rd, Woodland, CA 95695",
+    "phone": "(530) 668-2600",
+    "type": "private",
+    "lat": 38.66386,
+    "lng": -121.794571,
+    "distance": 8.931087899410908
+  },
+  {
+    "name": "Hansen Family Health Center",
+    "address": "215 W Beamer St, Woodland, CA 95695",
+    "phone": "(530) 405-2800",
+    "type": "VFA",
+    "lat": 38.68412,
+    "lng": -121.794197,
+    "distance": 10.256564953236078
+  },
+  {
+    "name": "Elica Health Centers Halyard",
+    "address": "1276 Halyard Dr, West Sacramento, CA 95691",
+    "phone": "(916) 454-2345",
+    "type": "VFA",
+    "lat": 38.573219,
+    "lng": -121.55069,
+    "distance": 10.4448621585556
+  },
+  {
+    "name": "River Bend Medical Associates",
+    "address": "2101 Stone Blvd, Ste 190, W Sacramento, CA 95691",
+    "phone": "(916) 392-3186",
+    "type": "private",
+    "lat": 38.562721,
+    "lng": -121.538322,
+    "distance": 10.981895216127802
+  },
+  {
+    "name": "Elica Health Center",
+    "address": "155 15th St Ste A, W Sacramento, CA 95691",
+    "phone": "(916) 454-2345",
+    "type": "VFA",
+    "lat": 38.570858,
+    "lng": -121.525955,
+    "distance": 11.726850984126422
+  },
+  {
+    "name": "West Sac Pediatric Medical Group",
+    "address": "1035 Jefferson Blvd Ste 1, West Sacramento, CA 95691",
+    "phone": "(916) 371-3787",
+    "type": "private",
+    "lat": 38.573402,
+    "lng": -121.523506,
+    "distance": 11.887991147996784
+  },
+  {
+    "name": "Salud Clinic",
+    "address": "500 Jefferson Blvd, # 180, West Sacramento, CA 95605",
+    "phone": "(916) 403-2900",
+    "type": "VFA",
+    "lat": 38.587589,
+    "lng": -121.527618,
+    "distance": 11.890445090886862
+  },
+  {
+    "name": "Naomi Sato, Md",
+    "address": "900 Florin Rd, Ste B, Sacramento, CA 95831",
+    "phone": "(916) 421-8245",
+    "type": "private",
+    "lat": 38.496445,
+    "lng": -121.526627,
+    "distance": 11.944895455177967
+  },
+  {
+    "name": "Vida Family Health",
+    "address": "954 Sacramento Ave, West Sacramento, CA 95605",
+    "phone": "(916) 914-2650",
+    "type": "fqhc",
+    "lat": 38.589664,
+    "lng": -121.524963,
+    "distance": 12.067067580529
+  },
+  {
+    "name": "Winters Healthcare",
+    "address": "172 E Grant Ave, Winters, CA 95694",
+    "phone": "(530) 795-4377",
+    "type": "fqhc",
+    "lat": 38.526131,
+    "lng": -121.966576,
+    "distance": 12.305733480353489
+  },
+  {
+    "name": "Dr Jack Lamendola",
+    "address": "7248 S Land Park Dr, Ste 113, Sacramento, CA 95831",
+    "phone": "(916) 395-5226",
+    "type": "private",
+    "lat": 38.494541,
+    "lng": -121.513771,
+    "distance": 12.650297778820548
+  },
+  {
+    "name": "River Bend Medical Associates",
+    "address": "7248 S Land Park Dr, Ste 205, Sacramento, CA 95831",
+    "phone": "(916) 392-3186",
+    "type": "private",
+    "lat": 38.494541,
+    "lng": -121.513771,
+    "distance": 12.650297778820548
+  },
+  {
+    "name": "Elica Health Center- V Street Medic",
+    "address": "923 V St, Sacramento, CA 95818",
+    "phone": "(916) 454-2345",
+    "type": "fqhc",
+    "lat": 38.567532,
+    "lng": -121.499718,
+    "distance": 13.093235283927221
+  },
+  {
+    "name": "Doris Say Md",
+    "address": "1355 Florin Rd, Ste 16, Sacramento, CA 95822",
+    "phone": "(916) 424-9446",
+    "type": "private",
+    "lat": 38.496349,
+    "lng": -121.504501,
+    "distance": 13.104301814155226
+  },
+  {
+    "name": "Land Park Pediatric Medical Group",
+    "address": "4617 Freeport Blvd, Ste B, Sacramento, CA 95822",
+    "phone": "(916) 422-7273",
+    "type": "private",
+    "lat": 38.533298,
+    "lng": -121.493912,
+    "distance": 13.303071237251716
+  },
+  {
+    "name": "San Lucas Pediatric Clinic",
+    "address": "4100 E Commerce Way, Ste 100, Sacramento, CA 95834",
+    "phone": "(916) 575-9090",
+    "type": "public",
+    "lat": 38.644878,
+    "lng": -121.51915,
+    "distance": 13.87923698323157
+  },
+  {
+    "name": "One Community Health Midtown",
+    "address": "1500 21st St Bldg B, Sacramento, CA 95811",
+    "phone": "(916) 443-3299",
+    "type": "VFA",
+    "lat": 38.57058,
+    "lng": -121.481491,
+    "distance": 14.09745915835545
+  },
+  {
+    "name": "Sacramento Native Amer Health Ctr",
+    "address": "2020 J St, Sacramento, CA 95811",
+    "phone": "(916) 341-0575",
+    "type": "VFA",
+    "lat": 38.576199,
+    "lng": -121.479362,
+    "distance": 14.270121530716217
+  },
+  {
+    "name": "Wellspace Health Alhambra",
+    "address": "2425 Alhambra Blvd, Sacramento, CA 95817",
+    "phone": "(916) 737-5555",
+    "type": "fqhc",
+    "lat": 38.556259,
+    "lng": -121.471863,
+    "distance": 14.513133611163584
+  },
+  {
+    "name": "Elica Health Center- Franklin",
+    "address": "5385 Franklin Blvd, Sacramento, CA 95820",
+    "phone": "(916) 454-2345",
+    "type": "VFA",
+    "lat": 38.526272,
+    "lng": -121.471512,
+    "distance": 14.541318926722585
+  },
+  {
+    "name": "Sacramento Community Fong Ranch",
+    "address": "3301 Fong Ranch Rd, Sacramento, CA 95834",
+    "phone": "(916) 642-1867",
+    "type": "fqhc",
+    "lat": 38.630619,
+    "lng": -121.495651,
+    "distance": 14.542107250222456
+  },
+  {
+    "name": "Mercy Medical Group",
+    "address": "3000 Q St, Fl 2, Sacramento, CA 95816",
+    "phone": "(916) 733-3305",
+    "type": "private",
+    "lat": 38.56498,
+    "lng": -121.469643,
+    "distance": 14.685117037814438
+  },
+  {
+    "name": "Sutter Medical Center Sacramento",
+    "address": "2825 Capitol Ave, Sacramento, CA 95816",
+    "phone": "(916) 887-0350",
+    "type": "private",
+    "lat": 38.570751,
+    "lng": -121.469566,
+    "distance": 14.737264145181662
+  },
+  {
+    "name": "Sutter Med Grp Peds",
+    "address": "1625 Stockton Blvd, Ste 106, Sacramento, CA 95816",
+    "phone": "(916) 262-9005",
+    "type": "private",
+    "lat": 38.565819,
+    "lng": -121.466843,
+    "distance": 14.841791763713395
+  },
+  {
+    "name": "Wellspace Oak Park Community Clinic",
+    "address": "3415 Martin Luther King Jr Blvd, Sacramento, CA 95817",
+    "phone": "(916) 737-5555",
+    "type": "fqhc",
+    "lat": 38.543541,
+    "lng": -121.464218,
+    "distance": 14.894040069808185
+  },
+  {
+    "name": "Uc Davis Medical Center, Upa Clinic",
+    "address": "3160 Folsom Blvd, Ste 2900, Sacramento, CA 95816",
+    "phone": "(916) 734-5846",
+    "type": "private",
+    "lat": 38.568432,
+    "lng": -121.465874,
+    "distance": 14.914672711838337
+  },
+  {
+    "name": "Alhambra Family Medicine",
+    "address": "1201 Alhambra Blvd, Ste 330, Sacramento, CA 95816",
+    "phone": "(916) 451-4400",
+    "type": "private",
+    "lat": 38.570068,
+    "lng": -121.465698,
+    "distance": 14.93822767557653
+  },
+  {
+    "name": "Pucci's Pharmacy",
+    "address": "3257 Folsom Blvd, Sacramento, CA 95816",
+    "phone": "#N/A",
+    "type": "private",
+    "lat": 38.567905,
+    "lng": -121.464371,
+    "distance": 14.990924497315534
+  },
+  {
+    "name": "Sacramentonative American Hc Florin",
+    "address": "3800 Florin Rd, Sacramento, CA 95823",
+    "phone": "(916) 341-0575",
+    "type": "fqhc",
+    "lat": 38.495041,
+    "lng": -121.46386,
+    "distance": 15.265346604307554
+  },
+  {
+    "name": "Pira Rochanayon",
+    "address": "3811 Florin Rd, Ste 23, Sacramento, CA 95823",
+    "phone": "(916) 399-1171",
+    "type": "private",
+    "lat": 38.497181,
+    "lng": -121.46209,
+    "distance": 15.328163986539344
+  },
+  {
+    "name": "Ucdmc Pediatric Ambulatory Serv",
+    "address": "2521 Stockton Blvd, Rm 2200, Sacramento, CA 95817",
+    "phone": "(916) 734-1189",
+    "type": "private",
+    "lat": 38.55204,
+    "lng": -121.455338,
+    "distance": 15.388604614985585
+  },
+  {
+    "name": "Elica Health Center",
+    "address": "3701 J St, Ste 201, Sacramento, CA 95816",
+    "phone": "(916) 454-2345",
+    "type": "fqhc",
+    "lat": 38.570862,
+    "lng": -121.456688,
+    "distance": 15.428005060399142
+  },
+  {
+    "name": "Wellspace Health Florin",
+    "address": "4241 Florin Rd, Ste 40, Sacramento, CA 95823",
+    "phone": "(916) 737-5555",
+    "type": "private",
+    "lat": 38.49675,
+    "lng": -121.458138,
+    "distance": 15.543485830072076
+  },
+  {
+    "name": "Ucdmc Family Practice And Comm Med",
+    "address": "4860 Y St, Ste 1600, Sacramento, CA 95817",
+    "phone": "(916) 734-3630",
+    "type": "private",
+    "lat": 38.552555,
+    "lng": -121.448868,
+    "distance": 15.73944860698737
+  },
+  {
+    "name": "Peach Tree N Sacramento",
+    "address": "3810 Rosin Ct, Ste 100, Sacramento, CA 95834",
+    "phone": "(916) 779-7656",
+    "type": "fqhc",
+    "lat": 38.637749,
+    "lng": -121.474716,
+    "distance": 15.774517742992513
+  },
+  {
+    "name": "South Area Pediatric Med Grp Inc",
+    "address": "4760 Florin Rd, Ste D, Sacramento, CA 95823",
+    "phone": "(916) 394-2580",
+    "type": "private",
+    "lat": 38.495255,
+    "lng": -121.450012,
+    "distance": 15.99471847658602
+  },
+  {
+    "name": "East Sac Pediatric Med Group, Inc",
+    "address": "5030 J St Ste 301, Sacramento, CA 95819",
+    "phone": "(916) 451-8430",
+    "type": "private",
+    "lat": 38.566406,
+    "lng": -121.44207,
+    "distance": 16.17689636338269
+  },
+  {
+    "name": "Sacramento Community Clinic",
+    "address": "5524 Assembly Ct, Sacramento, CA 95823",
+    "phone": "(916) 642-1867",
+    "type": "fqhc",
+    "lat": 38.49324,
+    "lng": -121.439262,
+    "distance": 16.592235234540002
+  },
+  {
+    "name": "Duong",
+    "address": "7260 E Southgate Dr, Ste D, Sacramento, CA 95823",
+    "phone": "(916) 428-8134",
+    "type": "private",
+    "lat": 38.493969,
+    "lng": -121.438377,
+    "distance": 16.628910837971418
+  },
+  {
+    "name": "Sacramento Community Clinic",
+    "address": "965 El Camino Ave, Sacramento, CA 95815",
+    "phone": "(916) 642-1867",
+    "type": "fqhc",
+    "lat": 38.611683,
+    "lng": -121.44455,
+    "distance": 16.66196706059332
+  },
+  {
+    "name": "Community Med Centers, Vacaville",
+    "address": "600 Nut Tree Rd, Ste 310, Vacaville, CA 95687",
+    "phone": "(707) 359-1800",
+    "type": "VFA",
+    "lat": 38.361351,
+    "lng": -121.949287,
+    "distance": 14.490112973513574
+  },
+  {
+    "name": "Center For Primary Care",
+    "address": "421 Nut Tree Rd, Vacaville, CA 95687",
+    "phone": "(707) 624-7500",
+    "type": "private",
+    "lat": 38.363972,
+    "lng": -121.95295,
+    "distance": 14.5347706920615
+  },
+  {
+    "name": "Solano Co Fhs Vacaville",
+    "address": "1119 E Monte Vista Ave, Vacaville, CA 95688",
+    "phone": "(707) 469-4640",
+    "type": "public",
+    "lat": 38.360859,
+    "lng": -121.976357,
+    "distance": 15.683058752860152
+  },
+  {
+    "name": "Sutter  Medical Foundation",
+    "address": "770 Mason St Fl 3, Vacaville, CA 95688",
+    "phone": "(707) 427-4900",
+    "type": "private",
+    "lat": 38.35384,
+    "lng": -121.983749,
+    "distance": 16.29117950176436
+  },
+  {
+    "name": "Niazi Family Medicine",
+    "address": "7275 E Southgate Dr, Ste 102, Sacramento, CA 95823",
+    "phone": "(916) 244-4464",
+    "type": "private",
+    "lat": 38.493404,
+    "lng": -121.436264,
+    "distance": 14.110586007261366
+  },
+  {
+    "name": "Sacramento Nativeamerican Hc So Ave",
+    "address": "1221 South Ave, Sacramento, CA 95838",
+    "phone": "(916) 341-0575",
+    "type": "fqhc",
+    "lat": 38.633068,
+    "lng": -121.437973,
+    "distance": 13.890964354202511
+  },
+  {
+    "name": "Kaiser Pharmacy-point West Main",
+    "address": "1650 Response Rd, Sacramento, CA 95815",
+    "phone": "(916) 614-4568",
+    "type": "private",
+    "lat": 38.596481,
+    "lng": -121.430183,
+    "distance": 14.024304634556897
+  },
+  {
+    "name": "Elica Health Centers - Marysville",
+    "address": "3234 Marysville Blvd, Sacramento, CA 95815",
+    "phone": "(916) 454-2345",
+    "type": "fqhc",
+    "lat": 38.626362,
+    "lng": -121.432213,
+    "distance": 14.110608526771248
+  },
+  {
+    "name": "Wellspace Health",
+    "address": "3441 Marysville Blvd, Sacramento, CA 95838",
+    "phone": "(916) 313-8427",
+    "type": "private",
+    "lat": 38.631222,
+    "lng": -121.431511,
+    "distance": 14.207877599644668
+  },
+  {
+    "name": "Walton Pediatrics Medical Associate",
+    "address": "7237 E Southgate Dr, Ste A, Sacramento, CA 95823",
+    "phone": "(916) 422-6635",
+    "type": "private",
+    "lat": 38.49477,
+    "lng": -121.435654,
+    "distance": 13.745998668165091
+  },
+  {
+    "name": "Elica Health Center-mack Road",
+    "address": "6339 Mack Rd, Sacramento, CA 95823",
+    "phone": "(916) 454-2345",
+    "type": "fqhc",
+    "lat": 38.475376,
+    "lng": -121.428665,
+    "distance": 14.1704893288215
+  },
+  {
+    "name": "Kaiser Perm Vacaville Medical Ctr",
+    "address": "1 Quality Dr, Vacaville, CA 95688",
+    "phone": "(707) 624-3010",
+    "type": "private",
+    "lat": 38.353447,
+    "lng": -122.000824,
+    "distance": 14.90041869616135
+  }
+]

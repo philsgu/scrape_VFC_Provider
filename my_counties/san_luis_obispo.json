@@ -1,0 +1,497 @@
+[
+  {
+    "name": "Community Health Centers-san Luis O",
+    "address": "77 Casa St, Ste 202, San Luis Obispo, CA 93405",
+    "phone": "(805) 931-2669",
+    "type": "VFA",
+    "lat": 35.292889,
+    "lng": -120.66526,
+    "distance": 0.7667271823829506
+  },
+  {
+    "name": "San Luis Obispo Health Department",
+    "address": "2191 Johnson Ave, San Luis Obispo, CA 93401",
+    "phone": "(805) 781-5500",
+    "type": "public",
+    "lat": 35.274738,
+    "lng": -120.647522,
+    "distance": 0.8800352438769786
+  },
+  {
+    "name": "Pismo Beach Pediatric Center",
+    "address": "2 James Way, Ste 209, Pismo Beach, CA 93449",
+    "phone": "(805) 549-6915",
+    "type": "public",
+    "lat": 35.139427,
+    "lng": -120.631676,
+    "distance": 10.031363219451373
+  },
+  {
+    "name": "Grover Beach Public Health Departme",
+    "address": "286 S 16th St, Grover Beach, CA 93433",
+    "phone": "(805) 473-7050",
+    "type": "public",
+    "lat": 35.119244,
+    "lng": -120.611755,
+    "distance": 11.61972910272217
+  },
+  {
+    "name": "Chc Station Way",
+    "address": "260 Station Way, Ste F, Arroyo Grande, CA 93420",
+    "phone": "(805) 931-2669",
+    "type": "VFA",
+    "lat": 35.119701,
+    "lng": -120.578323,
+    "distance": 12.168227683137825
+  },
+  {
+    "name": "Community Health Centers Del Mar",
+    "address": "2120 Cienaga St, Oceano, CA 93445",
+    "phone": "(805) 931-2669",
+    "type": "VFA",
+    "lat": 35.097721,
+    "lng": -120.608429,
+    "distance": 13.110898257912213
+  },
+  {
+    "name": "Community Health Center-atascadero",
+    "address": "7512 Morro Rd, Atascadero, CA 93422",
+    "phone": "(805) 931-2669",
+    "type": "VFA",
+    "lat": 35.47715,
+    "lng": -120.667511,
+    "distance": 13.436506734615724
+  },
+  {
+    "name": "Community Health Centers-templeton",
+    "address": "1330 Las Tablas Rd, Templeton, CA 93465",
+    "phone": "(805) 931-2669",
+    "type": "VFA",
+    "lat": 35.554863,
+    "lng": -120.723763,
+    "distance": 19.142940635410273
+  },
+  {
+    "name": "Fair Oaks Community Health Center",
+    "address": "150 Tejas Pl, Nipomo, CA 93444",
+    "phone": "(805) 931-2669",
+    "type": "VFA",
+    "lat": 35.026989,
+    "lng": -120.498802,
+    "distance": 19.873581090900927
+  },
+  {
+    "name": "Nipomo Community Medical Center",
+    "address": "150 Tejas Pl, Nipomo, CA 93444",
+    "phone": "(805) 931-2669",
+    "type": "VFA",
+    "lat": 35.026989,
+    "lng": -120.498802,
+    "distance": 19.873581090900927
+  },
+  {
+    "name": "Community Health Center-guadalupe",
+    "address": "4723 W Main St, Ste H, Guadalupe, CA 93434",
+    "phone": "(805) 931-2669",
+    "type": "VFA",
+    "lat": 34.957626,
+    "lng": -120.577667,
+    "distance": 22.940929750706342
+  },
+  {
+    "name": "San Luis Obispo Phd- Paso Robles",
+    "address": "805 4th St, Suite 201, Paso Robles, CA 93446",
+    "phone": "(805) 237-3050",
+    "type": "public",
+    "lat": 35.618526,
+    "lng": -120.689117,
+    "distance": 23.25730999110866
+  },
+  {
+    "name": "Chc Santa Maria 2- Pediatrics",
+    "address": "1835 N Broadway, Santa Maria, CA 93454",
+    "phone": "(805) 931-2669",
+    "type": "fqhc",
+    "lat": 34.973377,
+    "lng": -120.435867,
+    "distance": 24.83914386616603
+  },
+  {
+    "name": "Community Health Center-paso Robles",
+    "address": "2800 Riverside Ave, Paso Robles, CA 93446",
+    "phone": "(805) 931-2669",
+    "type": "VFA",
+    "lat": 35.643513,
+    "lng": -120.688187,
+    "distance": 24.976247842681747
+  },
+  {
+    "name": "Chc Del Valle",
+    "address": "430 S Blosser Rd, Santa Maria, CA 93458",
+    "phone": "(805) 931-2669",
+    "type": "VFA",
+    "lat": 34.948914,
+    "lng": -120.453735,
+    "distance": 25.838887012125756
+  },
+  {
+    "name": "Jeffrey Kaplan Md Inc",
+    "address": "821 E Chapel St, Ste 203, Santa Maria, CA 93454",
+    "phone": "(805) 354-5200",
+    "type": "private",
+    "lat": 34.954552,
+    "lng": -120.423592,
+    "distance": 26.312793783889195
+  },
+  {
+    "name": "Pediatric Med Grpof Santa Maria",
+    "address": "1430 E Main St, Ste 201, Santa Maria, CA 93454",
+    "phone": "(805) 922-3548",
+    "type": "private",
+    "lat": 34.952854,
+    "lng": -120.413071,
+    "distance": 26.719260313304193
+  },
+  {
+    "name": "Family Medicine Center",
+    "address": "1400 E Church St, Bldg 8, Santa Maria, CA 93454",
+    "phone": "(805) 739-3561",
+    "type": "public",
+    "lat": 34.950981,
+    "lng": -120.413223,
+    "distance": 26.825379755378105
+  },
+  {
+    "name": "Robert S Barry",
+    "address": "1420 S Miller St, Ste A, Santa Maria, CA 93454",
+    "phone": "(805) 922-3573",
+    "type": "private",
+    "lat": 34.936371,
+    "lng": -120.431038,
+    "distance": 27.20136914754404
+  },
+  {
+    "name": "Himat G Tank Pediatrics",
+    "address": "1505 Shepard Dr, Ste 102, Santa Maria, CA 93454",
+    "phone": "(805) 928-9300",
+    "type": "private",
+    "lat": 34.934078,
+    "lng": -120.421387,
+    "distance": 27.602944137546938
+  },
+  {
+    "name": "Santa Maria Health Care Center",
+    "address": "2115 Centerpointe Pkwy, Rm 157, Santa Maria, CA 93455",
+    "phone": "(805) 346-7230",
+    "type": "fqhc",
+    "lat": 34.92263,
+    "lng": -120.429718,
+    "distance": 28.075466387275913
+  },
+  {
+    "name": "Chc Santa Maria",
+    "address": "2801 Santa Maria Way, Ste A, Santa Maria, CA 93455",
+    "phone": "(805) 931-2669",
+    "type": "VFA",
+    "lat": 34.908798,
+    "lng": -120.434723,
+    "distance": 28.80054180860132
+  },
+  {
+    "name": "Community Health Center Cambria",
+    "address": "2515 Main St, Ste B, Cambria, CA 93428",
+    "phone": "(805) 931-2669",
+    "type": "VFA",
+    "lat": 35.56469,
+    "lng": -121.0812,
+    "distance": 30.707012890940504
+  },
+  {
+    "name": "Chc San Miguel",
+    "address": "1385 Mission St, San Miguel, CA 93451",
+    "phone": "(805) 931-2669",
+    "type": "VFA",
+    "lat": 35.75251,
+    "lng": -120.696236,
+    "distance": 32.521167049226605
+  },
+  {
+    "name": "Community Health Centers Los Alamos",
+    "address": "490 Bell St, Unit 103, Los Alamos, CA 93440",
+    "phone": "(805) 931-2669",
+    "type": "fqhc",
+    "lat": 34.74382,
+    "lng": -120.278061,
+    "distance": 43.04873181114852
+  },
+  {
+    "name": "Lompoc Health - H Street Center",
+    "address": "1225 N H St, Lompoc, CA 93436",
+    "phone": "(805) 737-8760",
+    "type": "private",
+    "lat": 34.65807,
+    "lng": -120.458748,
+    "distance": 44.64027826537267
+  },
+  {
+    "name": "Santa Barbara Co Hlth Care Service",
+    "address": "301 N R St, Lompoc, CA 93436",
+    "phone": "(805) 737-6450",
+    "type": "fqhc",
+    "lat": 34.642937,
+    "lng": -120.471092,
+    "distance": 45.483351696915506
+  },
+  {
+    "name": "Community Health Center- Lompoc",
+    "address": "1300 W Ocean Ave, Lompoc, CA 93436",
+    "phone": "(805) 931-2669",
+    "type": "VFA",
+    "lat": 34.638172,
+    "lng": -120.473351,
+    "distance": 45.77387797525658
+  },
+  {
+    "name": "Lvmcphysician Services",
+    "address": "136 N 3rd St, Lompoc, CA 93436",
+    "phone": "(805) 736-1253",
+    "type": "private",
+    "lat": 34.640049,
+    "lng": -120.444489,
+    "distance": 46.05274674629487
+  },
+  {
+    "name": "Lompoc Valley Pediatric Care Center",
+    "address": "1111 E Ocean Ave, Ste 6, Lompoc, CA 93436",
+    "phone": "(805) 736-4970",
+    "type": "private",
+    "lat": 34.639561,
+    "lng": -120.444237,
+    "distance": 46.08906503213548
+  },
+  {
+    "name": "Buellton Medical Center",
+    "address": "195 W Highway 246, Buellton, CA 93427",
+    "phone": "(805) 686-8555",
+    "type": "private",
+    "lat": 34.615108,
+    "lng": -120.197617,
+    "distance": 53.038827178612785
+  },
+  {
+    "name": "Santa Ynez Tribal Health Clinic",
+    "address": "90 Via Juana Rd, Santa Ynez, CA 93460",
+    "phone": "(805) 688-7070",
+    "type": "public",
+    "lat": 34.605217,
+    "lng": -120.093285,
+    "distance": 56.75297777374191
+  },
+  {
+    "name": "Aria Community Health Center Amc",
+    "address": "148 E Kings St, Avenal, CA 93204",
+    "phone": "(559) 386-9000",
+    "type": "VFA",
+    "lat": 36.002258,
+    "lng": -120.136597,
+    "distance": 57.73940887371174
+  },
+  {
+    "name": "Ahmo-avenal",
+    "address": "216 E Fresno St, Avenal, CA 93204",
+    "phone": "(559) 386-5364",
+    "type": "fqhc",
+    "lat": 36.003239,
+    "lng": -120.135612,
+    "distance": 57.82575165422362
+  },
+  {
+    "name": "Ahmo Avenal West",
+    "address": "337 E Kings St, Avenal, CA 93204",
+    "phone": "(559) 386-5200",
+    "type": "fqhc",
+    "lat": 36.00272,
+    "lng": -120.133598,
+    "distance": 57.852603361204935
+  },
+  {
+    "name": "Lost Hills Community Health",
+    "address": "21138 Paso Robles Hwy, Lost Hills, CA 93249",
+    "phone": "(661) 630-7511",
+    "type": "fqhc",
+    "lat": 35.616341,
+    "lng": -119.694748,
+    "distance": 58.997622539032754
+  },
+  {
+    "name": "Chc Cuyama",
+    "address": "4711 Highway 166, New Cuyama, CA 93254",
+    "phone": "(805) 931-2669",
+    "type": "VFA",
+    "lat": 34.945969,
+    "lng": -119.683502,
+    "distance": 59.87907737900683
+  },
+  {
+    "name": "Aria Community Health Center",
+    "address": "191 East Polk Street, Coalinga, CA 93210",
+    "phone": "(559) 935-2100",
+    "type": "VFA",
+    "lat": 36.136574,
+    "lng": -120.359818,
+    "distance": 61.34447567739501
+  },
+  {
+    "name": "Ahmo-coalinga",
+    "address": "155 S 5th St, Ste B, Coalinga, CA 93210",
+    "phone": "(559) 935-4282",
+    "type": "VFA",
+    "lat": 36.13871,
+    "lng": -120.35807,
+    "distance": 61.513263710812915
+  },
+  {
+    "name": "Coalinga Valley Health Clinics Inc",
+    "address": "1145 Phelps Ave, Ste 104, Coalinga, CA 93210",
+    "phone": "(559) 935-4374",
+    "type": "fqhc",
+    "lat": 36.151546,
+    "lng": -120.341431,
+    "distance": 62.62576924865562
+  },
+  {
+    "name": "Coalinga Regional Medical Center",
+    "address": "1165 Phelps Ave, Ste 105, Coalinga, CA 93210",
+    "phone": "(559) 821-6153",
+    "type": "public",
+    "lat": 36.151516,
+    "lng": -120.33989,
+    "distance": 62.64844598120757
+  },
+  {
+    "name": "Aria Community Health Center- Kc",
+    "address": "304 Becky Pease Street, Kettleman City, CA 93239",
+    "phone": "(559) 386-4501",
+    "type": "VFA",
+    "lat": 36.009499,
+    "lng": -119.959938,
+    "distance": 63.75529683462368
+  },
+  {
+    "name": "Buttonwillow Health Center",
+    "address": "277 E Front St, Buttonwillow,ca 93206",
+    "phone": "(661) 630-7318",
+    "type": "VFA",
+    "lat": 35.39941,
+    "lng": -119.46582,
+    "distance": 67.76705246891886
+  },
+  {
+    "name": "Ahmo-taft",
+    "address": "501 6th St, Taft, CA 93268",
+    "phone": "(661) 763-5131",
+    "type": "fqhc",
+    "lat": 35.144428,
+    "lng": -119.459251,
+    "distance": 68.43435361607725
+  },
+  {
+    "name": "Taft Community Health Center",
+    "address": "1100 4th St, Taft, CA 93268",
+    "phone": "(661) 630-7411",
+    "type": "fqhc",
+    "lat": 35.148899,
+    "lng": -119.452759,
+    "distance": 68.75319158094328
+  },
+  {
+    "name": "West Side Family Health Care",
+    "address": "100 E North St, Taft, CA 93268",
+    "phone": "(661) 765-1935",
+    "type": "fqhc",
+    "lat": 35.139641,
+    "lng": -119.451736,
+    "distance": 68.90315474074484
+  },
+  {
+    "name": "Mee Memorial King City Clinic",
+    "address": "210 Canal St, King City, CA 93930",
+    "phone": "(831) 385-5471",
+    "type": "fqhc",
+    "lat": 36.207001,
+    "lng": -121.133118,
+    "distance": 69.16111913245756
+  },
+  {
+    "name": "Mmchwc",
+    "address": "809 Broadway St, Ste D, King City, CA 93930",
+    "phone": "(831) 386-7437",
+    "type": "private",
+    "lat": 36.207481,
+    "lng": -121.133385,
+    "distance": 69.19750397938286
+  },
+  {
+    "name": "Clinica De Salud",
+    "address": "122 E San Antonio Dr, King City, CA 93930",
+    "phone": "(831) 385-5944",
+    "type": "VFA",
+    "lat": 36.221958,
+    "lng": -121.126846,
+    "distance": 69.98317728442285
+  },
+  {
+    "name": "Coalinga Valley Health Clinics Inc",
+    "address": "36617 Central Avenue, Huron, CA 93234",
+    "phone": "(559) 945-9251",
+    "type": "fqhc",
+    "lat": 36.200588,
+    "lng": -120.102585,
+    "distance": 70.69339855011694
+  },
+  {
+    "name": "Ahmo-huron",
+    "address": "16916 5th Street, Huron, CA 93234",
+    "phone": "(559) 945-9090",
+    "type": "VFA",
+    "lat": 36.200378,
+    "lng": -120.098717,
+    "distance": 67.69450249284722
+  },
+  {
+    "name": "United Health Center - Huron",
+    "address": "17008 13th Street, Huron, CA 93234",
+    "phone": "(559) 945-2541",
+    "type": "fqhc",
+    "lat": 36.208752,
+    "lng": -120.099854,
+    "distance": 68.17726584999873
+  },
+  {
+    "name": "Goleta Eastside Mobile Unit",
+    "address": "5580 Calle Real, Santa Barbara, CA 93111",
+    "phone": "(805) 451-9665",
+    "type": "private",
+    "lat": 34.441422,
+    "lng": -119.818726,
+    "distance": 72.55563837369105
+  },
+  {
+    "name": "Goleta Neighborhood Clinic",
+    "address": "5580 Calle Real, Goleta, CA 93111",
+    "phone": "(805) 617-7986",
+    "type": "VFA",
+    "lat": 34.441311,
+    "lng": -119.818382,
+    "distance": 72.57421822788369
+  },
+  {
+    "name": "Isla Vista Neighborhood Clinic",
+    "address": "970 Embarcadero Del Mar, Goleta, CA 93117",
+    "phone": "(805) 690-6527",
+    "type": "VFA",
+    "lat": 34.411678,
+    "lng": -119.856392,
+    "distance": 71.02459224266528
+  }
+]

@@ -1,0 +1,668 @@
+[
+  {
+    "name": "Fhcn-hanford",
+    "address": "250 W 5th St, Hanford, CA 93230",
+    "phone": "(559) 639-6300",
+    "type": "fqhc",
+    "lat": 36.324356,
+    "lng": -119.647636,
+    "distance": 0.2425130796138699
+  },
+  {
+    "name": "Aria Community Hth Ctr Hanford-109",
+    "address": "329 W 8th St, Hanford, CA 93230",
+    "phone": "(559) 582-2500",
+    "type": "VFA",
+    "lat": 36.326691,
+    "lng": -119.650032,
+    "distance": 0.24755677195262452
+  },
+  {
+    "name": "Ahmo- Hanford Primary",
+    "address": "1025 N Douty St, Hanford, CA 93230",
+    "phone": "(559) 537-0170",
+    "type": "VFA",
+    "lat": 36.335949,
+    "lng": -119.645309,
+    "distance": 0.5842062792374807
+  },
+  {
+    "name": "Ahmo-hanford-residency",
+    "address": "1025 N Douty St, Fl 2 Hanford, CA 93230",
+    "phone": "(559) 537-0224",
+    "type": "fqhc",
+    "lat": 36.336246,
+    "lng": -119.645485,
+    "distance": 0.6044799427084301
+  },
+  {
+    "name": "Omni Family Health",
+    "address": "355 Campus Dr Ste E, Hanford, CA 93230",
+    "phone": "(559) 558-9853",
+    "type": "fqhc",
+    "lat": 36.32703,
+    "lng": -119.663132,
+    "distance": 0.9709354364162137
+  },
+  {
+    "name": "Kings Co Health Department",
+    "address": "330 Campus Dr, Hanford, CA 93230",
+    "phone": "(559) 584-1401",
+    "type": "public",
+    "lat": 36.327049,
+    "lng": -119.664398,
+    "distance": 1.0413609763986782
+  },
+  {
+    "name": "Wellpath Kings County Juvenile",
+    "address": "1450 Forum Dr, Hanford, CA 93230",
+    "phone": "(559) 852-2974",
+    "type": "private",
+    "lat": 36.330231,
+    "lng": -119.667221,
+    "distance": 1.2127829770819687
+  },
+  {
+    "name": "United Health Centers - Hanford",
+    "address": "1545 Mall Dr, Hanford, CA 93230",
+    "phone": "(559) 415-8255",
+    "type": "fqhc",
+    "lat": 36.322807,
+    "lng": -119.669571,
+    "distance": 1.3678754990291622
+  },
+  {
+    "name": "Ahmo- Home Garden",
+    "address": "11899 Shaw Pl, Hanford, CA 93230",
+    "phone": "(559) 537-0192",
+    "type": "fqhc",
+    "lat": 36.300152,
+    "lng": -119.630127,
+    "distance": 2.079123683662039
+  },
+  {
+    "name": "Ahmo - Lemoore",
+    "address": "810 E D St, Lemoore, CA 93245",
+    "phone": "(559) 924-7711",
+    "type": "VFA",
+    "lat": 36.300869,
+    "lng": -119.76931,
+    "distance": 7.1240587107653095
+  },
+  {
+    "name": "United Health Centers Lemoore 250",
+    "address": "250 E Hanford Armona Rd, Lemoore, CA 93245",
+    "phone": "(559) 997-6140",
+    "type": "fqhc",
+    "lat": 36.313808,
+    "lng": -119.777138,
+    "distance": 7.378429095572962
+  },
+  {
+    "name": "Aria Chc- Lemoore 209",
+    "address": "209 C St, Lemoore, CA 93245",
+    "phone": "(559) 924-7005",
+    "type": "VFA",
+    "lat": 36.300591,
+    "lng": -119.783272,
+    "distance": 7.882127073778741
+  },
+  {
+    "name": "Tachi Medical Center",
+    "address": "16835 Alkali Dr, Ste M, Lemoore, CA 93245",
+    "phone": "(559) 924-1541",
+    "type": "public",
+    "lat": 36.237328,
+    "lng": -119.760864,
+    "distance": 8.942575136714925
+  },
+  {
+    "name": "Fhcn--traver",
+    "address": "4177 Avenue 368, Traver, CA 93673",
+    "phone": "(559) 897-6018",
+    "type": "fqhc",
+    "lat": 36.459,
+    "lng": -119.480293,
+    "distance": 12.930685030712304
+  },
+  {
+    "name": "Fhcn-mobile Unit",
+    "address": "31180 Road 72, Visalia, CA 93291",
+    "phone": "(559) 651-2301",
+    "type": "fqhc",
+    "lat": 36.355812,
+    "lng": -119.412399,
+    "distance": 13.131572649672012
+  },
+  {
+    "name": "Fhcn-goshen",
+    "address": "31180 Rd 72, Visalia, CA 93291",
+    "phone": "(559) 651-2301",
+    "type": "fqhc",
+    "lat": 36.355972,
+    "lng": -119.411575,
+    "distance": 13.178558223448595
+  },
+  {
+    "name": "Aria Community Health Ctr Stratford",
+    "address": "20326 Main St, Stratford, CA 93266",
+    "phone": "(559) 386-4502",
+    "type": "VFA",
+    "lat": 36.189888,
+    "lng": -119.822998,
+    "distance": 13.711312105236743
+  },
+  {
+    "name": "United Health Centers - Kingsburg",
+    "address": "1251 Draper St, Kingsburg, CA 93631",
+    "phone": "(559) 634-0777",
+    "type": "fqhc",
+    "lat": 36.513638,
+    "lng": -119.554947,
+    "distance": 13.816088345979553
+  },
+  {
+    "name": "Kingsburg Community Health Center",
+    "address": "121 W Sierra St, Kingsburg, CA 93631",
+    "phone": "(559) 326-5320",
+    "type": "VFA",
+    "lat": 36.518265,
+    "lng": -119.567543,
+    "distance": 13.879206091152131
+  },
+  {
+    "name": "Ahmo-kingsburg",
+    "address": "1781 Simpson St, Kingsburg, CA 93631",
+    "phone": "(559) 897-6610",
+    "type": "VFA",
+    "lat": 36.517239,
+    "lng": -119.558922,
+    "distance": 13.970116272283882
+  },
+  {
+    "name": "Ahmo-riverdale",
+    "address": "3567 W M Whitney, Riverdale, CA 93656",
+    "phone": "(559) 867-7200",
+    "type": "VFA",
+    "lat": 36.430599,
+    "lng": -119.862099,
+    "distance": 13.988418756191045
+  },
+  {
+    "name": "Aria Community Health Center",
+    "address": "3554 W Mt Whitney, Riverdale, CA 93656",
+    "phone": "(559) 867-4000",
+    "type": "VFA",
+    "lat": 36.431229,
+    "lng": -119.862091,
+    "distance": 14.010211284263118
+  },
+  {
+    "name": "Ahmo-corcoran",
+    "address": "1212 Hanna Ave, Corcoran, CA 93212",
+    "phone": "(559) 992-2800",
+    "type": "fqhc",
+    "lat": 36.10006,
+    "lng": -119.562866,
+    "distance": 16.380012472693444
+  },
+  {
+    "name": "Shyam Bhaskar Md",
+    "address": "1001 Van Dorsten Ave, Corcoran, CA 93212",
+    "phone": "(559) 992-2337",
+    "type": "private",
+    "lat": 36.099541,
+    "lng": -119.563118,
+    "distance": 16.41047026356073
+  },
+  {
+    "name": "United Health Centers Of San Joaqui",
+    "address": "1000 Chittenden Ave, Corcoran, CA 93212",
+    "phone": "(559) 992-5020",
+    "type": "VFA",
+    "lat": 36.099262,
+    "lng": -119.560066,
+    "distance": 16.477428565946255
+  },
+  {
+    "name": "Fhcn Selma",
+    "address": "1850 Whitson St, Selma, CA 93662",
+    "phone": "(559) 896-1414",
+    "type": "fqhc",
+    "lat": 36.565895,
+    "lng": -119.612617,
+    "distance": 16.57483926458991
+  },
+  {
+    "name": "Selma Rural Health Clinic",
+    "address": "2057 High St, Selma, CA 93662",
+    "phone": "(559) 891-9100",
+    "type": "private",
+    "lat": 36.569519,
+    "lng": -119.613274,
+    "distance": 16.819771996414726
+  },
+  {
+    "name": "Ahmo-selma",
+    "address": "1041 Rose Ave, Selma, CA 93662",
+    "phone": "(559) 856-6090",
+    "type": "VFA",
+    "lat": 36.56797,
+    "lng": -119.59623,
+    "distance": 16.84189088436376
+  },
+  {
+    "name": "United Health Centers Of Sjv",
+    "address": "1201 Rose Ave, Selma, CA 93662",
+    "phone": "(559) 898-2900",
+    "type": "fqhc",
+    "lat": 36.568508,
+    "lng": -119.5998,
+    "distance": 16.847364968902003
+  },
+  {
+    "name": "Ahmo-selma Central",
+    "address": "2141 High St, Ste E, Selma, CA 93662",
+    "phone": "(559) 856-6610",
+    "type": "VFA",
+    "lat": 36.570156,
+    "lng": -119.613602,
+    "distance": 16.861598310358044
+  },
+  {
+    "name": "United Health Centers Selma",
+    "address": "2705 Highland Ave, Selma, CA 93662",
+    "phone": "(559) 891-9005",
+    "type": "fqhc",
+    "lat": 36.576252,
+    "lng": -119.624817,
+    "distance": 17.227304638953292
+  },
+  {
+    "name": "Altura Centers For Health-west",
+    "address": "1500 W Tulare Dr, Tulare, CA 93274",
+    "phone": "(559) 684-4356",
+    "type": "fqhc",
+    "lat": 36.206444,
+    "lng": -119.368988,
+    "distance": 17.539097924785324
+  },
+  {
+    "name": "Fhcn-tulare West",
+    "address": "263 S West St, Tulare, CA 93274",
+    "phone": "(559) 684-7505",
+    "type": "fqhc",
+    "lat": 36.204136,
+    "lng": -119.366859,
+    "distance": 17.719781739271202
+  },
+  {
+    "name": "Dr Ochoa Family Clinic",
+    "address": "3275 Mccall Ave, Ste 102, Selma, CA 93662",
+    "phone": "(559) 896-3808",
+    "type": "fqhc",
+    "lat": 36.583199,
+    "lng": -119.611061,
+    "distance": 17.772721770420173
+  },
+  {
+    "name": "Ahmo-caruthers East",
+    "address": "2357 W Tahoe Ave, Caruthers, CA 93609",
+    "phone": "(559) 864-5200",
+    "type": "VFA",
+    "lat": 36.5415,
+    "lng": -119.833656,
+    "distance": 18.10603945836984
+  },
+  {
+    "name": "Ahmo-caruthers",
+    "address": "2440 W Tahoe Ave, Caruthers, CA 93609",
+    "phone": "(559) 864-3212",
+    "type": "VFA",
+    "lat": 36.540562,
+    "lng": -119.835732,
+    "distance": 18.120173864815524
+  },
+  {
+    "name": "Fhcn-visalia Mooney",
+    "address": "2333 S Mooney Blvd, Visalia, CA 93277",
+    "phone": "(559) 205-1800",
+    "type": "fqhc",
+    "lat": 36.308727,
+    "lng": -119.315384,
+    "distance": 18.435951070968674
+  },
+  {
+    "name": "Family Wellness Ctr  Walk-in Cl",
+    "address": "1159 N Cherry St, Tulare, CA 93274",
+    "phone": "(559) 684-7700",
+    "type": "private",
+    "lat": 36.224026,
+    "lng": -119.337196,
+    "distance": 18.613178879273534
+  },
+  {
+    "name": "Altura Centers For Health-mv2",
+    "address": "1101 N Cherry St, Tulare, CA 93274",
+    "phone": "(559) 684-4356",
+    "type": "fqhc",
+    "lat": 36.22337,
+    "lng": -119.337517,
+    "distance": 18.614243845239425
+  },
+  {
+    "name": "Altura Centers For Health-mobile 1",
+    "address": "1101 N Cherry St, Tulare, CA 93274",
+    "phone": "(559) 684-4356",
+    "type": "fqhc",
+    "lat": 36.22337,
+    "lng": -119.337517,
+    "distance": 18.614243845239425
+  },
+  {
+    "name": "Altura Centers For Health-main",
+    "address": "1101 N Cherry St, Tulare, CA 93274",
+    "phone": "(559) 684-4356",
+    "type": "VFA",
+    "lat": 36.22337,
+    "lng": -119.337517,
+    "distance": 18.614243845239425
+  },
+  {
+    "name": "Fhcn--tulare Peds",
+    "address": "1008 N Cherry St, Tulare, CA 93274",
+    "phone": "(559) 688-5437",
+    "type": "fqhc",
+    "lat": 36.222191,
+    "lng": -119.337219,
+    "distance": 18.661259234817877
+  },
+  {
+    "name": "Tulare Pediatric Group Inc",
+    "address": "1062 N Cherry St, Tulare, CA 93274",
+    "phone": "(559) 686-3824",
+    "type": "private",
+    "lat": 36.223,
+    "lng": -119.336693,
+    "distance": 18.666497311124488
+  },
+  {
+    "name": "Ahmo-tulare",
+    "address": "2059 Hillman St, Tulare, CA 93274",
+    "phone": "(559) 605-0090",
+    "type": "fqhc",
+    "lat": 36.230614,
+    "lng": -119.33223,
+    "distance": 18.70049190950044
+  },
+  {
+    "name": "United Health Centers Visaliamooney",
+    "address": "4038 S Mooney Blvd, Visalia, CA 93277",
+    "phone": "(800) 492-4227",
+    "type": "fqhc",
+    "lat": 36.293964,
+    "lng": -119.312225,
+    "distance": 18.7119046619487
+  },
+  {
+    "name": "Altura Centers For Health-pediatric",
+    "address": "1186 Leland Ave, Tulare, CA 93274",
+    "phone": "(559) 684-4356",
+    "type": "fqhc",
+    "lat": 36.230331,
+    "lng": -119.328003,
+    "distance": 18.927453414133485
+  },
+  {
+    "name": "Tulare County Iap",
+    "address": "1062 S K St, Tulare, CA 93274",
+    "phone": "(559) 685-5725",
+    "type": "public",
+    "lat": 36.195679,
+    "lng": -119.342125,
+    "distance": 19.210378674146405
+  },
+  {
+    "name": "Fhcn-tulare Hillman",
+    "address": "1062 S K St, Tulare, CA 93274",
+    "phone": "(877) 960-3426",
+    "type": "fqhc",
+    "lat": 36.195679,
+    "lng": -119.342125,
+    "distance": 19.210378674146405
+  },
+  {
+    "name": "Tulare County Public Health Clinic",
+    "address": "2505 N Dinuba Blvd, Visalia, CA 93291",
+    "phone": "(559) 685-5724",
+    "type": "public",
+    "lat": 36.352474,
+    "lng": -119.297791,
+    "distance": 19.441068803288044
+  },
+  {
+    "name": "Visalia Health Center",
+    "address": "2611 N Dinuba Blvd, Visalia, CA 93291",
+    "phone": "(559) 623-0700",
+    "type": "VFA",
+    "lat": 36.350414,
+    "lng": -119.297005,
+    "distance": 19.47280091242502
+  },
+  {
+    "name": "Ahmo-parlier Newmark",
+    "address": "155 S Newmark Ave, Parlier, CA 93648",
+    "phone": "(559) 646-1200",
+    "type": "fqhc",
+    "lat": 36.606777,
+    "lng": -119.530273,
+    "distance": 17.090875199429227
+  },
+  {
+    "name": "United Health Centers - Parlier",
+    "address": "429 E Manning Ave, Parlier, CA 93648",
+    "phone": "(559) 646-0451",
+    "type": "VFA",
+    "lat": 36.60511,
+    "lng": -119.523026,
+    "distance": 17.14024168101225
+  },
+  {
+    "name": "United Health Centers Of The Sjv",
+    "address": "130 S 6th St, Fowler, CA 93625",
+    "phone": "(559) 834-3973",
+    "type": "VFA",
+    "lat": 36.629452,
+    "lng": -119.67823,
+    "distance": 17.502764378317412
+  },
+  {
+    "name": "United Health Centers-westgate",
+    "address": "300 Westgate Way, Dinuba, CA 93618",
+    "phone": "(559) 725-3500",
+    "type": "fqhc",
+    "lat": 36.544518,
+    "lng": -119.407814,
+    "distance": 17.54848388646817
+  },
+  {
+    "name": "Harry Chen, Md Inc",
+    "address": "128 N 6th St, Fowler, CA 93625",
+    "phone": "(559) 653-3260",
+    "type": "private",
+    "lat": 36.63102,
+    "lng": -119.680107,
+    "distance": 17.621521206424642
+  },
+  {
+    "name": "United Health Centers Of The Sjv",
+    "address": "601 3rd St, Parlier, CA 93648",
+    "phone": "(559) 646-7444",
+    "type": "fqhc",
+    "lat": 36.614861,
+    "lng": -119.527611,
+    "distance": 17.664129739800007
+  },
+  {
+    "name": "Kaweah Delta Dinuba Health Clinic",
+    "address": "355 Monte Vista Dr, Ste A, Dinuba, CA 93618",
+    "phone": "(559) 595-7650",
+    "type": "fqhc",
+    "lat": 36.544319,
+    "lng": -119.404694,
+    "distance": 17.670556291497338
+  },
+  {
+    "name": "Ahmo- Dinuba Plaza",
+    "address": "444 W El Monte Way, Dinuba, CA 93618",
+    "phone": "(559) 591-4166",
+    "type": "fqhc",
+    "lat": 36.545319,
+    "lng": -119.39901,
+    "distance": 17.955606726591817
+  },
+  {
+    "name": "Narayan Medical Clinic",
+    "address": "317 W El Monte Way, Dinuba, CA 93618",
+    "phone": "(559) 591-6200",
+    "type": "fqhc",
+    "lat": 36.546261,
+    "lng": -119.399673,
+    "distance": 17.969576870052737
+  },
+  {
+    "name": "Ahmo-dinuba West",
+    "address": "250 W El Monte Way, Dinuba, CA 93618",
+    "phone": "(559) 595-9890",
+    "type": "VFA",
+    "lat": 36.54567,
+    "lng": -119.396744,
+    "distance": 18.067494627899364
+  },
+  {
+    "name": "Aria Community Health Center Dinuba",
+    "address": "271 N L St, Dinuba, CA 93618",
+    "phone": "(559) 591-1820",
+    "type": "fqhc",
+    "lat": 36.542229,
+    "lng": -119.392326,
+    "distance": 18.105995113053176
+  },
+  {
+    "name": "Dinuba Rural Health Center",
+    "address": "420 E El Monte Way, Dinuba, CA 93618",
+    "phone": "(559) 595-9500",
+    "type": "private",
+    "lat": 36.545574,
+    "lng": -119.390678,
+    "distance": 18.322710121547164
+  },
+  {
+    "name": "Valley Health Clinic Dba Dinuba Chc",
+    "address": "888 N Alta Ave, Dinuba, CA 93618",
+    "phone": "(559) 595-1000",
+    "type": "private",
+    "lat": 36.552872,
+    "lng": -119.394707,
+    "distance": 18.476324732888134
+  },
+  {
+    "name": "Fhcn-dinuba",
+    "address": "324 N Vermont Ave, Dinuba, CA 93618",
+    "phone": "(559) 591-1224",
+    "type": "fqhc",
+    "lat": 36.547791,
+    "lng": -119.389069,
+    "distance": 18.488917803802128
+  },
+  {
+    "name": "Ahmo-reedley Jefferson",
+    "address": "1150 E Washington Ave, Reedley, CA 93654",
+    "phone": "(559) 391-3105",
+    "type": "fqhc",
+    "lat": 36.591515,
+    "lng": -119.438118,
+    "distance": 18.7530422792701
+  },
+  {
+    "name": "Ahmo- Dinuba",
+    "address": "1451 E El Monte Way, Dinuba, CA 93618",
+    "phone": "(559) 591-3342",
+    "type": "VFA",
+    "lat": 36.545876,
+    "lng": -119.379761,
+    "distance": 18.808772923718085
+  },
+  {
+    "name": "Javier Amu Md Professional Corp",
+    "address": "1093 11th St, Reedley, CA 93654",
+    "phone": "(559) 743-7340",
+    "type": "private",
+    "lat": 36.60112,
+    "lng": -119.444901,
+    "distance": 19.057346107593887
+  },
+  {
+    "name": "Kaweah Health Tulare Cinic",
+    "address": "1000 N Mooney Blvd, Tulare, CA 93274",
+    "phone": "(559) 685-7100",
+    "type": "fqhc",
+    "lat": 36.225128,
+    "lng": -119.3125,
+    "distance": 18.916078356112486
+  },
+  {
+    "name": "Omni Family Health - Visalia",
+    "address": "311 W Noble Ave, Visalia, CA 93277",
+    "phone": "(559) 558-9735",
+    "type": "fqhc",
+    "lat": 36.326225,
+    "lng": -119.295563,
+    "distance": 19.786406458350335
+  },
+  {
+    "name": "Bright Pediatrics  Echo",
+    "address": "1922 S Court St, Visalia, CA 93277",
+    "phone": "(559) 625-0888",
+    "type": "private",
+    "lat": 36.31345,
+    "lng": -119.291092,
+    "distance": 19.904055757244603
+  },
+  {
+    "name": "Altura Centers For Health- South",
+    "address": "3035 E Bardsley Ave, Tulare, CA 93274",
+    "phone": "(559) 684-4356",
+    "type": "fqhc",
+    "lat": 36.196011,
+    "lng": -119.30262,
+    "distance": 19.932641495230936
+  },
+  {
+    "name": "Fhcn-bridge",
+    "address": "501 N Bridge St, Visalia, CA 93291",
+    "phone": "(559) 734-1939",
+    "type": "fqhc",
+    "lat": 36.334404,
+    "lng": -119.289345,
+    "distance": 20.228881200948983
+  },
+  {
+    "name": "Fhcn--visalia Oak",
+    "address": "400 E Oak Ave, Visalia, CA 93291",
+    "phone": "(559) 741-4500",
+    "type": "fqhc",
+    "lat": 36.332218,
+    "lng": -119.288612,
+    "distance": 20.24040583814986
+  },
+  {
+    "name": "Fhcn--school Ave",
+    "address": "401 E School Ave, Visalia, CA 93291",
+    "phone": "(559) 741-4599",
+    "type": "fqhc",
+    "lat": 36.332569,
+    "lng": -119.288429,
+    "distance": 20.254920175232215
+  }
+]

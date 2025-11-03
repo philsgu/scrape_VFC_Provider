@@ -1,0 +1,461 @@
+[
+  {
+    "name": "Ray Mun Loo Md Medical Corporation",
+    "address": "2433 Marshall Ave, Ste 1, Imperial, CA 92251",
+    "phone": "(760) 545-0022",
+    "type": "private",
+    "lat": 32.830601,
+    "lng": -115.569191,
+    "distance": 1.1470330741220625
+  },
+  {
+    "name": "Legacy Md - El Centro",
+    "address": "1699 N Imperial Ave, El Centro, CA 92243",
+    "phone": "(760) 550-1685",
+    "type": "private",
+    "lat": 32.808182,
+    "lng": -115.569283,
+    "distance": 2.6960745994134645
+  },
+  {
+    "name": "Imperial County Public Health Dept",
+    "address": "935 Broadway Ave, El Centro, CA 92243",
+    "phone": "(442) 265-1394",
+    "type": "public",
+    "lat": 32.793816,
+    "lng": -115.563034,
+    "distance": 3.7072079630427894
+  },
+  {
+    "name": "El Centro Outpatient Clinic",
+    "address": "385 W Main St, El Centro, CA 92243",
+    "phone": "(760) 370-8643",
+    "type": "fqhc",
+    "lat": 32.7925,
+    "lng": -115.551888,
+    "distance": 3.9140801482666836
+  },
+  {
+    "name": "Valley Pediatric Health Inc",
+    "address": "1271 Ross Ave Fl 2, El Centro, CA 92243",
+    "phone": "(760) 970-4862",
+    "type": "private",
+    "lat": 32.781189,
+    "lng": -115.567131,
+    "distance": 4.563105877879942
+  },
+  {
+    "name": "Vishwa Kapoor, Md",
+    "address": "2151 Ross Ave, El Centro, CA 92243",
+    "phone": "(760) 592-4961",
+    "type": "private",
+    "lat": 32.781139,
+    "lng": -115.579895,
+    "distance": 4.605137629806338
+  },
+  {
+    "name": "Adolescent, Babies And Children",
+    "address": "702 Wake Ave, El Centro, CA 92243",
+    "phone": "(760) 352-7216",
+    "type": "private",
+    "lat": 32.771027,
+    "lng": -115.560165,
+    "distance": 5.2906491492957635
+  },
+  {
+    "name": "Innercare El Centro",
+    "address": "852 Danenberg Dr, El Centro, CA 92243",
+    "phone": "(760) 352-2257",
+    "type": "VFA",
+    "lat": 32.772728,
+    "lng": -115.527695,
+    "distance": 5.68733853153489
+  },
+  {
+    "name": "Pioneers Health Center",
+    "address": "751 W Legion Rd, Ste 103, Brawley, CA 92227",
+    "phone": "(760) 351-4400",
+    "type": "fqhc",
+    "lat": 32.960491,
+    "lng": -115.553917,
+    "distance": 7.8795106165120306
+  },
+  {
+    "name": "Jay Kenneth P Buenaflor, Md",
+    "address": "608 G St, Ste 2a, Brawley, CA 92227",
+    "phone": "(760) 351-2127",
+    "type": "private",
+    "lat": 32.977219,
+    "lng": -115.531837,
+    "distance": 9.244427909513949
+  },
+  {
+    "name": "Valley Medical Pharmacy",
+    "address": "630 Main St, Brawley, CA 92227",
+    "phone": "(760) 344-6303",
+    "type": "private",
+    "lat": 32.978355,
+    "lng": -115.531418,
+    "distance": 9.326498848703903
+  },
+  {
+    "name": "Pioneers Children's Health Center",
+    "address": "565 Main St, Brawley, CA 92227",
+    "phone": "(760) 344-5565",
+    "type": "fqhc",
+    "lat": 32.978992,
+    "lng": -115.532295,
+    "distance": 9.357438459784452
+  },
+  {
+    "name": "Innercare Brawley",
+    "address": "900 Main St, Brawley, CA 92227",
+    "phone": "(760) 344-6471",
+    "type": "fqhc",
+    "lat": 32.978596,
+    "lng": -115.528488,
+    "distance": 9.384165268126445
+  },
+  {
+    "name": "Innercare Calexico",
+    "address": "223 W Cole Blvd, Calexico, CA 92231",
+    "phone": "(760) 357-2020",
+    "type": "VFA",
+    "lat": 32.694641,
+    "lng": -115.502838,
+    "distance": 11.228437042006487
+  },
+  {
+    "name": "Tien Vo, Md Inc",
+    "address": "222 E Cole Blvd, Calexico, CA 92231",
+    "phone": "(760) 352-2551",
+    "type": "private",
+    "lat": 32.693432,
+    "lng": -115.495003,
+    "distance": 11.470611240019167
+  },
+  {
+    "name": "Ivfcmg Luz E Tristan",
+    "address": "401 E Birch St, Ste A, Calexico, CA 92231",
+    "phone": "(760) 768-5246",
+    "type": "private",
+    "lat": 32.679913,
+    "lng": -115.493431,
+    "distance": 12.37331669130405
+  },
+  {
+    "name": "Calexico Outpatient Center",
+    "address": "495 E Birch St, Ste A, Calexico, CA 92231",
+    "phone": "(760) 482-5000",
+    "type": "fqhc",
+    "lat": 32.679665,
+    "lng": -115.492928,
+    "distance": 12.399780622534713
+  },
+  {
+    "name": "Calexico Health Center",
+    "address": "450 E Birch St, Calexico, CA 92231",
+    "phone": "(760) 768-6262",
+    "type": "fqhc",
+    "lat": 32.678696,
+    "lng": -115.491402,
+    "distance": 12.494203915217094
+  },
+  {
+    "name": "De Anza Urgent Care",
+    "address": "1001 Blair Ave, Calexico, CA 92231",
+    "phone": "(760) 768-5055",
+    "type": "private",
+    "lat": 32.678177,
+    "lng": -115.490761,
+    "distance": 12.541141301074227
+  },
+  {
+    "name": "Calexico Wellness Center",
+    "address": "420 Heffernan Ave, Ste D, Calexico, CA 92231",
+    "phone": "(760) 270-9126",
+    "type": "private",
+    "lat": 32.66906,
+    "lng": -115.494591,
+    "distance": 13.054109921440276
+  },
+  {
+    "name": "Innercare Niland",
+    "address": "8027 Highway 111, Niland, CA 92257",
+    "phone": "(760) 359-0110",
+    "type": "fqhc",
+    "lat": 33.236271,
+    "lng": -115.519112,
+    "distance": 27.041199505088773
+  },
+  {
+    "name": "Innercare West Shores",
+    "address": "1289 S Marina Dr, Suite A, Salton City, CA 92275",
+    "phone": "(760) 394-4338",
+    "type": "VFA",
+    "lat": 33.275822,
+    "lng": -115.969955,
+    "distance": 37.61914453358189
+  },
+  {
+    "name": "Borrego Medical Center",
+    "address": "4343 Yaqui Pass Rd, Borrego Springs, CA 92004",
+    "phone": "(760) 767-5051",
+    "type": "fqhc",
+    "lat": 33.193829,
+    "lng": -116.329147,
+    "distance": 50.11139780472845
+  },
+  {
+    "name": "Innercare Winterhaven",
+    "address": "2133 Winterhaven Drive, Winterhaven, CA 92283",
+    "phone": "(760) 538-3073",
+    "type": "VFA",
+    "lat": 32.739288,
+    "lng": -114.638939,
+    "distance": 54.558075155889235
+  },
+  {
+    "name": "Mountain Health Family Medicine",
+    "address": "1388 Buckman Springs Rd, Campo, CA 91906",
+    "phone": "(619) 662-4100",
+    "type": "VFA",
+    "lat": 32.629742,
+    "lng": -116.473244,
+    "distance": 54.639011310461086
+  },
+  {
+    "name": "Oasis Community Health Center",
+    "address": "88775 76th Ave, Ste 1, Thermal, CA 92274",
+    "phone": "(760) 397-2501",
+    "type": "VFA",
+    "lat": 33.498211,
+    "lng": -116.115303,
+    "distance": 54.95750894043763
+  },
+  {
+    "name": "Ft Yuma Public Health Servce Ihs",
+    "address": "401 Picacho Rd, Winterhaven, CA 92283",
+    "phone": "(760) 572-4200",
+    "type": "public",
+    "lat": 32.736408,
+    "lng": -114.618561,
+    "distance": 55.75872441675688
+  },
+  {
+    "name": "Innercare Mecca",
+    "address": "91275 66th Ave, Ste 500, Mecca, CA 92254",
+    "phone": "(760) 396-1249",
+    "type": "VFA",
+    "lat": 33.568241,
+    "lng": -116.074051,
+    "distance": 57.73591538470368
+  },
+  {
+    "name": "Torres Martinez Indian Health Clini",
+    "address": "66-655 Martinez Rd, Thermal, CA 92274",
+    "phone": "(760) 397-4476",
+    "type": "public",
+    "lat": 33.563709,
+    "lng": -116.154945,
+    "distance": 59.97622762607473
+  },
+  {
+    "name": "San Ysidro Health- Julian Family",
+    "address": "2721 Washington St, Julian, CA 92036",
+    "phone": "(760) 765-1223",
+    "type": "fqhc",
+    "lat": 33.078068,
+    "lng": -116.602676,
+    "distance": 61.99119411166966
+  },
+  {
+    "name": "Clinica Medica Del Valle",
+    "address": "52565 Harrison St, Ste 104, Coachella, CA 92236",
+    "phone": "(760) 398-0606",
+    "type": "private",
+    "lat": 33.666988,
+    "lng": -116.182182,
+    "distance": 66.80046246638204
+  },
+  {
+    "name": "Innercare Coachella",
+    "address": "50249 Cesar Chavez St Ste K, Coachella, CA 92236",
+    "phone": "(760) 393-0555",
+    "type": "VFA",
+    "lat": 33.674656,
+    "lng": -116.18322,
+    "distance": 67.28107096043068
+  },
+  {
+    "name": "Santa Rosa Del Valle Med Grp",
+    "address": "1293 6th St, Coachella, CA 92236",
+    "phone": "(760) 391-5151",
+    "type": "private",
+    "lat": 33.677731,
+    "lng": -116.179382,
+    "distance": 67.34508061767794
+  },
+  {
+    "name": "Rogelio Drenning-manrriquez, Md",
+    "address": "49617 Harrison St, Ste B, Coachella, CA 92236",
+    "phone": "(760) 398-3555",
+    "type": "private",
+    "lat": 33.687939,
+    "lng": -116.182823,
+    "distance": 68.04938381354
+  },
+  {
+    "name": "Coachella Mobile Unit",
+    "address": "49869 Calhoun St, Coachella, CA 92236",
+    "phone": "(833) 624-1097",
+    "type": "fqhc",
+    "lat": 33.685406,
+    "lng": -116.207886,
+    "distance": 68.66714060864199
+  },
+  {
+    "name": "Coachella Valley Community Hlth Ctr",
+    "address": "49869 Calhoun St, Coachella, CA 92236",
+    "phone": "(760) 399-4526",
+    "type": "fqhc",
+    "lat": 33.685406,
+    "lng": -116.207886,
+    "distance": 68.66714060864199
+  },
+  {
+    "name": "Sac Health - Cvrm",
+    "address": "84110 Manila Ave, # B Indio, CA 92201",
+    "phone": "(760) 347-3512",
+    "type": "fqhc",
+    "lat": 33.704487,
+    "lng": -116.196777,
+    "distance": 69.4436144688211
+  },
+  {
+    "name": "Dr Rios Clinic Med Familiar Indio",
+    "address": "82935 Avenue 48, Ste 101, Indio, CA 92201",
+    "phone": "(855) 505-7467",
+    "type": "private",
+    "lat": 33.699829,
+    "lng": -116.217735,
+    "distance": 69.81178108973842
+  },
+  {
+    "name": "Indio Family Care Center",
+    "address": "47923 Oasis St, Indio, CA 92201",
+    "phone": "(760) 863-8283",
+    "type": "VFA",
+    "lat": 33.700794,
+    "lng": -116.22094,
+    "distance": 69.96735926747425
+  },
+  {
+    "name": "Martha's Village And Kitchen",
+    "address": "83791 Date Ave, Indio, CA 92201",
+    "phone": "(760) 391-6000",
+    "type": "fqhc",
+    "lat": 33.710861,
+    "lng": -116.204819,
+    "distance": 70.06124565340228
+  },
+  {
+    "name": "Alpine Family Medicine",
+    "address": "1620 Alpine Blvd, Ste 119, Alpine, CA 91901",
+    "phone": "(619) 662-4100",
+    "type": "fqhc",
+    "lat": 32.838299,
+    "lng": -116.780022,
+    "distance": 70.28274231127365
+  },
+  {
+    "name": "Zosima B Carino-gateb Md",
+    "address": "81833 Doctor Carreon Blvd, Ste 6, Indio, CA 92201",
+    "phone": "(760) 775-7763",
+    "type": "private",
+    "lat": 33.70713,
+    "lng": -116.236526,
+    "distance": 70.82197131743719
+  },
+  {
+    "name": "Maria R Gopez",
+    "address": "81767 Doctor Carreon Blvd, Ste 100, Indio, CA 92201",
+    "phone": "(760) 347-1615",
+    "type": "private",
+    "lat": 33.706959,
+    "lng": -116.237747,
+    "distance": 70.85044114558652
+  },
+  {
+    "name": "Central City Comm Health Ctr Inc",
+    "address": "81709 Doctor Carreon Blvd, Ste E1, Indio, CA 92201",
+    "phone": "(760) 342-3336",
+    "type": "VFA",
+    "lat": 33.707069,
+    "lng": -116.239342,
+    "distance": 70.90706739821817
+  },
+  {
+    "name": "Sac Health Systems",
+    "address": "82934 Civic Center Dr, Indio, CA 92201",
+    "phone": "(760) 477-0733",
+    "type": "fqhc",
+    "lat": 33.71867,
+    "lng": -116.21769,
+    "distance": 70.91031313590605
+  },
+  {
+    "name": "Chorng Hwang,md",
+    "address": "81709 Doctor Carreon Blvd, Ste B2, Indio, CA 92201",
+    "phone": "(760) 342-4771",
+    "type": "private",
+    "lat": 33.706772,
+    "lng": -116.240082,
+    "distance": 70.91322392152183
+  },
+  {
+    "name": "Coachella Valley Care Medical",
+    "address": "81709 Doctor Carreon Blvd, Ste C3, Indio, CA 92201",
+    "phone": "(760) 771-8420",
+    "type": "private",
+    "lat": 33.706772,
+    "lng": -116.240082,
+    "distance": 70.91322392152183
+  },
+  {
+    "name": "Sjwcc-indio",
+    "address": "82025 Us Highway 111, Unit 101, Indio, CA 92201",
+    "phone": "(323) 541-1400",
+    "type": "fqhc",
+    "lat": 33.713257,
+    "lng": -116.232658,
+    "distance": 71.05604496746498
+  },
+  {
+    "name": "Maria Nieves Gutierrez-go",
+    "address": "80495 Us Highway 111, Indio, CA 92201",
+    "phone": "(760) 347-2887",
+    "type": "private",
+    "lat": 33.706879,
+    "lng": -116.260498,
+    "distance": 71.57048696564807
+  },
+  {
+    "name": "Coachella Valley Care Medical",
+    "address": "79440 Corporate Center Dr, Ste 110, La Quinta, CA 92253",
+    "phone": "(760) 625-0569",
+    "type": "private",
+    "lat": 33.709888,
+    "lng": -116.279266,
+    "distance": 72.35168799194416
+  },
+  {
+    "name": "Ucr Health Pediatrics La Quinta",
+    "address": "79430 Highway 111 Ste 102, La Quinta, CA 92253",
+    "phone": "(844) 827-8000",
+    "type": "private",
+    "lat": 33.709068,
+    "lng": -116.284096,
+    "distance": 69.64522459640149
+  }
+]

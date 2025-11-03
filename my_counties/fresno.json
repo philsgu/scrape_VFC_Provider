@@ -1,0 +1,632 @@
+[
+  {
+    "name": "Valley Family Medical Clinic",
+    "address": "1053 R St, Fresno, CA 93721",
+    "phone": "(559) 233-3131",
+    "type": "private",
+    "lat": 36.74041,
+    "lng": -119.783051,
+    "distance": 0.28774851754473707
+  },
+  {
+    "name": "United Health Centers",
+    "address": "2630 Tuolumne St Bldg A, Fresno, CA 93721",
+    "phone": "(559) 825-2630",
+    "type": "fqhc",
+    "lat": 36.742336,
+    "lng": -119.787384,
+    "distance": 0.3138398487804585
+  },
+  {
+    "name": "Fresno Co Health Department",
+    "address": "1221 Fulton Mall, Stop 178, Fresno, CA 93721",
+    "phone": "(559) 600-3550",
+    "type": "public",
+    "lat": 36.73629,
+    "lng": -119.793152,
+    "distance": 0.35098314394543173
+  },
+  {
+    "name": "Community Regional Mediical Center",
+    "address": "2823 Fresno St, Fresno, CA 93721",
+    "phone": "(559) 459-2170",
+    "type": "public",
+    "lat": 36.74271,
+    "lng": -119.784058,
+    "distance": 0.3787985250564121
+  },
+  {
+    "name": "Fresno Pediatrics  A Medical Corp",
+    "address": "2900 Fresno St, Ste 102, Fresno, CA 93721",
+    "phone": "(559) 229-2900",
+    "type": "private",
+    "lat": 36.742359,
+    "lng": -119.78244,
+    "distance": 0.407207190261236
+  },
+  {
+    "name": "William Garnica, Md",
+    "address": "2900 Fresno St, Ste 100, Fresno, CA 93721",
+    "phone": "(559) 499-0520",
+    "type": "private",
+    "lat": 36.742359,
+    "lng": -119.78244,
+    "distance": 0.407207190261236
+  },
+  {
+    "name": "Sang Pediatrics",
+    "address": "1122 S St, Ste 102, Fresno, CA 93721",
+    "phone": "(559) 268-1737",
+    "type": "private",
+    "lat": 36.742001,
+    "lng": -119.781883,
+    "distance": 0.40949542057613464
+  },
+  {
+    "name": "Ron Lichtensteinomni Womens",
+    "address": "2210 E Illinois Ave, Ste 406, Fresno, CA 93701",
+    "phone": "(559) 486-8888",
+    "type": "private",
+    "lat": 36.744061,
+    "lng": -119.78466,
+    "distance": 0.4531883147655383
+  },
+  {
+    "name": "Fhcn Fresno Illinois",
+    "address": "2210 E Illinois Ave, Ste 206, Fresno, CA 93701",
+    "phone": "(559) 264-3527",
+    "type": "fqhc",
+    "lat": 36.744061,
+    "lng": -119.78466,
+    "distance": 0.4531883147655383
+  },
+  {
+    "name": "Clinica Sierra Vista Comm Hlth Ctr-",
+    "address": "2505 E Divisadero St, Fresno, CA 93721",
+    "phone": "(559) 457-5500",
+    "type": "VFA",
+    "lat": 36.74358,
+    "lng": -119.781181,
+    "distance": 0.5166272517085727
+  },
+  {
+    "name": "Ajit Singh Md",
+    "address": "1108 U St, Fresno, CA 93721",
+    "phone": "(559) 268-3482",
+    "type": "private",
+    "lat": 36.743031,
+    "lng": -119.780022,
+    "distance": 0.5331408046039247
+  },
+  {
+    "name": "Bala",
+    "address": "3120 Tulare St, Ste 103, Fresno, CA 93721",
+    "phone": "(559) 444-1880",
+    "type": "private",
+    "lat": 36.741997,
+    "lng": -119.778519,
+    "distance": 0.5566631045935119
+  },
+  {
+    "name": "Fhcn - Fresno Acc Children's Health",
+    "address": "290 N Wayte Ln Ste 1300, Fresno, CA 93701",
+    "phone": "(866) 342-6012",
+    "type": "fqhc",
+    "lat": 36.746521,
+    "lng": -119.783157,
+    "distance": 0.64092433568106
+  },
+  {
+    "name": "Lalaine Tiu Md Inc",
+    "address": "3069 Tulare St, Fresno, CA 93721",
+    "phone": "(559) 412-8812",
+    "type": "private",
+    "lat": 36.743923,
+    "lng": -119.773048,
+    "distance": 0.8856531167157683
+  },
+  {
+    "name": "Childrens Medical Centers Of Fresno",
+    "address": "805 Fresno St, Fresno, CA 93706",
+    "phone": "(559) 485-4000",
+    "type": "private",
+    "lat": 36.72776,
+    "lng": -119.80423,
+    "distance": 1.175192835646389
+  },
+  {
+    "name": "United Health Centers",
+    "address": "1110 N Blackstone Ave, Fresno, CA 93701",
+    "phone": "(559) 500-4476",
+    "type": "fqhc",
+    "lat": 36.75668,
+    "lng": -119.790237,
+    "distance": 1.3160448417723387
+  },
+  {
+    "name": "Clinia Sierra Vista Community Hlth",
+    "address": "1350 S Orange Ave, Fresno, CA 93702",
+    "phone": "(559) 457-5400",
+    "type": "fqhc",
+    "lat": 36.728958,
+    "lng": -119.764069,
+    "distance": 1.414183148186533
+  },
+  {
+    "name": "Clinica Sierra Vista",
+    "address": "302 Fresno St, Ste 101, Fresno, CA 93706",
+    "phone": "(559) 457-5700",
+    "type": "VFA",
+    "lat": 36.723679,
+    "lng": -119.808853,
+    "distance": 1.5502585957596708
+  },
+  {
+    "name": "Family Care Providers Medical Group",
+    "address": "1300 N Fresno St, Ste 220, Fresno, CA 93703",
+    "phone": "(559) 495-6745",
+    "type": "private",
+    "lat": 36.759949,
+    "lng": -119.78054,
+    "distance": 1.5729242975255964
+  },
+  {
+    "name": "Fcoe Health Services",
+    "address": "2840 E Floradora Ave, Fresno, CA 93703",
+    "phone": "(559) 246-3898",
+    "type": "public",
+    "lat": 36.760632,
+    "lng": -119.77813,
+    "distance": 1.6539349918893749
+  },
+  {
+    "name": "Blackstone Community Health Center",
+    "address": "1685 E Home Ave, Fresno, CA 93728",
+    "phone": "(559) 457-6900",
+    "type": "fqhc",
+    "lat": 36.763229,
+    "lng": -119.790955,
+    "distance": 1.7700201168884324
+  },
+  {
+    "name": "Gaston Health And Wellness Center",
+    "address": "1120 E Church Ave, Fresno, CA 93706",
+    "phone": "(559) 457-6970",
+    "type": "fqhc",
+    "lat": 36.713558,
+    "lng": -119.798286,
+    "distance": 1.7859479714200066
+  },
+  {
+    "name": "Clinica Sierra Vista Community Hlth",
+    "address": "2760 S Elm Ave, Fresno, CA 93706",
+    "phone": "(559) 457-5326",
+    "type": "fqhc",
+    "lat": 36.701008,
+    "lng": -119.790894,
+    "distance": 2.5509171584034855
+  },
+  {
+    "name": "Clinica Sierra Vista Community Hlth",
+    "address": "2740 S Elm Ave, Fresno, CA 93706",
+    "phone": "(559) 457-5200",
+    "type": "VFA",
+    "lat": 36.701019,
+    "lng": -119.791267,
+    "distance": 2.5519185313148314
+  },
+  {
+    "name": "Orlantino G Dyoco  Md Prof Corp",
+    "address": "3006 N Fresno St, Fresno, CA 93703",
+    "phone": "(559) 243-0418",
+    "type": "private",
+    "lat": 36.778111,
+    "lng": -119.781349,
+    "distance": 2.8034932792368363
+  },
+  {
+    "name": "Todos Para La Salud",
+    "address": "3030 N Fresno St, Ste 101, Fresno, CA 93703",
+    "phone": "(559) 227-1622",
+    "type": "fqhc",
+    "lat": 36.778278,
+    "lng": -119.780807,
+    "distance": 2.8185651543928967
+  },
+  {
+    "name": "United Health Centers Fresno Jensen",
+    "address": "4340 E Jensen Ave, Fresno, CA 93725",
+    "phone": "(559) 206-8702",
+    "type": "fqhc",
+    "lat": 36.706882,
+    "lng": -119.752594,
+    "distance": 2.8663923023262172
+  },
+  {
+    "name": "Family Healthcare Network First St",
+    "address": "3425 N 1st St, Fresno, CA 93726",
+    "phone": "(559) 608-6581",
+    "type": "fqhc",
+    "lat": 36.781837,
+    "lng": -119.773125,
+    "distance": 3.139689680776357
+  },
+  {
+    "name": "Fhcn - Fresno Shields",
+    "address": "3505 E Shields Ave, Fresno, CA 93726",
+    "phone": "(877) 960-3426",
+    "type": "fqhc",
+    "lat": 36.78006,
+    "lng": -119.765984,
+    "distance": 3.1453433803263002
+  },
+  {
+    "name": "Omni Family Health -  East Shield",
+    "address": "3748 E Shields Ave, Fresno, CA 93726",
+    "phone": "(866) 707-6664",
+    "type": "fqhc",
+    "lat": 36.779362,
+    "lng": -119.762306,
+    "distance": 3.1829554991905593
+  },
+  {
+    "name": "Universal Pediatrics",
+    "address": "3793 E Shields Ave, Ste A, Fresno, CA 93726",
+    "phone": "(559) 508-8900",
+    "type": "private",
+    "lat": 36.779907,
+    "lng": -119.761398,
+    "distance": 3.238765192942796
+  },
+  {
+    "name": "Family Healthcare Network Fresno Cc",
+    "address": "3837 N Clark St, Fresno, CA 93726",
+    "phone": "(559) 608-6560",
+    "type": "fqhc",
+    "lat": 36.788059,
+    "lng": -119.785561,
+    "distance": 0.08704875351399287
+  },
+  {
+    "name": "Vcpmg Dakota Pediatrics",
+    "address": "3636 N 1st St, Ste 120, Fresno, CA 93726",
+    "phone": "(559) 224-4365",
+    "type": "private",
+    "lat": 36.78373,
+    "lng": -119.7715,
+    "distance": 0.9079674357141134
+  },
+  {
+    "name": "William Garnica",
+    "address": "2384 E Gettysburg Ave, Fresno, CA 93726",
+    "phone": "(559) 233-0335",
+    "type": "private",
+    "lat": 36.800831,
+    "lng": -119.782471,
+    "distance": 0.9361266664893905
+  },
+  {
+    "name": "United Health Center First",
+    "address": "4615 N 1st St, Fresno, CA 93726",
+    "phone": "(559) 703-2053",
+    "type": "fqhc",
+    "lat": 36.802071,
+    "lng": -119.772835,
+    "distance": 1.2630763031003196
+  },
+  {
+    "name": "Omni Family Health",
+    "address": "4646 N 1st St, Fresno, CA 93726",
+    "phone": "(866) 707-6664",
+    "type": "fqhc",
+    "lat": 36.801914,
+    "lng": -119.77182,
+    "distance": 1.290718744648488
+  },
+  {
+    "name": "Kaiser Permanente Pediatrics",
+    "address": "4785 N 1st St, Fresno, CA 93726",
+    "phone": "(559) 448-3549",
+    "type": "private",
+    "lat": 36.80468,
+    "lng": -119.773529,
+    "distance": 1.3871698202574372
+  },
+  {
+    "name": "Ucsf Fresno Mobile Heal",
+    "address": "550 E Shaw Ave, Fresno, CA 93710",
+    "phone": "(559) 349-8082",
+    "type": "private",
+    "lat": 36.809299,
+    "lng": -119.778374,
+    "distance": 1.5620530859551742
+  },
+  {
+    "name": "Mountain Family Healthcare Center",
+    "address": "5187 N 1st St, Ste 105, Fresno, CA 93710",
+    "phone": "(559) 226-6796",
+    "type": "private",
+    "lat": 36.811943,
+    "lng": -119.772705,
+    "distance": 1.8485985644768812
+  },
+  {
+    "name": "Fresno Americanindianhealth Project",
+    "address": "1551 E Shaw Ave, Ste 128, Fresno, CA 93710",
+    "phone": "(559) 320-0490",
+    "type": "fqhc",
+    "lat": 36.808025,
+    "lng": -119.759552,
+    "distance": 2.06793633584008
+  },
+  {
+    "name": "Sang Pediatrics",
+    "address": "5240 N Palm Ave, # 103, Fresno, CA 93704",
+    "phone": "(559) 268-1737",
+    "type": "private",
+    "lat": 36.812889,
+    "lng": -119.807976,
+    "distance": 2.0831301744364836
+  },
+  {
+    "name": "Cedar University Clinic",
+    "address": "4770 N Cedar Ave, Fresno, CA 93726",
+    "phone": "(559) 860-4900",
+    "type": "fqhc",
+    "lat": 36.804489,
+    "lng": -119.753883,
+    "distance": 2.169742295057871
+  },
+  {
+    "name": "Sukhbir Kaur,md",
+    "address": "371 E Bullard Ave, Ste 115, Fresno, CA 93710",
+    "phone": "(559) 448-8700",
+    "type": "private",
+    "lat": 36.822731,
+    "lng": -119.781853,
+    "distance": 2.431044675172621
+  },
+  {
+    "name": "United Health Centers - Church",
+    "address": "5090 E Church Ave, Fresno, CA 93725",
+    "phone": "(559) 646-6618",
+    "type": "fqhc",
+    "lat": 36.713711,
+    "lng": -119.724411,
+    "distance": 3.9073070226142623
+  },
+  {
+    "name": "Childrens Medical Center Of Fresno",
+    "address": "5043 E Kings Canyon Rd, Ste 101, Fresno, CA 93727",
+    "phone": "(559) 455-1500",
+    "type": "private",
+    "lat": 36.736221,
+    "lng": -119.725571,
+    "distance": 4.77602735034017
+  },
+  {
+    "name": "United Health Centers",
+    "address": "645 S Minnewawa Ave, Fresno, CA 93727",
+    "phone": "(800) 492-4227",
+    "type": "fqhc",
+    "lat": 36.736393,
+    "lng": -119.708656,
+    "distance": 5.491287562699847
+  },
+  {
+    "name": "United Health Centers Kings Canyon",
+    "address": "5539 E Kings Canyon Rd, Fresno, CA 93727",
+    "phone": "(800) 492-4227",
+    "type": "fqhc",
+    "lat": 36.736202,
+    "lng": -119.703072,
+    "distance": 5.731491730026837
+  },
+  {
+    "name": "Ranu Pediatrics Inc",
+    "address": "5557 E Kings Canyon Rd, Fresno, CA 93727",
+    "phone": "(559) 251-7505",
+    "type": "private",
+    "lat": 36.73595,
+    "lng": -119.702095,
+    "distance": 5.765456954442917
+  },
+  {
+    "name": "Clovis Pediatric Group Kings Canyon",
+    "address": "5606 E Kings Canyon Rd, Fresno, CA 93727",
+    "phone": "(559) 900-3045",
+    "type": "private",
+    "lat": 36.735538,
+    "lng": -119.699684,
+    "distance": 5.85896368550484
+  },
+  {
+    "name": "Addams Elem Health  Wellness Ctr",
+    "address": "1510 N Lafayette Ave, Fresno, CA 93728",
+    "phone": "(559) 457-6860",
+    "type": "fqhc",
+    "lat": 36.763149,
+    "lng": -119.83773,
+    "distance": 5.9135219391737595
+  },
+  {
+    "name": "Albert L Lim, Md Office",
+    "address": "5755 E Kings Canyon Rd, Ste 104, Fresno, CA 93727",
+    "phone": "(559) 255-7777",
+    "type": "private",
+    "lat": 36.736599,
+    "lng": -119.69355,
+    "distance": 6.1823828828447125
+  },
+  {
+    "name": "North Fine Chc",
+    "address": "1945 N Fine Ave Ste 100, Fresno, CA 93727",
+    "phone": "(559) 457-5650",
+    "type": "VFA",
+    "lat": 36.768551,
+    "lng": -119.729424,
+    "distance": 2.1668957132131372
+  },
+  {
+    "name": "Monarch Medical Clinic",
+    "address": "4590 E Clinton Ave, Fresno, CA 93703",
+    "phone": "(559) 878-4804",
+    "type": "private",
+    "lat": 36.772079,
+    "lng": -119.74575,
+    "distance": 2.416556123259727
+  },
+  {
+    "name": "Clovis Pediatric Group - E Ashlan",
+    "address": "4910 E Ashlan Ave Ste 116, Fresno, CA 93726",
+    "phone": "(559) 228-2990",
+    "type": "private",
+    "lat": 36.793671,
+    "lng": -119.730927,
+    "distance": 3.8756219665964298
+  },
+  {
+    "name": "Clovis Community Health Center",
+    "address": "180 W Shaw Ave, Ste B, Clovis, CA 93612",
+    "phone": "(559) 203-6600",
+    "type": "VFA",
+    "lat": 36.808132,
+    "lng": -119.712662,
+    "distance": 5.044506994570624
+  },
+  {
+    "name": "United Health Centers Of Sjv",
+    "address": "313 W Shaw Ave, Clovis, CA 93612",
+    "phone": "(559) 701-8880",
+    "type": "fqhc",
+    "lat": 36.80891,
+    "lng": -119.716187,
+    "distance": 1.861908557129704
+  },
+  {
+    "name": "United Health Centers- Bullard",
+    "address": "1780 E Bullard Ave, Fresno, CA 93710",
+    "phone": "(559) 485-8500",
+    "type": "fqhc",
+    "lat": 36.823383,
+    "lng": -119.754509,
+    "distance": 2.640636487091396
+  },
+  {
+    "name": "Sierra Vista Health Center",
+    "address": "510 Barstow Ave, Clovis, CA 93612",
+    "phone": "(559) 327-7976",
+    "type": "public",
+    "lat": 36.814838,
+    "lng": -119.702728,
+    "distance": 2.6658942818417466
+  },
+  {
+    "name": "Sang Medical Corp",
+    "address": "6733 N Willow Ave, Ste 102, Fresno, CA 93710",
+    "phone": "(559) 268-1737",
+    "type": "private",
+    "lat": 36.834732,
+    "lng": -119.731422,
+    "distance": 3.258066408346948
+  },
+  {
+    "name": "Family First Health Care",
+    "address": "6095 N 1st St, Fresno, CA 93710",
+    "phone": "(559) 437-4528",
+    "type": "public",
+    "lat": 36.825062,
+    "lng": -119.773842,
+    "distance": 3.2803918411487922
+  },
+  {
+    "name": "Nidhi Mehrotra",
+    "address": "6769 N Willow Ave, Ste 101, Fresno, CA 93710",
+    "phone": "(559) 325-2400",
+    "type": "private",
+    "lat": 36.835129,
+    "lng": -119.731407,
+    "distance": 3.2854335034228526
+  },
+  {
+    "name": "Fhcn - Fresno Recreation",
+    "address": "7060 N Recreation Ave Ste 101, Fresno, CA 93720",
+    "phone": "(866) 342-6012",
+    "type": "fqhc",
+    "lat": 36.838871,
+    "lng": -119.739662,
+    "distance": 3.5317281787797308
+  },
+  {
+    "name": "Sierra Pediatric Medical Center",
+    "address": "7105 N Chestnut Ave, Ste 102, Fresno, CA 93720",
+    "phone": "(559) 437-9024",
+    "type": "private",
+    "lat": 36.839336,
+    "lng": -119.738182,
+    "distance": 3.5615435137144535
+  },
+  {
+    "name": "Sunshine Childrens Clinic",
+    "address": "6255 N Fresno St, Ste 106, Fresno, CA 93710",
+    "phone": "(909) 569-4224",
+    "type": "private",
+    "lat": 36.827625,
+    "lng": -119.781776,
+    "distance": 3.698858080922743
+  },
+  {
+    "name": "Valley Ped Medical Group",
+    "address": "7130 N Sharon Ave, Ste 101, Fresno, CA 93720",
+    "phone": "(559) 436-8606",
+    "type": "private",
+    "lat": 36.839989,
+    "lng": -119.759064,
+    "distance": 3.8052969129142746
+  },
+  {
+    "name": "Anoush Khodaverdian",
+    "address": "6327 N Fresno St, Ste 108, Fresno, CA 93710",
+    "phone": "(559) 440-0110",
+    "type": "private",
+    "lat": 36.828758,
+    "lng": -119.783203,
+    "distance": 3.809834171108801
+  },
+  {
+    "name": "St Agnes Fm Residency Mobile Health",
+    "address": "7138 N Millbrook Ave, #105, Fresno, CA 93720",
+    "phone": "(559) 441-3554",
+    "type": "private",
+    "lat": 36.839214,
+    "lng": -119.763382,
+    "distance": 3.83859295116119
+  },
+  {
+    "name": "Camarena Health Clinic N Milbrook",
+    "address": "7202 N Millbrook Ave Ste 202, Fresno, CA 93720",
+    "phone": "(559) 664-4000",
+    "type": "fqhc",
+    "lat": 36.839943,
+    "lng": -119.764381,
+    "distance": 3.9062570060742132
+  },
+  {
+    "name": "United Health Centers - Ashlan",
+    "address": "2848 W Ashlan Ave, Fresno, CA 93705",
+    "phone": "(559) 579-1784",
+    "type": "fqhc",
+    "lat": 36.794277,
+    "lng": -119.84375,
+    "distance": 0.5794103986437883
+  },
+  {
+    "name": "North Marks Medical Clinic",
+    "address": "4011 N Marks Ave, Fresno, CA 93722",
+    "phone": "(559) 860-4925",
+    "type": "fqhc",
+    "lat": 36.794083,
+    "lng": -119.844368,
+    "distance": 0.5917775919161857
+  }
+]

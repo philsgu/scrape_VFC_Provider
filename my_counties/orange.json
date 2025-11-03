@@ -1,0 +1,767 @@
+[
+  {
+    "name": "La Amistad",
+    "address": "725 W La Veta Ave, Ste 260, Orange, CA 92868",
+    "phone": "(714) 771-8006",
+    "type": "fqhc",
+    "lat": 33.782032,
+    "lng": -117.860252,
+    "distance": 0.5771657856964851
+  },
+  {
+    "name": "Bhc-orange",
+    "address": "805 W La Veta Ave, Ste 110, Orange, CA 92868",
+    "phone": "(714) 289-8800",
+    "type": "fqhc",
+    "lat": 33.781509,
+    "lng": -117.860367,
+    "distance": 0.6075783531725846
+  },
+  {
+    "name": "Angela Herrmann",
+    "address": "630 S Glassell St, Ste 106a, Orange, CA 92866",
+    "phone": "(714) 639-9691",
+    "type": "private",
+    "lat": 33.778061,
+    "lng": -117.85363,
+    "distance": 0.6805383531155035
+  },
+  {
+    "name": "Doctors Of Kids And Teens",
+    "address": "1310 W Stewart Dr, Ste 506, Orange, CA 92868",
+    "phone": "(714) 639-3914",
+    "type": "private",
+    "lat": 33.781872,
+    "lng": -117.866493,
+    "distance": 0.8747059495455579
+  },
+  {
+    "name": "Sjnhc-main Street Peds",
+    "address": "363 S Main St, Ste 310, Orange, CA 92868",
+    "phone": "(714) 771-8006",
+    "type": "fqhc",
+    "lat": 33.782784,
+    "lng": -117.867058,
+    "distance": 0.876082059639703
+  },
+  {
+    "name": "Children's Hosp Of Orange County",
+    "address": "1201 W La Veta Ave, Pharmacy Department, Orange, CA 92868",
+    "phone": "(714) 997-3000",
+    "type": "private",
+    "lat": 33.780762,
+    "lng": -117.866104,
+    "distance": 0.8950000524577287
+  },
+  {
+    "name": "Oc Family Medical Center",
+    "address": "2401 W Chapman Ave, Ste 201, Orange, CA 92868",
+    "phone": "(657) 236-4909",
+    "type": "private",
+    "lat": 33.788212,
+    "lng": -117.878372,
+    "distance": 1.4514669232204858
+  },
+  {
+    "name": "St Josephs Heritage Medical Group",
+    "address": "2501 E Chapman Ave, Ste 104, Orange, CA 92869",
+    "phone": "(714) 628-3230",
+    "type": "private",
+    "lat": 33.788502,
+    "lng": -117.827698,
+    "distance": 1.4593655536256525
+  },
+  {
+    "name": "Kids Care Pediatrics Med Group",
+    "address": "1125 E 17th St, Ste N351, Santa Ana, CA 92701",
+    "phone": "(714) 480-0044",
+    "type": "private",
+    "lat": 33.761509,
+    "lng": -117.854858,
+    "distance": 1.826353003476541
+  },
+  {
+    "name": "Golden Care Pediatrics",
+    "address": "1920 E Katella Ave, Ste U, Orange, CA 92867",
+    "phone": "(714) 639-3060",
+    "type": "private",
+    "lat": 33.808788,
+    "lng": -117.83358,
+    "distance": 1.8274262635752676
+  },
+  {
+    "name": "Serve The People Chc",
+    "address": "1206 E 17th St, Ste 101, Santa Ana, CA 92701",
+    "phone": "(714) 352-2911",
+    "type": "VFA",
+    "lat": 33.759232,
+    "lng": -117.853951,
+    "distance": 1.9815216977621193
+  },
+  {
+    "name": "A Carbayo Md Fullhealth Medclinic",
+    "address": "1911 N Broadway, Santa Ana, CA 92706",
+    "phone": "(714) 667-6900",
+    "type": "private",
+    "lat": 33.762161,
+    "lng": -117.869278,
+    "distance": 2.006591464052693
+  },
+  {
+    "name": "Orange County Juvenile Hlth Servs",
+    "address": "331 The City Dr, Frnt, Orange, CA 92868",
+    "phone": "(714) 935-7131",
+    "type": "public",
+    "lat": 33.78511,
+    "lng": -117.888016,
+    "distance": 2.0143869860138484
+  },
+  {
+    "name": "Orangewood Children   Family Cntr",
+    "address": "401 The City Dr, Orange, CA 92868",
+    "phone": "(714) 935-6440",
+    "type": "public",
+    "lat": 33.783607,
+    "lng": -117.8881,
+    "distance": 2.0317474174847914
+  },
+  {
+    "name": "Anh Chi Tran Medical Corp",
+    "address": "1714 N Bush St, Santa Ana, CA 92706",
+    "phone": "(714) 541-8883",
+    "type": "private",
+    "lat": 33.760609,
+    "lng": -117.866707,
+    "distance": 2.0412968852679447
+  },
+  {
+    "name": "South Coast Pediatrics",
+    "address": "1619 N Spurgeon St, Santa Ana, CA 92701",
+    "phone": "(714) 558-9393",
+    "type": "private",
+    "lat": 33.759628,
+    "lng": -117.864868,
+    "distance": 2.0671381502421107
+  },
+  {
+    "name": "Paramount Care Medical Group",
+    "address": "111 W 17th St, Santa Ana, CA 92706",
+    "phone": "(714) 647-1300",
+    "type": "private",
+    "lat": 33.760311,
+    "lng": -117.868279,
+    "distance": 2.0962121937199623
+  },
+  {
+    "name": "Clinica Buena Salud",
+    "address": "520 W 17th St, Ste 1, Santa Ana, CA 92706",
+    "phone": "(714) 972-2727",
+    "type": "private",
+    "lat": 33.759628,
+    "lng": -117.873352,
+    "distance": 2.273596984943949
+  },
+  {
+    "name": "Integrative Medical Center",
+    "address": "526 W 17th St, Santa Ana, CA 92706",
+    "phone": "(714) 558-9355",
+    "type": "private",
+    "lat": 33.759628,
+    "lng": -117.873589,
+    "distance": 2.2805768551288828
+  },
+  {
+    "name": "Choc Children's Primary Care Clinic",
+    "address": "3745 W Chapman Ave Fl 1, Orange, CA 92868",
+    "phone": "(888) 770-2462",
+    "type": "private",
+    "lat": 33.789291,
+    "lng": -117.893417,
+    "distance": 2.317286857721511
+  },
+  {
+    "name": "Alta Med Medcl Grp-santa Ana, Main",
+    "address": "1400 N Main St, Santa Ana, CA 92701",
+    "phone": "(714) 352-7388",
+    "type": "VFA",
+    "lat": 33.756729,
+    "lng": -117.868141,
+    "distance": 2.3206390616132433
+  },
+  {
+    "name": "El Modena Health Center",
+    "address": "4010 E Chapman Ave, Ste C, Orange, CA 92869",
+    "phone": "(714) 500-0356",
+    "type": "VFA",
+    "lat": 33.787716,
+    "lng": -117.810837,
+    "distance": 2.427090937602409
+  },
+  {
+    "name": "Hurtt Family Health Clinic",
+    "address": "1100b N Tustin Ave, Ste A, Santa Ana, CA 92705",
+    "phone": "(714) 247-0300",
+    "type": "VFA",
+    "lat": 33.754871,
+    "lng": -117.834641,
+    "distance": 2.5164708244754475
+  },
+  {
+    "name": "Sos-el Sol Wellness Center",
+    "address": "1014 N Broadway, Santa Ana, CA 92701",
+    "phone": "(949) 270-2100",
+    "type": "VFA",
+    "lat": 33.753609,
+    "lng": -117.869743,
+    "distance": 2.555025234554525
+  },
+  {
+    "name": "Sjnhc-finamore Place",
+    "address": "915 E Orangewood Ave, Ste 200, Anaheim, CA 92802",
+    "phone": "(714) 716-2584",
+    "type": "fqhc",
+    "lat": 33.79668,
+    "lng": -117.896957,
+    "distance": 2.5905238401659365
+  },
+  {
+    "name": "Uci Family Health Center- Santa Ana",
+    "address": "800 N Main St, Santa Ana, CA 92701",
+    "phone": "(714) 480-2443",
+    "type": "VFA",
+    "lat": 33.75127,
+    "lng": -117.868103,
+    "distance": 2.6737095333961176
+  },
+  {
+    "name": "Clinica Medica Familiar",
+    "address": "517 N Main St, Ste 100, Santa Ana, CA 92701",
+    "phone": "(714) 647-0401",
+    "type": "private",
+    "lat": 33.749512,
+    "lng": -117.867287,
+    "distance": 2.7748855425362047
+  },
+  {
+    "name": "Oc Urgent Care Medical Group Inc",
+    "address": "2001 E 4th St Ste 104, Santa Ana, CA 92705",
+    "phone": "(657) 230-7800",
+    "type": "private",
+    "lat": 33.748631,
+    "lng": -117.838623,
+    "distance": 2.837987569586934
+  },
+  {
+    "name": "Orange Co Health Department",
+    "address": "1725 W 17th St, Bldg 50, Santa Ana, CA 92706",
+    "phone": "(714) 834-8058",
+    "type": "public",
+    "lat": 33.76152,
+    "lng": -117.892509,
+    "distance": 2.9062018163789523
+  },
+  {
+    "name": "Brightside Specialty Pharmacy",
+    "address": "431 N Tustin Ave, Ste C, Santa Ana, CA 92705",
+    "phone": "(714) 707-5115",
+    "type": "private",
+    "lat": 33.74884,
+    "lng": -117.833725,
+    "distance": 2.9193793307299782
+  },
+  {
+    "name": "Sjnhc Anaheim",
+    "address": "330 E Orangewood Ave, Anaheim, CA 92802",
+    "phone": "(714) 716-2584",
+    "type": "fqhc",
+    "lat": 33.795639,
+    "lng": -117.903297,
+    "distance": 2.931745501235681
+  },
+  {
+    "name": "David Chen",
+    "address": "719 E 1st St, Ste C, Santa Ana, CA 92701",
+    "phone": "(714) 547-0104",
+    "type": "private",
+    "lat": 33.745789,
+    "lng": -117.860992,
+    "distance": 2.944902485433221
+  },
+  {
+    "name": "St Joseph Heritage Medical Group",
+    "address": "2212 E 4th St, Santa Ana, CA 92705",
+    "phone": "(714) 288-3230",
+    "type": "private",
+    "lat": 33.747734,
+    "lng": -117.835144,
+    "distance": 2.960820786629344
+  },
+  {
+    "name": "Kars Pediatrics - Tustin",
+    "address": "17662 Irvine Blvd, Ste 18, Tustin, CA 92780",
+    "phone": "(949) 662-0152",
+    "type": "private",
+    "lat": 33.748074,
+    "lng": -117.824043,
+    "distance": 3.2184896619932566
+  },
+  {
+    "name": "Clinica Choc Para Ninos",
+    "address": "406 S Main St, Santa Ana, CA 92701",
+    "phone": "(714) 509-4815",
+    "type": "public",
+    "lat": 33.742222,
+    "lng": -117.868156,
+    "distance": 3.2726037697428585
+  },
+  {
+    "name": "South Main Aloha Pharmacy",
+    "address": "618 S Main St, Santa Ana, CA 92701",
+    "phone": "(714) 676-2078",
+    "type": "private",
+    "lat": 33.740055,
+    "lng": -117.867943,
+    "distance": 3.414144539148187
+  },
+  {
+    "name": "Saint Youstina",
+    "address": "809 S Main St, Suite A, Santa Ana, CA 92701",
+    "phone": "(714) 973-7770",
+    "type": "private",
+    "lat": 33.737923,
+    "lng": -117.867462,
+    "distance": 3.550496458823941
+  },
+  {
+    "name": "Santa Maria Medical Clinic",
+    "address": "1701 E Mcfadden Ave, Ste D, Santa Ana, CA 92705",
+    "phone": "(714) 953-6430",
+    "type": "private",
+    "lat": 33.733891,
+    "lng": -117.844963,
+    "distance": 3.7610827157720137
+  },
+  {
+    "name": "Bhs-adelante Health Center",
+    "address": "2015 W 1st St Ste L, Santa Ana, CA 92703",
+    "phone": "(714) 716-1830",
+    "type": "VFA",
+    "lat": 33.746269,
+    "lng": -117.896584,
+    "distance": 3.8096543517060355
+  },
+  {
+    "name": "Mayflower Medical Group E La Palma",
+    "address": "1900 E La Plama Avenue, Suite A, Anaheim, CA 92805",
+    "phone": "(714) 888-5742",
+    "type": "private",
+    "lat": 33.846848,
+    "lng": -117.890862,
+    "distance": 2.2536186620324035
+  },
+  {
+    "name": "Strong Kids Medical Group Inc",
+    "address": "1491 E La Palma Ave, Ste B, Anaheim, CA 92805",
+    "phone": "(714) 535-3330",
+    "type": "private",
+    "lat": 33.847729,
+    "lng": -117.898232,
+    "distance": 2.67766723651321
+  },
+  {
+    "name": "Benevolence Health Centers",
+    "address": "303 N East St, Ste 2, Anaheim, CA 92805",
+    "phone": "(714) 491-1771",
+    "type": "fqhc",
+    "lat": 33.840351,
+    "lng": -117.903671,
+    "distance": 2.9073616250570016
+  },
+  {
+    "name": "Walsh Medical Group",
+    "address": "947 S Anaheim Blvd, Ste 115, Anaheim, CA 92805",
+    "phone": "(714) 533-7320",
+    "type": "private",
+    "lat": 33.821529,
+    "lng": -117.909958,
+    "distance": 3.4540650495512133
+  },
+  {
+    "name": "Kids Care Pediatrics Med Group, Inc",
+    "address": "947 S Anaheim Blvd, Ste 200, Anaheim, CA 92805",
+    "phone": "(714) 758-2858",
+    "type": "private",
+    "lat": 33.821529,
+    "lng": -117.909958,
+    "distance": 3.4540650495512133
+  },
+  {
+    "name": "Hurtt Family Health Clinic",
+    "address": "947 S Anaheim Blvd Ste 260, Anaheim, CA 92805",
+    "phone": "(714) 247-0300",
+    "type": "fqhc",
+    "lat": 33.821529,
+    "lng": -117.909958,
+    "distance": 3.4540650495512133
+  },
+  {
+    "name": "Good Samaritan Medical Clinic, Inc",
+    "address": "801 N Harbor Blvd, Anaheim, CA 92805",
+    "phone": "(714) 774-7500",
+    "type": "private",
+    "lat": 33.843071,
+    "lng": -117.922783,
+    "distance": 4.015159464212208
+  },
+  {
+    "name": "Alta Med Mdcl Grp-anaheim Lincoln W",
+    "address": "1325 N Anaheim Blvd Ste 200, Anaheim, CA 92801",
+    "phone": "(714) 507-1475",
+    "type": "VFA",
+    "lat": 33.853325,
+    "lng": -117.920807,
+    "distance": 4.029117255696705
+  },
+  {
+    "name": "Childrens Medical Group Of Oc",
+    "address": "500 S Anaheim Hills Rd, Ste 110, Anaheim, CA 92807",
+    "phone": "(714) 282-2229",
+    "type": "private",
+    "lat": 33.843525,
+    "lng": -117.77742,
+    "distance": 4.360756015228207
+  },
+  {
+    "name": "Walsh Medicalgroup",
+    "address": "1110 W La Palma Ave, Ste 6, Anaheim, CA 92801",
+    "phone": "(714) 502-1144",
+    "type": "private",
+    "lat": 33.846439,
+    "lng": -117.93206,
+    "distance": 4.5698376577175255
+  },
+  {
+    "name": "Blanca B Hampton, Md",
+    "address": "1110 W La Palma Ave, Ste 1, Anaheim, CA 92801",
+    "phone": "(714) 991-3180",
+    "type": "private",
+    "lat": 33.846439,
+    "lng": -117.93206,
+    "distance": 4.5698376577175255
+  },
+  {
+    "name": "Pediatric Med Assoc Of Orange Cty",
+    "address": "1211 W La Palma Ave, Ste 401, Anaheim, CA 92801",
+    "phone": "(714) 520-0313",
+    "type": "private",
+    "lat": 33.847969,
+    "lng": -117.934509,
+    "distance": 4.723614306081748
+  },
+  {
+    "name": "Kaiser Permanente- Orange County",
+    "address": "1188 N Euclid St, Anaheim, CA 92801",
+    "phone": "(714) 564-4141",
+    "type": "private",
+    "lat": 33.850101,
+    "lng": -117.941223,
+    "distance": 5.127134532640567
+  },
+  {
+    "name": "N Orange Co Regional Hlth Foundatio",
+    "address": "1182 N Euclid St, Anaheim, CA 92801",
+    "phone": "(714) 441-0411",
+    "type": "fqhc",
+    "lat": 33.849922,
+    "lng": -117.941269,
+    "distance": 5.127709559298136
+  },
+  {
+    "name": "Kids Care Pediatrics Med Group",
+    "address": "1164 N Euclid St, Anaheim, CA 92801",
+    "phone": "(714) 778-0613",
+    "type": "private",
+    "lat": 33.848862,
+    "lng": -117.941628,
+    "distance": 5.136733636811856
+  },
+  {
+    "name": "Jeong-ok Lee, Md",
+    "address": "1716 W Medical Center Dr, Anaheim, CA 92801",
+    "phone": "(714) 635-0600",
+    "type": "private",
+    "lat": 33.851631,
+    "lng": -117.942719,
+    "distance": 5.229896767577146
+  },
+  {
+    "name": "De La Paz Medical Centre",
+    "address": "934 S Euclid St, Anaheim, CA 92802",
+    "phone": "(714) 254-0224",
+    "type": "private",
+    "lat": 33.81855,
+    "lng": -117.941292,
+    "distance": 5.235808105435594
+  },
+  {
+    "name": "Munoz Healthcare Inc",
+    "address": "1741 W Romneya Dr, Ste A, Anaheim, CA 92801",
+    "phone": "(714) 491-7500",
+    "type": "private",
+    "lat": 33.851021,
+    "lng": -117.94342,
+    "distance": 5.262103234697876
+  },
+  {
+    "name": "South Coast Pediatrics",
+    "address": "1720 W Ball Rd, Ste 1, Anaheim, CA 92804",
+    "phone": "(714) 991-5141",
+    "type": "private",
+    "lat": 33.817501,
+    "lng": -117.942513,
+    "distance": 5.322349994254498
+  },
+  {
+    "name": "Chander Sharma",
+    "address": "1771 W Romneya Dr, Ste B, Anaheim, CA 92801",
+    "phone": "(714) 490-1200",
+    "type": "private",
+    "lat": 33.850842,
+    "lng": -117.94455,
+    "distance": 5.3238574697662475
+  },
+  {
+    "name": "Anaheim Pediatrics",
+    "address": "1781 W Romneya Dr, Ste E, Anaheim, CA 92801",
+    "phone": "(714) 774-0414",
+    "type": "private",
+    "lat": 33.85083,
+    "lng": -117.94474,
+    "distance": 5.334516251786502
+  },
+  {
+    "name": "Central City Community Health Cntr",
+    "address": "1820 W Lincoln Ave, Anaheim, CA 92801",
+    "phone": "(714) 805-7719",
+    "type": "fqhc",
+    "lat": 33.832169,
+    "lng": -117.946777,
+    "distance": 5.391223626508081
+  },
+  {
+    "name": "Celebrating Life Chc",
+    "address": "1444 S Main St, Santa Ana, CA 92707",
+    "phone": "(949) 866-3600",
+    "type": "public",
+    "lat": 33.727421,
+    "lng": -117.868294,
+    "distance": 1.134283829992313
+  },
+  {
+    "name": "Strong Kids Medical Group, Inc",
+    "address": "2222 S Main St, Santa Ana, CA 92707",
+    "phone": "(714) 542-1331",
+    "type": "private",
+    "lat": 33.717239,
+    "lng": -117.868248,
+    "distance": 1.6720765949926828
+  },
+  {
+    "name": "Bristol Mcfadden Medgrp Inc",
+    "address": "1212 S Bristol St, Ste 16, Santa Ana, CA 92704",
+    "phone": "(714) 966-0646",
+    "type": "private",
+    "lat": 33.73193,
+    "lng": -117.886017,
+    "distance": 1.935952013868285
+  },
+  {
+    "name": "P K A Medical Corporation",
+    "address": "1610 W Edinger Ave, Ste B, Santa Ana, CA 92704",
+    "phone": "(714) 641-1610",
+    "type": "private",
+    "lat": 33.726711,
+    "lng": -117.889542,
+    "distance": 2.2322506978117556
+  },
+  {
+    "name": "Alan Dakak Md",
+    "address": "1220 Hemlock Way, Ste 105b, Santa Ana, CA 92707",
+    "phone": "(714) 966-6666",
+    "type": "private",
+    "lat": 33.709763,
+    "lng": -117.883904,
+    "distance": 2.6294320147499803
+  },
+  {
+    "name": "Mansoor Mosley",
+    "address": "1220 Hemlock Way, Ste 104, Santa Ana, CA 92707",
+    "phone": "(714) 754-5400",
+    "type": "private",
+    "lat": 33.709763,
+    "lng": -117.883904,
+    "distance": 2.6294320147499803
+  },
+  {
+    "name": "Altamed Med Grp - Santa Ana Bristol",
+    "address": "2720 S Bristol St, Ste 110, Santa Ana, CA 92704",
+    "phone": "(714) 426-5222",
+    "type": "VFA",
+    "lat": 33.710934,
+    "lng": -117.885475,
+    "distance": 2.6331935952377648
+  },
+  {
+    "name": "South Coast Pediatrics",
+    "address": "2650 S Bristol St, Ste 103, Santa Ana, CA 92704",
+    "phone": "(714) 754-1444",
+    "type": "private",
+    "lat": 33.711231,
+    "lng": -117.88607,
+    "distance": 2.643091702552521
+  },
+  {
+    "name": "Choc Boys And Girls Club Clinic",
+    "address": "1000 W Highland St, Santa Ana, CA 92703",
+    "phone": "(714) 509-4837",
+    "type": "private",
+    "lat": 33.737312,
+    "lng": -117.89994,
+    "distance": 2.691800461668286
+  },
+  {
+    "name": "Cedars Family Medicine, Inc",
+    "address": "18021 Sky Park Cir, Ste G, Irvine, CA 92614",
+    "phone": "(949) 260-0744",
+    "type": "private",
+    "lat": 33.688354,
+    "lng": -117.855598,
+    "distance": 3.4264854847381754
+  },
+  {
+    "name": "Hyesun Kim, Md, Inc",
+    "address": "62 Corporate Park, Ste 115, Irvine, CA 92606",
+    "phone": "(949) 752-7575",
+    "type": "private",
+    "lat": 33.691605,
+    "lng": -117.824524,
+    "distance": 3.595910818672784
+  },
+  {
+    "name": "Sornya Ponrartana Md Inc",
+    "address": "3526 W 1st St, Santa Ana, CA 92703",
+    "phone": "(714) 839-6611",
+    "type": "private",
+    "lat": 33.745144,
+    "lng": -117.916458,
+    "distance": 3.6746943475726606
+  },
+  {
+    "name": "Providence St Joseph Heritage Med",
+    "address": "13400 Jamboree Rd, Ste 200, Irvine, CA 92602",
+    "phone": "(714) 263-9279",
+    "type": "private",
+    "lat": 33.724861,
+    "lng": -117.788063,
+    "distance": 4.440665386966041
+  },
+  {
+    "name": "St Jude Heritage Anaheim Hills Fp",
+    "address": "8078 E Santa Ana Canyon Rd, Anaheim, CA 92808",
+    "phone": "(714) 974-2900",
+    "type": "private",
+    "lat": 33.866104,
+    "lng": -117.750938,
+    "distance": 3.5717624485899897
+  },
+  {
+    "name": "Ahmc Anaheim Regional Medical Ctr",
+    "address": "1111 W La Palma Ave, Anaheim, CA 92801",
+    "phone": "(714) 999-3900",
+    "type": "private",
+    "lat": 33.841293,
+    "lng": -117.956367,
+    "distance": 3.0661297497642317
+  },
+  {
+    "name": "Oc Urgent Care Medical Group Inc",
+    "address": "631 S Brookhurst St, Ste 101, Anaheim, CA 92804",
+    "phone": "(714) 991-5700",
+    "type": "private",
+    "lat": 33.823669,
+    "lng": -117.960098,
+    "distance": 3.4161800624080874
+  },
+  {
+    "name": "Central City Community Health Cente",
+    "address": "2237 W Ball Rd, Anaheim, CA 92804",
+    "phone": "(714) 490-2750",
+    "type": "VFA",
+    "lat": 33.81781,
+    "lng": -117.960907,
+    "distance": 3.596811934609762
+  },
+  {
+    "name": "Uc Irvine Family Health Center-anah",
+    "address": "2441 W La Palma Ave Ste 100, Anaheim, CA 92801",
+    "phone": "(714) 719-4503",
+    "type": "VFA",
+    "lat": 33.848282,
+    "lng": -117.96981,
+    "distance": 3.8951483678468946
+  },
+  {
+    "name": "Moon Mock Oh Md, Inc",
+    "address": "3500 Barranca Pkwy, Ste 330, Irvine, CA 92606",
+    "phone": "(949) 552-8217",
+    "type": "private",
+    "lat": 33.686451,
+    "lng": -117.815033,
+    "distance": 3.6205648840254723
+  },
+  {
+    "name": "Grace Pediatrics",
+    "address": "4902 Irvine Center Dr, Ste 102, Irvine, CA 92604",
+    "phone": "(949) 757-3690",
+    "type": "private",
+    "lat": 33.685493,
+    "lng": -117.786385,
+    "distance": 3.746453867398292
+  },
+  {
+    "name": "Coastal Kids A Professional Medical",
+    "address": "4968 Booth Cir, Ste 106, Irvine, CA 92604",
+    "phone": "(949) 387-4900",
+    "type": "private",
+    "lat": 33.685192,
+    "lng": -117.785049,
+    "distance": 3.7868872551077413
+  },
+  {
+    "name": "Memorialcare Medical Group-irvine",
+    "address": "4050 Barranca Pkwy, Ste 200, Irvine, CA 92604",
+    "phone": "(949) 551-1090",
+    "type": "private",
+    "lat": 33.681801,
+    "lng": -117.807808,
+    "distance": 3.8857505440559605
+  },
+  {
+    "name": "Taeed",
+    "address": "4950 Barranca Pkwy, Ste 308, Irvine, CA 92604",
+    "phone": "(949) 654-5700",
+    "type": "private",
+    "lat": 33.675289,
+    "lng": -117.794907,
+    "distance": 4.351818254554201
+  },
+  {
+    "name": "Kb Pediatrics",
+    "address": "1005 S Harbor Blvd, Santa Ana, CA 92704",
+    "phone": "(714) 775-5537",
+    "type": "private",
+    "lat": 33.734482,
+    "lng": -117.919502,
+    "distance": 0.9716466757902772
+  }
+]

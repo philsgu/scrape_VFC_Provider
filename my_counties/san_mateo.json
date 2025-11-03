@@ -1,0 +1,830 @@
+[
+  {
+    "name": "Planned Parenthood",
+    "address": "29 Baywood Ave, San Mateo, CA 94402",
+    "phone": "(650) 235-7979",
+    "type": "public",
+    "lat": 37.56456,
+    "lng": -122.32869,
+    "distance": 0.20898660231864977
+  },
+  {
+    "name": "San Mateo Medical Center Pediatrics",
+    "address": "222 W 39th Ave, Fl 3, San Mateo, CA 94403",
+    "phone": "(650) 573-2279",
+    "type": "public",
+    "lat": 37.530899,
+    "lng": -122.300201,
+    "distance": 2.6096470228079376
+  },
+  {
+    "name": "Stanford Medicine Children's Hlth",
+    "address": "1295 E Hillsdale Blvd, Foster City, CA 94404",
+    "phone": "(650) 574-2774",
+    "type": "private",
+    "lat": 37.569641,
+    "lng": -122.265739,
+    "distance": 3.3060699123393413
+  },
+  {
+    "name": "Correctional Health Services",
+    "address": "222 Paul Scannell Dr, Fl 2, San Mateo, CA 94402",
+    "phone": "(650) 312-5332",
+    "type": "public",
+    "lat": 37.512218,
+    "lng": -122.33638,
+    "distance": 3.552347104929888
+  },
+  {
+    "name": "Nabeel Madanat Md",
+    "address": "1860 El Camino Real, Ste 105, Burlingame, CA 94010",
+    "phone": "(650) 652-9022",
+    "type": "public",
+    "lat": 37.596294,
+    "lng": -122.384483,
+    "distance": 3.969506136984517
+  },
+  {
+    "name": "Pacific Family Medicine Clinic",
+    "address": "1001 Broadway, Ste 302, Millbrae, CA 94030",
+    "phone": "(650) 689-5431",
+    "type": "private",
+    "lat": 37.605331,
+    "lng": -122.398018,
+    "distance": 4.935972179313425
+  },
+  {
+    "name": "Baypls - San Bruno",
+    "address": "841 San Bruno Ave W, Ste 100, San Bruno, CA 94066",
+    "phone": "(415) 300-4436",
+    "type": "private",
+    "lat": 37.628044,
+    "lng": -122.417862,
+    "distance": 6.769920362092146
+  },
+  {
+    "name": "Sequoia Teen Wellness Center",
+    "address": "200 James Ave, Redwood City, CA 94062",
+    "phone": "(650) 366-2927",
+    "type": "fqhc",
+    "lat": 37.483322,
+    "lng": -122.234573,
+    "distance": 7.4205628738067695
+  },
+  {
+    "name": "Kaiserredwoodcity Pharmacytpmg Peds",
+    "address": "905 Maple St, Redwood City, CA 94063",
+    "phone": "(650) 299-2274",
+    "type": "private",
+    "lat": 37.487827,
+    "lng": -122.222916,
+    "distance": 7.649270711531813
+  },
+  {
+    "name": "Livewell Medical Clinic",
+    "address": "343 El Camino Real Ste 1, South San Francisco, CA 94080",
+    "phone": "(650) 873-3338",
+    "type": "private",
+    "lat": 37.644531,
+    "lng": -122.42704,
+    "distance": 7.919161982745028
+  },
+  {
+    "name": "Planned Parenthood Mar Monte",
+    "address": "435 Grand Ave, South San Francisco, CA 94080",
+    "phone": "(650) 243-4663",
+    "type": "private",
+    "lat": 37.655701,
+    "lng": -122.413963,
+    "distance": 8.035292497958327
+  },
+  {
+    "name": "So San Francisco Health Center",
+    "address": "306 Spruce Ave, Fl 2, South San Francisco, CA 94080",
+    "phone": "(650) 877-7074",
+    "type": "fqhc",
+    "lat": 37.656639,
+    "lng": -122.415672,
+    "distance": 8.143471275896644
+  },
+  {
+    "name": "Fair Oaks Health Center",
+    "address": "2710 Middlefield Rd, Redwood City, CA 94063",
+    "phone": "(650) 578-7141",
+    "type": "fqhc",
+    "lat": 37.476479,
+    "lng": -122.211449,
+    "distance": 8.644522980413203
+  },
+  {
+    "name": "Purisma Family Medicine, Inc",
+    "address": "575 Kelly St, Half Moon Bay, CA 94019",
+    "phone": "(650) 560-0216",
+    "type": "private",
+    "lat": 37.46402,
+    "lng": -122.430748,
+    "distance": 8.94188857159994
+  },
+  {
+    "name": "San Mateo Medical Center-coastside",
+    "address": "225 Cabrillo Hwy, Ste 100a, Half Moon Bay, CA 94019",
+    "phone": "(650) 573-3941",
+    "type": "fqhc",
+    "lat": 37.46526,
+    "lng": -122.43306,
+    "distance": 8.959428248802709
+  },
+  {
+    "name": "Ppmm- Redwood City",
+    "address": "2907 El Camino Real, Redwood City, CA 94061",
+    "phone": "(650) 503-7820",
+    "type": "private",
+    "lat": 37.46933,
+    "lng": -122.211349,
+    "distance": 8.996826497318485
+  },
+  {
+    "name": "Gardner Packard Chc",
+    "address": "3351 El Camino Real, Ste 100, Atherton, CA 94027",
+    "phone": "(650) 362-2500",
+    "type": "public",
+    "lat": 37.466148,
+    "lng": -122.206932,
+    "distance": 9.323281965779255
+  },
+  {
+    "name": "Kaiser Permanente Pediatrics",
+    "address": "395 Hickey Blvd, Daly City, CA 94015",
+    "phone": "(650) 301-4477",
+    "type": "private",
+    "lat": 37.662731,
+    "lng": -122.46302,
+    "distance": 10.209985208172998
+  },
+  {
+    "name": "Sound Pediatrics",
+    "address": "333 Gellert Blvd, Ste 229, Daly City, CA 94015",
+    "phone": "(650) 992-8668",
+    "type": "private",
+    "lat": 37.666653,
+    "lng": -122.466782,
+    "distance": 10.544863983247124
+  },
+  {
+    "name": "Gellert Health Services",
+    "address": "386 Gellert Blvd, Ste C Daly City, CA 94015",
+    "phone": "(650) 761-3500",
+    "type": "private",
+    "lat": 37.665371,
+    "lng": -122.469414,
+    "distance": 10.591606401294172
+  },
+  {
+    "name": "Pediatric Medical Group Of Sf, Inc",
+    "address": "901 Campus Dr, Ste 207, Daly City, CA 94015",
+    "phone": "(415) 242-5433",
+    "type": "private",
+    "lat": 37.665539,
+    "lng": -122.475861,
+    "distance": 10.864160985888592
+  },
+  {
+    "name": "Bayview Helth And Wellness Center",
+    "address": "6301 3rd St, San Francisco, CA 94124",
+    "phone": "(415) 339-8813",
+    "type": "fqhc",
+    "lat": 37.720631,
+    "lng": -122.396042,
+    "distance": 11.562049572523026
+  },
+  {
+    "name": "Southeast Health Center",
+    "address": "2403 Keith St, San Francisco, CA 94124",
+    "phone": "(628) 217-5500",
+    "type": "fqhc",
+    "lat": 37.725681,
+    "lng": -122.392654,
+    "distance": 11.832692335442731
+  },
+  {
+    "name": "North East Medical Svcseastmoor",
+    "address": "211 Eastmoor Ave, Daly City, CA 94015",
+    "phone": "(650) 550-3923",
+    "type": "fqhc",
+    "lat": 37.685009,
+    "lng": -122.478401,
+    "distance": 11.88328385657425
+  },
+  {
+    "name": "Complex Primary Care Clinic",
+    "address": "730 Welch Rd, Palo Alto, CA 94304",
+    "phone": "(650) 736-8438",
+    "type": "private",
+    "lat": 37.437851,
+    "lng": -122.174362,
+    "distance": 11.970939935919622
+  },
+  {
+    "name": "Lucile Packard - Birthing",
+    "address": "725 Welch Rd, Rm G860, Palo Alto, CA 94304",
+    "phone": "(650) 505-4260",
+    "type": "private",
+    "lat": 37.437729,
+    "lng": -122.174416,
+    "distance": 11.975009215959133
+  },
+  {
+    "name": "San Mateo Med Center- Daly City",
+    "address": "380 90th St, Daly City, CA 94015",
+    "phone": "(650) 301-8685",
+    "type": "fqhc",
+    "lat": 37.691319,
+    "lng": -122.474213,
+    "distance": 12.040351239491917
+  },
+  {
+    "name": "Pediahealth Medical Group, Inc",
+    "address": "6760 Mission St, Daly City, CA 94014",
+    "phone": "(650) 994-3000",
+    "type": "private",
+    "lat": 37.700352,
+    "lng": -122.463951,
+    "distance": 12.149266010017786
+  },
+  {
+    "name": "Nems - 2633 San Bruno",
+    "address": "2633 San Bruno Ave, Fl 2, San Francisco, CA 94134",
+    "phone": "(415) 391-9686",
+    "type": "fqhc",
+    "lat": 37.728466,
+    "lng": -122.403671,
+    "distance": 12.213523048906529
+  },
+  {
+    "name": "North East Medical Services",
+    "address": "2574 San Bruno Ave, Fl 2, San Francisco, CA 94134",
+    "phone": "(415) 391-9686",
+    "type": "VFA",
+    "lat": 37.729019,
+    "lng": -122.404472,
+    "distance": 12.264696418753134
+  },
+  {
+    "name": "Ravenswood Family Health Center",
+    "address": "1885 Bay Rd, East Palo Alto, CA 94303",
+    "phone": "(650) 330-7403",
+    "type": "VFA",
+    "lat": 37.472946,
+    "lng": -122.132477,
+    "distance": 12.269622658984467
+  },
+  {
+    "name": "Daly City Youth Health Center",
+    "address": "350 90th St Fl 3rd, Daly City, CA 94015",
+    "phone": "(650) 877-5700",
+    "type": "fqhc",
+    "lat": 37.695984,
+    "lng": -122.480042,
+    "distance": 12.493367966260527
+  },
+  {
+    "name": "Silver Ave Family Health Center",
+    "address": "1525 Silver Ave, San Francisco, CA 94134",
+    "phone": "(628) 754-8000",
+    "type": "public",
+    "lat": 37.73238,
+    "lng": -122.406433,
+    "distance": 12.519798994065646
+  },
+  {
+    "name": "Balboa Teen Health Center",
+    "address": "1000 Cayuga Ave, Rm 156, San Francisco, CA 94112",
+    "phone": "(415) 469-4512",
+    "type": "public",
+    "lat": 37.722061,
+    "lng": -122.441475,
+    "distance": 12.696970462404822
+  },
+  {
+    "name": "Mission Neighborhood Health Center",
+    "address": "4434 Mission St, San Francisco, CA 94112",
+    "phone": "(415) 406-1353",
+    "type": "VFA",
+    "lat": 37.726864,
+    "lng": -122.433517,
+    "distance": 12.778275523057301
+  },
+  {
+    "name": "Ubcp Bancroft Pediatrics",
+    "address": "1555 Doolittle Dr, Ste 180, San Leandro, CA 94577",
+    "phone": "(510) 483-2600",
+    "type": "private",
+    "lat": 37.711189,
+    "lng": -122.1856,
+    "distance": 12.790184904663825
+  },
+  {
+    "name": "Vivien D Hernandez",
+    "address": "341 Westlake Ctr, Ste 317, Daly City, CA 94015",
+    "phone": "(650) 991-3404",
+    "type": "private",
+    "lat": 37.700401,
+    "lng": -122.482819,
+    "distance": 12.821087756542726
+  },
+  {
+    "name": "Bayview Child Health Center",
+    "address": "3450 3rd St, Ste 2a, San Francisco, CA 94124",
+    "phone": "(415) 697-0500",
+    "type": "fqhc",
+    "lat": 37.74559,
+    "lng": -122.38736,
+    "distance": 13.069174986945411
+  },
+  {
+    "name": "Kaiser San Leandro Pediatrics",
+    "address": "2500 Merced St, San Leandro, CA 94577",
+    "phone": "(510) 464-6554",
+    "type": "private",
+    "lat": 37.706371,
+    "lng": -122.165009,
+    "distance": 13.243955737944516
+  },
+  {
+    "name": "Nems - Ocean Ave",
+    "address": "1443 Ocean Ave, San Francisco, CA 94112",
+    "phone": "(415) 391-9686",
+    "type": "fqhc",
+    "lat": 37.724037,
+    "lng": -122.457962,
+    "distance": 13.285156499992826
+  },
+  {
+    "name": "Kaiser Perm Hayward Medical Center",
+    "address": "27303 Sleepy Hollow Ave, Hayward, CA 94545",
+    "phone": "(510) 784-5484",
+    "type": "private",
+    "lat": 37.632431,
+    "lng": -122.094887,
+    "distance": 13.50861786134372
+  },
+  {
+    "name": "Davis Street Primary Clinic",
+    "address": "3081 Teagarden St, San Leandro, CA 94577",
+    "phone": "(510) 347-4620",
+    "type": "public",
+    "lat": 37.70488,
+    "lng": -122.153343,
+    "distance": 13.601117990332083
+  },
+  {
+    "name": "Mayview Community Health Center",
+    "address": "270 Grant Ave, Ste 102, Palo Alto, CA 94306",
+    "phone": "(650) 327-8717",
+    "type": "VFA",
+    "lat": 37.427017,
+    "lng": -122.142288,
+    "distance": 13.749215167552203
+  },
+  {
+    "name": "The Alliance For Community Wellness",
+    "address": "27171 Calaroga Ave, Ste 4, Hayward, CA 94545",
+    "phone": "(510) 963-9705",
+    "type": "private",
+    "lat": 37.633026,
+    "lng": -122.090012,
+    "distance": 13.772760448428794
+  },
+  {
+    "name": "Mission Bernal Pediatric Clinic",
+    "address": "1580 Valencia St, Ste 701, San Francisco, CA 94110",
+    "phone": "(415) 852-4080",
+    "type": "private",
+    "lat": 37.747559,
+    "lng": -122.42038,
+    "distance": 13.77474584499788
+  },
+  {
+    "name": "Potrero Hill Health Center",
+    "address": "1050 Wisconsin St, San Francisco, CA 94107",
+    "phone": "(628) 217-7930",
+    "type": "public",
+    "lat": 37.753899,
+    "lng": -122.399101,
+    "distance": 13.798009258416277
+  },
+  {
+    "name": "Hayward Wellness Center",
+    "address": "664 Southland Mall, Hayward, CA 94545",
+    "phone": "(510) 266-1742",
+    "type": "public",
+    "lat": 37.650612,
+    "lng": -122.098755,
+    "distance": 13.81274617850114
+  },
+  {
+    "name": "Childrens Health Cent  Sf Gen Hosp",
+    "address": "1001 Potrero Ave, Rm Gr-1, San Francisco, CA 94110",
+    "phone": "(628) 206-8756",
+    "type": "public",
+    "lat": 37.75563,
+    "lng": -122.405098,
+    "distance": 14.010946357723537
+  },
+  {
+    "name": "Family Health Center",
+    "address": "1001 Potrero Ave, Rm Gr-1, San Francisco, CA 94110",
+    "phone": "(628) 206-5545",
+    "type": "fqhc",
+    "lat": 37.75563,
+    "lng": -122.405098,
+    "distance": 14.010946357723537
+  },
+  {
+    "name": "San Lorenzo Sbhc- La Clinica",
+    "address": "50 E Lewelling Blvd, # S-5, San Lorenzo, CA 94580",
+    "phone": "(510) 317-3167",
+    "type": "fqhc",
+    "lat": 37.686871,
+    "lng": -122.120827,
+    "distance": 14.101174299923484
+  },
+  {
+    "name": "Ucsf Adolescent Medicine",
+    "address": "675 18th St, Fl 3, San Francisco, CA 94107",
+    "phone": "(415) 353-2002",
+    "type": "public",
+    "lat": 37.762955,
+    "lng": -122.389534,
+    "distance": 10.943672690426911
+  },
+  {
+    "name": "Primary Pediatric Med Grp",
+    "address": "1332 Park St, Ste 200, Alameda, CA 94501",
+    "phone": "(510) 523-3123",
+    "type": "private",
+    "lat": 37.76305,
+    "lng": -122.242943,
+    "distance": 11.314564771271908
+  },
+  {
+    "name": "Alameda Pediatric Associates",
+    "address": "1332 Park St, Ste 202, Alameda, CA 94501",
+    "phone": "(510) 523-3417",
+    "type": "private",
+    "lat": 37.76305,
+    "lng": -122.242943,
+    "distance": 11.314564771271908
+  },
+  {
+    "name": "Packard Children's Health Alliance",
+    "address": "1359 Park Ave, Alameda, CA 94501",
+    "phone": "(510) 523-8162",
+    "type": "private",
+    "lat": 37.763359,
+    "lng": -122.242149,
+    "distance": 11.35149187440223
+  },
+  {
+    "name": "Kaiser Sfo Mission Bay",
+    "address": "1600 Owens St, San Francisco, CA 94158",
+    "phone": "(415) 833-2000",
+    "type": "private",
+    "lat": 37.768223,
+    "lng": -122.395477,
+    "distance": 11.394091302500993
+  },
+  {
+    "name": "Alameda Family Physicians",
+    "address": "2433 Central Ave, Alameda, CA 94501",
+    "phone": "(510) 769-9492",
+    "type": "private",
+    "lat": 37.763809,
+    "lng": -122.24115,
+    "distance": 11.401976380863202
+  },
+  {
+    "name": "Special Program For Youth Spy",
+    "address": "375 Woodside Ave, San Francisco, CA 94127",
+    "phone": "(415) 753-7811",
+    "type": "public",
+    "lat": 37.745953,
+    "lng": -122.452515,
+    "distance": 11.522574956512267
+  },
+  {
+    "name": "Sutter Pacific Medical Foundation",
+    "address": "2645 Ocean Ave, Lbby 3, San Francisco, CA 94132",
+    "phone": "(415) 547-4800",
+    "type": "private",
+    "lat": 37.731804,
+    "lng": -122.474144,
+    "distance": 11.55825044851835
+  },
+  {
+    "name": "Benjamin N Wan Md",
+    "address": "595 Buckingham Way, Ste 500, San Francisco, CA 94132",
+    "phone": "(415) 665-6100",
+    "type": "private",
+    "lat": 37.73103,
+    "lng": -122.476089,
+    "distance": 11.595638871848124
+  },
+  {
+    "name": "Kelly Wong Md",
+    "address": "595 Buckingham Way, Ste 314, San Francisco, CA 94132",
+    "phone": "(415) 566-1734",
+    "type": "private",
+    "lat": 37.73103,
+    "lng": -122.476089,
+    "distance": 11.595638871848124
+  },
+  {
+    "name": "Mission Neighborhood Health Center",
+    "address": "240 Shotwell St, San Francisco, CA 94110",
+    "phone": "(415) 552-3870",
+    "type": "VFA",
+    "lat": 37.764751,
+    "lng": -122.416557,
+    "distance": 11.613974074567063
+  },
+  {
+    "name": "Native American Health Center",
+    "address": "160 Capp St, Fl 2, San Francisco, CA 94110",
+    "phone": "(415) 417-3501",
+    "type": "public",
+    "lat": 37.76403,
+    "lng": -122.418877,
+    "distance": 11.624141307345722
+  },
+  {
+    "name": "Planned Parenthood",
+    "address": "225 San Antonio Rd, Ste 11, Mountain View, CA 94040",
+    "phone": "(650) 947-4359",
+    "type": "private",
+    "lat": 37.406078,
+    "lng": -122.11013,
+    "distance": 13.929137396842071
+  },
+  {
+    "name": "Mayview Community Health Center",
+    "address": "900 Miramonte Ave, Fl 2, Mountain View, CA 94040",
+    "phone": "(650) 965-3323",
+    "type": "VFA",
+    "lat": 37.38718,
+    "lng": -122.088661,
+    "distance": 15.628560223145136
+  },
+  {
+    "name": "Tiburcio Vasquez Health Center, Inc",
+    "address": "680 W Tennyson Rd, Hayward, CA 94544",
+    "phone": "(510) 782-4470",
+    "type": "fqhc",
+    "lat": 37.63142,
+    "lng": -122.0681,
+    "distance": 16.302888517854743
+  },
+  {
+    "name": "Newark Health Center",
+    "address": "6066 Civic Terrace Ave, Newark, CA 94560",
+    "phone": "(510) 494-7273",
+    "type": "public",
+    "lat": 37.536011,
+    "lng": -122.027969,
+    "distance": 16.382935167303366
+  },
+  {
+    "name": "Wtmfnakamura Clinic",
+    "address": "33077 Alvarado Niles Rd, Union City, CA 94587",
+    "phone": "(510) 248-1500",
+    "type": "private",
+    "lat": 37.592659,
+    "lng": -122.04377,
+    "distance": 16.387671438953728
+  },
+  {
+    "name": "Tennyson Health Center",
+    "address": "27035 Whitman St, Rm A-1, Hayward, CA 94544",
+    "phone": "(510) 690-6048",
+    "type": "fqhc",
+    "lat": 37.64159,
+    "lng": -122.068298,
+    "distance": 12.578838297895484
+  },
+  {
+    "name": "Fuente Wellness Center",
+    "address": "16335 E 14th St, San Leandro, CA 94578",
+    "phone": "(510) 481-4556",
+    "type": "VFA",
+    "lat": 37.695621,
+    "lng": -122.114952,
+    "distance": 12.700090186749824
+  },
+  {
+    "name": "Tiburcio Vasquez Health Center, Inc",
+    "address": "16110 E 14th St, San Leandro, CA 94578",
+    "phone": "(510) 471-5907",
+    "type": "VFA",
+    "lat": 37.698181,
+    "lng": -122.117249,
+    "distance": 12.742548771699692
+  },
+  {
+    "name": "Family Justice Center",
+    "address": "1100 San Leandro Blvd, Fl 3 San Leandro, CA 94577",
+    "phone": "(510) 267-3230",
+    "type": "public",
+    "lat": 37.724915,
+    "lng": -122.16153,
+    "distance": 12.81433894134449
+  },
+  {
+    "name": "Tiburcio Vasquez Health Center, Inc",
+    "address": "22331 Mission Blvd, Hayward, CA 94541",
+    "phone": "(510) 471-5907",
+    "type": "VFA",
+    "lat": 37.674011,
+    "lng": -122.087379,
+    "distance": 12.843483699724633
+  },
+  {
+    "name": "Arnold Blustein",
+    "address": "1235 Harrison St, San Leandro, CA 94577",
+    "phone": "(510) 352-2425",
+    "type": "private",
+    "lat": 37.725986,
+    "lng": -122.154579,
+    "distance": 13.067426288284656
+  },
+  {
+    "name": "Hayward Pediatric Clinic",
+    "address": "21297 Foothill Blvd, Ste 100, Hayward, CA 94541",
+    "phone": "(510) 886-8854",
+    "type": "private",
+    "lat": 37.68494,
+    "lng": -122.09259,
+    "distance": 13.088726603617609
+  },
+  {
+    "name": "Castro Valley Pediatrics",
+    "address": "22290 Foothill Blvd, Ste 1, Hayward, CA 94541",
+    "phone": "(510) 581-1446",
+    "type": "private",
+    "lat": 37.679119,
+    "lng": -122.082962,
+    "distance": 13.248719008387518
+  },
+  {
+    "name": "Juvenile Justice Center",
+    "address": "2500 Fairmont Dr, San Leandro, CA 94578",
+    "phone": "(510) 667-4931",
+    "type": "public",
+    "lat": 37.715061,
+    "lng": -122.116631,
+    "distance": 13.642146189278586
+  },
+  {
+    "name": "Primary Pediatric Medical Group",
+    "address": "20126 Stanton Ave, Ste 200, Castro Valley, CA 94546",
+    "phone": "(510) 881-4210",
+    "type": "private",
+    "lat": 37.697235,
+    "lng": -122.090492,
+    "distance": 13.735330198466583
+  },
+  {
+    "name": "Castro Mission Health Center",
+    "address": "3850 17th St, San Francisco, CA 94114",
+    "phone": "(628) 217-5700",
+    "type": "public",
+    "lat": 37.762978,
+    "lng": -122.431885,
+    "distance": 14.164726138688163
+  },
+  {
+    "name": "North East Medical Services",
+    "address": "3431 Taraval St, San Francisco, CA 94116",
+    "phone": "(415) 391-9686",
+    "type": "VFA",
+    "lat": 37.741604,
+    "lng": -122.502998,
+    "distance": 14.181824727306902
+  },
+  {
+    "name": "La Clinica At 95th Ave",
+    "address": "9475 International Blvd, Oakland, CA 94603",
+    "phone": "(510) 434-5770",
+    "type": "fqhc",
+    "lat": 37.746635,
+    "lng": -122.172333,
+    "distance": 10.826950298507391
+  },
+  {
+    "name": "Lifelong Medical Care- Elmhurst",
+    "address": "1800 98th Ave, Bldg 103, Oakland, CA 94603",
+    "phone": "(510) 639-1479",
+    "type": "fqhc",
+    "lat": 37.74604,
+    "lng": -122.165169,
+    "distance": 11.001774307796884
+  },
+  {
+    "name": "East Oakland Health Center",
+    "address": "7450 International Blvd, Oakland, CA 94621",
+    "phone": "(510) 835-9610",
+    "type": "public",
+    "lat": 37.758614,
+    "lng": -122.185753,
+    "distance": 11.200802711541991
+  },
+  {
+    "name": "Lifelong Medical Care Howard Daniel",
+    "address": "9933 Macarthur Blvd, Oakland, CA 94605",
+    "phone": "(510) 569-3860",
+    "type": "private",
+    "lat": 37.74641,
+    "lng": -122.156807,
+    "distance": 11.279945175620638
+  },
+  {
+    "name": "North East Medical Services",
+    "address": "1450 Noriega St, San Francisco, CA 94122",
+    "phone": "(415) 391-9686",
+    "type": "VFA",
+    "lat": 37.754372,
+    "lng": -122.479424,
+    "distance": 11.307210521418131
+  },
+  {
+    "name": "Carol K Lee",
+    "address": "1518 Noriega St, Ste 200, San Francisco, CA 94122",
+    "phone": "(415) 566-7556",
+    "type": "private",
+    "lat": 37.75433,
+    "lng": -122.48011,
+    "distance": 11.323626982040643
+  },
+  {
+    "name": "South Of Market Health Center",
+    "address": "229 7th St, San Francisco, CA 94103",
+    "phone": "(415) 503-6000",
+    "type": "public",
+    "lat": 37.77774,
+    "lng": -122.408829,
+    "distance": 11.534924943547933
+  },
+  {
+    "name": "Cole Street Youth Clinic",
+    "address": "555 Cole St, San Francisco, CA 94117",
+    "phone": "(415) 751-8181",
+    "type": "public",
+    "lat": 37.770004,
+    "lng": -122.450371,
+    "distance": 11.601786449625212
+  },
+  {
+    "name": "San Francisco Co Health Department",
+    "address": "101 Grove St, Ste 406, San Francisco, CA 94102",
+    "phone": "(415) 554-2955",
+    "type": "public",
+    "lat": 37.778137,
+    "lng": -122.418678,
+    "distance": 11.659002848525011
+  },
+  {
+    "name": "Samina Husaini Md",
+    "address": "763 Altos Oaks Dr, Ste 4, Los Altos, CA 94024",
+    "phone": "(650) 948-6681",
+    "type": "private",
+    "lat": 37.35947,
+    "lng": -122.093811,
+    "distance": 14.552134656898575
+  },
+  {
+    "name": "Logan Health Center",
+    "address": "1800 H St, Union City, CA 94587",
+    "phone": "(510) 690-6044",
+    "type": "public",
+    "lat": 37.590881,
+    "lng": -122.024643,
+    "distance": 14.760748831419145
+  },
+  {
+    "name": "Tiburcio Vasquez Health Center, Inc",
+    "address": "33255 9th St, Union City, CA 94587",
+    "phone": "(510) 471-5907",
+    "type": "VFA",
+    "lat": 37.602619,
+    "lng": -122.026421,
+    "distance": 14.986049271219787
+  },
+  {
+    "name": "Haller's Pharmacy",
+    "address": "37323 Fremont Blvd, Fremont, CA 94536",
+    "phone": "(510) 797-2772",
+    "type": "private",
+    "lat": 37.558109,
+    "lng": -122.007217,
+    "distance": 15.028184629301268
+  }
+]

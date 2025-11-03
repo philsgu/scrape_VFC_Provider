@@ -1,0 +1,587 @@
+[
+  {
+    "name": "Mact Medical, San Andreas",
+    "address": "1113 Highway 49, San Andreas, CA 95249",
+    "phone": "(209) 755-1400",
+    "type": "VFA",
+    "lat": 38.207878,
+    "lng": -120.698601,
+    "distance": 1.0309852340089367
+  },
+  {
+    "name": "Calaveras Co Health Department",
+    "address": "700 Mountain Ranch Rd, Ste C-2, San Andreas, CA 95249",
+    "phone": "(209) 754-6460",
+    "type": "public",
+    "lat": 38.188927,
+    "lng": -120.670975,
+    "distance": 1.151899375423788
+  },
+  {
+    "name": "Valley Springs Health Wellness Ctr",
+    "address": "51 Wellness Way, Valley Springs, CA 95252",
+    "phone": "(209) 772-7070",
+    "type": "fqhc",
+    "lat": 38.168507,
+    "lng": -120.83976,
+    "distance": 8.999117702268917
+  },
+  {
+    "name": "Sutter Amador Pediatric  Center",
+    "address": "100 Mission Blvd, Ste 2600, Jackson, CA 95642",
+    "phone": "(209) 257-1725",
+    "type": "public",
+    "lat": 38.351559,
+    "lng": -120.766968,
+    "distance": 11.233817161057098
+  },
+  {
+    "name": "James Dalton Medical Office",
+    "address": "590 Stanislaus Ave, Angels Camp, CA 95222",
+    "phone": "(209) 736-0813",
+    "type": "public",
+    "lat": 38.075943,
+    "lng": -120.550346,
+    "distance": 11.315917799322976
+  },
+  {
+    "name": "Jackson Rancheria Health Complex",
+    "address": "12140 New York Ranch Rd, Jackson, CA 95642",
+    "phone": "(209) 257-2400",
+    "type": "VFA",
+    "lat": 38.384598,
+    "lng": -120.740219,
+    "distance": 12.901687646097901
+  },
+  {
+    "name": "Amador County Public Health",
+    "address": "10877 Conductor Blvd, Ste 400, Sutter Creek, CA 95685",
+    "phone": "(209) 223-6407",
+    "type": "public",
+    "lat": 38.364571,
+    "lng": -120.81813,
+    "distance": 13.384260349502641
+  },
+  {
+    "name": "Maryal Concepcion Md Pc",
+    "address": "2855 Mckenzie Ave, Arnold, CA 95223",
+    "phone": "(209) 653-2135",
+    "type": "private",
+    "lat": 38.231091,
+    "lng": -120.368668,
+    "distance": 17.021822408999004
+  },
+  {
+    "name": "Mact Medical, Ione",
+    "address": "305 Preston Ave, Ione, CA 95640",
+    "phone": "(209) 674-6182",
+    "type": "public",
+    "lat": 38.352959,
+    "lng": -120.93528,
+    "distance": 17.244393138263682
+  },
+  {
+    "name": "Arnold Fmly Med Ctrsonora Reg Mc",
+    "address": "2037 Hwy 4, Arnold, CA 95223",
+    "phone": "(209) 795-1270",
+    "type": "private",
+    "lat": 38.241959,
+    "lng": -120.360817,
+    "distance": 17.54096334302543
+  },
+  {
+    "name": "Adventist Health Sonora Rural Healt",
+    "address": "193 Fairview Ln, Ste L, Sonora, CA 95370",
+    "phone": "(209) 536-5120",
+    "type": "public",
+    "lat": 37.97871,
+    "lng": -120.390907,
+    "distance": 22.131192322373177
+  },
+  {
+    "name": "Mathiesen Memorial Health Clinic",
+    "address": "18144 Seco St, Jamestown, CA 95327",
+    "phone": "(209) 984-4820",
+    "type": "public",
+    "lat": 37.951981,
+    "lng": -120.421883,
+    "distance": 22.37337604278925
+  },
+  {
+    "name": "Tuolumne Me-wukc Cedar Rd Center",
+    "address": "22044 Cedar Road, Sonora, CA 95370",
+    "phone": "(209) 928-5400",
+    "type": "public",
+    "lat": 37.985291,
+    "lng": -120.365578,
+    "distance": 22.8270388424698
+  },
+  {
+    "name": "Tuolumne County Health Department",
+    "address": "20111 Cedar Rd, Sonora, CA 95370",
+    "phone": "(209) 533-7401",
+    "type": "public",
+    "lat": 37.982491,
+    "lng": -120.364326,
+    "distance": 23.006541038537403
+  },
+  {
+    "name": "Tuolumne Me-wuk Indian Health Ctr",
+    "address": "18880 Cherry Valley Blvd, Tuolumne, CA 95379",
+    "phone": "(209) 928-5400",
+    "type": "public",
+    "lat": 37.965199,
+    "lng": -120.240479,
+    "distance": 29.055605422012313
+  },
+  {
+    "name": "Cmc - Lodi East",
+    "address": "1150 S Cherokee Ln, Lodi, CA 95240",
+    "phone": "(209) 370-1700",
+    "type": "fqhc",
+    "lat": 38.118992,
+    "lng": -121.259346,
+    "distance": 32.00165048863687
+  },
+  {
+    "name": "Cmc- Lawrence",
+    "address": "721 Calaveras St, Lodi, CA 95240",
+    "phone": "(209) 331-8046",
+    "type": "fqhc",
+    "lat": 38.142899,
+    "lng": -121.265694,
+    "distance": 32.07704826955921
+  },
+  {
+    "name": "Pathway Healthcare",
+    "address": "190 S Oak Ave, Ste 2-1, Oakdale, CA 95361",
+    "phone": "(209) 848-8410",
+    "type": "private",
+    "lat": 37.759281,
+    "lng": -120.861938,
+    "distance": 32.27552402610908
+  },
+  {
+    "name": "Oakdale Community Health Center",
+    "address": "1420 W H St, Oakdale, CA 95361",
+    "phone": "(209) 848-4180",
+    "type": "public",
+    "lat": 37.75869,
+    "lng": -120.862732,
+    "distance": 32.32768363739866
+  },
+  {
+    "name": "Soma Krishnamoorthi",
+    "address": "850 California St, Escalon, CA 95320",
+    "phone": "(209) 838-2278",
+    "type": "fqhc",
+    "lat": 37.796902,
+    "lng": -121.00161,
+    "distance": 33.12031759775571
+  },
+  {
+    "name": "Escalon Community Health Center",
+    "address": "2080 Mchenry Ave, Ste 200, Escalon, CA 95320",
+    "phone": "(209) 838-8587",
+    "type": "fqhc",
+    "lat": 37.787788,
+    "lng": -120.995918,
+    "distance": 33.497153220977744
+  },
+  {
+    "name": "Galt Medical Services",
+    "address": "387 Civic Dr, Galt, CA 95632",
+    "phone": "(209) 745-8080",
+    "type": "fqhc",
+    "lat": 38.251968,
+    "lng": -121.296669,
+    "distance": 33.620892441146545
+  },
+  {
+    "name": "Tareq Ali, Md",
+    "address": "1520 W Kettleman Ln, Ste B, Lodi, CA 95242",
+    "phone": "(209) 339-3797",
+    "type": "private",
+    "lat": 38.114754,
+    "lng": -121.291206,
+    "distance": 33.75791021043138
+  },
+  {
+    "name": "Galt Medical Center",
+    "address": "150 N Lincoln Way, Galt, CA 95632",
+    "phone": "(209) 745-4633",
+    "type": "private",
+    "lat": 38.256611,
+    "lng": -121.300728,
+    "distance": 33.87205436912142
+  },
+  {
+    "name": "Lodi Children's Clinic",
+    "address": "1920 Tienda Dr, Ste 102, Lodi, CA 95242",
+    "phone": "(209) 368-8310",
+    "type": "private",
+    "lat": 38.116421,
+    "lng": -121.295662,
+    "distance": 33.974891530819846
+  },
+  {
+    "name": "Lodi Memorial Comm Cl-millsbridge",
+    "address": "1901 W Kettleman Ln, Ste 200, Lodi, CA 95242",
+    "phone": "(209) 334-8540",
+    "type": "private",
+    "lat": 38.115791,
+    "lng": -121.296478,
+    "distance": 34.02643385898354
+  },
+  {
+    "name": "Cmc-lodi",
+    "address": "2401 W Turner Rd, Ste 450, Lodi, CA 95242",
+    "phone": "(209) 370-1775",
+    "type": "fqhc",
+    "lat": 38.14613,
+    "lng": -121.305573,
+    "distance": 34.19815634246221
+  },
+  {
+    "name": "Trinity County Public Health",
+    "address": "51 Industrial Park, Weaverville, CA 96093",
+    "phone": "(530) 623-1358",
+    "type": "public",
+    "lat": 38.26545,
+    "lng": -121.30883,
+    "distance": 34.37745861042991
+  },
+  {
+    "name": "Cmc Lodi Vine",
+    "address": "2415 W Vine St Ste 100, Lodi, CA 95242",
+    "phone": "(209) 333-3135",
+    "type": "fqhc",
+    "lat": 38.123604,
+    "lng": -121.305008,
+    "distance": 34.38947809455969
+  },
+  {
+    "name": "Golden Valley Health Center",
+    "address": "4150 Patterson Road, Riverbank, CA 95367",
+    "phone": "(209) 863-3990",
+    "type": "VFA",
+    "lat": 37.732601,
+    "lng": -120.919754,
+    "distance": 35.080731056426316
+  },
+  {
+    "name": "Marshall Family Medicine",
+    "address": "3581 Palmer Dr, Ste 602, Cameron Park, CA 95682",
+    "phone": "(530) 672-7000",
+    "type": "private",
+    "lat": 38.662022,
+    "lng": -120.964706,
+    "distance": 35.19965120649598
+  },
+  {
+    "name": "Marshall Sierra Primary Medicine",
+    "address": "4341b Golden Center Dr, Placerville, CA 95667",
+    "phone": "(530) 621-3600",
+    "type": "private",
+    "lat": 38.705826,
+    "lng": -120.826897,
+    "distance": 35.577421074066514
+  },
+  {
+    "name": "Marshall Center For Primary Care",
+    "address": "4341a Golden Center Dr, Placerville, CA 95667",
+    "phone": "(530) 626-1144",
+    "type": "private",
+    "lat": 38.706001,
+    "lng": -120.826485,
+    "distance": 35.58427676383995
+  },
+  {
+    "name": "Riverbank Community Health Center",
+    "address": "2603 Patterson Rd, Ste 3, Riverbank, CA 95367",
+    "phone": "(209) 869-8102",
+    "type": "VFA",
+    "lat": 37.733101,
+    "lng": -120.948997,
+    "distance": 35.67215394972532
+  },
+  {
+    "name": "Community Medical Centers Westlane",
+    "address": "7912 West Ln Ste 221, Stockton, CA 95210",
+    "phone": "(209) 636-5000",
+    "type": "fqhc",
+    "lat": 38.02029,
+    "lng": -121.294701,
+    "distance": 35.730836067042404
+  },
+  {
+    "name": "Community Medical Centers Mariposa",
+    "address": "2015 E Mariposa Rd, Stockton, CA 95205",
+    "phone": "(209) 751-1900",
+    "type": "VFA",
+    "lat": 37.939255,
+    "lng": -121.244957,
+    "distance": 35.7465342124314
+  },
+  {
+    "name": "Geny B Burgos",
+    "address": "1801 E March Ln, Ste C340, Stockton, CA 95210",
+    "phone": "(209) 939-9512",
+    "type": "private",
+    "lat": 38.003288,
+    "lng": -121.287071,
+    "distance": 35.78543950262155
+  },
+  {
+    "name": "Community Medical Centers-e March",
+    "address": "1801 E March Ln, Ste D470, Stockton, CA 95210",
+    "phone": "(209) 507-7004",
+    "type": "fqhc",
+    "lat": 38.003288,
+    "lng": -121.287071,
+    "distance": 35.78543950262155
+  },
+  {
+    "name": "Kaiser Permanente - Stockton",
+    "address": "7373 West Ln, Stockton, CA 95210",
+    "phone": "(209) 476-3105",
+    "type": "private",
+    "lat": 38.017651,
+    "lng": -121.297478,
+    "distance": 35.93749851796504
+  },
+  {
+    "name": "Shingle Springs Tribal Hlth Prgm",
+    "address": "5168 Honpie Rd, Placerville, CA 95667",
+    "phone": "(530) 387-4975",
+    "type": "public",
+    "lat": 38.694649,
+    "lng": -120.902077,
+    "distance": 35.97063638041525
+  },
+  {
+    "name": "Westlane Medical Clinic, Inc",
+    "address": "4873 West Ln, Ste A, Stockton, CA 95210",
+    "phone": "(209) 472-1515",
+    "type": "private",
+    "lat": 37.99855,
+    "lng": -121.289909,
+    "distance": 36.05631717258673
+  },
+  {
+    "name": "Community Medical Centers Waterloo",
+    "address": "1031 Waterloo Rd, Stockton, CA 95205",
+    "phone": "(209) 940-5600",
+    "type": "fqhc",
+    "lat": 37.96748,
+    "lng": -121.27256,
+    "distance": 36.116262506592975
+  },
+  {
+    "name": "Marshall Center For  Primary Care",
+    "address": "1095 Marshall Way, Placerville, CA 95667",
+    "phone": "(530) 626-2920",
+    "type": "private",
+    "lat": 38.72578,
+    "lng": -120.791115,
+    "distance": 36.55566477328301
+  },
+  {
+    "name": "Pediatric Care Of Stockton, Inc",
+    "address": "2800 N California St Ste 14, Stockton, CA 95204",
+    "phone": "(209) 464-2605",
+    "type": "private",
+    "lat": 37.978249,
+    "lng": -121.291443,
+    "distance": 36.71070728601385
+  },
+  {
+    "name": "Life Family Medicine Clinic",
+    "address": "2800 N California St, Ste 10, Stockton, CA 95204",
+    "phone": "(209) 242-2448",
+    "type": "private",
+    "lat": 37.977924,
+    "lng": -121.291512,
+    "distance": 36.72367506867595
+  },
+  {
+    "name": "Marshall Center For Primary Care",
+    "address": "5137 Golden Foothill Pkwy, Ste 120, El Dorado Hills, CA 9576",
+    "phone": "(916) 933-8010",
+    "type": "private",
+    "lat": 38.640129,
+    "lng": -121.069588,
+    "distance": 36.77866912521236
+  },
+  {
+    "name": "Community Medical Center, Calif St",
+    "address": "2349 N California St, Stockton, CA 95204",
+    "phone": "(209) 469-2229",
+    "type": "fqhc",
+    "lat": 37.975201,
+    "lng": -121.291397,
+    "distance": 36.7990267545808
+  },
+  {
+    "name": "Western Sierra Medical Center",
+    "address": "3070 Camino Heights Dr, Ste B, Camino, CA 95709",
+    "phone": "(530) 651-2000",
+    "type": "private",
+    "lat": 38.735973,
+    "lng": -120.711311,
+    "distance": 36.80324181102856
+  },
+  {
+    "name": "Stockton Children's Clinic",
+    "address": "1805 N California St, Ste 409, Stockton, CA 95204",
+    "phone": "(209) 476-0900",
+    "type": "private",
+    "lat": 37.971088,
+    "lng": -121.289597,
+    "distance": 36.83466474372297
+  },
+  {
+    "name": "Children Health Services",
+    "address": "1414 N California St, Side A, Stockton, CA 95202",
+    "phone": "(209) 953-5400",
+    "type": "public",
+    "lat": 37.968128,
+    "lng": -121.288055,
+    "distance": 36.84985532062268
+  },
+  {
+    "name": "El Dorado Co Hhsa Public Health",
+    "address": "931 Spring St, Placerville, CA 95667",
+    "phone": "(530) 621-6155",
+    "type": "public",
+    "lat": 38.733688,
+    "lng": -120.802788,
+    "distance": 33.80753687501827
+  },
+  {
+    "name": "Nativity Pediarics, Inc",
+    "address": "740 Oak Avenue Pkwy, Ste 145, Folsom, CA 95630",
+    "phone": "(916) 984-9588",
+    "type": "private",
+    "lat": 38.665184,
+    "lng": -121.135963,
+    "distance": 37.62256096601035
+  },
+  {
+    "name": "Mission Care Pediatrics",
+    "address": "2170 E Bidwell St, Ste 100, Folsom, CA 95630",
+    "phone": "(916) 983-8696",
+    "type": "private",
+    "lat": 38.667309,
+    "lng": -121.14357,
+    "distance": 38.00352028919494
+  },
+  {
+    "name": "Cmc Dorothy Jones",
+    "address": "2044 Fair St, Stockton, CA 95206",
+    "phone": "(209) 561-0380",
+    "type": "VFA",
+    "lat": 37.933647,
+    "lng": -121.264755,
+    "distance": 35.25801223269019
+  },
+  {
+    "name": "Community Medical Center Channel Ii",
+    "address": "747 E Channel St, Stockton, CA 95202",
+    "phone": "(209) 414-3200",
+    "type": "fqhc",
+    "lat": 37.956127,
+    "lng": -121.281891,
+    "distance": 35.46990968817871
+  },
+  {
+    "name": "Channel Medical Center",
+    "address": "701 E Channel St, Stockton, CA 95202",
+    "phone": "(209) 944-4700",
+    "type": "fqhc",
+    "lat": 37.956379,
+    "lng": -121.282089,
+    "distance": 35.47312059432799
+  },
+  {
+    "name": "Krishnamoorthi Md Inc",
+    "address": "324 F St, Waterford, CA 95386",
+    "phone": "(209) 874-2321",
+    "type": "private",
+    "lat": 37.641548,
+    "lng": -120.761978,
+    "distance": 35.68129392879261
+  },
+  {
+    "name": "Lchc Dba Bentley Health Center",
+    "address": "12619 Bentley St, Waterford, CA 95386",
+    "phone": "(209) 442-6200",
+    "type": "VFA",
+    "lat": 37.641113,
+    "lng": -120.760902,
+    "distance": 35.70384221308433
+  },
+  {
+    "name": "All For Kids",
+    "address": "4312 Spyres Way, Modesto, CA 95356",
+    "phone": "(209) 497-6767",
+    "type": "private",
+    "lat": 37.701557,
+    "lng": -120.998833,
+    "distance": 35.7536981357501
+  },
+  {
+    "name": "March Lane Pediatric Group",
+    "address": "73 W March Ln, Ste F, Stockton, CA 95207",
+    "phone": "(209) 952-5555",
+    "type": "private",
+    "lat": 37.995731,
+    "lng": -121.307037,
+    "distance": 35.799711763409334
+  },
+  {
+    "name": "Shou-i Lin",
+    "address": "75 W March Ln, Ste G, Stockton, CA 95207",
+    "phone": "(209) 951-6072",
+    "type": "private",
+    "lat": 37.99614,
+    "lng": -121.307289,
+    "distance": 34.50226386530362
+  },
+  {
+    "name": "Weberstown Medical",
+    "address": "87 W March Ln, Ste 3, Stockton, CA 95207",
+    "phone": "(209) 395-2465",
+    "type": "fqhc",
+    "lat": 37.995045,
+    "lng": -121.307999,
+    "distance": 34.56907634439121
+  },
+  {
+    "name": "Cedar Family Practice",
+    "address": "12700 Welch St, Waterford, CA 95386",
+    "phone": "(209) 874-2345",
+    "type": "private",
+    "lat": 37.639374,
+    "lng": -120.760452,
+    "distance": 36.253884205904235
+  },
+  {
+    "name": "Waterford Community Health Center",
+    "address": "12146 Yosemite Blvd, Waterford, CA 95386",
+    "phone": "(209) 874-9254",
+    "type": "fqhc",
+    "lat": 37.638157,
+    "lng": -120.768913,
+    "distance": 36.42927038236536
+  },
+  {
+    "name": "Community Medical Centers Gleason",
+    "address": "423 S San Joaquin St, Stockton, CA 95203",
+    "phone": "(209) 954-7700",
+    "type": "VFA",
+    "lat": 37.948761,
+    "lng": -121.286377,
+    "distance": 33.412560598257734
+  }
+]

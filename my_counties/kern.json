@@ -1,0 +1,497 @@
+[
+  {
+    "name": "The Children's Clinic Of Bakersfiel",
+    "address": "1700 A St, Bakersfield, CA 93301",
+    "phone": "(661) 327-3271",
+    "type": "private",
+    "lat": 35.374599,
+    "lng": -119.029121,
+    "distance": 0.5939835298218947
+  },
+  {
+    "name": "James Im",
+    "address": "2731 H St, Ste B, Bakersfield, CA 93301",
+    "phone": "(661) 664-8484",
+    "type": "private",
+    "lat": 35.384579,
+    "lng": -119.021362,
+    "distance": 0.7936333928749851
+  },
+  {
+    "name": "Adventist Health Community Care -",
+    "address": "2800 K St, Bldg B, Bakersfield, CA 93301",
+    "phone": "(661) 869-6740",
+    "type": "fqhc",
+    "lat": 35.385075,
+    "lng": -119.017151,
+    "distance": 0.8182650384330803
+  },
+  {
+    "name": "Adventist Health Bakersfield - Cmip",
+    "address": "2800 K St, Bldg B, Bakersfield, CA 93301",
+    "phone": "(661) 869-6740",
+    "type": "fqhc",
+    "lat": 35.385101,
+    "lng": -119.017181,
+    "distance": 0.8199184593958363
+  },
+  {
+    "name": "Omni Family Health",
+    "address": "2811 H St, Bakersfield, CA 93301",
+    "phone": "(800) 300-6664",
+    "type": "fqhc",
+    "lat": 35.385292,
+    "lng": -119.0215,
+    "distance": 0.8434995848445268
+  },
+  {
+    "name": "Coastal Kids Dba Bakersfield Peds",
+    "address": "1215 34th St, Bakersfield, CA 93301",
+    "phone": "(661) 663-4700",
+    "type": "private",
+    "lat": 35.39019,
+    "lng": -119.0159,
+    "distance": 1.1776813180150818
+  },
+  {
+    "name": "Pinnacle Primary Care Inc",
+    "address": "1520 Brundage Ln, Bakersfield, CA 93304",
+    "phone": "(661) 321-9138",
+    "type": "private",
+    "lat": 35.35495,
+    "lng": -119.019577,
+    "distance": 1.2689067666410407
+  },
+  {
+    "name": "Comprehensive Care Center",
+    "address": "625 34th St, Ste 100, Bakersfield, CA 93301",
+    "phone": "(661) 328-4223",
+    "type": "fqhc",
+    "lat": 35.390072,
+    "lng": -119.00927,
+    "distance": 1.2748657501044058
+  },
+  {
+    "name": "Family Health Center",
+    "address": "1611 1st St, Bakersfield, CA 93304",
+    "phone": "(661) 336-5300",
+    "type": "VFA",
+    "lat": 35.354729,
+    "lng": -119.020447,
+    "distance": 1.2870014246497967
+  },
+  {
+    "name": "Baker Street Village Chc",
+    "address": "1015 Baker St, # 4, Bakersfield, CA 93305",
+    "phone": "(661) 328-4283",
+    "type": "VFA",
+    "lat": 35.37907,
+    "lng": -118.992035,
+    "distance": 1.5543196997573923
+  },
+  {
+    "name": "Central Bakersfield Comm Health Ctr",
+    "address": "301 Brundage Ln, Bakersfield, CA 93304",
+    "phone": "(661) 323-6086",
+    "type": "VFA",
+    "lat": 35.353222,
+    "lng": -119.005318,
+    "distance": 1.5790418578727583
+  },
+  {
+    "name": "Kc Wellness Center",
+    "address": "331 S H St, Bakersfield, CA 93304",
+    "phone": "(661) 412-7788",
+    "type": "private",
+    "lat": 35.350529,
+    "lng": -119.021553,
+    "distance": 1.581632724625637
+  },
+  {
+    "name": "Kern Pediatrics",
+    "address": "3941 San Dimas St, Ste 101, Bakersfield, CA 93301",
+    "phone": "(661) 864-7944",
+    "type": "private",
+    "lat": 35.395561,
+    "lng": -119.008621,
+    "distance": 1.6396411351880285
+  },
+  {
+    "name": "34th Street Community Health Center",
+    "address": "2000 Physicians Blvd, Bakersfield, CA 93301",
+    "phone": "(661) 324-1455",
+    "type": "VFA",
+    "lat": 35.396851,
+    "lng": -119.008507,
+    "distance": 1.7256303913232829
+  },
+  {
+    "name": "San Dimas Pediatrics",
+    "address": "500 40th St, Bakersfield, CA 93301",
+    "phone": "(661) 327-3784",
+    "type": "private",
+    "lat": 35.396568,
+    "lng": -119.007393,
+    "distance": 1.7293647741361462
+  },
+  {
+    "name": "East Bakersfield Community Health",
+    "address": "815 Dr Martin Luther King Jr Blvd, Bakersfield, CA 93307",
+    "phone": "(661) 322-3905",
+    "type": "VFA",
+    "lat": 35.365501,
+    "lng": -118.984871,
+    "distance": 1.9807971108073184
+  },
+  {
+    "name": "Omni Family Health",
+    "address": "4900 California Ave Ste 100b, Bakersfield, CA 93309",
+    "phone": "(661) 237-6670",
+    "type": "fqhc",
+    "lat": 35.365231,
+    "lng": -119.056091,
+    "distance": 2.1793413572067197
+  },
+  {
+    "name": "Omni Family Health",
+    "address": "210 N Chester Ave, Bakersfield, CA 93308",
+    "phone": "(661) 237-6608",
+    "type": "fqhc",
+    "lat": 35.40741,
+    "lng": -119.020309,
+    "distance": 2.358638712074558
+  },
+  {
+    "name": "Premier Valley Medical Group",
+    "address": "4043 Stockdale Hwy, Bakersfield, CA 93309",
+    "phone": "(661) 412-9391",
+    "type": "private",
+    "lat": 35.353764,
+    "lng": -119.053505,
+    "distance": 2.380894262690939
+  },
+  {
+    "name": "Ming Primary Care Clinic",
+    "address": "2734 Ming Ave, Bakersfield, CA 93304",
+    "phone": "(661) 397-0100",
+    "type": "private",
+    "lat": 35.340141,
+    "lng": -119.034111,
+    "distance": 2.450258879895771
+  },
+  {
+    "name": "Omni Family Health",
+    "address": "525 Roberts Ln, Bakersfield, CA 93308",
+    "phone": "(866) 707-6664",
+    "type": "fqhc",
+    "lat": 35.408295,
+    "lng": -119.031769,
+    "distance": 2.5276254203297763
+  },
+  {
+    "name": "Sagebrush Medical Plaza",
+    "address": "1111 Columbus St, Ste 2000, Bakersfield, CA 93305",
+    "phone": "(661) 326-5682",
+    "type": "private",
+    "lat": 35.39679,
+    "lng": -118.982483,
+    "distance": 2.607099187625155
+  },
+  {
+    "name": "Kern Medical",
+    "address": "1700 Mount Vernon Ave, Rm 1150 Bakersfield, CA 93306",
+    "phone": "(661) 326-2191",
+    "type": "public",
+    "lat": 35.382404,
+    "lng": -118.970711,
+    "distance": 2.7758812593818645
+  },
+  {
+    "name": "Juvenile Correctional Services",
+    "address": "1831 Ridge Rd, Bakersfield, CA 93305",
+    "phone": "(661) 868-4333",
+    "type": "public",
+    "lat": 35.386597,
+    "lng": -118.971893,
+    "distance": 2.7924403376488196
+  },
+  {
+    "name": "Poly Clinic Medical Center, Inc",
+    "address": "2145 Niles St, Bakersfield, CA 93305",
+    "phone": "(661) 327-5984",
+    "type": "private",
+    "lat": 35.37619,
+    "lng": -118.968307,
+    "distance": 2.8461789639791504
+  },
+  {
+    "name": "Premier Valley Medical Group",
+    "address": "1311 Columbus St, Bakersfield, CA 93305",
+    "phone": "(661) 397-6061",
+    "type": "private",
+    "lat": 35.397236,
+    "lng": -118.97747,
+    "distance": 2.8513079229437888
+  },
+  {
+    "name": "Kern County Health Dept",
+    "address": "1800 Mount Vernon Ave, Fl 1, Bakersfield, CA 93306",
+    "phone": "(661) 321-3000",
+    "type": "public",
+    "lat": 35.380409,
+    "lng": -118.967598,
+    "distance": 2.920671411256876
+  },
+  {
+    "name": "South Bakersfield Chc",
+    "address": "2400 Wible Rd, Ste 14, Bakersfield, CA 93304",
+    "phone": "(661) 835-1240",
+    "type": "VFA",
+    "lat": 35.33287,
+    "lng": -119.038498,
+    "distance": 3.0081494032158083
+  },
+  {
+    "name": "Omni Family Health- Stine Rd",
+    "address": "1701 Stine Rd, Bakersfield, CA 93309",
+    "phone": "(661) 770-3310",
+    "type": "fqhc",
+    "lat": 35.338268,
+    "lng": -119.051903,
+    "distance": 3.0594798667364094
+  },
+  {
+    "name": "Centric Health Care",
+    "address": "2415 Niles St, Bakersfield, CA 93306",
+    "phone": "(661) 631-1591",
+    "type": "private",
+    "lat": 35.375607,
+    "lng": -118.963943,
+    "distance": 3.0891621292174376
+  },
+  {
+    "name": "Mirna Chambi Md Inc",
+    "address": "1420 Crestmont Dr, Bakersfield, CA 93306",
+    "phone": "(661) 873-7515",
+    "type": "private",
+    "lat": 35.376801,
+    "lng": -118.954483,
+    "distance": 3.626110642749143
+  },
+  {
+    "name": "Clinica La Victoria",
+    "address": "2303 S Union Ave, Ste C2, Bakersfield, CA 93307",
+    "phone": "(661) 885-7007",
+    "type": "private",
+    "lat": 35.321499,
+    "lng": -119.004303,
+    "distance": 3.6701528899427864
+  },
+  {
+    "name": "Omni Family Health White Lane Plaza",
+    "address": "1451 White Ln, Bakersfield, CA 93307",
+    "phone": "(661) 237-6845",
+    "type": "fqhc",
+    "lat": 35.317017,
+    "lng": -119.018967,
+    "distance": 3.889075956920209
+  },
+  {
+    "name": "Omni Family Health - Mall View",
+    "address": "3800 Mall View Rd, Bakersfield, CA 93306",
+    "phone": "(661) 237-6852",
+    "type": "fqhc",
+    "lat": 35.394321,
+    "lng": -118.950249,
+    "distance": 4.1206761346630305
+  },
+  {
+    "name": "Premier Valley Med Grp - White Ln",
+    "address": "5401 White Ln, Bakersfield, CA 93309",
+    "phone": "(661) 396-7100",
+    "type": "private",
+    "lat": 35.317436,
+    "lng": -119.062775,
+    "distance": 4.590296882062166
+  },
+  {
+    "name": "A Miriam Jamison Childrens Center",
+    "address": "1010 Shalimar Dr, Bakersfield, CA 93306",
+    "phone": "(661) 334-3511",
+    "type": "private",
+    "lat": 35.37368,
+    "lng": -118.936966,
+    "distance": 4.605124916082981
+  },
+  {
+    "name": "Niles Children's Clinic",
+    "address": "6055 Niles St, Bakersfield, CA 93306",
+    "phone": "(661) 363-0436",
+    "type": "private",
+    "lat": 35.37569,
+    "lng": -118.936783,
+    "distance": 4.618263770203012
+  },
+  {
+    "name": "Vanguard Medical Corporation",
+    "address": "8150 Hageman Rd, Bakersfield, CA 93312",
+    "phone": "(661) 459-1010",
+    "type": "public",
+    "lat": 35.402275,
+    "lng": -119.093369,
+    "distance": 4.658403153053798
+  },
+  {
+    "name": "Omni Family Health",
+    "address": "6700 Niles St, Ste 185 Bakersfield, CA 93306",
+    "phone": "(866) 707-6664",
+    "type": "fqhc",
+    "lat": 35.376816,
+    "lng": -118.929749,
+    "distance": 5.017479407934643
+  },
+  {
+    "name": "Kern Medical Stockdale Pediatrics",
+    "address": "9330 Stockdale Hwy, Ste 500, Bakersfield, CA 93311",
+    "phone": "(661) 664-2200",
+    "type": "private",
+    "lat": 35.355556,
+    "lng": -119.106323,
+    "distance": 5.087356434208393
+  },
+  {
+    "name": "Brimhall Community Health Center",
+    "address": "1014 Calloway Dr, Bakersfield, CA 93312",
+    "phone": "(661) 630-7605",
+    "type": "fqhc",
+    "lat": 35.366989,
+    "lng": -119.11013,
+    "distance": 5.169991453272054
+  },
+  {
+    "name": "Omni Family Health- Calloway",
+    "address": "1022 Calloway Dr, Bakersfield, CA 93312",
+    "phone": "(661) 630-7660",
+    "type": "fqhc",
+    "lat": 35.367271,
+    "lng": -119.11058,
+    "distance": 5.193654131558634
+  },
+  {
+    "name": "Riverwalk Pediatrics Clinic",
+    "address": "9508 Stockdale Hwy, Ste 150, Bakersfield, CA 93311",
+    "phone": "(661) 663-7500",
+    "type": "private",
+    "lat": 35.355518,
+    "lng": -119.108582,
+    "distance": 5.211569212880289
+  },
+  {
+    "name": "Brimhall Pediatrics",
+    "address": "9840 Brimhall Rd, Bakersfield, CA 93312",
+    "phone": "(661) 587-8882",
+    "type": "private",
+    "lat": 35.370541,
+    "lng": -119.111153,
+    "distance": 5.212545123551116
+  },
+  {
+    "name": "Omni Family Health-mexicali",
+    "address": "4151 Mexicali Dr, Bakersfield, CA 93313",
+    "phone": "(661) 564-3101",
+    "type": "fqhc",
+    "lat": 35.317211,
+    "lng": -119.082199,
+    "distance": 5.275310087455937
+  },
+  {
+    "name": "Rosedale Community Health Center",
+    "address": "3409 Calloway Dr, Unit 300, Bakersfield, CA 93312",
+    "phone": "(661) 587-3011",
+    "type": "VFA",
+    "lat": 35.391331,
+    "lng": -119.110786,
+    "distance": 5.335261638620201
+  },
+  {
+    "name": "Omni Family Health - Panama Grove",
+    "address": "1507 Panama Ln, Ste G100, Bakersfield, CA 93307",
+    "phone": "(866) 707-6664",
+    "type": "fqhc",
+    "lat": 35.295204,
+    "lng": -119.018646,
+    "distance": 5.396234620654992
+  },
+  {
+    "name": "Stockdale Pediatrics",
+    "address": "300 Old River Rd, Ste 125, Bakersfield, CA 93311",
+    "phone": "(661) 663-3122",
+    "type": "private",
+    "lat": 35.352631,
+    "lng": -119.112251,
+    "distance": 5.4615859301088525
+  },
+  {
+    "name": "Pinnacle Primary Care, Inc",
+    "address": "7400 District Blvd, Ste C, Bakersfield, CA 93313",
+    "phone": "(661) 847-9773",
+    "type": "private",
+    "lat": 35.313583,
+    "lng": -119.08316,
+    "distance": 5.497824591859383
+  },
+  {
+    "name": "East Niles Community Health Center",
+    "address": "7800 Niles St, Bakersfield, CA 93306",
+    "phone": "(661) 328-4284",
+    "type": "VFA",
+    "lat": 35.376751,
+    "lng": -118.918068,
+    "distance": 6.516968595108642
+  },
+  {
+    "name": "Onyinye Okezie Md Inc",
+    "address": "500 Old River Rd, Ste 110, Bakersfield, CA 93311",
+    "phone": "(661) 370-0777",
+    "type": "private",
+    "lat": 35.351303,
+    "lng": -119.113205,
+    "distance": 7.286306225615696
+  },
+  {
+    "name": "Wible Family Medicine",
+    "address": "6640 Wible Rd, Bakersfield, CA 93313",
+    "phone": "(661) 885-8850",
+    "type": "private",
+    "lat": 35.294407,
+    "lng": -119.037987,
+    "distance": 2.273431793590379
+  },
+  {
+    "name": "Pediatrics For All",
+    "address": "4550 Panama Ln, Ste 100, Bakersfield, CA 93313",
+    "phone": "(818) 943-0704",
+    "type": "private",
+    "lat": 35.2962,
+    "lng": -119.0532,
+    "distance": 2.700134842200734
+  },
+  {
+    "name": "Panama Lane Health Center",
+    "address": "4600 Panama Ln, Unit 102b, Bakersfield, CA 93313",
+    "phone": "(661) 630-7704",
+    "type": "fqhc",
+    "lat": 35.296391,
+    "lng": -119.054298,
+    "distance": 2.7361264914117833
+  },
+  {
+    "name": "Greenfield Community Health Center",
+    "address": "9001 S H St, Bakersfield, CA 93307",
+    "phone": "(661) 328-4260",
+    "type": "VFA",
+    "lat": 35.272678,
+    "lng": -119.021744,
+    "distance": 3.5020413128741716
+  }
+]

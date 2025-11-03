@@ -1,0 +1,407 @@
+[
+  {
+    "name": "San Francisco Co Health Department",
+    "address": "101 Grove St, Ste 406, San Francisco, CA 94102",
+    "phone": "(415) 554-2955",
+    "type": "public",
+    "lat": 37.778137,
+    "lng": -122.418678,
+    "distance": 0.22712957251059498
+  },
+  {
+    "name": "North East Medical Services - Polk",
+    "address": "650 Polk St, San Francisco, CA 94102",
+    "phone": "(415) 391-9686",
+    "type": "fqhc",
+    "lat": 37.782829,
+    "lng": -122.418854,
+    "distance": 0.5487059752116545
+  },
+  {
+    "name": "St Anthony Medical Clinic",
+    "address": "150 Golden Gate Ave, Fl 2, San Francisco, CA 94102",
+    "phone": "(415) 241-8320",
+    "type": "public",
+    "lat": 37.78223,
+    "lng": -122.413223,
+    "distance": 0.6085621817723967
+  },
+  {
+    "name": "South Of Market Health Center",
+    "address": "229 7th St, San Francisco, CA 94103",
+    "phone": "(415) 503-6000",
+    "type": "public",
+    "lat": 37.77774,
+    "lng": -122.408829,
+    "distance": 0.6098018140659496
+  },
+  {
+    "name": "Mission Neighborhood Health Center",
+    "address": "240 Shotwell St, San Francisco, CA 94110",
+    "phone": "(415) 552-3870",
+    "type": "VFA",
+    "lat": 37.764751,
+    "lng": -122.416557,
+    "distance": 0.7182253105893281
+  },
+  {
+    "name": "Native American Health Center",
+    "address": "160 Capp St, Fl 2, San Francisco, CA 94110",
+    "phone": "(415) 417-3501",
+    "type": "public",
+    "lat": 37.76403,
+    "lng": -122.418877,
+    "distance": 0.7516029991587643
+  },
+  {
+    "name": "Castro Mission Health Center",
+    "address": "3850 17th St, San Francisco, CA 94114",
+    "phone": "(628) 217-5700",
+    "type": "public",
+    "lat": 37.762978,
+    "lng": -122.431885,
+    "distance": 1.0694326508878178
+  },
+  {
+    "name": "Kaiser Perm San Francisco Med Ctr",
+    "address": "2238 Geary Blvd, San Francisco, CA 94115",
+    "phone": "(415) 204-5014",
+    "type": "private",
+    "lat": 37.783508,
+    "lng": -122.44062,
+    "distance": 1.3026454582500877
+  },
+  {
+    "name": "Ucsf Pediatrics At Mount Zion",
+    "address": "2330 Post St, Ste 320, San Francisco, CA 94115",
+    "phone": "(415) 885-7478",
+    "type": "private",
+    "lat": 37.784512,
+    "lng": -122.440407,
+    "distance": 1.325607996059624
+  },
+  {
+    "name": "Kaiser Sfo Mission Bay",
+    "address": "1600 Owens St, San Francisco, CA 94158",
+    "phone": "(415) 833-2000",
+    "type": "private",
+    "lat": 37.768223,
+    "lng": -122.395477,
+    "distance": 1.3856951363288867
+  },
+  {
+    "name": "Childrens Health Cent  Sf Gen Hosp",
+    "address": "1001 Potrero Ave, Rm Gr-1, San Francisco, CA 94110",
+    "phone": "(628) 206-8756",
+    "type": "public",
+    "lat": 37.75563,
+    "lng": -122.405098,
+    "distance": 1.5437437880273663
+  },
+  {
+    "name": "Family Health Center",
+    "address": "1001 Potrero Ave, Rm Gr-1, San Francisco, CA 94110",
+    "phone": "(628) 206-5545",
+    "type": "fqhc",
+    "lat": 37.75563,
+    "lng": -122.405098,
+    "distance": 1.5437437880273663
+  },
+  {
+    "name": "Sf General Epiphany Clinic",
+    "address": "100 Masonic Ave, San Francisco, CA 94118",
+    "phone": "(415) 351-4048",
+    "type": "public",
+    "lat": 37.780689,
+    "lng": -122.446877,
+    "distance": 1.5530115182006468
+  },
+  {
+    "name": "Chinatown Public Health Center",
+    "address": "1490 Mason St, Fl 2, San Francisco, CA 94133",
+    "phone": "(628) 217-6500",
+    "type": "public",
+    "lat": 37.796856,
+    "lng": -122.411774,
+    "distance": 1.5732246318687846
+  },
+  {
+    "name": "Kelly K Wong, Md",
+    "address": "728 Pacific Ave, Ste 703, San Francisco, CA 94133",
+    "phone": "(415) 805-7782",
+    "type": "private",
+    "lat": 37.797089,
+    "lng": -122.407463,
+    "distance": 1.6659996138385644
+  },
+  {
+    "name": "Su-mui Kuo Md",
+    "address": "728 Pacific Ave, Ste 406, San Francisco, CA 94133",
+    "phone": "(415) 393-6500",
+    "type": "private",
+    "lat": 37.797089,
+    "lng": -122.407463,
+    "distance": 1.6659996138385644
+  },
+  {
+    "name": "Cole Street Youth Clinic",
+    "address": "555 Cole St, San Francisco, CA 94117",
+    "phone": "(415) 751-8181",
+    "type": "public",
+    "lat": 37.770004,
+    "lng": -122.450371,
+    "distance": 1.7250610941186921
+  },
+  {
+    "name": "North East Medical Services",
+    "address": "1520 Stockton St, Fl 5, San Francisco, CA 94133",
+    "phone": "(415) 391-9686",
+    "type": "VFA",
+    "lat": 37.799938,
+    "lng": -122.40873,
+    "distance": 1.825566440549822
+  },
+  {
+    "name": "Potrero Hill Health Center",
+    "address": "1050 Wisconsin St, San Francisco, CA 94107",
+    "phone": "(628) 217-7930",
+    "type": "public",
+    "lat": 37.753899,
+    "lng": -122.399101,
+    "distance": 1.8262693067076836
+  },
+  {
+    "name": "Ucsf Adolescent Medicine",
+    "address": "675 18th St, Fl 3, San Francisco, CA 94107",
+    "phone": "(415) 353-2002",
+    "type": "public",
+    "lat": 37.762955,
+    "lng": -122.389534,
+    "distance": 1.8282291666278276
+  },
+  {
+    "name": "Mission Bernal Pediatric Clinic",
+    "address": "1580 Valencia St, Ste 701, San Francisco, CA 94110",
+    "phone": "(415) 852-4080",
+    "type": "private",
+    "lat": 37.747559,
+    "lng": -122.42038,
+    "distance": 1.8899829133942383
+  },
+  {
+    "name": "Irina Khidekel",
+    "address": "3635 California St, San Francisco, CA 94118",
+    "phone": "(415) 752-2242",
+    "type": "private",
+    "lat": 37.786091,
+    "lng": -122.454086,
+    "distance": 2.0460423400887424
+  },
+  {
+    "name": "Sutter Pacific Medical Foundation F",
+    "address": "3838 California St, Rm 510, San Francisco, CA 94118",
+    "phone": "(415) 600-2403",
+    "type": "private",
+    "lat": 37.785923,
+    "lng": -122.457626,
+    "distance": 2.222233057249308
+  },
+  {
+    "name": "Winchell Quock",
+    "address": "402 8th Ave, Ste 202, San Francisco, CA 94118",
+    "phone": "(415) 751-1411",
+    "type": "private",
+    "lat": 37.780628,
+    "lng": -122.466049,
+    "distance": 2.5782722977671315
+  },
+  {
+    "name": "Bayview Child Health Center",
+    "address": "3450 3rd St, Ste 2a, San Francisco, CA 94124",
+    "phone": "(415) 697-0500",
+    "type": "fqhc",
+    "lat": 37.74559,
+    "lng": -122.38736,
+    "distance": 2.676759938281993
+  },
+  {
+    "name": "Special Program For Youth Spy",
+    "address": "375 Woodside Ave, San Francisco, CA 94127",
+    "phone": "(415) 753-7811",
+    "type": "public",
+    "lat": 37.745953,
+    "lng": -122.452515,
+    "distance": 2.6968683657291432
+  },
+  {
+    "name": "North East Medical Services",
+    "address": "1033 Clement St, San Francisco, CA 94118",
+    "phone": "(415) 391-9686",
+    "type": "VFA",
+    "lat": 37.782471,
+    "lng": -122.470299,
+    "distance": 2.828556428718582
+  },
+  {
+    "name": "Silver Ave Family Health Center",
+    "address": "1525 Silver Ave, San Francisco, CA 94134",
+    "phone": "(628) 754-8000",
+    "type": "public",
+    "lat": 37.73238,
+    "lng": -122.406433,
+    "distance": 3.0222331775417146
+  },
+  {
+    "name": "North East Medical Services",
+    "address": "2574 San Bruno Ave, Fl 2, San Francisco, CA 94134",
+    "phone": "(415) 391-9686",
+    "type": "VFA",
+    "lat": 37.729019,
+    "lng": -122.404472,
+    "distance": 3.273474042086358
+  },
+  {
+    "name": "Nems - 2633 San Bruno",
+    "address": "2633 San Bruno Ave, Fl 2, San Francisco, CA 94134",
+    "phone": "(415) 391-9686",
+    "type": "fqhc",
+    "lat": 37.728466,
+    "lng": -122.403671,
+    "distance": 3.3215560933678256
+  },
+  {
+    "name": "Mission Neighborhood Health Center",
+    "address": "4434 Mission St, San Francisco, CA 94112",
+    "phone": "(415) 406-1353",
+    "type": "VFA",
+    "lat": 37.726864,
+    "lng": -122.433517,
+    "distance": 3.4076177437141135
+  },
+  {
+    "name": "North East Medical Services",
+    "address": "1450 Noriega St, San Francisco, CA 94122",
+    "phone": "(415) 391-9686",
+    "type": "VFA",
+    "lat": 37.754372,
+    "lng": -122.479424,
+    "distance": 3.5723995062581966
+  },
+  {
+    "name": "Ocean Park Health Center",
+    "address": "1351 24th Ave, San Francisco, CA 94122",
+    "phone": "(628) 754-8201",
+    "type": "public",
+    "lat": 37.76236,
+    "lng": -122.482948,
+    "distance": 3.5775929353908236
+  },
+  {
+    "name": "Carol K Lee",
+    "address": "1518 Noriega St, Ste 200, San Francisco, CA 94122",
+    "phone": "(415) 566-7556",
+    "type": "private",
+    "lat": 37.75433,
+    "lng": -122.48011,
+    "distance": 3.607996250321026
+  },
+  {
+    "name": "Southeast Health Center",
+    "address": "2403 Keith St, San Francisco, CA 94124",
+    "phone": "(628) 217-5500",
+    "type": "fqhc",
+    "lat": 37.725681,
+    "lng": -122.392654,
+    "distance": 3.701522923564186
+  },
+  {
+    "name": "Balboa Teen Health Center",
+    "address": "1000 Cayuga Ave, Rm 156, San Francisco, CA 94112",
+    "phone": "(415) 469-4512",
+    "type": "public",
+    "lat": 37.722061,
+    "lng": -122.441475,
+    "distance": 3.845087840425982
+  },
+  {
+    "name": "Bayview Helth And Wellness Center",
+    "address": "6301 3rd St, San Francisco, CA 94124",
+    "phone": "(415) 339-8813",
+    "type": "fqhc",
+    "lat": 37.720631,
+    "lng": -122.396042,
+    "distance": 3.9610990853753116
+  },
+  {
+    "name": "Nems - Ocean Ave",
+    "address": "1443 Ocean Ave, San Francisco, CA 94112",
+    "phone": "(415) 391-9686",
+    "type": "fqhc",
+    "lat": 37.724037,
+    "lng": -122.457962,
+    "distance": 4.0976192121536315
+  },
+  {
+    "name": "Sutter Pacific Medical Foundation",
+    "address": "2645 Ocean Ave, Lbby 3, San Francisco, CA 94132",
+    "phone": "(415) 547-4800",
+    "type": "private",
+    "lat": 37.731804,
+    "lng": -122.474144,
+    "distance": 4.220464684443377
+  },
+  {
+    "name": "Benjamin N Wan Md",
+    "address": "595 Buckingham Way, Ste 500, San Francisco, CA 94132",
+    "phone": "(415) 665-6100",
+    "type": "private",
+    "lat": 37.73103,
+    "lng": -122.476089,
+    "distance": 4.333707588732237
+  },
+  {
+    "name": "Kelly Wong Md",
+    "address": "595 Buckingham Way, Ste 314, San Francisco, CA 94132",
+    "phone": "(415) 566-1734",
+    "type": "private",
+    "lat": 37.73103,
+    "lng": -122.476089,
+    "distance": 4.333707588732237
+  },
+  {
+    "name": "North East Medical Services",
+    "address": "3431 Taraval St, San Francisco, CA 94116",
+    "phone": "(415) 391-9686",
+    "type": "VFA",
+    "lat": 37.741604,
+    "lng": -122.502998,
+    "distance": 5.113648016205694
+  },
+  {
+    "name": "So San Francisco Health Center",
+    "address": "306 Spruce Ave, Fl 2, South San Francisco, CA 94080",
+    "phone": "(650) 877-7074",
+    "type": "fqhc",
+    "lat": 37.656639,
+    "lng": -122.415672,
+    "distance": 4.721065365903621
+  },
+  {
+    "name": "Planned Parenthood Mar Monte",
+    "address": "435 Grand Ave, South San Francisco, CA 94080",
+    "phone": "(650) 243-4663",
+    "type": "private",
+    "lat": 37.655701,
+    "lng": -122.413963,
+    "distance": 4.79073756777728
+  },
+  {
+    "name": "Livewell Medical Clinic",
+    "address": "343 El Camino Real Ste 1, South San Francisco, CA 94080",
+    "phone": "(650) 873-3338",
+    "type": "private",
+    "lat": 37.644531,
+    "lng": -122.42704,
+    "distance": 6.3854238386177675
+  }
+]

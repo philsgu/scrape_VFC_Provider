@@ -1,0 +1,407 @@
+[
+  {
+    "name": "Toiyabe Indian Health Project",
+    "address": "1150 Goodwin Rd, Lone Pine, CA 93545",
+    "phone": "(760) 876-4795",
+    "type": "public",
+    "lat": 36.594742,
+    "lng": -118.051178,
+    "distance": 53.26391792216336
+  },
+  {
+    "name": "Southern  Inyo Rural Health  Clinic",
+    "address": "510 E Locust, Lone Pine, CA 93545",
+    "phone": "(760) 876-1146",
+    "type": "fqhc",
+    "lat": 36.608326,
+    "lng": -118.058533,
+    "distance": 53.77473422560642
+  },
+  {
+    "name": "Ridgecrest Community Health Center",
+    "address": "1133 N. Chelsea Street, Ridgecrest, CA 93555",
+    "phone": "(760) 499-1319",
+    "type": "fqhc",
+    "lat": 35.642509,
+    "lng": -117.667671,
+    "distance": 67.92179032862121
+  },
+  {
+    "name": "Southern Sierra Medical Clinic Inc",
+    "address": "105 E Sydnor Ave Ste 100, Ridgecrest, CA 93555",
+    "phone": "(760) 446-6404",
+    "type": "private",
+    "lat": 35.640499,
+    "lng": -117.668732,
+    "distance": 68.07244229727104
+  },
+  {
+    "name": "Ridgecrest Regional Hospital Rhc",
+    "address": "1081 N China Lake Blvd, Ridgecrest, CA 93555",
+    "phone": "(760) 499-3846",
+    "type": "fqhc",
+    "lat": 35.639877,
+    "lng": -117.669876,
+    "distance": 68.14042269688576
+  },
+  {
+    "name": "Bishop Community Health Center",
+    "address": "459 W Line St, Ste C, Bishop, CA 93514",
+    "phone": "(760) 784-7020",
+    "type": "fqhc",
+    "lat": 37.361637,
+    "lng": -118.398926,
+    "distance": 92.87005008818699
+  },
+  {
+    "name": "Northern Inyo Associates",
+    "address": "152 Pioneer Ln, Ste H, Bishop, CA 93514",
+    "phone": "(760) 873-6373",
+    "type": "private",
+    "lat": 37.36274,
+    "lng": -118.406548,
+    "distance": 93.24392391819546
+  },
+  {
+    "name": "Northern Inyo Hospital Rural Clinic",
+    "address": "153b Pioneer Ln, Ste B, Bishop, CA 93514",
+    "phone": "(760) 873-2849",
+    "type": "private",
+    "lat": 37.362202,
+    "lng": -118.407501,
+    "distance": 93.26152059421314
+  },
+  {
+    "name": "Inyo County Health  Human Services",
+    "address": "1360 N Main St, Bishop, CA 93514",
+    "phone": "(760) 873-7868",
+    "type": "public",
+    "lat": 37.377037,
+    "lng": -118.394379,
+    "distance": 93.3489319691788
+  },
+  {
+    "name": "Toiyabe Indian Health Project",
+    "address": "250-b N See Vee Ln, Bishop, CA 93514",
+    "phone": "(760) 873-8461",
+    "type": "public",
+    "lat": 37.363949,
+    "lng": -118.412872,
+    "distance": 93.567226094126
+  },
+  {
+    "name": "Kern River Health Center",
+    "address": "67 Evans Rd, Wofford Heights, CA 93285",
+    "phone": "(760) 376-2276",
+    "type": "fqhc",
+    "lat": 35.706322,
+    "lng": -118.457779,
+    "distance": 94.11103849919735
+  },
+  {
+    "name": "Kern Valley Hlthcare Dist-rhc-2",
+    "address": "6412 Laurel Ave, Lake Isabella, CA 93240",
+    "phone": "(760) 379-1791",
+    "type": "fqhc",
+    "lat": 35.6353,
+    "lng": -118.406349,
+    "distance": 94.88653987171168
+  },
+  {
+    "name": "Fhcn--springville",
+    "address": "35800 Highway 190, Springville, CA 93265",
+    "phone": "(559) 539-2324",
+    "type": "fqhc",
+    "lat": 36.13377,
+    "lng": -118.815811,
+    "distance": 99.15274458717283
+  },
+  {
+    "name": "Tule River Indian Hlth Ctrinc",
+    "address": "380 N Reservation Rd, Porterville, CA 93257",
+    "phone": "(559) 784-2316",
+    "type": "VFA",
+    "lat": 36.030025,
+    "lng": -118.7883,
+    "distance": 99.88542247888574
+  },
+  {
+    "name": "Fhcn--three Rivers",
+    "address": "41651 Sierra Dr, Three Rivers, CA 93271",
+    "phone": "(559) 561-4683",
+    "type": "fqhc",
+    "lat": 36.438251,
+    "lng": -118.905617,
+    "distance": 100.59841410258564
+  },
+  {
+    "name": "Ahcc-cal City",
+    "address": "9350 N Loop Blvd, Calif City, CA 93505",
+    "phone": "(661) 771-8222",
+    "type": "fqhc",
+    "lat": 35.133205,
+    "lng": -117.962006,
+    "distance": 106.80040160970509
+  },
+  {
+    "name": "Bartz Altadonna Chc Cal City",
+    "address": "9300 N Loop Blvd, Ste C, California City, CA 93505",
+    "phone": "(661) 874-4050",
+    "type": "VFA",
+    "lat": 35.132805,
+    "lng": -117.962349,
+    "distance": 106.83384639944991
+  },
+  {
+    "name": "Cal City Urgent Care",
+    "address": "8100 California City Blvd, California City, CA 93505",
+    "phone": "(818) 651-6608",
+    "type": "private",
+    "lat": 35.12516,
+    "lng": -117.98381,
+    "distance": 107.85430983198488
+  },
+  {
+    "name": "Bartz-altadonna Chc - Boron",
+    "address": "12560 Boron Ave, Boron, CA 93516",
+    "phone": "(661) 874-4050",
+    "type": "fqhc",
+    "lat": 35.007851,
+    "lng": -117.645576,
+    "distance": 108.2976762201617
+  },
+  {
+    "name": "Fhcn-downtown Porterville",
+    "address": "65 N Hockett, Porterville, CA 93257",
+    "phone": "(559) 544-6570",
+    "type": "fqhc",
+    "lat": 36.065994,
+    "lng": -119.017136,
+    "distance": 111.25248779273448
+  },
+  {
+    "name": "Fhcn-woodlake",
+    "address": "201 E Lakeview Ave, Woodlake, CA 93286",
+    "phone": "(559) 564-0100",
+    "type": "fqhc",
+    "lat": 36.417316,
+    "lng": -119.097481,
+    "distance": 111.3359101940768
+  },
+  {
+    "name": "Kaweah Delta Woodlake Health Clinic",
+    "address": "180 E Antelope Ave, Woodlake, CA 93286",
+    "phone": "(559) 564-1800",
+    "type": "fqhc",
+    "lat": 36.41671,
+    "lng": -119.097977,
+    "distance": 111.36629027383603
+  },
+  {
+    "name": "Grace Hwang Md Inc",
+    "address": "255 W Putnam Ave, Porterville, CA 93257",
+    "phone": "(559) 782-0700",
+    "type": "private",
+    "lat": 36.06934,
+    "lng": -119.022346,
+    "distance": 111.46576857557912
+  },
+  {
+    "name": "Maithri Weerasinghe Md Inc",
+    "address": "716 E Main St, Barstow, CA 92311",
+    "phone": "(760) 256-6426",
+    "type": "private",
+    "lat": 34.8983,
+    "lng": -117.018707,
+    "distance": 111.50015800753765
+  },
+  {
+    "name": "Clinica Agua Viva - Woodlake",
+    "address": "101 N Palm St, Woodlake, CA 93286",
+    "phone": "(559) 564-1100",
+    "type": "fqhc",
+    "lat": 36.414028,
+    "lng": -119.100578,
+    "distance": 111.5234759720681
+  },
+  {
+    "name": "Sierra View District Hospital",
+    "address": "465 W Putnam Ave, Porterville, CA 93257",
+    "phone": "(559) 784-1110",
+    "type": "public",
+    "lat": 36.068699,
+    "lng": -119.027267,
+    "distance": 111.7419112774338
+  },
+  {
+    "name": "Sac Health Barstow",
+    "address": "801 E Mountain View St, Barstow, CA 92311",
+    "phone": "(760) 248-3072",
+    "type": "fqhc",
+    "lat": 34.8937,
+    "lng": -117.017845,
+    "distance": 111.81971810471997
+  },
+  {
+    "name": "Barstow Santa Fe Plaza",
+    "address": "1890 W Main St, Ste 110, Barstow, CA 92311",
+    "phone": "(760) 256-1422",
+    "type": "private",
+    "lat": 34.892509,
+    "lng": -117.050529,
+    "distance": 111.84384767352724
+  },
+  {
+    "name": "Sequoia Family Medical Ctr",
+    "address": "590 W Putnam Ave, Ste 3, Porterville, CA 93257",
+    "phone": "(559) 781-3700",
+    "type": "fqhc",
+    "lat": 36.070068,
+    "lng": -119.030037,
+    "distance": 111.86358645222556
+  },
+  {
+    "name": "Aria Community Health Center-569pv",
+    "address": "569 W Putnam Ave, Porterville, CA 93257",
+    "phone": "(559) 781-9301",
+    "type": "fqhc",
+    "lat": 36.068981,
+    "lng": -119.029663,
+    "distance": 111.86474441785965
+  },
+  {
+    "name": "Poonam Buttan",
+    "address": "166 N Villa St, Porterville, CA 93257",
+    "phone": "(559) 782-0581",
+    "type": "private",
+    "lat": 36.068859,
+    "lng": -119.030434,
+    "distance": 111.90841263744424
+  },
+  {
+    "name": "Fhcn-strathmore",
+    "address": "22817 Avenue 196, Strathmore, CA 93267",
+    "phone": "(559) 568-0027",
+    "type": "fqhc",
+    "lat": 36.144878,
+    "lng": -119.062042,
+    "distance": 112.25362763552994
+  },
+  {
+    "name": "M Theresa Rusch,md, Inc",
+    "address": "1077 W Morton Ave, Ste 101, Porterville, CA 93257",
+    "phone": "(559) 781-5022",
+    "type": "private",
+    "lat": 36.07299,
+    "lng": -119.041199,
+    "distance": 112.40542513119733
+  },
+  {
+    "name": "Fhcn--porterville",
+    "address": "1107 W Poplar Ave, Porterville, CA 93257",
+    "phone": "(559) 781-7242",
+    "type": "fqhc",
+    "lat": 36.0509,
+    "lng": -119.042313,
+    "distance": 112.89988647020608
+  },
+  {
+    "name": "Omni Family Health- Lindsay",
+    "address": "860 Sequoia Ave, Lindsay, CA 93247",
+    "phone": "(559) 558-9822",
+    "type": "fqhc",
+    "lat": 36.214237,
+    "lng": -119.096046,
+    "distance": 113.08491966900685
+  },
+  {
+    "name": "Kaweah Delta Lindsay Clinic",
+    "address": "839 Sequoia Ave, Lindsay, CA 93247",
+    "phone": "(559) 562-1546",
+    "type": "fqhc",
+    "lat": 36.213741,
+    "lng": -119.096161,
+    "distance": 113.09774112444893
+  },
+  {
+    "name": "Clinica Agua Viva",
+    "address": "833 Sequoia Ave, Lindsay, CA 93247",
+    "phone": "(559) 562-1361",
+    "type": "fqhc",
+    "lat": 36.212963,
+    "lng": -119.09687,
+    "distance": 113.14687476905408
+  },
+  {
+    "name": "Vida Sana Pediatrics",
+    "address": "781 Sequoia Ave Ste 1, Lindsay, CA 93247",
+    "phone": "(559) 562-9399",
+    "type": "VFA",
+    "lat": 36.212429,
+    "lng": -119.096764,
+    "distance": 113.14812090751921
+  },
+  {
+    "name": "Aurora Grace Hwang Md",
+    "address": "835 Sequoia Ave, Lindsay, CA 93247",
+    "phone": "(559) 562-5177",
+    "type": "private",
+    "lat": 36.213539,
+    "lng": -119.097282,
+    "distance": 113.16178338305468
+  },
+  {
+    "name": "Sequoia Family Medical Center",
+    "address": "252 N Highway 65, Lindsay, CA 93247",
+    "phone": "(559) 525-9097",
+    "type": "fqhc",
+    "lat": 36.201729,
+    "lng": -119.101837,
+    "distance": 113.56988395136071
+  },
+  {
+    "name": "Kaweah Delta Exeter Health Clinic",
+    "address": "1014 San Juan Ave, Ste C, Exeter, CA 93221",
+    "phone": "(559) 592-7300",
+    "type": "private",
+    "lat": 36.298382,
+    "lng": -119.131691,
+    "distance": 114.08348320095368
+  },
+  {
+    "name": "Sierra View Community Health Center",
+    "address": "9520 Road 238, Terra Bella, CA 93270",
+    "phone": "(599) 544-6815",
+    "type": "fqhc",
+    "lat": 35.962761,
+    "lng": -119.039444,
+    "distance": 113.60837435223908
+  },
+  {
+    "name": "Fhcn--terra Bella",
+    "address": "9416 Road 238, Terra Bella, CA 93270",
+    "phone": "(559) 535-4201",
+    "type": "fqhc",
+    "lat": 35.960754,
+    "lng": -119.039963,
+    "distance": 113.67931010105904
+  },
+  {
+    "name": "Ahcc Mojave",
+    "address": "2041 Belshaw St, Mojave, CA 93501",
+    "phone": "(661) 824-4511",
+    "type": "fqhc",
+    "lat": 35.056034,
+    "lng": -118.169846,
+    "distance": 115.67955179053723
+  },
+  {
+    "name": "Ahcc Tehachapi",
+    "address": "2041 Belshaw St, Mojave, CA 93501",
+    "phone": "(661) 771-8222",
+    "type": "fqhc",
+    "lat": 35.056034,
+    "lng": -118.169846,
+    "distance": 115.67955179053723
+  }
+]

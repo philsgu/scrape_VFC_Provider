@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Harmony Health Medical Clinicfrc",
+    "address": "920 Chestnut St, Yuba City, CA 95991",
+    "phone": "(530) 763-4252",
+    "type": "fqhc",
+    "lat": 39.142109,
+    "lng": -121.620186,
+    "distance": 0.11907164260103721
+  },
+  {
+    "name": "Ampla Health Yuba City Pediatrics",
+    "address": "931 Market St, Yuba City, CA 95991",
+    "phone": "(530) 671-8820",
+    "type": "fqhc",
+    "lat": 39.144852,
+    "lng": -121.613922,
+    "distance": 0.44412516220211584
+  },
+  {
+    "name": "Ampla Health - Yuba City",
+    "address": "1000 Sutter St, Yuba City, CA 95991",
+    "phone": "5306739420",
+    "type": "public",
+    "lat": 39.14473,
+    "lng": -121.613289,
+    "distance": 0.4637069644247769
+  },
+  {
+    "name": "Sanjiv Midha, Md",
+    "address": "1215 Plumas St, Ste 1900, Yuba City, CA 95991",
+    "phone": "(530) 674-2100",
+    "type": "private",
+    "lat": 39.147079,
+    "lng": -121.616829,
+    "distance": 0.49000063331296057
+  },
+  {
+    "name": "Sutter County Public Health Dept",
+    "address": "1445 Veterans Memorial Cir, Yuba City, CA 95993",
+    "phone": "(530) 822-7215",
+    "type": "public",
+    "lat": 39.143799,
+    "lng": -121.639435,
+    "distance": 1.0729072248952598
+  },
+  {
+    "name": "Feather River Tribal Hlth-yuba City",
+    "address": "555 W Onstott Rd, Yuba City, CA 95993",
+    "phone": "(530) 751-8454",
+    "type": "public",
+    "lat": 39.129803,
+    "lng": -121.634918,
+    "distance": 1.0881552894375899
+  },
+  {
+    "name": "Amplahealth Marysville Med Cannery",
+    "address": "608 J St, Marysville, CA 95901",
+    "phone": "(530) 749-4180",
+    "type": "fqhc",
+    "lat": 39.141022,
+    "lng": -121.599274,
+    "distance": 1.1062391997991472
+  },
+  {
+    "name": "Adventist Health And Rideout",
+    "address": "726 4th St, Fl 4 Marysville, CA 95901",
+    "phone": "(530) 749-4417",
+    "type": "public",
+    "lat": 39.138203,
+    "lng": -121.593994,
+    "distance": 1.3966507384727471
+  },
+  {
+    "name": "Chuk Ndulue, M D",
+    "address": "620 E St, Marysville, CA 95901",
+    "phone": "(530) 741-2600",
+    "type": "fqhc",
+    "lat": 39.141918,
+    "lng": -121.591187,
+    "distance": 1.5423730993496916
+  },
+  {
+    "name": "Marysville Clinic",
+    "address": "527 E St, Marysville, CA 95901",
+    "phone": "(530) 743-5300",
+    "type": "private",
+    "lat": 39.140835,
+    "lng": -121.590553,
+    "distance": 1.5730369260288082
+  },
+  {
+    "name": "Yuba County Health  Human Services",
+    "address": "5730 Packard Ave, Ste 100, Marysville, CA 95901",
+    "phone": "(530) 749-6311",
+    "type": "public",
+    "lat": 39.119781,
+    "lng": -121.566879,
+    "distance": 3.179026256796833
+  },
+  {
+    "name": "Peach Tree Clinic",
+    "address": "5730 Packard Ave, Ste 500, Marysville, CA 95901",
+    "phone": "(530) 749-3242",
+    "type": "VFA",
+    "lat": 39.119781,
+    "lng": -121.566879,
+    "distance": 3.179026256796833
+  },
+  {
+    "name": "Harmony Health Medical Clinic Frc",
+    "address": "1908 N Beale Rd, Ste E, Marysville, CA 95901",
+    "phone": "(530) 743-6888",
+    "type": "private",
+    "lat": 39.127579,
+    "lng": -121.545807,
+    "distance": 4.068792606774819
+  },
+  {
+    "name": "Harmony Health Wellness Center",
+    "address": "1930 North Beale Road, Marysville, CA 95901",
+    "phone": "(530) 645-7336",
+    "type": "fqhc",
+    "lat": 39.127499,
+    "lng": -121.545059,
+    "distance": 4.109113452906171
+  },
+  {
+    "name": "Ampla Health Lindhurst",
+    "address": "4941 Olivehurst Ave, Olivehurst, CA 95961",
+    "phone": "(530) 743-4611",
+    "type": "public",
+    "lat": 39.09745,
+    "lng": -121.550941,
+    "distance": 4.740618011337163
+  },
+  {
+    "name": "Live Oak Medical Clinic",
+    "address": "9980 Live Oak Blvd, Live Oak, CA 95953",
+    "phone": "(530) 749-3242",
+    "type": "fqhc",
+    "lat": 39.275738,
+    "lng": -121.661201,
+    "distance": 9.609404845372755
+  },
+  {
+    "name": "Sanjiv Midha, Md A Medical Corpo",
+    "address": "50 E Gridley Rd, Gridley, CA 95948",
+    "phone": "(530) 674-2100",
+    "type": "private",
+    "lat": 39.363186,
+    "lng": -121.685532,
+    "distance": 12.444497189510898
+  },
+  {
+    "name": "Ampla Health Gridley Medical",
+    "address": "520 Kentucky St, Gridley, CA 95948",
+    "phone": "(530) 846-6231",
+    "type": "fqhc",
+    "lat": 39.36396,
+    "lng": -121.696274,
+    "distance": 12.669259822453586
+  },
+  {
+    "name": "Chuk Ndulue, M D",
+    "address": "135 Spruce St, Gridley, CA 95948",
+    "phone": "(530) 846-1400",
+    "type": "fqhc",
+    "lat": 39.366669,
+    "lng": -121.68885,
+    "distance": 12.725839415347325
+  },
+  {
+    "name": "Colusa Co Health Department",
+    "address": "251 E Webster St, Colusa, CA 95932",
+    "phone": "(530) 458-0380",
+    "type": "public",
+    "lat": 39.207142,
+    "lng": -121.99958,
+    "distance": 17.69148817618077
+  },
+  {
+    "name": "Colusa Health Center",
+    "address": "151 East Webster St, Colusa, CA 95932",
+    "phone": "(530) 458-4162",
+    "type": "fqhc",
+    "lat": 39.207447,
+    "lng": -122.000748,
+    "distance": 17.755208964209682
+  },
+  {
+    "name": "Riverside Health Clinic Of Colusa",
+    "address": "717 Bridge St, Colusa, CA 95932",
+    "phone": "(530) 458-2300",
+    "type": "public",
+    "lat": 39.207619,
+    "lng": -122.002777,
+    "distance": 17.864405687830565
+  }
+]

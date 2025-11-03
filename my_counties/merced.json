@@ -1,0 +1,605 @@
+[
+  {
+    "name": "Childrens Medical Clinic Of Merced",
+    "address": "143 W Main St, Merced, CA 95340",
+    "phone": "(209) 725-2060",
+    "type": "private",
+    "lat": 37.29948,
+    "lng": -120.47802,
+    "distance": 0.327515792730344
+  },
+  {
+    "name": "Merced Faculty Associates",
+    "address": "535 W 25th St, Merced, CA 95340",
+    "phone": "(209) 723-4395",
+    "type": "private",
+    "lat": 37.309971,
+    "lng": -120.479332,
+    "distance": 0.5716366401198728
+  },
+  {
+    "name": "East Campus Health Center",
+    "address": "125 E 18th St, Merced, CA 95340",
+    "phone": "(209) 850-3500",
+    "type": "fqhc",
+    "lat": 37.298901,
+    "lng": -120.472549,
+    "distance": 0.6128965252637687
+  },
+  {
+    "name": "Merced County Department-los Banos",
+    "address": "260 E 15th St, Merced, CA 95341",
+    "phone": "(209) 381-1023",
+    "type": "public",
+    "lat": 37.294701,
+    "lng": -120.472733,
+    "distance": 0.7621377734117201
+  },
+  {
+    "name": "Merced Co Health Department",
+    "address": "260 E 15th St, Merced, CA 95341",
+    "phone": "(209) 381-1023",
+    "type": "public",
+    "lat": 37.294701,
+    "lng": -120.472733,
+    "distance": 0.7621377734117201
+  },
+  {
+    "name": "Mercy Medical Family Practice",
+    "address": "315 E 13th St, Merced, CA 95341",
+    "phone": "(209) 564-4500",
+    "type": "fqhc",
+    "lat": 37.293449,
+    "lng": -120.472511,
+    "distance": 0.8316710536821453
+  },
+  {
+    "name": "Kids Care -  Mercy Med Ctr Merced",
+    "address": "1260 D St, Merced, CA 95341",
+    "phone": "(209) 564-4583",
+    "type": "fqhc",
+    "lat": 37.292274,
+    "lng": -120.474068,
+    "distance": 0.8402747054499201
+  },
+  {
+    "name": "Olivewood Pediatrics",
+    "address": "1190 Olivewood Dr Ste B, Merced, CA 95348",
+    "phone": "(209) 490-4620",
+    "type": "private",
+    "lat": 37.317871,
+    "lng": -120.490501,
+    "distance": 1.160625917813929
+  },
+  {
+    "name": "Long Thao, Md Inc",
+    "address": "700 W Olive Ave, Ste A, Merced, CA 95348",
+    "phone": "(209) 384-8426",
+    "type": "private",
+    "lat": 37.31892,
+    "lng": -120.480293,
+    "distance": 1.1641691550372881
+  },
+  {
+    "name": "Golden Valley Health Ctr - Merced",
+    "address": "847 W Childs Ave, Merced, CA 95341",
+    "phone": "(209) 385-5530",
+    "type": "VFA",
+    "lat": 37.28899,
+    "lng": -120.496307,
+    "distance": 1.1731613616164334
+  },
+  {
+    "name": "Mfa Lifetime Health Care",
+    "address": "374 W Olive Ave, Ste B, Merced, CA 95348",
+    "phone": "(209) 383-3076",
+    "type": "private",
+    "lat": 37.318668,
+    "lng": -120.475044,
+    "distance": 1.2170725764221084
+  },
+  {
+    "name": "Golden State Care",
+    "address": "3150 G St, Ste E, Merced, CA 95340",
+    "phone": "(209) 720-5500",
+    "type": "private",
+    "lat": 37.320583,
+    "lng": -120.468643,
+    "distance": 1.492451401045609
+  },
+  {
+    "name": "Mfa At El Portal",
+    "address": "3385 G St, Ste A, Merced, CA 95340",
+    "phone": "(209) 725-3122",
+    "type": "private",
+    "lat": 37.32605,
+    "lng": -120.470497,
+    "distance": 1.7833571249268378
+  },
+  {
+    "name": "Merced Faculty Associates",
+    "address": "3393 G St, Ste C, Merced, CA 95340",
+    "phone": "(209) 580-4172",
+    "type": "private",
+    "lat": 37.326241,
+    "lng": -120.469772,
+    "distance": 1.8110375717271439
+  },
+  {
+    "name": "Merced Faculty Assocmedgrpinc",
+    "address": "127 W El Portal Dr, Merced, CA 95348",
+    "phone": "(209) 723-3704",
+    "type": "private",
+    "lat": 37.327431,
+    "lng": -120.469711,
+    "distance": 1.8880371315045477
+  },
+  {
+    "name": "Gvhc Merced Ranchero",
+    "address": "2752 Ranchero Lane, Merced, CA 95348",
+    "phone": "(209) 722-4842",
+    "type": "fqhc",
+    "lat": 37.328304,
+    "lng": -120.535881,
+    "distance": 3.424979627911522
+  },
+  {
+    "name": "Castle Family Health Centers Castl",
+    "address": "3605 Hospital Rd, Atwater, CA 95301",
+    "phone": "(209) 381-2000",
+    "type": "fqhc",
+    "lat": 37.364388,
+    "lng": -120.576385,
+    "distance": 6.696613403527516
+  },
+  {
+    "name": "Merced Faculty Associates-castle",
+    "address": "1675 Shaffer Rd, Atwater, CA 95301",
+    "phone": "(209) 383-5500",
+    "type": "private",
+    "lat": 37.348259,
+    "lng": -120.597008,
+    "distance": 7.031349040328825
+  },
+  {
+    "name": "Castle Family Health Centers  Blos",
+    "address": "1251 Grove Ave, Atwater, CA 95301",
+    "phone": "(209) 358-8425",
+    "type": "fqhc",
+    "lat": 37.351028,
+    "lng": -120.607063,
+    "distance": 7.6109497629801695
+  },
+  {
+    "name": "Castle  Atwater",
+    "address": "1775 3rd St, Atwater, CA 95301",
+    "phone": "(209) 381-2080",
+    "type": "fqhc",
+    "lat": 37.352039,
+    "lng": -120.606796,
+    "distance": 7.629034882600095
+  },
+  {
+    "name": "Wellpath",
+    "address": "2840 W Sandy Mush Rd, Merced, CA 95341",
+    "phone": "(209) 381-1408",
+    "type": "public",
+    "lat": 37.185905,
+    "lng": -120.543114,
+    "distance": 8.691500775341837
+  },
+  {
+    "name": "Castle Family Health Centers  Wint",
+    "address": "6029 N Winton Way, Winton, CA 95388",
+    "phone": "(209) 357-7755",
+    "type": "fqhc",
+    "lat": 37.375179,
+    "lng": -120.614288,
+    "distance": 8.805079714905093
+  },
+  {
+    "name": "Golden Valley Health Center-planada",
+    "address": "9235 E Broadway St, Planada, CA 95365",
+    "phone": "(209) 382-0253",
+    "type": "VFA",
+    "lat": 37.290222,
+    "lng": -120.320747,
+    "distance": 8.951557805667829
+  },
+  {
+    "name": "Golden Valley Health Ctr - Le Grand",
+    "address": "13161 Jefferson St, Le Grand, CA 95333",
+    "phone": "(209) 389-1900",
+    "type": "VFA",
+    "lat": 37.229221,
+    "lng": -120.250732,
+    "distance": 13.726755843956992
+  },
+  {
+    "name": "Community Health Centers Of America",
+    "address": "2275 F St Ste 1, Livingston, CA 95334",
+    "phone": "(209) 445-2388",
+    "type": "private",
+    "lat": 37.38245,
+    "lng": -120.713158,
+    "distance": 13.81109824070483
+  },
+  {
+    "name": "Lch Dba Wolves Wellness Center",
+    "address": "1617 Main St, Rm 200, Livingston, CA 95334",
+    "phone": "(209) 850-2003",
+    "type": "fqhc",
+    "lat": 37.376511,
+    "lng": -120.723396,
+    "distance": 14.17471587600462
+  },
+  {
+    "name": "Mfa Livingston",
+    "address": "746 Main St, Livingston, CA 95334",
+    "phone": "(209) 398-2145",
+    "type": "private",
+    "lat": 37.38353,
+    "lng": -120.723633,
+    "distance": 14.368909715022898
+  },
+  {
+    "name": "Livingston Medical Group",
+    "address": "600 B St Ste B, Livingston, CA 95334",
+    "phone": "(209) 850-3500",
+    "type": "VFA",
+    "lat": 37.385155,
+    "lng": -120.734558,
+    "distance": 14.965628216830094
+  },
+  {
+    "name": "Community Health Centers Of America",
+    "address": "101 N Front St Ste B, Chowchilla, CA 93610",
+    "phone": "(559) 201-9181",
+    "type": "private",
+    "lat": 37.125149,
+    "lng": -120.25885,
+    "distance": 17.368713916580905
+  },
+  {
+    "name": "Chowchilla Family Clinic",
+    "address": "129 N 5th St, Chowchilla, CA 93610",
+    "phone": "(559) 665-0275",
+    "type": "fqhc",
+    "lat": 37.12112,
+    "lng": -120.263611,
+    "distance": 17.383232249404475
+  },
+  {
+    "name": "Camarena Health -chowchilla",
+    "address": "300 Prosperity Blvd Bldg B, Chowchilla, CA 93610",
+    "phone": "(559) 664-4355",
+    "type": "VFA",
+    "lat": 37.125031,
+    "lng": -120.253822,
+    "distance": 17.5718856757214
+  },
+  {
+    "name": "Delhi Community Health Center",
+    "address": "16233 King Street, Delhi, CA 95315",
+    "phone": "(209) 252-0500",
+    "type": "fqhc",
+    "lat": 37.433216,
+    "lng": -120.780983,
+    "distance": 18.705975702304322
+  },
+  {
+    "name": "Hilmar Family Medical Center, Inc",
+    "address": "19901 First St, Ste 4, Hilmar, CA 95324",
+    "phone": "(209) 656-8701",
+    "type": "private",
+    "lat": 37.407532,
+    "lng": -120.848122,
+    "distance": 21.33937708277834
+  },
+  {
+    "name": "Hilmar Community Health Center",
+    "address": "7970 Lander Ave, Ste A, Hilmar, CA 95324",
+    "phone": "(209) 262-1816",
+    "type": "VFA",
+    "lat": 37.403812,
+    "lng": -120.85009,
+    "distance": 21.355642766429504
+  },
+  {
+    "name": "Gvhc- Dos Palos",
+    "address": "1405 California Ave, Dos Palos, CA 93620",
+    "phone": "(209) 392-2111",
+    "type": "VFA",
+    "lat": 36.986576,
+    "lng": -120.629036,
+    "distance": 23.24675957543945
+  },
+  {
+    "name": "Dos Palos Apex Health Center",
+    "address": "1549 Golden Gate Ave, Dos Palos, CA 93620",
+    "phone": "(209) 392-0022",
+    "type": "private",
+    "lat": 36.985096,
+    "lng": -120.627434,
+    "distance": 23.31247718041606
+  },
+  {
+    "name": "Golden Valley Health Center-turlock",
+    "address": "1141 N Olive Ave, Turlock, CA 95380",
+    "phone": "(209) 667-2749",
+    "type": "VFA",
+    "lat": 37.50399,
+    "lng": -120.840141,
+    "distance": 24.06079068120728
+  },
+  {
+    "name": "Jagmohan S Bhinder",
+    "address": "1860 Colorado Ave, Turlock, CA 95382",
+    "phone": "(209) 669-1692",
+    "type": "private",
+    "lat": 37.509697,
+    "lng": -120.835228,
+    "distance": 24.073657020005808
+  },
+  {
+    "name": "Gvhc Turlock Pediatric Health Ctr",
+    "address": "1100 Delbon Ave, Turlock, CA 95382",
+    "phone": "(209) 667-0905",
+    "type": "fqhc",
+    "lat": 37.510441,
+    "lng": -120.835609,
+    "distance": 24.121028360346177
+  },
+  {
+    "name": "Livingston Chc Dbaturlock Medoffice",
+    "address": "2141 Colorado Ave, Turlock, CA 95382",
+    "phone": "(209) 850-3500",
+    "type": "fqhc",
+    "lat": 37.512318,
+    "lng": -120.835739,
+    "distance": 24.20411409008433
+  },
+  {
+    "name": "Emanuel Medical Center",
+    "address": "825 Delbon Ave, Turlock, CA 95382",
+    "phone": "(209) 664-2880",
+    "type": "private",
+    "lat": 37.511742,
+    "lng": -120.838974,
+    "distance": 24.322755214492165
+  },
+  {
+    "name": "Golden Valley Hlth Ctr-turlock West",
+    "address": "1200 W Main St, Turlock, CA 95380",
+    "phone": "(209) 250-9672",
+    "type": "VFA",
+    "lat": 37.492329,
+    "lng": -120.863052,
+    "distance": 24.65906459669011
+  },
+  {
+    "name": "Access Family Medical Center",
+    "address": "444 Santa Rita Ave, Los Banos, CA 93635",
+    "phone": "(209) 710-0802",
+    "type": "VFA",
+    "lat": 37.062649,
+    "lng": -120.837029,
+    "distance": 25.574242102659753
+  },
+  {
+    "name": "Golden Valley Health Ctr Montevista",
+    "address": "2240 W Monte Vista Ave, Turlock, CA 95382",
+    "phone": "(209) 667-1270",
+    "type": "fqhc",
+    "lat": 37.521145,
+    "lng": -120.87413,
+    "distance": 26.266384918002117
+  },
+  {
+    "name": "Family Health Medical Center",
+    "address": "1045 5th St, Los Banos, CA 93635",
+    "phone": "(209) 827-4747",
+    "type": "VFA",
+    "lat": 37.060009,
+    "lng": -120.8507,
+    "distance": 26.26861698579822
+  },
+  {
+    "name": "Karthikeya Devireddy, Md, Inc",
+    "address": "311 W I St, Los Banos, CA 93635",
+    "phone": "(209) 826-2222",
+    "type": "private",
+    "lat": 37.063042,
+    "lng": -120.857147,
+    "distance": 26.411210629733844
+  },
+  {
+    "name": "Apex Annex  Health Center",
+    "address": "400 W I St, Los Banos, CA 93635",
+    "phone": "(209) 827-9999",
+    "type": "private",
+    "lat": 37.063931,
+    "lng": -120.858253,
+    "distance": 26.42033532675229
+  },
+  {
+    "name": "Golden Valley Hlth Ctr - Los Banos",
+    "address": "821 Texas Ave, Los Banos, CA 93635",
+    "phone": "(209) 826-1045",
+    "type": "VFA",
+    "lat": 37.06395,
+    "lng": -120.860931,
+    "distance": 26.5349724565013
+  },
+  {
+    "name": "Memorial Hospital Rural Health Clin",
+    "address": "1253 W I St, Los Banos, CA 93635",
+    "phone": "(209) 710-6333",
+    "type": "fqhc",
+    "lat": 37.059029,
+    "lng": -120.864815,
+    "distance": 26.914458906444377
+  },
+  {
+    "name": "Cedar Family Practice",
+    "address": "12700 Welch St, Waterford, CA 95386",
+    "phone": "(209) 874-2345",
+    "type": "private",
+    "lat": 37.639374,
+    "lng": -120.760452,
+    "distance": 27.82929558616389
+  },
+  {
+    "name": "Lchc Dba Bentley Health Center",
+    "address": "12619 Bentley St, Waterford, CA 95386",
+    "phone": "(209) 442-6200",
+    "type": "VFA",
+    "lat": 37.641113,
+    "lng": -120.760902,
+    "distance": 25.115717249021586
+  },
+  {
+    "name": "Krishnamoorthi Md Inc",
+    "address": "324 F St, Waterford, CA 95386",
+    "phone": "(209) 874-2321",
+    "type": "private",
+    "lat": 37.641548,
+    "lng": -120.761978,
+    "distance": 25.17537617663602
+  },
+  {
+    "name": "Waterford Community Health Center",
+    "address": "12146 Yosemite Blvd, Waterford, CA 95386",
+    "phone": "(209) 874-9254",
+    "type": "fqhc",
+    "lat": 37.638157,
+    "lng": -120.768913,
+    "distance": 25.22446273714953
+  },
+  {
+    "name": "Livingston Chc Dba Hughson Med Offi",
+    "address": "2412 3rd St, Ste B, Hughson, CA 95326",
+    "phone": "(209) 850-3500",
+    "type": "fqhc",
+    "lat": 37.59605,
+    "lng": -120.866287,
+    "distance": 26.942812350649326
+  },
+  {
+    "name": "Valley Health Team",
+    "address": "689 N St, Firebaugh, CA 93622",
+    "phone": "(559) 659-3037",
+    "type": "VFA",
+    "lat": 36.862705,
+    "lng": -120.461632,
+    "distance": 26.93868810968775
+  },
+  {
+    "name": "Firebaugh Family Health Clinic",
+    "address": "992 O St, Firebaugh, CA 93622",
+    "phone": "(559) 659-3011",
+    "type": "public",
+    "lat": 36.859917,
+    "lng": -120.457779,
+    "distance": 27.141203060547717
+  },
+  {
+    "name": "Mariposa Co Health Department",
+    "address": "5300 State Hwy 49 North, Mariposa, CA 95338",
+    "phone": "(209) 966-3689",
+    "type": "public",
+    "lat": 37.49778,
+    "lng": -119.982094,
+    "distance": 28.195361803723348
+  },
+  {
+    "name": "Community Health Centers Of America",
+    "address": "5320 State Highway 49 Ste 1, Mariposa, CA 95338",
+    "phone": "(209) 966-2344",
+    "type": "public",
+    "lat": 37.499928,
+    "lng": -119.983376,
+    "distance": 28.20490755274077
+  },
+  {
+    "name": "John C Fremont Healthcare District",
+    "address": "5189 Hospital Rd, Mariposa, CA 95338",
+    "phone": "(209) 966-0850",
+    "type": "fqhc",
+    "lat": 37.500389,
+    "lng": -119.977669,
+    "distance": 28.494605669325036
+  },
+  {
+    "name": "Mariposa Indian Health Center",
+    "address": "5192 Hospital Road, Mariposa, CA 95338",
+    "phone": "(209) 742-6144",
+    "type": "VFA",
+    "lat": 37.500801,
+    "lng": -119.976753,
+    "distance": 28.552296473915643
+  },
+  {
+    "name": "Community Health Centers Of America",
+    "address": "489 5th St, Gustine, CA 95322",
+    "phone": "(209) 854-3728",
+    "type": "fqhc",
+    "lat": 37.25491,
+    "lng": -120.999588,
+    "distance": 25.866160211299135
+  },
+  {
+    "name": "Camarena Health Matilda Schoolbased",
+    "address": "16645 Road 26, Madera, CA 93638",
+    "phone": "(559) 664-4000",
+    "type": "public",
+    "lat": 36.991634,
+    "lng": -120.074104,
+    "distance": 26.738146214392344
+  },
+  {
+    "name": "Camarena Health Mobile Unit",
+    "address": "16645 Road 26, Madera, CA 93638",
+    "phone": "(559) 664-4000",
+    "type": "fqhc",
+    "lat": 36.991634,
+    "lng": -120.074104,
+    "distance": 26.738146214392344
+  },
+  {
+    "name": "Valley Pediatrics",
+    "address": "2339 W Cleveland Ave, Ste 101, Madera, CA 93637",
+    "phone": "(559) 675-9400",
+    "type": "private",
+    "lat": 36.97504,
+    "lng": -120.085732,
+    "distance": 27.068335197455614
+  },
+  {
+    "name": "Westside Medical Group, Inc",
+    "address": "1107 O St, Firebaugh, CA 93622",
+    "phone": "(559) 659-9000",
+    "type": "fqhc",
+    "lat": 36.858898,
+    "lng": -120.45594,
+    "distance": 27.205889722731367
+  },
+  {
+    "name": "Clovis Pediatric Group",
+    "address": "1521 N Schnoor Ave, Ste 103, Madera, CA 93637",
+    "phone": "(559) 900-3045",
+    "type": "private",
+    "lat": 36.972202,
+    "lng": -120.083916,
+    "distance": 27.278128274666336
+  },
+  {
+    "name": "Camarena Health Center",
+    "address": "1130 Country Club Dr, Ste E, Madera, CA 93638",
+    "phone": "(559) 664-4000",
+    "type": "VFA",
+    "lat": 36.976109,
+    "lng": -120.074593,
+    "distance": 27.454078641673252
+  }
+]

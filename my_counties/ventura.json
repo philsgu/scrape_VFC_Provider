@@ -1,0 +1,470 @@
+[
+  {
+    "name": "Cmh Center For Family Health",
+    "address": "120 N Ashwood Ave, Ventura, CA 93003",
+    "phone": "(805) 658-5800",
+    "type": "private",
+    "lat": 34.276035,
+    "lng": -119.239464,
+    "distance": 0.6056396278425711
+  },
+  {
+    "name": "Ventura County Medical Center",
+    "address": "300 Hillmont Ave, Ventura, CA 93003",
+    "phone": "(805) 652-6220",
+    "type": "public",
+    "lat": 34.277191,
+    "lng": -119.252998,
+    "distance": 1.3819002257721003
+  },
+  {
+    "name": "Academic Family Medicine Center",
+    "address": "300 Hillmont Ave Bldg 340, Ventura, CA 93003",
+    "phone": "(805) 652-6100",
+    "type": "public",
+    "lat": 34.277004,
+    "lng": -119.253853,
+    "distance": 1.4287348089408092
+  },
+  {
+    "name": "Pediatric Diagnostic Center",
+    "address": "300 Hillmont Ave Bldg 340, Ventura, CA 93003",
+    "phone": "(805) 652-6255",
+    "type": "fqhc",
+    "lat": 34.277004,
+    "lng": -119.253853,
+    "distance": 1.4287348089408092
+  },
+  {
+    "name": "Midtown Medical Group",
+    "address": "2721 E Main St, Ventura, CA 93003",
+    "phone": "(805) 948-2841",
+    "type": "private",
+    "lat": 34.273724,
+    "lng": -119.259865,
+    "distance": 1.7633882130544936
+  },
+  {
+    "name": "Dignity Health Medical Group",
+    "address": "2901 N Ventura Rd Ste 100, Oxnard, CA 93036",
+    "phone": "(805) 981-6101",
+    "type": "private",
+    "lat": 34.244751,
+    "lng": -119.181938,
+    "distance": 3.3878189222755446
+  },
+  {
+    "name": "Clinicas Del Camino Real-ventura",
+    "address": "200 S Wells Rd, Ste 100, Ventura, CA 93004",
+    "phone": "(805) 647-6322",
+    "type": "VFA",
+    "lat": 34.293571,
+    "lng": -119.159073,
+    "distance": 4.2020024995138
+  },
+  {
+    "name": "Cmh Center For Family Health",
+    "address": "138 W Main St, Ste E, Ventura, CA 93001",
+    "phone": "(805) 667-2850",
+    "type": "private",
+    "lat": 34.281254,
+    "lng": -119.302727,
+    "distance": 4.23456427138738
+  },
+  {
+    "name": "West Ventura Medical Clinic",
+    "address": "133 W Santa Clara St, Ventura, CA 93001",
+    "phone": "(805) 641-5600",
+    "type": "VFA",
+    "lat": 34.280048,
+    "lng": -119.303108,
+    "distance": 4.248056612994313
+  },
+  {
+    "name": "La Paz Rx",
+    "address": "2355 N Oxnard Blvd, Oxnard, CA 93036",
+    "phone": "8054851991",
+    "type": "private",
+    "lat": 34.227371,
+    "lng": -119.179131,
+    "distance": 4.33156224197386
+  },
+  {
+    "name": "Cmh-center For Family Health",
+    "address": "2361 E Vineyard Ave, Oxnard, CA 93036",
+    "phone": "(805) 981-3770",
+    "type": "private",
+    "lat": 34.228947,
+    "lng": -119.175629,
+    "distance": 4.386680175521037
+  },
+  {
+    "name": "Wellpath",
+    "address": "4333 E Vineyard Ave, Oxnard, CA 93036",
+    "phone": "(805) 981-5626",
+    "type": "private",
+    "lat": 34.254925,
+    "lng": -119.155861,
+    "distance": 4.392326082765095
+  },
+  {
+    "name": "Clinic Del Camino Real - Krb",
+    "address": "1100 W Gonzales Rd, Oxnard, CA 93036",
+    "phone": "(805) 988-0053",
+    "type": "VFA",
+    "lat": 34.218872,
+    "lng": -119.19075,
+    "distance": 4.427269151228499
+  },
+  {
+    "name": "Clinicas Del Camino Real Inc-el Rio",
+    "address": "221 E Ventura Blvd, Ste 126, Oxnard, CA 93036",
+    "phone": "(805) 436-3444",
+    "type": "VFA",
+    "lat": 34.231064,
+    "lng": -119.1707,
+    "distance": 4.487369858004658
+  },
+  {
+    "name": "Rose Avenue  Family Medical Group",
+    "address": "451 W Gonzales Rd, Ste 230, Oxnard, CA 93036",
+    "phone": "(805) 988-1443",
+    "type": "private",
+    "lat": 34.219582,
+    "lng": -119.181709,
+    "distance": 4.663528359121183
+  },
+  {
+    "name": "Mmg Pediatric Specialty",
+    "address": "3655 W 5th St, Oxnard, CA 93030",
+    "phone": "(805) 948-4442",
+    "type": "public",
+    "lat": 34.198231,
+    "lng": -119.219482,
+    "distance": 5.304865601212695
+  },
+  {
+    "name": "Cmh Center For Fam Hlth-airport Mar",
+    "address": "3641 W 5th St, Oxnard, CA 93030",
+    "phone": "(805) 985-5505",
+    "type": "private",
+    "lat": 34.197659,
+    "lng": -119.218216,
+    "distance": 5.35204124916696
+  },
+  {
+    "name": "Clinicas Del Camino Real La Colonia",
+    "address": "801 Cooper Rd, Oxnard, CA 93030",
+    "phone": "(805) 330-8100",
+    "type": "fqhc",
+    "lat": 34.204769,
+    "lng": -119.170372,
+    "distance": 5.873466242907091
+  },
+  {
+    "name": "Kasemsant Hansuvadha",
+    "address": "963 W 7th St, Oxnard, CA 93030",
+    "phone": "(805) 487-9897",
+    "type": "private",
+    "lat": 34.19593,
+    "lng": -119.188889,
+    "distance": 5.8990802519555725
+  },
+  {
+    "name": "Mandalay Bay Women And Children's",
+    "address": "2000 Outlet Center Dr, Ste 110, Oxnard, CA 93036",
+    "phone": "(805) 604-4588",
+    "type": "fqhc",
+    "lat": 34.221619,
+    "lng": -119.147461,
+    "distance": 5.923843254776595
+  },
+  {
+    "name": "Ventura County Public Hlthnoxnard",
+    "address": "2240 E Gonzales Rd, Ste 140, Oxnard, CA 93036",
+    "phone": "(805) 981-5221",
+    "type": "public",
+    "lat": 34.218002,
+    "lng": -119.146919,
+    "distance": 6.105244118670037
+  },
+  {
+    "name": "Magnolia Health Care Clinic",
+    "address": "2240 E Gonzales Rd Ste 100, Oxnard, CA 93036",
+    "phone": "(805) 981-5161",
+    "type": "fqhc",
+    "lat": 34.217979,
+    "lng": -119.146881,
+    "distance": 6.107930842533204
+  },
+  {
+    "name": "Clinicas Del Camino Real Inc- Oxnar",
+    "address": "650 Meta St, Oxnard, CA 93030",
+    "phone": "(805) 487-5351",
+    "type": "VFA",
+    "lat": 34.195332,
+    "lng": -119.175568,
+    "distance": 6.270343245586816
+  },
+  {
+    "name": "Buena Medical Clinic",
+    "address": "905 S A St, Ste 1, Oxnard, CA 93030",
+    "phone": "(805) 487-9150",
+    "type": "private",
+    "lat": 34.192013,
+    "lng": -119.177559,
+    "distance": 6.418780010986166
+  },
+  {
+    "name": "Las Islas Fam Med Grp, Inc",
+    "address": "2400 South C Street, Oxnard, CA 93033",
+    "phone": "(805) 240-7000",
+    "type": "VFA",
+    "lat": 34.177021,
+    "lng": -119.180946,
+    "distance": 7.279978200302546
+  },
+  {
+    "name": "Ventura Co Public Health So Oxnard",
+    "address": "2500 S C St, Ste B-1, Oxnard, CA 93033",
+    "phone": "(805) 981-5221",
+    "type": "public",
+    "lat": 34.176701,
+    "lng": -119.181259,
+    "distance": 7.293789670252202
+  },
+  {
+    "name": "Clinicas Del Camino Real -rsj",
+    "address": "2100 Statham Blvd, Oxnard, CA 93033",
+    "phone": "(805) 330-8680",
+    "type": "fqhc",
+    "lat": 34.178936,
+    "lng": -119.164902,
+    "distance": 7.556743671665119
+  },
+  {
+    "name": "Cmh Center For Family Health",
+    "address": "2921 Saviers Rd, Oxnard, CA 93033",
+    "phone": "(805) 487-5588",
+    "type": "private",
+    "lat": 34.172722,
+    "lng": -119.178169,
+    "distance": 7.615048484354706
+  },
+  {
+    "name": "Maravilla Community Hlth Ctr",
+    "address": "450 W Clara St, Oxnard, CA 93033",
+    "phone": "(805) 488-0210",
+    "type": "VFA",
+    "lat": 34.151161,
+    "lng": -119.182274,
+    "distance": 8.937450352865095
+  },
+  {
+    "name": "Cmh Centers For Family Health",
+    "address": "321 E Port Hueneme Rd, Port Hueneme, CA 93041",
+    "phone": "(805) 652-4267",
+    "type": "private",
+    "lat": 34.147797,
+    "lng": -119.196541,
+    "distance": 8.955971634536901
+  },
+  {
+    "name": "Clinicas Del Camino Real-oceanview",
+    "address": "4400 Olds Rd, Oxnard, CA 93033",
+    "phone": "(805) 986-5551",
+    "type": "VFA",
+    "lat": 34.160275,
+    "lng": -119.14875,
+    "distance": 9.133922644816066
+  },
+  {
+    "name": "Centers For Family Health",
+    "address": "655 Ventura Ave, Oak View, CA 93022",
+    "phone": "(805) 649-3750",
+    "type": "fqhc",
+    "lat": 34.396519,
+    "lng": -119.300003,
+    "distance": 9.347787768045785
+  },
+  {
+    "name": "Dignity Health Medical Group",
+    "address": "64 E Daily Dr, Camarillo, CA 93010",
+    "phone": "(805) 384-8071",
+    "type": "private",
+    "lat": 34.221275,
+    "lng": -119.069016,
+    "distance": 9.852694735110331
+  },
+  {
+    "name": "Santa Paula West",
+    "address": "254 W Harvard Blvd, Ste B, Santa Paula, CA 93060",
+    "phone": "(805) 229-0200",
+    "type": "fqhc",
+    "lat": 34.345177,
+    "lng": -119.075523,
+    "distance": 10.02561999921547
+  },
+  {
+    "name": "Clinicas Del Camino Real, Inc, Pas",
+    "address": "730 Paseo Camarillo, Camarillo, CA 93010",
+    "phone": "(805) 920-7021",
+    "type": "fqhc",
+    "lat": 34.220421,
+    "lng": -119.060303,
+    "distance": 10.337191460937605
+  },
+  {
+    "name": "Centers For Family Health",
+    "address": "242 E Harvard Blvd, Ste C, Santa Paula, CA 93060",
+    "phone": "(805) 525-9595",
+    "type": "fqhc",
+    "lat": 34.346581,
+    "lng": -119.068451,
+    "distance": 10.42601803213682
+  },
+  {
+    "name": "Premiere Health Center",
+    "address": "258 E Harvard Blvd, Santa Paula, CA 93060",
+    "phone": "(805) 525-8622",
+    "type": "fqhc",
+    "lat": 34.34734,
+    "lng": -119.06852,
+    "distance": 10.447670294099783
+  },
+  {
+    "name": "Clinicas Del Camino Real Inc-santa",
+    "address": "500 E Main St, Santa Paula, CA 93060",
+    "phone": "(805) 933-0895",
+    "type": "VFA",
+    "lat": 34.350979,
+    "lng": -119.068443,
+    "distance": 10.574542373450178
+  },
+  {
+    "name": "Santa Paula Hospital Clinic",
+    "address": "845 N 10th St, Ste 3, Santa Paula, CA 93060",
+    "phone": "(805) 525-0215",
+    "type": "fqhc",
+    "lat": 34.365898,
+    "lng": -119.065598,
+    "distance": 11.258433985247178
+  },
+  {
+    "name": "Ventura County Med - Santa Paula",
+    "address": "825 N 10th St, Rm 152, Santa Paula, CA 93060",
+    "phone": "(805) 933-8636",
+    "type": "public",
+    "lat": 34.365799,
+    "lng": -119.065407,
+    "distance": 11.263620115965768
+  },
+  {
+    "name": "Cmh Centers For Family Health- Cama",
+    "address": "422 Arneill Rd, Ste B, Camarillo, CA 93010",
+    "phone": "(805) 482-1282",
+    "type": "public",
+    "lat": 34.221455,
+    "lng": -119.038895,
+    "distance": 11.462346806540502
+  },
+  {
+    "name": "Santa Paula Clinic",
+    "address": "1334 E Main St, Ste B Santa Paula, CA 93060",
+    "phone": "(805) 933-1122",
+    "type": "public",
+    "lat": 34.356052,
+    "lng": -119.05265,
+    "distance": 11.531224822818823
+  },
+  {
+    "name": "Ojai Valley Community Health Care",
+    "address": "1200 Maricopa Hwy, Ojai, CA 93023",
+    "phone": "(805) 640-8293",
+    "type": "VFA",
+    "lat": 34.442669,
+    "lng": -119.262993,
+    "distance": 11.773917222597927
+  },
+  {
+    "name": "Las Posas Family Medical Group",
+    "address": "3801 Las Posas Rd, Ste 214, Camarillo, CA 93010",
+    "phone": "(805) 437-0900",
+    "type": "fqhc",
+    "lat": 34.241982,
+    "lng": -119.019508,
+    "distance": 12.174455492006935
+  },
+  {
+    "name": "Carpinteria Health Care Center",
+    "address": "931 Walnut Ave, Carpinteria, CA 93013",
+    "phone": "(805) 560-1050",
+    "type": "fqhc",
+    "lat": 34.396904,
+    "lng": -119.517113,
+    "distance": 18.48388572835353
+  },
+  {
+    "name": "Clinicas Del Camino Real- Moorpark",
+    "address": "4279 Tierra Rejada Rd, Moorpark, CA 93021",
+    "phone": "(805) 222-2323",
+    "type": "VFA",
+    "lat": 34.268299,
+    "lng": -118.899811,
+    "distance": 18.801998110736797
+  },
+  {
+    "name": "Fillmore Medical Plaza",
+    "address": "852 W Ventura St, Fillmore, CA 93015",
+    "phone": "(805) 524-2672",
+    "type": "fqhc",
+    "lat": 34.395149,
+    "lng": -118.921989,
+    "distance": 19.396880240033337
+  },
+  {
+    "name": "Fillmore Family Medical Group",
+    "address": "828 W Ventura St, Ste 100, Fillmore, CA 93015",
+    "phone": "(805) 524-2000",
+    "type": "fqhc",
+    "lat": 34.39539,
+    "lng": -118.920921,
+    "distance": 19.459030339063922
+  },
+  {
+    "name": "Clinicas Del Camino Real Newbury Pa",
+    "address": "1000 Newbury Rd, Ste 150, Newbury Park, CA 91320",
+    "phone": "(805) 498-3640",
+    "type": "VFA",
+    "lat": 34.182968,
+    "lng": -118.90435,
+    "distance": 19.598086592138177
+  },
+  {
+    "name": "Clinicas Del Camino Real - Fillmore",
+    "address": "355 Central Ave, Fillmore, CA 93015",
+    "phone": "(805) 524-4926",
+    "type": "VFA",
+    "lat": 34.40023,
+    "lng": -118.91407,
+    "distance": 19.955612830555935
+  },
+  {
+    "name": "Moorpark Family Medical Clinic",
+    "address": "612 Spring Rd, Bldg A, Moorpark, CA 93021",
+    "phone": "(805) 523-5400",
+    "type": "fqhc",
+    "lat": 34.28162,
+    "lng": -118.87468,
+    "distance": 20.441230974513086
+  },
+  {
+    "name": "Conejo Valley Family Medical Group",
+    "address": "125 W Thousand Oaks Blvd, Ste 300, Thousand Oaks, CA 91360",
+    "phone": "(805) 418-9100",
+    "type": "VFA",
+    "lat": 34.17915,
+    "lng": -118.880112,
+    "distance": 20.184076153759722
+  }
+]

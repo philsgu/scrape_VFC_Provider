@@ -1,0 +1,443 @@
+[
+  {
+    "name": "Rklmc",
+    "address": "835 Webster St, Oakland, CA 94607",
+    "phone": "(510) 318-5800",
+    "type": "fqhc",
+    "lat": 37.799541,
+    "lng": -122.271233,
+    "distance": 0.3357171768078
+  },
+  {
+    "name": "Asian Health Services",
+    "address": "818 Webster St, Oakland, CA 94607",
+    "phone": "(510) 986-6800",
+    "type": "fqhc",
+    "lat": 37.799366,
+    "lng": -122.270943,
+    "distance": 0.3481210023128008
+  },
+  {
+    "name": "Lifelong Medical Care- West Oakland",
+    "address": "991 14th St, Bldg H, Oakland, CA 94607",
+    "phone": "(510) 874-7272",
+    "type": "fqhc",
+    "lat": 37.808739,
+    "lng": -122.282715,
+    "distance": 0.6964562835966875
+  },
+  {
+    "name": "Youth Heart Health Center",
+    "address": "286 E 10th St, Fl 1, Oakland, CA 94606",
+    "phone": "(510) 879-1568",
+    "type": "fqhc",
+    "lat": 37.795315,
+    "lng": -122.258377,
+    "distance": 0.9403388648164045
+  },
+  {
+    "name": "Chappell Hayes Health Center",
+    "address": "2607 Myrtle St, Oakland, CA 94607",
+    "phone": "(510) 835-1393",
+    "type": "public",
+    "lat": 37.817932,
+    "lng": -122.278595,
+    "distance": 1.0184591706045152
+  },
+  {
+    "name": "Oak Tree Pediatrics, Inc",
+    "address": "2929 Summit St, Ste 210, Oakland, CA 94609",
+    "phone": "(510) 832-0839",
+    "type": "private",
+    "lat": 37.818401,
+    "lng": -122.26506,
+    "distance": 1.023867817609387
+  },
+  {
+    "name": "Lifelong Lenoir Health Center",
+    "address": "2940 Summit St, Ste 1, Oakland, CA 94609",
+    "phone": "(510) 834-4897",
+    "type": "private",
+    "lat": 37.81839,
+    "lng": -122.264282,
+    "distance": 1.0378132268202407
+  },
+  {
+    "name": "Frank Kiang Medical Center",
+    "address": "250 E 18th St, Fl 2, Oakland, CA 94606",
+    "phone": "(510) 735-3888",
+    "type": "fqhc",
+    "lat": 37.80027,
+    "lng": -122.252533,
+    "distance": 1.0583457037475859
+  },
+  {
+    "name": "Emeryville Family Medicine",
+    "address": "3100 Telegraph Ave, Ste 2109, Oakland, CA 94609",
+    "phone": "(510) 286-8160",
+    "type": "private",
+    "lat": 37.82029,
+    "lng": -122.266327,
+    "distance": 1.1297004327165878
+  },
+  {
+    "name": "International Pediatrics",
+    "address": "600 International Blvd, Ste 102, Oakland, CA 94606",
+    "phone": "(510) 208-3540",
+    "type": "private",
+    "lat": 37.795021,
+    "lng": -122.252609,
+    "distance": 1.2042616569110134
+  },
+  {
+    "name": "Primary Pediatric Medical Group",
+    "address": "3300 Webster St, Ste 1202, Oakland, CA 94609",
+    "phone": "(510) 433-1040",
+    "type": "private",
+    "lat": 37.821106,
+    "lng": -122.261528,
+    "distance": 1.269355941984782
+  },
+  {
+    "name": "San Antonio Neighborhood Health Ctr",
+    "address": "1030 International Blvd, Oakland, CA 94606",
+    "phone": "(510) 464-5801",
+    "type": "VFA",
+    "lat": 37.791908,
+    "lng": -122.248993,
+    "distance": 1.4883390600546789
+  },
+  {
+    "name": "Kaiser Permanente Mosswood Peds",
+    "address": "3600 Broadway, Oakland, CA 94611",
+    "phone": "(510) 752-1200",
+    "type": "private",
+    "lat": 37.823502,
+    "lng": -122.258247,
+    "distance": 1.4973268173639454
+  },
+  {
+    "name": "Oakland High School Wildcat Clinic",
+    "address": "1023 Macarthur Blvd, Oakland, CA 94610",
+    "phone": "(510) 735-3290",
+    "type": "public",
+    "lat": 37.804504,
+    "lng": -122.236832,
+    "distance": 1.8763363370348565
+  },
+  {
+    "name": "Roosevelt Health Center",
+    "address": "1926 E 19th St, Oakland, CA 94606",
+    "phone": "(510) 535-2893",
+    "type": "fqhc",
+    "lat": 37.789616,
+    "lng": -122.23748,
+    "distance": 2.10552977852297
+  },
+  {
+    "name": "Highland Hospital Ped Clinic",
+    "address": "1411 E 31st St, Oakland, CA 94602",
+    "phone": "(510) 437-4887",
+    "type": "public",
+    "lat": 37.798279,
+    "lng": -122.231667,
+    "distance": 2.1994507007957704
+  },
+  {
+    "name": "Childrens Hospital Oak Primary Care",
+    "address": "5220 Claremont Ave, Oakland, CA 94618",
+    "phone": "(510) 428-3213",
+    "type": "fqhc",
+    "lat": 37.838451,
+    "lng": -122.260803,
+    "distance": 2.4203346404261663
+  },
+  {
+    "name": "Kerry's Kids",
+    "address": "5220 Claremont Ave, Oakland, CA 94618",
+    "phone": "(510) 428-3331",
+    "type": "private",
+    "lat": 37.838528,
+    "lng": -122.260979,
+    "distance": 2.4232366696174825
+  },
+  {
+    "name": "Oakland Teen Clinic",
+    "address": "5400 Telegraph Ave, Oakland, CA 94609",
+    "phone": "(510) 428-3885",
+    "type": "public",
+    "lat": 37.839199,
+    "lng": -122.261337,
+    "distance": 2.46405438040848
+  },
+  {
+    "name": "Glenview Pediatrics Gary Bean",
+    "address": "4180 Park Blvd, Oakland, CA 94602",
+    "phone": "(510) 530-5437",
+    "type": "private",
+    "lat": 37.806831,
+    "lng": -122.222771,
+    "distance": 2.649265016927552
+  },
+  {
+    "name": "Native American Health Center",
+    "address": "2950 International Blvd, Oakland, CA 94601",
+    "phone": "(510) 535-4427",
+    "type": "public",
+    "lat": 37.77911,
+    "lng": -122.228218,
+    "distance": 2.926090684761226
+  },
+  {
+    "name": "Esteban Lovato",
+    "address": "3022 International Blvd, Ste 312, Oakland, CA 94601",
+    "phone": "(510) 261-1677",
+    "type": "private",
+    "lat": 37.778751,
+    "lng": -122.22744,
+    "distance": 2.9749803146406353
+  },
+  {
+    "name": "Kiwi Pediatrics Medical Group Inc",
+    "address": "1744 Alcatraz Ave, Berkeley, CA 94703",
+    "phone": "(510) 652-1720",
+    "type": "private",
+    "lat": 37.848461,
+    "lng": -122.272171,
+    "distance": 3.0449803657348804
+  },
+  {
+    "name": "Clinica Alta Vista",
+    "address": "1515 Fruitvale Ave, Oakland, CA 94601",
+    "phone": "(510) 535-6300",
+    "type": "fqhc",
+    "lat": 37.779202,
+    "lng": -122.225403,
+    "distance": 3.047151488736376
+  },
+  {
+    "name": "Hawthorne School Based Clinic",
+    "address": "1601 Fruitvale Ave, Oakland, CA 94601",
+    "phone": "(510) 535-6440",
+    "type": "fqhc",
+    "lat": 37.779839,
+    "lng": -122.224777,
+    "distance": 3.050532014417962
+  },
+  {
+    "name": "Jose Pedro Enz Md",
+    "address": "6333 Telegraph Ave, Ste 203, Oakland, CA 94609",
+    "phone": "(510) 548-8905",
+    "type": "private",
+    "lat": 37.849159,
+    "lng": -122.261063,
+    "distance": 3.141854956816696
+  },
+  {
+    "name": "Primary Pediatric Med Grp",
+    "address": "1332 Park St, Ste 200, Alameda, CA 94501",
+    "phone": "(510) 523-3123",
+    "type": "private",
+    "lat": 37.76305,
+    "lng": -122.242943,
+    "distance": 3.247259729633178
+  },
+  {
+    "name": "Alameda Pediatric Associates",
+    "address": "1332 Park St, Ste 202, Alameda, CA 94501",
+    "phone": "(510) 523-3417",
+    "type": "private",
+    "lat": 37.76305,
+    "lng": -122.242943,
+    "distance": 3.247259729633178
+  },
+  {
+    "name": "Packard Children's Health Alliance",
+    "address": "1359 Park Ave, Alameda, CA 94501",
+    "phone": "(510) 523-8162",
+    "type": "private",
+    "lat": 37.763359,
+    "lng": -122.242149,
+    "distance": 3.249421903675953
+  },
+  {
+    "name": "Alameda Family Physicians",
+    "address": "2433 Central Ave, Alameda, CA 94501",
+    "phone": "(510) 769-9492",
+    "type": "private",
+    "lat": 37.763809,
+    "lng": -122.24115,
+    "distance": 3.2495294566759076
+  },
+  {
+    "name": "Native American Health Center-ufsa",
+    "address": "2101 35th Ave, Oakland, CA 94601",
+    "phone": "(510) 436-3009",
+    "type": "fqhc",
+    "lat": 37.784702,
+    "lng": -122.216553,
+    "distance": 3.279603435641857
+  },
+  {
+    "name": "La Clinica De La Raza",
+    "address": "3451 E 12th St, Fl 2, Oakland, CA 94601",
+    "phone": "(510) 535-3592",
+    "type": "VFA",
+    "lat": 37.775478,
+    "lng": -122.223534,
+    "distance": 3.2815248392621625
+  },
+  {
+    "name": "Absmc Ashby",
+    "address": "2450 Ashby Ave, 3rd Fl Pharmacy, Berkeley, CA 94705",
+    "phone": "(510) 206-6985",
+    "type": "private",
+    "lat": 37.855728,
+    "lng": -122.257324,
+    "distance": 3.6265969573453845
+  },
+  {
+    "name": "Laurel Pediatrics",
+    "address": "3055 Macarthur Blvd, Oakland, CA 94602",
+    "phone": "(510) 530-1111",
+    "type": "private",
+    "lat": 37.796478,
+    "lng": -122.20414,
+    "distance": 3.702013006310387
+  },
+  {
+    "name": "Packard Children's Health Alliance",
+    "address": "2915 Telegraph Ave, Ste 200, Berkeley, CA 94705",
+    "phone": "(510) 843-4544",
+    "type": "private",
+    "lat": 37.857159,
+    "lng": -122.25914,
+    "distance": 3.7044344730687198
+  },
+  {
+    "name": "Robert Watts",
+    "address": "3001 High St, Ste D, Oakland, CA 94619",
+    "phone": "(510) 535-1120",
+    "type": "private",
+    "lat": 37.784649,
+    "lng": -122.200729,
+    "distance": 4.082685672729946
+  },
+  {
+    "name": "West Berkeley Family Practice",
+    "address": "2031 6th St, Berkeley, CA 94710",
+    "phone": "(510) 981-4100",
+    "type": "VFA",
+    "lat": 37.86763,
+    "lng": -122.297447,
+    "distance": 4.597838127754981
+  },
+  {
+    "name": "La Clinica Julian Rdavis Pediatrics",
+    "address": "5461 Foothill Blvd, Oakland, CA 94601",
+    "phone": "(510) 532-0918",
+    "type": "fqhc",
+    "lat": 37.77235,
+    "lng": -122.196968,
+    "distance": 4.619028431252572
+  },
+  {
+    "name": "Cob Public Health Clinic",
+    "address": "1900 6th St, Berkeley, CA 94710",
+    "phone": "(510) 981-5374",
+    "type": "public",
+    "lat": 37.869038,
+    "lng": -122.298378,
+    "distance": 4.706114929429837
+  },
+  {
+    "name": "Osita Health Clinic",
+    "address": "2521 Seminary Ave, Oakland, CA 94605",
+    "phone": "(510) 777-1000",
+    "type": "private",
+    "lat": 37.771183,
+    "lng": -122.191521,
+    "distance": 4.91929880639215
+  },
+  {
+    "name": "Kiwi Pediatrics Medical Group Inc",
+    "address": "1178 San Pablo Ave, Berkeley, CA 94706",
+    "phone": "(510) 524-9400",
+    "type": "private",
+    "lat": 37.88303,
+    "lng": -122.29734,
+    "distance": 5.617250909390692
+  },
+  {
+    "name": "East Oakland Health Center",
+    "address": "7450 International Blvd, Oakland, CA 94621",
+    "phone": "(510) 835-9610",
+    "type": "public",
+    "lat": 37.758614,
+    "lng": -122.185753,
+    "distance": 5.637766772042834
+  },
+  {
+    "name": "Eastmont Wellness Center",
+    "address": "6955 Foothill Blvd, Ste 700, Oakland, CA 94605",
+    "phone": "(510) 567-5953",
+    "type": "public",
+    "lat": 37.768951,
+    "lng": -122.173363,
+    "distance": 5.877385750900517
+  },
+  {
+    "name": "Roots Community Health Center",
+    "address": "7272 Macarthur Blvd, Oakland, CA 94605",
+    "phone": "(510) 533-1248",
+    "type": "private",
+    "lat": 37.769459,
+    "lng": -122.172089,
+    "distance": 5.926317335791685
+  },
+  {
+    "name": "New Day Pediatrics",
+    "address": "900 Colusa Ave, Ste 204, Berkeley, CA 94707",
+    "phone": "(510) 465-4445",
+    "type": "private",
+    "lat": 37.891102,
+    "lng": -122.279572,
+    "distance": 6.008275471591791
+  },
+  {
+    "name": "La Clinica At 95th Ave",
+    "address": "9475 International Blvd, Oakland, CA 94603",
+    "phone": "(510) 434-5770",
+    "type": "fqhc",
+    "lat": 37.746635,
+    "lng": -122.172333,
+    "distance": 6.714774933031073
+  },
+  {
+    "name": "Youth Uprising  Castlemont Health",
+    "address": "8711 Macarthur Blvd, Ste A, Oakland, CA 94605",
+    "phone": "(510) 428-3556",
+    "type": "public",
+    "lat": 37.75779,
+    "lng": -122.16301,
+    "distance": 6.72923928304847
+  },
+  {
+    "name": "Lifelong Medical Care- Elmhurst",
+    "address": "1800 98th Ave, Bldg 103, Oakland, CA 94603",
+    "phone": "(510) 639-1479",
+    "type": "fqhc",
+    "lat": 37.74604,
+    "lng": -122.165169,
+    "distance": 7.056697590021286
+  },
+  {
+    "name": "Lifelong Medical Care Howard Daniel",
+    "address": "9933 Macarthur Blvd, Oakland, CA 94605",
+    "phone": "(510) 569-3860",
+    "type": "private",
+    "lat": 37.74641,
+    "lng": -122.156807,
+    "distance": 6.274135547486592
+  }
+]

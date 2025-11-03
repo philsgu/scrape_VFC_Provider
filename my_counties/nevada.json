@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Western Sierra Med Clinic",
+    "address": "844 Old Tunnel Rd, Grass Valley, CA 95945",
+    "phone": "(530) 274-9762",
+    "type": "fqhc",
+    "lat": 39.236179,
+    "lng": -121.031197,
+    "distance": 1.9020219813631387
+  },
+  {
+    "name": "Chapa De Indian Health Program, Inc",
+    "address": "1350 E Main St, Grass Valley, CA 95945",
+    "phone": "(530) 477-1727",
+    "type": "public",
+    "lat": 39.233086,
+    "lng": -121.046097,
+    "distance": 2.482942565963502
+  },
+  {
+    "name": "Sierra Care Physicians Pediatrics",
+    "address": "140 Litton Dr, Ste 100, Grass Valley, CA 95945",
+    "phone": "(530) 272-9780",
+    "type": "private",
+    "lat": 39.233677,
+    "lng": -121.052773,
+    "distance": 2.6830265502415056
+  },
+  {
+    "name": "Nevada County Health Department",
+    "address": "500 Crown Point Cir, Ste 110, Grass Valley, CA 95945",
+    "phone": "(530) 265-7049",
+    "type": "public",
+    "lat": 39.219849,
+    "lng": -121.031464,
+    "distance": 2.984378551679882
+  },
+  {
+    "name": "Sierra Family Medical",
+    "address": "15301 Tyler Foote Rd, Nevada City, CA 95959",
+    "phone": "(530) 292-3478",
+    "type": "private",
+    "lat": 39.36591,
+    "lng": -121.035156,
+    "distance": 7.2506080021754675
+  },
+  {
+    "name": "Wsmc Penn Valley",
+    "address": "10544 Spenceville Rd, Penn Valley, CA 95946",
+    "phone": "(530) 274-9762",
+    "type": "fqhc",
+    "lat": 39.19635,
+    "lng": -121.178093,
+    "distance": 9.679633154627387
+  },
+  {
+    "name": "Stallant Health",
+    "address": "20601 W Paoli Ln, Weimar, CA 95736",
+    "phone": "(530) 637-4025",
+    "type": "fqhc",
+    "lat": 39.036999,
+    "lng": -120.976433,
+    "distance": 15.693634067943972
+  },
+  {
+    "name": "Sutter North Medical Foundation",
+    "address": "16911 Willow Glen Rd, Brownsville, CA 95919",
+    "phone": "(530) 675-2732",
+    "type": "private",
+    "lat": 39.460838,
+    "lng": -121.282707,
+    "distance": 19.71875697763255
+  },
+  {
+    "name": "Sutter  Pediatrics",
+    "address": "11795 Education St, Ste 100, Auburn, CA 95602",
+    "phone": "(530) 886-2300",
+    "type": "private",
+    "lat": 38.945038,
+    "lng": -121.098946,
+    "distance": 22.31161168239021
+  },
+  {
+    "name": "Western Sierra Medical Clinic Inc",
+    "address": "11720 Education St, Ste 3 Auburn, CA 95602",
+    "phone": "(530) 537-3000",
+    "type": "fqhc",
+    "lat": 38.944038,
+    "lng": -121.102043,
+    "distance": 22.41209375773447
+  },
+  {
+    "name": "Western Sierra Med Clinic",
+    "address": "209 Nevada Street, Downieville, CA 95936",
+    "phone": "(530) 289-3298",
+    "type": "public",
+    "lat": 39.55899,
+    "lng": -120.829132,
+    "distance": 22.881696475068086
+  },
+  {
+    "name": "Placer County Public Health",
+    "address": "11459 F Ave, Auburn, CA 95603",
+    "phone": "(530) 889-7169",
+    "type": "public",
+    "lat": 38.936218,
+    "lng": -121.103867,
+    "distance": 22.961129805694615
+  },
+  {
+    "name": "Chapa-de Indian Hlth Program",
+    "address": "11670 Atwood Rd, Auburn, CA 95603",
+    "phone": "(530) 887-2810",
+    "type": "public",
+    "lat": 38.93338,
+    "lng": -121.098717,
+    "distance": 23.10011829325378
+  },
+  {
+    "name": "Divide Wellness Center",
+    "address": "6065 State Highway 193, Georgetown, CA 95634",
+    "phone": "(530) 333-2548",
+    "type": "fqhc",
+    "lat": 38.908428,
+    "lng": -120.85173,
+    "distance": 25.998337534785744
+  }
+]

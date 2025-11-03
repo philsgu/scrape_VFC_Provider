@@ -1,0 +1,506 @@
+[
+  {
+    "name": "Mammoth Hospital Pediatric Clinic",
+    "address": "85 Sierra Park Rd, Ste A, Mammoth Lakes, CA 93546",
+    "phone": "(760) 924-4000",
+    "type": "fqhc",
+    "lat": 37.645756,
+    "lng": -118.963905,
+    "distance": 20.411874324098036
+  },
+  {
+    "name": "Mono Co Health Department",
+    "address": "1290 Tavern Rd, Suite 246, Mammoth Lakes, CA 93546",
+    "phone": "(760) 924-1830",
+    "type": "public",
+    "lat": 37.645069,
+    "lng": -118.962883,
+    "distance": 20.464866152895947
+  },
+  {
+    "name": "Inyo County Health  Human Services",
+    "address": "1360 N Main St, Bishop, CA 93514",
+    "phone": "(760) 873-7868",
+    "type": "public",
+    "lat": 37.377037,
+    "lng": -118.394379,
+    "distance": 51.1552623500732
+  },
+  {
+    "name": "Toiyabe Indian Health Project",
+    "address": "250-b N See Vee Ln, Bishop, CA 93514",
+    "phone": "(760) 873-8461",
+    "type": "public",
+    "lat": 37.363949,
+    "lng": -118.412872,
+    "distance": 51.204596343367164
+  },
+  {
+    "name": "Northern Inyo Hospital Rural Clinic",
+    "address": "153b Pioneer Ln, Ste B, Bishop, CA 93514",
+    "phone": "(760) 873-2849",
+    "type": "private",
+    "lat": 37.362202,
+    "lng": -118.407501,
+    "distance": 51.483877620543105
+  },
+  {
+    "name": "Northern Inyo Associates",
+    "address": "152 Pioneer Ln, Ste H, Bishop, CA 93514",
+    "phone": "(760) 873-6373",
+    "type": "private",
+    "lat": 37.36274,
+    "lng": -118.406548,
+    "distance": 51.48801691753626
+  },
+  {
+    "name": "Bishop Community Health Center",
+    "address": "459 W Line St, Ste C, Bishop, CA 93514",
+    "phone": "(760) 784-7020",
+    "type": "fqhc",
+    "lat": 37.361637,
+    "lng": -118.398926,
+    "distance": 51.811807456433655
+  },
+  {
+    "name": "Camarena Health Center",
+    "address": "49169 Road 426, Oakhurst, CA 93644",
+    "phone": "(559) 664-4000",
+    "type": "fqhc",
+    "lat": 37.330288,
+    "lng": -119.650513,
+    "distance": 55.05138830638185
+  },
+  {
+    "name": "Ahmo-oakhurst",
+    "address": "48677 Victoria Ln, Oakhurst, CA 93644",
+    "phone": "(559) 683-2711",
+    "type": "VFA",
+    "lat": 37.328098,
+    "lng": -119.659462,
+    "distance": 55.483636862288606
+  },
+  {
+    "name": "Camarena Health Coarsegold",
+    "address": "35324 Highway 41 Ste A, Coarsegold, CA 93614",
+    "phone": "(559) 664-4000",
+    "type": "fqhc",
+    "lat": 37.26289,
+    "lng": -119.698936,
+    "distance": 60.33887308173427
+  },
+  {
+    "name": "Mariposa Indian Health Center",
+    "address": "5192 Hospital Road, Mariposa, CA 95338",
+    "phone": "(209) 742-6144",
+    "type": "VFA",
+    "lat": 37.500801,
+    "lng": -119.976753,
+    "distance": 61.28546571431773
+  },
+  {
+    "name": "John C Fremont Healthcare District",
+    "address": "5189 Hospital Rd, Mariposa, CA 95338",
+    "phone": "(209) 966-0850",
+    "type": "fqhc",
+    "lat": 37.500389,
+    "lng": -119.977669,
+    "distance": 61.343163576718496
+  },
+  {
+    "name": "Community Health Centers Of America",
+    "address": "5320 State Highway 49 Ste 1, Mariposa, CA 95338",
+    "phone": "(209) 966-2344",
+    "type": "public",
+    "lat": 37.499928,
+    "lng": -119.983376,
+    "distance": 61.6302802593557
+  },
+  {
+    "name": "Mariposa Co Health Department",
+    "address": "5300 State Hwy 49 North, Mariposa, CA 95338",
+    "phone": "(209) 966-3689",
+    "type": "public",
+    "lat": 37.49778,
+    "lng": -119.982094,
+    "distance": 61.643369544585816
+  },
+  {
+    "name": "John C Fremont Northside Clinic",
+    "address": "6386 Greeley Hill Rd, Coulterville, CA 95311",
+    "phone": "(209) 878-0155",
+    "type": "fqhc",
+    "lat": 37.741714,
+    "lng": -120.13163,
+    "distance": 63.12324023686585
+  },
+  {
+    "name": "Tuolumne Me-wuk Indian Health Ctr",
+    "address": "18880 Cherry Valley Blvd, Tuolumne, CA 95379",
+    "phone": "(209) 928-5400",
+    "type": "public",
+    "lat": 37.965199,
+    "lng": -120.240479,
+    "distance": 67.48479766020576
+  },
+  {
+    "name": "Alpine County Health Department",
+    "address": "75 Diamond Valley Rd, Unit B, Markleeville, CA 96120",
+    "phone": "(530) 694-2146",
+    "type": "public",
+    "lat": 38.76947,
+    "lng": -119.817039,
+    "distance": 72.36678283495903
+  },
+  {
+    "name": "Tuolumne County Health Department",
+    "address": "20111 Cedar Rd, Sonora, CA 95370",
+    "phone": "(209) 533-7401",
+    "type": "public",
+    "lat": 37.982491,
+    "lng": -120.364326,
+    "distance": 74.259723548368
+  },
+  {
+    "name": "Tuolumne Me-wukc Cedar Rd Center",
+    "address": "22044 Cedar Road, Sonora, CA 95370",
+    "phone": "(209) 928-5400",
+    "type": "public",
+    "lat": 37.985291,
+    "lng": -120.365578,
+    "distance": 74.33438247298628
+  },
+  {
+    "name": "Adventist Health Sonora Rural Healt",
+    "address": "193 Fairview Ln, Ste L, Sonora, CA 95370",
+    "phone": "(209) 536-5120",
+    "type": "public",
+    "lat": 37.97871,
+    "lng": -120.390907,
+    "distance": 75.69880758515615
+  },
+  {
+    "name": "Arnold Fmly Med Ctrsonora Reg Mc",
+    "address": "2037 Hwy 4, Arnold, CA 95223",
+    "phone": "(209) 795-1270",
+    "type": "private",
+    "lat": 38.241959,
+    "lng": -120.360817,
+    "distance": 76.77547969459114
+  },
+  {
+    "name": "Maryal Concepcion Md Pc",
+    "address": "2855 Mckenzie Ave, Arnold, CA 95223",
+    "phone": "(209) 653-2135",
+    "type": "private",
+    "lat": 38.231091,
+    "lng": -120.368668,
+    "distance": 76.99185732761771
+  },
+  {
+    "name": "Mathiesen Memorial Health Clinic",
+    "address": "18144 Seco St, Jamestown, CA 95327",
+    "phone": "(209) 984-4820",
+    "type": "public",
+    "lat": 37.951981,
+    "lng": -120.421883,
+    "distance": 77.35684775494848
+  },
+  {
+    "name": "Camarena Health Tesoro Viejo",
+    "address": "4148 Town Center Blvd, Madera, CA 93636",
+    "phone": "(559) 664-4000",
+    "type": "public",
+    "lat": 36.963039,
+    "lng": -119.78598,
+    "distance": 80.00716364354277
+  },
+  {
+    "name": "Community Pediatric Care",
+    "address": "782 N Medical Center Dr, Ste 309, Clovis, CA 93611",
+    "phone": "(559) 387-2150",
+    "type": "public",
+    "lat": 36.843792,
+    "lng": -119.661034,
+    "distance": 83.90969940091897
+  },
+  {
+    "name": "Family Healthcare Network -squaw Va",
+    "address": "30924 E Kings Canyon Rd, Squaw Valley, CA 93675",
+    "phone": "(559) 332-9399",
+    "type": "fqhc",
+    "lat": 36.74028,
+    "lng": -119.247742,
+    "distance": 83.95977437992474
+  },
+  {
+    "name": "Clovis Pediatric Group-n Med Ctr",
+    "address": "726 N Medical Center Dr Ste 205, Clovis, CA 93611",
+    "phone": "(559) 900-3045",
+    "type": "private",
+    "lat": 36.841541,
+    "lng": -119.660896,
+    "distance": 84.04704685151388
+  },
+  {
+    "name": "Golden Valley Health Ctr - Le Grand",
+    "address": "13161 Jefferson St, Le Grand, CA 95333",
+    "phone": "(209) 389-1900",
+    "type": "VFA",
+    "lat": 37.229221,
+    "lng": -120.250732,
+    "distance": 84.15612450940647
+  },
+  {
+    "name": "United Health Centers",
+    "address": "2497 Herndon Ave Ste 103, Clovis, CA 93611",
+    "phone": "(559) 701-8880",
+    "type": "fqhc",
+    "lat": 36.837685,
+    "lng": -119.666542,
+    "distance": 84.42150204600019
+  },
+  {
+    "name": "Magnolia Pediatrics",
+    "address": "2497 Herndon Ave Ste 101, Clovis, CA 93611",
+    "phone": "(559) 538-3070",
+    "type": "private",
+    "lat": 36.837719,
+    "lng": -119.66674,
+    "distance": 84.42406341183532
+  },
+  {
+    "name": "James Dalton Medical Office",
+    "address": "590 Stanislaus Ave, Angels Camp, CA 95222",
+    "phone": "(209) 736-0813",
+    "type": "public",
+    "lat": 38.075943,
+    "lng": -120.550346,
+    "distance": 84.80551460509187
+  },
+  {
+    "name": "Golden Valley Health Center-planada",
+    "address": "9235 E Broadway St, Planada, CA 95365",
+    "phone": "(209) 382-0253",
+    "type": "VFA",
+    "lat": 37.290222,
+    "lng": -120.320747,
+    "distance": 84.97532751135003
+  },
+  {
+    "name": "Ahmo-madera Ranchos",
+    "address": "11976 Road 37, Madera, CA 93636",
+    "phone": "(559) 645-4191",
+    "type": "VFA",
+    "lat": 36.922691,
+    "lng": -119.876427,
+    "distance": 85.0737420048027
+  },
+  {
+    "name": "Charlie Mitchell Childrens Clinic",
+    "address": "9300 Valley Childrens Pl, Madera, CA 93636",
+    "phone": "(559) 353-6425",
+    "type": "fqhc",
+    "lat": 36.88414,
+    "lng": -119.801018,
+    "distance": 85.08944116019825
+  },
+  {
+    "name": "Sierra Pediatric Medical Center",
+    "address": "7105 N Chestnut Ave, Ste 102, Fresno, CA 93720",
+    "phone": "(559) 437-9024",
+    "type": "private",
+    "lat": 36.839336,
+    "lng": -119.738182,
+    "distance": 86.09229894306029
+  },
+  {
+    "name": "Barton Community Health Center",
+    "address": "2201 South Ave, South Lake Tahoe, CA 96150",
+    "phone": "(530) 543-5623",
+    "type": "VFA",
+    "lat": 38.912651,
+    "lng": -119.9963,
+    "distance": 86.11369154535888
+  },
+  {
+    "name": "Fhcn - Fresno Recreation",
+    "address": "7060 N Recreation Ave Ste 101, Fresno, CA 93720",
+    "phone": "(866) 342-6012",
+    "type": "fqhc",
+    "lat": 36.838871,
+    "lng": -119.739662,
+    "distance": 86.15890066944138
+  },
+  {
+    "name": "Nidhi Mehrotra",
+    "address": "6769 N Willow Ave, Ste 101, Fresno, CA 93710",
+    "phone": "(559) 325-2400",
+    "type": "private",
+    "lat": 36.835129,
+    "lng": -119.731407,
+    "distance": 86.17628748632711
+  },
+  {
+    "name": "Sang Medical Corp",
+    "address": "6733 N Willow Ave, Ste 102, Fresno, CA 93710",
+    "phone": "(559) 268-1737",
+    "type": "private",
+    "lat": 36.834732,
+    "lng": -119.731422,
+    "distance": 86.20100250896758
+  },
+  {
+    "name": "Angels Pediatrics, Inc",
+    "address": "1515 E Alluvial Ave, Ste 105, Fresno, CA 93720",
+    "phone": "(559) 322-5515",
+    "type": "private",
+    "lat": 36.84444,
+    "lng": -119.756073,
+    "distance": 86.24724424691618
+  },
+  {
+    "name": "First Pediatrics Medical Group",
+    "address": "7413 N Cedar Ave, Ste 101, Fresno, CA 93720",
+    "phone": "(559) 435-1500",
+    "type": "private",
+    "lat": 36.843788,
+    "lng": -119.757133,
+    "distance": 86.31481195420973
+  },
+  {
+    "name": "El Dorado Co Public Health",
+    "address": "1360 Johnson Blvd, Ste 103, South Lake Tahoe, CA 96150",
+    "phone": "(530) 573-3155",
+    "type": "public",
+    "lat": 38.933029,
+    "lng": -119.971626,
+    "distance": 86.39546621708632
+  },
+  {
+    "name": "Valley Ped Medical Group",
+    "address": "7130 N Sharon Ave, Ste 101, Fresno, CA 93720",
+    "phone": "(559) 436-8606",
+    "type": "private",
+    "lat": 36.839989,
+    "lng": -119.759064,
+    "distance": 86.59648743408933
+  },
+  {
+    "name": "Sierra Vista Health Center",
+    "address": "510 Barstow Ave, Clovis, CA 93612",
+    "phone": "(559) 327-7976",
+    "type": "public",
+    "lat": 36.814838,
+    "lng": -119.702728,
+    "distance": 86.71300728590926
+  },
+  {
+    "name": "Camarena Health Clinic N Milbrook",
+    "address": "7202 N Millbrook Ave Ste 202, Fresno, CA 93720",
+    "phone": "(559) 664-4000",
+    "type": "fqhc",
+    "lat": 36.839943,
+    "lng": -119.764381,
+    "distance": 86.73969149633983
+  },
+  {
+    "name": "St Agnes Fm Residency Mobile Health",
+    "address": "7138 N Millbrook Ave, #105, Fresno, CA 93720",
+    "phone": "(559) 441-3554",
+    "type": "private",
+    "lat": 36.839214,
+    "lng": -119.763382,
+    "distance": 86.75745716840387
+  },
+  {
+    "name": "Clovis Pediatric Group - N 1st",
+    "address": "7235 N 1st St Ste 103, Fresno, CA 93720",
+    "phone": "(559) 900-3045",
+    "type": "private",
+    "lat": 36.841434,
+    "lng": -119.775887,
+    "distance": 86.95592566810325
+  },
+  {
+    "name": "The Medical Partners Group",
+    "address": "568 E Herndon Ave, Ste 101, Fresno, CA 93720",
+    "phone": "(559) 224-7990",
+    "type": "private",
+    "lat": 36.83876,
+    "lng": -119.77758,
+    "distance": 87.16294139749102
+  },
+  {
+    "name": "Clovis Community Health Center",
+    "address": "180 W Shaw Ave, Ste B, Clovis, CA 93612",
+    "phone": "(559) 203-6600",
+    "type": "VFA",
+    "lat": 36.808132,
+    "lng": -119.712662,
+    "distance": 87.37144652574975
+  },
+  {
+    "name": "United Health Centers Of Sjv",
+    "address": "313 W Shaw Ave, Clovis, CA 93612",
+    "phone": "(559) 701-8880",
+    "type": "fqhc",
+    "lat": 36.80891,
+    "lng": -119.716187,
+    "distance": 87.40986458585843
+  },
+  {
+    "name": "United Health Centers- Bullard",
+    "address": "1780 E Bullard Ave, Fresno, CA 93710",
+    "phone": "(559) 485-8500",
+    "type": "fqhc",
+    "lat": 36.823383,
+    "lng": -119.754509,
+    "distance": 84.46560641260362
+  },
+  {
+    "name": "Northwest Medical Group- Palm Ave",
+    "address": "7355 N Palm Ave Ste 100, Fresno, CA 93711",
+    "phone": "(559) 271-6302",
+    "type": "private",
+    "lat": 36.843063,
+    "lng": -119.808914,
+    "distance": 84.80108636795376
+  },
+  {
+    "name": "Family First Health Care",
+    "address": "6095 N 1st St, Fresno, CA 93710",
+    "phone": "(559) 437-4528",
+    "type": "public",
+    "lat": 36.825062,
+    "lng": -119.773842,
+    "distance": 84.88922966792515
+  },
+  {
+    "name": "Camarena Health Matilda Schoolbased",
+    "address": "16645 Road 26, Madera, CA 93638",
+    "phone": "(559) 664-4000",
+    "type": "public",
+    "lat": 36.991634,
+    "lng": -120.074104,
+    "distance": 86.20190255164778
+  },
+  {
+    "name": "Camarena Health Mobile Unit",
+    "address": "16645 Road 26, Madera, CA 93638",
+    "phone": "(559) 664-4000",
+    "type": "fqhc",
+    "lat": 36.991634,
+    "lng": -120.074104,
+    "distance": 88.84360437629113
+  },
+  {
+    "name": "Camarena Health -chowchilla",
+    "address": "300 Prosperity Blvd Bldg B, Chowchilla, CA 93610",
+    "phone": "(559) 664-4355",
+    "type": "VFA",
+    "lat": 37.125031,
+    "lng": -120.253822,
+    "distance": 88.8831259461187
+  }
+]

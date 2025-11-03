@@ -1,0 +1,515 @@
+[
+  {
+    "name": "Dtfhc At Connections",
+    "address": "1250 6th Ave, Ste 100, San Diego, CA 92101",
+    "phone": "(619) 515-2430",
+    "type": "VFA",
+    "lat": 32.71854,
+    "lng": -117.159569,
+    "distance": 0.21549549718260347
+  },
+  {
+    "name": "Elm Street Family Health Center",
+    "address": "140 Elm St, San Diego, CA 92101",
+    "phone": "(619) 515-2520",
+    "type": "VFA",
+    "lat": 32.724113,
+    "lng": -117.163162,
+    "distance": 0.5935825152289937
+  },
+  {
+    "name": "Familyhealth At City College",
+    "address": "1550 Broadway, Ste 2, San Diego, CA 92101",
+    "phone": "(619) 515-2525",
+    "type": "VFA",
+    "lat": 32.71579,
+    "lng": -117.149925,
+    "distance": 0.6496870910205328
+  },
+  {
+    "name": "Sherman Heights Fam Health Ctr",
+    "address": "2391 Island Ave, San Diego, CA 92102",
+    "phone": "(619) 515-2360",
+    "type": "VFA",
+    "lat": 32.710445,
+    "lng": -117.142632,
+    "distance": 1.1334439439373556
+  },
+  {
+    "name": "San Diego American Indian Hlth Ctr",
+    "address": "2630 1st Ave, San Diego, CA 92103",
+    "phone": "(619) 234-2158",
+    "type": "fqhc",
+    "lat": 32.732773,
+    "lng": -117.163994,
+    "distance": 1.191624612268357
+  },
+  {
+    "name": "Family Health On Commercial",
+    "address": "2325 Commercial St, Ste 1400, San Diego, CA 92113",
+    "phone": "(619) 515-2422",
+    "type": "VFA",
+    "lat": 32.705162,
+    "lng": -117.143013,
+    "distance": 1.2790614359608061
+  },
+  {
+    "name": "Logan Heights Family Health Center",
+    "address": "1809 National Ave, San Diego, CA 92113",
+    "phone": "(619) 515-2403",
+    "type": "VFA",
+    "lat": 32.701229,
+    "lng": -117.146858,
+    "distance": 1.2982456814573986
+  },
+  {
+    "name": "25th Street Family Medicine",
+    "address": "316 25th St, San Diego, CA 92102",
+    "phone": "(619) 662-4100",
+    "type": "VFA",
+    "lat": 32.708694,
+    "lng": -117.140266,
+    "distance": 1.3043777961397924
+  },
+  {
+    "name": "Logan Memorial Family Health Center",
+    "address": "2875 Ocean View Blvd, Ste E128, San Diego, CA 92113",
+    "phone": "(619) 515-2324",
+    "type": "fqhc",
+    "lat": 32.700687,
+    "lng": -117.132088,
+    "distance": 1.9802450483734515
+  },
+  {
+    "name": "Comprehensive Health Center-metro",
+    "address": "3177 Ocean View Blvd, San Diego, CA 92113",
+    "phone": "(619) 662-4100",
+    "type": "VFA",
+    "lat": 32.70105,
+    "lng": -117.125664,
+    "distance": 2.2955508644279536
+  },
+  {
+    "name": "Cpcmg Hillcrest",
+    "address": "550 Washington St, Ste 300, San Diego, CA 92103",
+    "phone": "(619) 297-5437",
+    "type": "private",
+    "lat": 32.750256,
+    "lng": -117.160378,
+    "distance": 2.3880767311887237
+  },
+  {
+    "name": "North Park Family Health Center",
+    "address": "3514 30th St, San Diego, CA 92104",
+    "phone": "(619) 515-2424",
+    "type": "VFA",
+    "lat": 32.74247,
+    "lng": -117.130363,
+    "distance": 2.5716837387886295
+  },
+  {
+    "name": "Clinica Medica De La Mora",
+    "address": "995 Gateway Center Way, Ste 202, San Diego, CA 92102",
+    "phone": "(619) 264-3107",
+    "type": "private",
+    "lat": 32.714031,
+    "lng": -117.11673,
+    "distance": 2.5821155462263423
+  },
+  {
+    "name": "Tarek Hassanein, Md",
+    "address": "995 Gateway Center Way, Ste 105, San Diego, CA 92102",
+    "phone": "(619) 789-7385",
+    "type": "private",
+    "lat": 32.714031,
+    "lng": -117.11673,
+    "distance": 2.5821155462263423
+  },
+  {
+    "name": "Kid Care Express 1,2,3  Mobile Med",
+    "address": "823 Gateway Center Way, San Diego, CA 92102",
+    "phone": "(619) 515-2329",
+    "type": "VFA",
+    "lat": 32.715408,
+    "lng": -117.113411,
+    "distance": 2.7725346764865355
+  },
+  {
+    "name": "Clinica Internacional Buena Salud I",
+    "address": "3802 National Ave, San Diego, CA 92113",
+    "phone": "(619) 264-2591",
+    "type": "private",
+    "lat": 32.696362,
+    "lng": -117.112282,
+    "distance": 3.1372128716746226
+  },
+  {
+    "name": "La Maestra  Central Elementry",
+    "address": "3878 Orange Ave Building 100, San Diego, CA 92105",
+    "phone": "(619) 961-0814",
+    "type": "public",
+    "lat": 32.753296,
+    "lng": -117.110817,
+    "distance": 3.910287279203628
+  },
+  {
+    "name": "Diamond Neighborhoods Fam Hlth Ctr",
+    "address": "4725 Market St, San Diego, CA 92102",
+    "phone": "(619) 515-2326",
+    "type": "VFA",
+    "lat": 32.711224,
+    "lng": -117.092918,
+    "distance": 3.9759636178004234
+  },
+  {
+    "name": "Central Elem-mid City Comm Cl Peds",
+    "address": "4305 University Ave, Ste 150, San Diego, CA 92105",
+    "phone": "(619) 280-2058",
+    "type": "public",
+    "lat": 32.749161,
+    "lng": -117.101418,
+    "distance": 4.168928339553657
+  },
+  {
+    "name": "San Diego Family Care",
+    "address": "4305 University Ave, Ste 150, San Diego, CA 92105",
+    "phone": "(619) 280-2058",
+    "type": "public",
+    "lat": 32.749161,
+    "lng": -117.101418,
+    "distance": 4.168928339553657
+  },
+  {
+    "name": "Mid City Comm Clinic-rosa Parks",
+    "address": "4305 University Ave Ste 150, San Diego, CA 92105",
+    "phone": "(619) 280-2058",
+    "type": "public",
+    "lat": 32.749161,
+    "lng": -117.101418,
+    "distance": 4.168928339553657
+  },
+  {
+    "name": "La Maestra  Monroe Clark",
+    "address": "4060 Fairmount Ave, San Diego, CA 92105",
+    "phone": "(619) 255-9166",
+    "type": "public",
+    "lat": 32.75053,
+    "lng": -117.101341,
+    "distance": 4.225764837849149
+  },
+  {
+    "name": "La Maestra Comm Health Centers",
+    "address": "4060 Fairmount Ave, San Diego, CA 92105",
+    "phone": "(619) 280-4213",
+    "type": "VFA",
+    "lat": 32.75053,
+    "lng": -117.101341,
+    "distance": 4.225764837849149
+  },
+  {
+    "name": "La Maestra - Hoover High School",
+    "address": "4060 Fairmount Ave, San Diego, CA 92105",
+    "phone": "(619) 795-5979",
+    "type": "public",
+    "lat": 32.75053,
+    "lng": -117.101341,
+    "distance": 4.225764837849149
+  },
+  {
+    "name": "La Maestra Community Health Center",
+    "address": "4074 Fairmount Ave, San Diego, CA 92105",
+    "phone": "(619) 280-4213",
+    "type": "fqhc",
+    "lat": 32.75103,
+    "lng": -117.101166,
+    "distance": 4.253866100518667
+  },
+  {
+    "name": "Childrens Primary Care Medical Grp",
+    "address": "292 Euclid Ave, Ste 220, San Diego, CA 92114",
+    "phone": "(619) 262-8624",
+    "type": "private",
+    "lat": 32.707211,
+    "lng": -117.085808,
+    "distance": 4.416534764032064
+  },
+  {
+    "name": "Central Region Public Health Center",
+    "address": "5101 Market St, Ste 2000 San Diego, CA 92114",
+    "phone": "(619) 430-3169",
+    "type": "public",
+    "lat": 32.710354,
+    "lng": -117.084824,
+    "distance": 4.449906649338467
+  },
+  {
+    "name": "Oak Park Family Health Center",
+    "address": "5160 Federal Blvd, San Diego, CA 92105",
+    "phone": "(619) 515-2454",
+    "type": "VFA",
+    "lat": 32.72192,
+    "lng": -117.083572,
+    "distance": 4.527444158495418
+  },
+  {
+    "name": "Huong Nguyen",
+    "address": "4444 El Cajon Blvd, Ste 6, San Diego, CA 92115",
+    "phone": "(619) 285-1522",
+    "type": "private",
+    "lat": 32.755501,
+    "lng": -117.09893,
+    "distance": 4.540992567002959
+  },
+  {
+    "name": "San Ysidro Health Center Lhs",
+    "address": "950 S Euclid Ave, San Diego, CA 92114",
+    "phone": "(619) 662-4100",
+    "type": "public",
+    "lat": 32.696182,
+    "lng": -117.085556,
+    "distance": 4.594695605514595
+  },
+  {
+    "name": "San Ysidro Health King-chavez Ctr",
+    "address": "950 S Euclid Ave, Fl 2, San Diego, CA 92114",
+    "phone": "(619) 662-4100",
+    "type": "VFA",
+    "lat": 32.695999,
+    "lng": -117.085617,
+    "distance": 4.595039899571904
+  },
+  {
+    "name": "Ibarra Family Health Center",
+    "address": "4874 Polk Ave, San Diego, CA 92105",
+    "phone": "(619) 515-2426",
+    "type": "VFA",
+    "lat": 32.751381,
+    "lng": -117.089561,
+    "distance": 4.83411428407821
+  },
+  {
+    "name": "Community Heights Family Medicine",
+    "address": "4690 El Cajon Blvd, San Diego, CA 92115",
+    "phone": "(619) 662-4100",
+    "type": "fqhc",
+    "lat": 32.75621,
+    "lng": -117.093246,
+    "distance": 4.836243434570156
+  },
+  {
+    "name": "City Heights Family Health Center",
+    "address": "5454 El Cajon Blvd, San Diego, CA 92115",
+    "phone": "(619) 515-2441",
+    "type": "VFA",
+    "lat": 32.758389,
+    "lng": -117.077797,
+    "distance": 5.669497110344016
+  },
+  {
+    "name": "Family Medicine Clinic",
+    "address": "5507 El Cajon Blvd, Ste L, San Diego, CA 92115",
+    "phone": "(619) 286-2789",
+    "type": "private",
+    "lat": 32.758011,
+    "lng": -117.076263,
+    "distance": 5.732458678406931
+  },
+  {
+    "name": "Intelligent Care Medical Clinic",
+    "address": "5507 El Cajon Blvd, Ste B, San Diego, CA 92115",
+    "phone": "(619) 582-8814",
+    "type": "private",
+    "lat": 32.758011,
+    "lng": -117.076263,
+    "distance": 5.732458678406931
+  },
+  {
+    "name": "Bright Pediatrics",
+    "address": "7910 Frost St, Ste 335, San Diego, CA 92123",
+    "phone": "(858) 576-8010",
+    "type": "private",
+    "lat": 32.800758,
+    "lng": -117.154198,
+    "distance": 2.455408599752344
+  },
+  {
+    "name": "Childrens Primary Care Med Grp",
+    "address": "7910 Frost St, Ste 400, San Diego, CA 92123",
+    "phone": "(858) 495-0500",
+    "type": "private",
+    "lat": 32.800758,
+    "lng": -117.154198,
+    "distance": 2.455408599752344
+  },
+  {
+    "name": "Kaiser Permanente- San Diego",
+    "address": "4405 Vandever Ave, Fl 1, San Diego, CA 92120",
+    "phone": "(619) 516-6030",
+    "type": "private",
+    "lat": 32.787258,
+    "lng": -117.09967,
+    "distance": 3.8672466324016734
+  },
+  {
+    "name": "Advanced Pediatric Medical Group",
+    "address": "5222 Balboa Ave, Ste 42, San Diego, CA 92117",
+    "phone": "(858) 268-0702",
+    "type": "private",
+    "lat": 32.81889,
+    "lng": -117.183487,
+    "distance": 3.898538833162155
+  },
+  {
+    "name": "North Central Public Health Ctr",
+    "address": "5055 Ruffin Rd, San Diego, CA 92123",
+    "phone": "(858) 573-7330",
+    "type": "public",
+    "lat": 32.827301,
+    "lng": -117.126167,
+    "distance": 4.715349640544715
+  },
+  {
+    "name": "Champions For Health",
+    "address": "4699 Murphy Canyon Rd, Ste 102 San Diego, CA 92123",
+    "phone": "(858) 300-2787",
+    "type": "private",
+    "lat": 32.827164,
+    "lng": -117.119057,
+    "distance": 4.89902128136758
+  },
+  {
+    "name": "Polinsky Childrens Center",
+    "address": "9400 Ruffin Ct, Bldg B, San Diego, CA 92123",
+    "phone": "(858) 874-1082",
+    "type": "public",
+    "lat": 32.83057,
+    "lng": -117.122879,
+    "distance": 5.001992384981106
+  },
+  {
+    "name": "Docgo - San Diego",
+    "address": "5555 Magnatron Blvd, Ste I, San Diego, CA 92111",
+    "phone": "(310) 632-1611",
+    "type": "private",
+    "lat": 32.8368,
+    "lng": -117.140015,
+    "distance": 5.063148715765535
+  },
+  {
+    "name": "Alliance Health Clinic",
+    "address": "5952 El Cajon Blvd, San Diego, CA 92115",
+    "phone": "(619) 229-8030",
+    "type": "private",
+    "lat": 32.760551,
+    "lng": -117.069511,
+    "distance": 5.333650441682983
+  },
+  {
+    "name": "Beach Area Family Health Center",
+    "address": "3705 Mission Blvd, San Diego, CA 92109",
+    "phone": "(619) 515-2345",
+    "type": "VFA",
+    "lat": 32.782719,
+    "lng": -117.252213,
+    "distance": 5.4224984123625894
+  },
+  {
+    "name": "Wellhaven Primary Care",
+    "address": "5555 Reservoir Dr, Ste 303, San Diego, CA 92120",
+    "phone": "(619) 752-2280",
+    "type": "private",
+    "lat": 32.776192,
+    "lng": -117.05587,
+    "distance": 6.156700090834997
+  },
+  {
+    "name": "Childrens Primary Care Med Grp",
+    "address": "6699 Alvarado Rd, Ste 2200, San Diego, CA 92120",
+    "phone": "(619) 265-3400",
+    "type": "private",
+    "lat": 32.77639,
+    "lng": -117.055313,
+    "distance": 6.1904484789345835
+  },
+  {
+    "name": "Syh Southbay Pediatrics",
+    "address": "280 E St, Chula Vista, CA 91910",
+    "phone": "(619) 662-4100",
+    "type": "fqhc",
+    "lat": 32.644787,
+    "lng": -117.080482,
+    "distance": 4.907538597139123
+  },
+  {
+    "name": "Chula Vista Family Health Center",
+    "address": "251 Landis Ave, Chula Vista, CA 91910",
+    "phone": "(619) 515-2568",
+    "type": "VFA",
+    "lat": 32.64262,
+    "lng": -117.081253,
+    "distance": 4.911323051444527
+  },
+  {
+    "name": "Monica Cepin",
+    "address": "333 H St, Ste 2000, Chula Vista, CA 91910",
+    "phone": "(619) 427-0665",
+    "type": "private",
+    "lat": 32.634472,
+    "lng": -117.078522,
+    "distance": 5.2666339830628335
+  },
+  {
+    "name": "Chula Vista Medical Plaza",
+    "address": "678 3rd Ave, Chula Vista, CA 91910",
+    "phone": "(619) 662-4100",
+    "type": "VFA",
+    "lat": 32.628563,
+    "lng": -117.075554,
+    "distance": 5.5997045130398275
+  },
+  {
+    "name": "Rice Family Health Center",
+    "address": "352 L St, Chula Vista, CA 91911",
+    "phone": "(619) 515-2568",
+    "type": "VFA",
+    "lat": 32.619957,
+    "lng": -117.073906,
+    "distance": 5.97730876884924
+  },
+  {
+    "name": "Childrens Primary Care Med Grp",
+    "address": "865 Third Ave, Ste 101, Chula Vista, CA 91911",
+    "phone": "(619) 476-3646",
+    "type": "private",
+    "lat": 32.621712,
+    "lng": -117.072159,
+    "distance": 6.001474179332343
+  },
+  {
+    "name": "Mohammed K Elsayed Md",
+    "address": "330 Oxford St, Ste 106, Chula Vista, CA 91911",
+    "phone": "(619) 409-1802",
+    "type": "private",
+    "lat": 32.6106,
+    "lng": -117.069519,
+    "distance": 6.549165910234882
+  },
+  {
+    "name": "Hassanein Tarek",
+    "address": "1323 Third Ave, Chula Vista, CA 91911",
+    "phone": "(619) 789-7385",
+    "type": "public",
+    "lat": 32.605282,
+    "lng": -117.065742,
+    "distance": 4.939061182089904
+  },
+  {
+    "name": "Otay Family Health Center",
+    "address": "1637 Third Ave, Ste H Chula Vista, CA 91911",
+    "phone": "(619) 662-4100",
+    "type": "fqhc",
+    "lat": 32.596649,
+    "lng": -117.064278,
+    "distance": 5.494404778385261
+  }
+]

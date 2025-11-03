@@ -1,0 +1,398 @@
+[
+  {
+    "name": "Inland Family Community Health",
+    "address": "665 N D St, San Bernardino, CA 92401",
+    "phone": "(909) 708-8158",
+    "type": "fqhc",
+    "lat": 34.111542,
+    "lng": -117.291328,
+    "distance": 0.24045940242879907
+  },
+  {
+    "name": "Baseline Med Clinic",
+    "address": "330 N D St, Ste 300, San Bernardino, CA 92401",
+    "phone": "(909) 888-6602",
+    "type": "private",
+    "lat": 34.105099,
+    "lng": -117.292282,
+    "distance": 0.2628605832275416
+  },
+  {
+    "name": "Sachs-san Bernardino Campus",
+    "address": "250 S G St, San Bernardino, CA 92410",
+    "phone": "(909) 382-7100",
+    "type": "fqhc",
+    "lat": 34.096443,
+    "lng": -117.298714,
+    "distance": 0.9650471204038467
+  },
+  {
+    "name": "H Street Clinic",
+    "address": "1329 N H St, San Bernardino, CA 92405",
+    "phone": "(909) 381-0803",
+    "type": "VFA",
+    "lat": 34.124039,
+    "lng": -117.300323,
+    "distance": 1.243013043283336
+  },
+  {
+    "name": "Edgar Alfaro-mcfield Md",
+    "address": "1374 N Waterman Ave, San Bernardino, CA 92404",
+    "phone": "(909) 880-9993",
+    "type": "private",
+    "lat": 34.124805,
+    "lng": -117.279198,
+    "distance": 1.2917307461780556
+  },
+  {
+    "name": "Lasalle Medical Assoc - Mt Vernon",
+    "address": "565 N Mount Vernon Ave, San Bernardino, CA 92411",
+    "phone": "(909) 884-9091",
+    "type": "private",
+    "lat": 34.109409,
+    "lng": -117.313431,
+    "distance": 1.354111741664221
+  },
+  {
+    "name": "St Johns Community Health",
+    "address": "1500 N Waterman Ave, San Bernardino, CA 92404",
+    "phone": "(323) 541-1600",
+    "type": "fqhc",
+    "lat": 34.127102,
+    "lng": -117.279129,
+    "distance": 1.4354302564834323
+  },
+  {
+    "name": "San Bernardino Clinica Medica Famil",
+    "address": "407 E Gilbert St, Ste 1, San Bernardino, CA 92404",
+    "phone": "(909) 889-1136",
+    "type": "private",
+    "lat": 34.126068,
+    "lng": -117.27578,
+    "distance": 1.4664890622604811
+  },
+  {
+    "name": "San Bernardino Health Department",
+    "address": "606 E Mill St, San Bernardino, CA 92415",
+    "phone": "(909) 383-3002",
+    "type": "fqhc",
+    "lat": 34.092789,
+    "lng": -117.271927,
+    "distance": 1.4813954497364652
+  },
+  {
+    "name": "Sbc School Base Clinic",
+    "address": "488 S K St, San Bernardino, CA 92410",
+    "phone": "(909) 382-7100",
+    "type": "fqhc",
+    "lat": 34.092457,
+    "lng": -117.308037,
+    "distance": 1.5123531719775147
+  },
+  {
+    "name": "Primary Medgrp Of Inland Empire",
+    "address": "1998 N Arrowhead Ave, San Bernardino, CA 92405",
+    "phone": "(909) 882-0988",
+    "type": "private",
+    "lat": 34.133362,
+    "lng": -117.289948,
+    "distance": 1.731731550108607
+  },
+  {
+    "name": "United Medical Center",
+    "address": "1996 N D St, San Bernardino, CA 92405",
+    "phone": "(909) 883-7777",
+    "type": "private",
+    "lat": 34.133732,
+    "lng": -117.291962,
+    "distance": 1.7616240263542915
+  },
+  {
+    "name": "Unicare Community Health Centers",
+    "address": "570 S Mount Vernon Ave, Ste G, San Bernardino, CA 92410",
+    "phone": "(909) 884-6700",
+    "type": "VFA",
+    "lat": 34.090981,
+    "lng": -117.315102,
+    "distance": 1.8782898627327282
+  },
+  {
+    "name": "John D Vo",
+    "address": "355 E 21st St, Ste D, San Bernardino, CA 92404",
+    "phone": "(909) 882-8455",
+    "type": "private",
+    "lat": 34.13377,
+    "lng": -117.277977,
+    "distance": 1.8853894039716979
+  },
+  {
+    "name": "Cyrus Damirchi",
+    "address": "355 E 21st St, Ste F, San Bernardino, CA 92404",
+    "phone": "(909) 886-5251",
+    "type": "private",
+    "lat": 34.13377,
+    "lng": -117.277977,
+    "distance": 1.8853894039716979
+  },
+  {
+    "name": "San Bernardino Pediatrics",
+    "address": "2150 N Waterman Ave, Ste 202, San Bernardino, CA 92404",
+    "phone": "(909) 674-1600",
+    "type": "private",
+    "lat": 34.134689,
+    "lng": -117.279221,
+    "distance": 1.9212388864669776
+  },
+  {
+    "name": "Eduardo Uy",
+    "address": "595 W Highland Ave, San Bernardino, CA 92405",
+    "phone": "(909) 886-8888",
+    "type": "private",
+    "lat": 34.135738,
+    "lng": -117.296204,
+    "distance": 1.9309863846106547
+  },
+  {
+    "name": "Pinnacle Medical Group",
+    "address": "2150 N Waterman Ave, Ste 102, San Bernardino, CA 92404",
+    "phone": "(909) 881-4115",
+    "type": "private",
+    "lat": 34.134941,
+    "lng": -117.279404,
+    "distance": 1.9345119889601443
+  },
+  {
+    "name": "Unicare Community Health Center",
+    "address": "190 E Highland Ave, San Bernardino, CA 92404",
+    "phone": "(909) 882-4788",
+    "type": "VFA",
+    "lat": 34.135994,
+    "lng": -117.282761,
+    "distance": 1.9554922999449451
+  },
+  {
+    "name": "Sac Health System Norton",
+    "address": "1455 3rd Ave, San Bernardino, CA 92408",
+    "phone": "(909) 382-7100",
+    "type": "VFA",
+    "lat": 34.104507,
+    "lng": -117.255585,
+    "distance": 1.9750094657418658
+  },
+  {
+    "name": "St. Bernardine Medical Center",
+    "address": "2101 N Waterman Ave, San Bernardino, CA 92404",
+    "phone": "(909) 883-8711",
+    "type": "private",
+    "lat": 34.134842,
+    "lng": -117.276611,
+    "distance": 1.9830901417610536
+  },
+  {
+    "name": "Sb E Highland - Unicare Chc",
+    "address": "184 E Highland Ave, San Bernardino, CA 92404",
+    "phone": "(909) 741-2951",
+    "type": "fqhc",
+    "lat": 34.136803,
+    "lng": -117.28286,
+    "distance": 2.009078879958744
+  },
+  {
+    "name": "Metropolitan Fam Med Clinic",
+    "address": "742 W Highland Ave, San Bernardino, CA 92405",
+    "phone": "(909) 881-7320",
+    "type": "private",
+    "lat": 34.136311,
+    "lng": -117.299454,
+    "distance": 2.0126986671562306
+  },
+  {
+    "name": "Dignity Health Medical Group",
+    "address": "401 E Highland Ave, Ste 450a, San Bernardino, CA 92404",
+    "phone": "(909) 864-4700",
+    "type": "private",
+    "lat": 34.135368,
+    "lng": -117.276619,
+    "distance": 2.0166134312861645
+  },
+  {
+    "name": "Metropolitan Family Med Clinic Inc",
+    "address": "1574 W Base Line St, # A, San Bernardino, CA 92411",
+    "phone": "(909) 386-1880",
+    "type": "private",
+    "lat": 34.121365,
+    "lng": -117.32151,
+    "distance": 2.0262532812996112
+  },
+  {
+    "name": "Apex Pediatrics, Inc",
+    "address": "399 E Highland Ave, Ste 329, San Bernardino, CA 92404",
+    "phone": "(909) 886-1001",
+    "type": "private",
+    "lat": 34.135876,
+    "lng": -117.275711,
+    "distance": 2.0688413790197053
+  },
+  {
+    "name": "Blessing Community Health Center",
+    "address": "3972 N Waterman Ave, Ste 104, San Bernardino, CA 92404",
+    "phone": "(909) 433-9700",
+    "type": "public",
+    "lat": 34.164211,
+    "lng": -117.279182,
+    "distance": 0.7316850356690646
+  },
+  {
+    "name": "Oliverio Medical Corporation",
+    "address": "164 W Hospitality Ln, Ste 3b, San Bernardino, CA 92408",
+    "phone": "(909) 891-1164",
+    "type": "private",
+    "lat": 34.06654,
+    "lng": -117.287132,
+    "distance": 0.5894714078735939
+  },
+  {
+    "name": "Esteban S Poni Md",
+    "address": "225 E Airport Dr, Ste 145 San Bernardino, CA 92408",
+    "phone": "(909) 888-5281",
+    "type": "private",
+    "lat": 34.066875,
+    "lng": -117.283058,
+    "distance": 0.7071352083878012
+  },
+  {
+    "name": "Mission Pediatrics",
+    "address": "1906 Commercenter Ste 101, San Bernardino, CA 92408",
+    "phone": "(909) 891-1913",
+    "type": "private",
+    "lat": 34.066879,
+    "lng": -117.282639,
+    "distance": 0.7207419269653839
+  },
+  {
+    "name": "Sac Health - Brier Campus",
+    "address": "1003 E Brier Dr, San Bernardino, CA 92408",
+    "phone": "(909) 382-7100",
+    "type": "fqhc",
+    "lat": 34.070347,
+    "lng": -117.26403,
+    "distance": 1.6937390863171509
+  },
+  {
+    "name": "San Marcos Metropolitan Clinic",
+    "address": "7576 Sterling Ave, Ste C-d, San Bernardino, CA 92410",
+    "phone": "(909) 381-8983",
+    "type": "private",
+    "lat": 34.116138,
+    "lng": -117.244133,
+    "distance": 4.7750859441139655
+  },
+  {
+    "name": "Lasalle Medical Associates",
+    "address": "1505 W 17th St, San Bernardino, CA 92411",
+    "phone": "(909) 887-6494",
+    "type": "private",
+    "lat": 34.130249,
+    "lng": -117.318672,
+    "distance": 5.238821582884556
+  },
+  {
+    "name": "Alejandro  Pediatrics, Inc",
+    "address": "1800 Western Ave, Ste 300, San Bernardino, CA 92411",
+    "phone": "(909) 473-8618",
+    "type": "private",
+    "lat": 34.131351,
+    "lng": -117.31839,
+    "distance": 5.306159820903819
+  },
+  {
+    "name": "Godofreda B Sumalangcay Md",
+    "address": "1800 Western Ave, Ste 202, San Bernardino, CA 92411",
+    "phone": "(909) 880-3065",
+    "type": "private",
+    "lat": 34.131351,
+    "lng": -117.31839,
+    "distance": 5.306159820903819
+  },
+  {
+    "name": "Daniel Franco",
+    "address": "1800 Western Ave, Ste 401, San Bernardino, CA 92411",
+    "phone": "(909) 880-3677",
+    "type": "private",
+    "lat": 34.131351,
+    "lng": -117.31839,
+    "distance": 5.306159820903819
+  },
+  {
+    "name": "Edgar Alfaro-mc Field, Md",
+    "address": "1800 Western Ave, Ste 305, San Bernardino, CA 92411",
+    "phone": "(909) 880-9993",
+    "type": "private",
+    "lat": 34.131351,
+    "lng": -117.31839,
+    "distance": 5.306159820903819
+  },
+  {
+    "name": "Bendito Medical Corp",
+    "address": "1780 E Highland Ave, San Bernardino, CA 92404",
+    "phone": "(909) 402-4601",
+    "type": "private",
+    "lat": 34.136341,
+    "lng": -117.248596,
+    "distance": 2.0018375657556566
+  },
+  {
+    "name": "Armc Mckee Family Health Center",
+    "address": "1499 E Highland Ave, San Bernardino, CA 92404",
+    "phone": "(909) 386-9913",
+    "type": "public",
+    "lat": 34.13483,
+    "lng": -117.254807,
+    "distance": 2.024217710645004
+  },
+  {
+    "name": "Fontana Clinica Medica Familiar",
+    "address": "17695 Arrow Blvd, Fontana, CA 92335",
+    "phone": "(909) 854-3790",
+    "type": "private",
+    "lat": 34.099403,
+    "lng": -117.418556,
+    "distance": 5.327506885056364
+  },
+  {
+    "name": "Lasalle Medical Associates-fontana",
+    "address": "17577 Arrow Blvd, Fontana, CA 92335",
+    "phone": "(909) 823-4454",
+    "type": "private",
+    "lat": 34.099072,
+    "lng": -117.421158,
+    "distance": 5.442157309401739
+  },
+  {
+    "name": "Kaiser Permanente- Fontana",
+    "address": "9961 Sierra Ave, Fontana, CA 92335",
+    "phone": "(909) 427-5463",
+    "type": "private",
+    "lat": 34.072517,
+    "lng": -117.433411,
+    "distance": 5.447616342106639
+  },
+  {
+    "name": "Eduardo Uy",
+    "address": "9717 Sierra Ave, Fontana, CA 92335",
+    "phone": "(909) 822-3400",
+    "type": "private",
+    "lat": 34.077267,
+    "lng": -117.435623,
+    "distance": 5.639197765711271
+  },
+  {
+    "name": "Clinica Medica Familiar-phn, Inc",
+    "address": "9792 Sierra Ave, Fontana, CA 92335",
+    "phone": "(909) 434-6000",
+    "type": "private",
+    "lat": 34.076153,
+    "lng": -117.435959,
+    "distance": 5.640592240135912
+  }
+]

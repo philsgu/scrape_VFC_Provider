@@ -1,0 +1,641 @@
+{
+  "total_counties": 58,
+  "successful_counties": 58,
+  "failed_counties": 0,
+  "total_providers": 3410,
+  "search_radius": 200,
+  "results": [
+    {
+      "county": "Alameda",
+      "providers": 49,
+      "types": {
+        "fqhc": 13,
+        "public": 9,
+        "private": 24,
+        "VFA": 3
+      },
+      "file": "alameda.json"
+    },
+    {
+      "county": "Alpine",
+      "providers": 60,
+      "types": {
+        "public": 23,
+        "VFA": 4,
+        "private": 21,
+        "fqhc": 12
+      },
+      "file": "alpine.json"
+    },
+    {
+      "county": "Amador",
+      "providers": 69,
+      "types": {
+        "public": 17,
+        "VFA": 4,
+        "fqhc": 13,
+        "private": 35
+      },
+      "file": "amador.json"
+    },
+    {
+      "county": "Butte",
+      "providers": 56,
+      "types": {
+        "public": 23,
+        "private": 10,
+        "fqhc": 23
+      },
+      "file": "butte.json"
+    },
+    {
+      "county": "Calaveras",
+      "providers": 65,
+      "types": {
+        "VFA": 8,
+        "public": 15,
+        "fqhc": 16,
+        "private": 26
+      },
+      "file": "calaveras.json"
+    },
+    {
+      "county": "Colusa",
+      "providers": 49,
+      "types": {
+        "fqhc": 21,
+        "public": 20,
+        "private": 7,
+        "VFA": 1
+      },
+      "file": "colusa.json"
+    },
+    {
+      "county": "Contra Costa",
+      "providers": 86,
+      "types": {
+        "VFA": 10,
+        "private": 37,
+        "public": 24,
+        "fqhc": 15
+      },
+      "file": "contra_costa.json"
+    },
+    {
+      "county": "Del Norte",
+      "providers": 50,
+      "types": {
+        "public": 15,
+        "fqhc": 29,
+        "private": 5,
+        "VFA": 1
+      },
+      "file": "del_norte.json"
+    },
+    {
+      "county": "El Dorado",
+      "providers": 63,
+      "types": {
+        "private": 35,
+        "fqhc": 17,
+        "public": 8,
+        "VFA": 3
+      },
+      "file": "el_dorado.json"
+    },
+    {
+      "county": "Fresno",
+      "providers": 70,
+      "types": {
+        "private": 32,
+        "fqhc": 28,
+        "public": 5,
+        "VFA": 5
+      },
+      "file": "fresno.json"
+    },
+    {
+      "county": "Glenn",
+      "providers": 55,
+      "types": {
+        "public": 24,
+        "fqhc": 23,
+        "private": 8
+      },
+      "file": "glenn.json"
+    },
+    {
+      "county": "Humboldt",
+      "providers": 55,
+      "types": {
+        "fqhc": 30,
+        "public": 18,
+        "private": 6,
+        "VFA": 1
+      },
+      "file": "humboldt.json"
+    },
+    {
+      "county": "Imperial",
+      "providers": 51,
+      "types": {
+        "private": 22,
+        "public": 3,
+        "fqhc": 16,
+        "VFA": 10
+      },
+      "file": "imperial.json"
+    },
+    {
+      "county": "Inyo",
+      "providers": 45,
+      "types": {
+        "public": 4,
+        "fqhc": 27,
+        "private": 11,
+        "VFA": 3
+      },
+      "file": "inyo.json"
+    },
+    {
+      "county": "Kern",
+      "providers": 55,
+      "types": {
+        "private": 26,
+        "fqhc": 16,
+        "VFA": 9,
+        "public": 4
+      },
+      "file": "kern.json"
+    },
+    {
+      "county": "Kings",
+      "providers": 74,
+      "types": {
+        "fqhc": 40,
+        "VFA": 20,
+        "public": 4,
+        "private": 10
+      },
+      "file": "kings.json"
+    },
+    {
+      "county": "Lake",
+      "providers": 58,
+      "types": {
+        "private": 13,
+        "public": 16,
+        "fqhc": 22,
+        "VFA": 7
+      },
+      "file": "lake.json"
+    },
+    {
+      "county": "Lassen",
+      "providers": 57,
+      "types": {
+        "private": 12,
+        "public": 20,
+        "VFA": 2,
+        "fqhc": 23
+      },
+      "file": "lassen.json"
+    },
+    {
+      "county": "Los Angeles",
+      "providers": 195,
+      "types": {
+        "public": 24,
+        "fqhc": 32,
+        "VFA": 52,
+        "private": 87
+      },
+      "file": "los_angeles.json"
+    },
+    {
+      "county": "Madera",
+      "providers": 66,
+      "types": {
+        "fqhc": 20,
+        "VFA": 10,
+        "public": 9,
+        "private": 27
+      },
+      "file": "madera.json"
+    },
+    {
+      "county": "Marin",
+      "providers": 78,
+      "types": {
+        "fqhc": 9,
+        "private": 32,
+        "public": 24,
+        "VFA": 13
+      },
+      "file": "marin.json"
+    },
+    {
+      "county": "Mariposa",
+      "providers": 57,
+      "types": {
+        "fqhc": 17,
+        "VFA": 11,
+        "public": 14,
+        "private": 15
+      },
+      "file": "mariposa.json"
+    },
+    {
+      "county": "Mendocino",
+      "providers": 54,
+      "types": {
+        "fqhc": 21,
+        "private": 12,
+        "public": 15,
+        "VFA": 6
+      },
+      "file": "mendocino.json"
+    },
+    {
+      "county": "Merced",
+      "providers": 67,
+      "types": {
+        "private": 23,
+        "fqhc": 21,
+        "public": 7,
+        "VFA": 16
+      },
+      "file": "merced.json"
+    },
+    {
+      "county": "Modoc",
+      "providers": 52,
+      "types": {
+        "public": 17,
+        "fqhc": 27,
+        "VFA": 2,
+        "private": 6
+      },
+      "file": "modoc.json"
+    },
+    {
+      "county": "Mono",
+      "providers": 56,
+      "types": {
+        "fqhc": 14,
+        "public": 18,
+        "private": 16,
+        "VFA": 8
+      },
+      "file": "mono.json"
+    },
+    {
+      "county": "Monterey",
+      "providers": 55,
+      "types": {
+        "private": 28,
+        "public": 10,
+        "fqhc": 6,
+        "VFA": 11
+      },
+      "file": "monterey.json"
+    },
+    {
+      "county": "Napa",
+      "providers": 75,
+      "types": {
+        "VFA": 13,
+        "private": 32,
+        "public": 22,
+        "fqhc": 8
+      },
+      "file": "napa.json"
+    },
+    {
+      "county": "Nevada",
+      "providers": 14,
+      "types": {
+        "fqhc": 5,
+        "public": 5,
+        "private": 4
+      },
+      "file": "nevada.json"
+    },
+    {
+      "county": "Orange",
+      "providers": 85,
+      "types": {
+        "fqhc": 9,
+        "private": 60,
+        "VFA": 11,
+        "public": 5
+      },
+      "file": "orange.json"
+    },
+    {
+      "county": "Placer",
+      "providers": 30,
+      "types": {
+        "private": 17,
+        "fqhc": 7,
+        "public": 6
+      },
+      "file": "placer.json"
+    },
+    {
+      "county": "Plumas",
+      "providers": 60,
+      "types": {
+        "public": 19,
+        "private": 13,
+        "fqhc": 27,
+        "VFA": 1
+      },
+      "file": "plumas.json"
+    },
+    {
+      "county": "Riverside",
+      "providers": 72,
+      "types": {
+        "private": 56,
+        "VFA": 12,
+        "public": 2,
+        "fqhc": 2
+      },
+      "file": "riverside.json"
+    },
+    {
+      "county": "Sacramento",
+      "providers": 64,
+      "types": {
+        "VFA": 8,
+        "fqhc": 19,
+        "private": 33,
+        "public": 4
+      },
+      "file": "sacramento.json"
+    },
+    {
+      "county": "San Benito",
+      "providers": 57,
+      "types": {
+        "fqhc": 10,
+        "VFA": 12,
+        "public": 8,
+        "private": 27
+      },
+      "file": "san_benito.json"
+    },
+    {
+      "county": "San Bernardino",
+      "providers": 44,
+      "types": {
+        "fqhc": 7,
+        "private": 31,
+        "VFA": 4,
+        "public": 2
+      },
+      "file": "san_bernardino.json"
+    },
+    {
+      "county": "San Diego",
+      "providers": 57,
+      "types": {
+        "VFA": 20,
+        "fqhc": 6,
+        "private": 20,
+        "public": 11
+      },
+      "file": "san_diego.json"
+    },
+    {
+      "county": "San Francisco",
+      "providers": 45,
+      "types": {
+        "public": 15,
+        "fqhc": 8,
+        "VFA": 7,
+        "private": 15
+      },
+      "file": "san_francisco.json"
+    },
+    {
+      "county": "San Joaquin",
+      "providers": 39,
+      "types": {
+        "VFA": 3,
+        "fqhc": 16,
+        "public": 3,
+        "private": 17
+      },
+      "file": "san_joaquin.json"
+    },
+    {
+      "county": "San Luis Obispo",
+      "providers": 55,
+      "types": {
+        "VFA": 24,
+        "public": 7,
+        "fqhc": 14,
+        "private": 10
+      },
+      "file": "san_luis_obispo.json"
+    },
+    {
+      "county": "San Mateo",
+      "providers": 92,
+      "types": {
+        "public": 23,
+        "private": 39,
+        "fqhc": 18,
+        "VFA": 12
+      },
+      "file": "san_mateo.json"
+    },
+    {
+      "county": "Santa Barbara",
+      "providers": 55,
+      "types": {
+        "private": 21,
+        "VFA": 15,
+        "public": 9,
+        "fqhc": 10
+      },
+      "file": "santa_barbara.json"
+    },
+    {
+      "county": "Santa Clara",
+      "providers": 61,
+      "types": {
+        "VFA": 15,
+        "private": 28,
+        "public": 9,
+        "fqhc": 9
+      },
+      "file": "santa_clara.json"
+    },
+    {
+      "county": "Santa Cruz",
+      "providers": 71,
+      "types": {
+        "VFA": 15,
+        "public": 11,
+        "private": 39,
+        "fqhc": 6
+      },
+      "file": "santa_cruz.json"
+    },
+    {
+      "county": "Shasta",
+      "providers": 55,
+      "types": {
+        "public": 19,
+        "fqhc": 30,
+        "private": 6
+      },
+      "file": "shasta.json"
+    },
+    {
+      "county": "Sierra",
+      "providers": 50,
+      "types": {
+        "private": 15,
+        "fqhc": 19,
+        "public": 14,
+        "VFA": 2
+      },
+      "file": "sierra.json"
+    },
+    {
+      "county": "Siskiyou",
+      "providers": 50,
+      "types": {
+        "public": 16,
+        "fqhc": 29,
+        "private": 4,
+        "VFA": 1
+      },
+      "file": "siskiyou.json"
+    },
+    {
+      "county": "Solano",
+      "providers": 67,
+      "types": {
+        "public": 19,
+        "fqhc": 6,
+        "private": 31,
+        "VFA": 11
+      },
+      "file": "solano.json"
+    },
+    {
+      "county": "Sonoma",
+      "providers": 67,
+      "types": {
+        "private": 30,
+        "VFA": 12,
+        "public": 16,
+        "fqhc": 9
+      },
+      "file": "sonoma.json"
+    },
+    {
+      "county": "Stanislaus",
+      "providers": 30,
+      "types": {
+        "VFA": 8,
+        "fqhc": 12,
+        "public": 3,
+        "private": 7
+      },
+      "file": "stanislaus.json"
+    },
+    {
+      "county": "Sutter",
+      "providers": 22,
+      "types": {
+        "fqhc": 9,
+        "public": 8,
+        "private": 4,
+        "VFA": 1
+      },
+      "file": "sutter.json"
+    },
+    {
+      "county": "Tehama",
+      "providers": 54,
+      "types": {
+        "fqhc": 25,
+        "public": 22,
+        "private": 7
+      },
+      "file": "tehama.json"
+    },
+    {
+      "county": "Trinity",
+      "providers": 54,
+      "types": {
+        "fqhc": 30,
+        "public": 17,
+        "private": 6,
+        "VFA": 1
+      },
+      "file": "trinity.json"
+    },
+    {
+      "county": "Tulare",
+      "providers": 44,
+      "types": {
+        "public": 2,
+        "fqhc": 32,
+        "private": 6,
+        "VFA": 4
+      },
+      "file": "tulare.json"
+    },
+    {
+      "county": "Tuolumne",
+      "providers": 58,
+      "types": {
+        "public": 15,
+        "private": 12,
+        "fqhc": 19,
+        "VFA": 12
+      },
+      "file": "tuolumne.json"
+    },
+    {
+      "county": "Ventura",
+      "providers": 52,
+      "types": {
+        "private": 14,
+        "public": 8,
+        "fqhc": 16,
+        "VFA": 14
+      },
+      "file": "ventura.json"
+    },
+    {
+      "county": "Yolo",
+      "providers": 62,
+      "types": {
+        "private": 34,
+        "VFA": 10,
+        "public": 4,
+        "fqhc": 14
+      },
+      "file": "yolo.json"
+    },
+    {
+      "county": "Yuba",
+      "providers": 22,
+      "types": {
+        "fqhc": 9,
+        "public": 8,
+        "private": 4,
+        "VFA": 1
+      },
+      "file": "yuba.json"
+    }
+  ]
+}

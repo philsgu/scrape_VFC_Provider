@@ -1,0 +1,488 @@
+[
+  {
+    "name": "Adventist Health Family Medicine Cl",
+    "address": "260 Hospital Dr Ste 103, Ukiah, CA 95482",
+    "phone": "(707) 463-7495",
+    "type": "fqhc",
+    "lat": 39.153412,
+    "lng": -123.204514,
+    "distance": 0.2887554245722562
+  },
+  {
+    "name": "Ahuv- Rhc Pediatrics",
+    "address": "260 Hospital Dr, Ste 204, Ukiah, CA 95482",
+    "phone": "(707) 463-7470",
+    "type": "fqhc",
+    "lat": 39.153519,
+    "lng": -123.204376,
+    "distance": 0.2990950542797545
+  },
+  {
+    "name": "Robert Rushton",
+    "address": "844 S Dora St, Ukiah, CA 95482",
+    "phone": "(707) 462-8603",
+    "type": "private",
+    "lat": 39.140358,
+    "lng": -123.210663,
+    "distance": 0.6904115537344944
+  },
+  {
+    "name": "Mendocino County Public Health",
+    "address": "1120 S Dora St, Ukiah, CA 95482",
+    "phone": "(707) 472-2600",
+    "type": "public",
+    "lat": 39.13612,
+    "lng": -123.210831,
+    "distance": 0.9795535721180909
+  },
+  {
+    "name": "Mendocino Community Health Center",
+    "address": "333 Laws Ave, Ukiah, CA 95482",
+    "phone": "(707) 468-1010",
+    "type": "fqhc",
+    "lat": 39.127731,
+    "lng": -123.21183,
+    "distance": 1.5606399384363903
+  },
+  {
+    "name": "Consolidated Tribal Health",
+    "address": "6991 N State St, Redwood Valley, CA 95470",
+    "phone": "(707) 485-5115",
+    "type": "public",
+    "lat": 39.2435,
+    "lng": -123.206398,
+    "distance": 6.454134236899271
+  },
+  {
+    "name": "Anderson Valley Hlth Ctr",
+    "address": "13500 Airport Rd, Boonville, CA 95415",
+    "phone": "(707) 895-3477",
+    "type": "VFA",
+    "lat": 39.012344,
+    "lng": -123.379395,
+    "distance": 13.240625096601773
+  },
+  {
+    "name": "Sutter Lakeside Medical Practice",
+    "address": "5176 Hill Rd, Lakeport, CA 95453",
+    "phone": "(707) 262-5088",
+    "type": "private",
+    "lat": 39.102764,
+    "lng": -122.911423,
+    "distance": 16.21985648592701
+  },
+  {
+    "name": "Sutter Lakeside Community Clinic",
+    "address": "5196 Hill Rd, Ste 300, Lakeport, CA 95453",
+    "phone": "(707) 263-6885",
+    "type": "fqhc",
+    "lat": 39.102772,
+    "lng": -122.911339,
+    "distance": 16.224155507318986
+  },
+  {
+    "name": "Mchc - Lakeview",
+    "address": "5335 Lakeshore Blvd, Lakeport, CA 95453",
+    "phone": "(707) 263-7725",
+    "type": "fqhc",
+    "lat": 39.105541,
+    "lng": -122.904037,
+    "distance": 16.570746906269346
+  },
+  {
+    "name": "Lake Co Health Department",
+    "address": "922 Bevins Ct, Lakeport, CA 95453",
+    "phone": "(707) 263-1090",
+    "type": "public",
+    "lat": 39.038139,
+    "lng": -122.922501,
+    "distance": 17.144516381799473
+  },
+  {
+    "name": "Ukiah Valley Rural Health Center Ad",
+    "address": "487 S Main St, Lakeport, CA 95453",
+    "phone": "(707) 263-4631",
+    "type": "private",
+    "lat": 39.038658,
+    "lng": -122.915672,
+    "distance": 17.45618741438115
+  },
+  {
+    "name": "Lake County Tribal Health Peds Ob",
+    "address": "359 Lakeport Blvd, Lakeport, CA 95453",
+    "phone": "(707) 533-2740",
+    "type": "public",
+    "lat": 39.034592,
+    "lng": -122.918182,
+    "distance": 17.462510112904084
+  },
+  {
+    "name": "Redwood Medical Clinic",
+    "address": "3 Marcela Dr, Ste C, Willits, CA 95490",
+    "phone": "(707) 459-6115",
+    "type": "fqhc",
+    "lat": 39.389969,
+    "lng": -123.339325,
+    "distance": 18.005844470394045
+  },
+  {
+    "name": "Baechtel Creek Med Clinic",
+    "address": "1245 S Main St, Willits, CA 95490",
+    "phone": "(707) 459-6861",
+    "type": "private",
+    "lat": 39.399212,
+    "lng": -123.348961,
+    "distance": 18.796296733395966
+  },
+  {
+    "name": "Mendocino Community Health Clinic",
+    "address": "45 Hazel St, Willits, CA 95490",
+    "phone": "(707) 456-3924",
+    "type": "fqhc",
+    "lat": 39.400089,
+    "lng": -123.352287,
+    "distance": 18.92377845330809
+  },
+  {
+    "name": "Alexander Valley Healthcare",
+    "address": "6 Tarman Dr, Cloverdale, CA 95425",
+    "phone": "(707) 894-4229",
+    "type": "fqhc",
+    "lat": 38.798092,
+    "lng": -123.017883,
+    "distance": 26.37583809026606
+  },
+  {
+    "name": "Redwood Coast Medical Services",
+    "address": "46900 Ocean Dr, Gualala, CA 95445",
+    "phone": "(707) 884-4005",
+    "type": "fqhc",
+    "lat": 38.804489,
+    "lng": -123.578209,
+    "distance": 31.083439706421323
+  },
+  {
+    "name": "Lcthc Southshore Site",
+    "address": "14440 Olympic Dr, Clearlake, CA 95422",
+    "phone": "(707) 533-2760",
+    "type": "public",
+    "lat": 38.962265,
+    "lng": -122.641373,
+    "distance": 33.047590297149426
+  },
+  {
+    "name": "Adventist Hlth Clearlake Fam Health",
+    "address": "15230 Lakeshore Dr, Clearlake, CA 95422",
+    "phone": "(707) 995-4531",
+    "type": "fqhc",
+    "lat": 38.949913,
+    "lng": -122.628265,
+    "distance": 34.035844927565485
+  },
+  {
+    "name": "St Helena Konocti Wellness Center",
+    "address": "9430 Lake St, Ste C, Lower Lake, CA 95457",
+    "phone": "(707) 995-4531",
+    "type": "fqhc",
+    "lat": 38.914909,
+    "lng": -122.607727,
+    "distance": 36.07595942907565
+  },
+  {
+    "name": "Mendocino Coast Clinics Ped Grp",
+    "address": "510 Cypress St, Ste D, Fort Bragg, CA 95437",
+    "phone": "(707) 964-5696",
+    "type": "fqhc",
+    "lat": 39.432171,
+    "lng": -123.798958,
+    "distance": 37.13866065222068
+  },
+  {
+    "name": "Ahuv Fort Bragg Rhc",
+    "address": "850 Sequoia Cir, Fort Bragg, CA 95437",
+    "phone": "(707) 964-0259",
+    "type": "fqhc",
+    "lat": 39.430328,
+    "lng": -123.801926,
+    "distance": 37.20779686474001
+  },
+  {
+    "name": "Adventist Health Mendocino Coast",
+    "address": "721a River Dr, Ste A, Fort Bragg, CA 95437",
+    "phone": "(707) 961-4631",
+    "type": "fqhc",
+    "lat": 39.432255,
+    "lng": -123.801498,
+    "distance": 37.2573963494319
+  },
+  {
+    "name": "Long Valley Health Center",
+    "address": "50 Branscomb Rd, Laytonville, CA 95454",
+    "phone": "(707) 984-6131",
+    "type": "fqhc",
+    "lat": 39.688217,
+    "lng": -123.484306,
+    "distance": 40.00487584109204
+  },
+  {
+    "name": "Alliance Medical Center",
+    "address": "1381 University St, Healdsburg, CA 95448",
+    "phone": "(707) 433-5494",
+    "type": "VFA",
+    "lat": 38.627361,
+    "lng": -122.86541,
+    "distance": 40.54322027312102
+  },
+  {
+    "name": "Adventist Health Middletown",
+    "address": "21337 Bush Street, Middletown, CA 95461",
+    "phone": "(707) 987-9210",
+    "type": "private",
+    "lat": 38.748436,
+    "lng": -122.617432,
+    "distance": 42.15134678268945
+  },
+  {
+    "name": "Round Valley Indian Health Clinic",
+    "address": "24065 Biggar Ln, Covelo Ca 95428",
+    "phone": "(707) 983-6181",
+    "type": "public",
+    "lat": 39.809284,
+    "lng": -123.246948,
+    "distance": 45.59586413709992
+  },
+  {
+    "name": "Russian River Hlth Ctr",
+    "address": "16387 1st Street, Guerneville, CA 95446",
+    "phone": "(707) 869-2849",
+    "type": "fqhc",
+    "lat": 38.500286,
+    "lng": -123.0,
+    "distance": 46.27296441657456
+  },
+  {
+    "name": "Healdsburg Pediatrics",
+    "address": "8911 Lakewood Dr, Ste 13 Windsor, CA 95492",
+    "phone": "(707) 387-3910",
+    "type": "private",
+    "lat": 38.551037,
+    "lng": -122.804314,
+    "distance": 46.742547758852304
+  },
+  {
+    "name": "Alliance Medical Center",
+    "address": "8465 Old Redwood Hwy, Ste 320, Windsor, CA 95492",
+    "phone": "(707) 433-5494",
+    "type": "VFA",
+    "lat": 38.543442,
+    "lng": -122.801239,
+    "distance": 47.28478516388396
+  },
+  {
+    "name": "Sutter Santa Rosa Regional Hospital",
+    "address": "30 Mark West Springs Rd, Santa Rosa, CA 95403",
+    "phone": "(707) 576-4340",
+    "type": "private",
+    "lat": 38.49509,
+    "lng": -122.751976,
+    "distance": 51.48346266877143
+  },
+  {
+    "name": "Communicareole Calistoga",
+    "address": "911 Washington St, Calistoga, CA 94515",
+    "phone": "(707) 709-2308",
+    "type": "VFA",
+    "lat": 38.57774,
+    "lng": -122.577347,
+    "distance": 52.10193518669259
+  },
+  {
+    "name": "Kaiser Perm Santa Rosa",
+    "address": "3925 Old Redwood Hwy, Santa Rosa, CA 95403",
+    "phone": "(707) 566-5480",
+    "type": "private",
+    "lat": 38.482712,
+    "lng": -122.735657,
+    "distance": 52.65643222439505
+  },
+  {
+    "name": "Vista Campus",
+    "address": "3569 Round Barn Cir, Santa Rosa, CA 95403",
+    "phone": "(707) 303-3600",
+    "type": "public",
+    "lat": 38.479744,
+    "lng": -122.729637,
+    "distance": 52.993048475643185
+  },
+  {
+    "name": "Occidental Area Health Center",
+    "address": "3802 Main St, Occidental, CA 95465",
+    "phone": "(707) 874-2444",
+    "type": "fqhc",
+    "lat": 38.408836,
+    "lng": -122.947578,
+    "distance": 53.10282364940977
+  },
+  {
+    "name": "Santa Rosa Comm Hc Dutton Campus",
+    "address": "1300 N Dutton Ave, Santa Rosa, CA 95401",
+    "phone": "(707) 396-5151",
+    "type": "fqhc",
+    "lat": 38.449928,
+    "lng": -122.732948,
+    "distance": 54.72192105273137
+  },
+  {
+    "name": "Sonoma County Indian Hth Proj",
+    "address": "144 Stony Point Rd, Santa Rosa, CA 95401",
+    "phone": "(707) 521-4500",
+    "type": "public",
+    "lat": 38.44043,
+    "lng": -122.74353,
+    "distance": 55.0426371016601
+  },
+  {
+    "name": "Sutter Pacific Medical Foundation",
+    "address": "131 Stony Cir, Ste 1600, Santa Rosa, CA 95401",
+    "phone": "(707) 541-7700",
+    "type": "private",
+    "lat": 38.438889,
+    "lng": -122.74456,
+    "distance": 55.11251922145688
+  },
+  {
+    "name": "Santa Rosa Comm Hc Caritas Campus",
+    "address": "301 6th St, Ste 214, Santa Rosa, CA 95401",
+    "phone": "(707) 583-8700",
+    "type": "fqhc",
+    "lat": 38.440022,
+    "lng": -122.719215,
+    "distance": 55.67453935920108
+  },
+  {
+    "name": "Lombardi Campus",
+    "address": "751 Lombardi Ct, Ste B, Santa Rosa, CA 95407",
+    "phone": "(707) 547-2222",
+    "type": "public",
+    "lat": 38.427818,
+    "lng": -122.749207,
+    "distance": 55.685085353663986
+  },
+  {
+    "name": "Pediatric Campus",
+    "address": "711 Stony Point Rd, Ste 17, Santa Rosa, CA 95407",
+    "phone": "(707) 578-2005",
+    "type": "public",
+    "lat": 38.429111,
+    "lng": -122.742577,
+    "distance": 55.76443545985409
+  },
+  {
+    "name": "Jewish Community Free Clinic",
+    "address": "50 Montgomery Dr, Santa Rosa, CA 95404",
+    "phone": "(707) 585-7780",
+    "type": "private",
+    "lat": 38.443108,
+    "lng": -122.70372,
+    "distance": 55.88695550221811
+  },
+  {
+    "name": "Doyle Park Pediatrics",
+    "address": "500 Doyle Park Dr, Ste 100, Santa Rosa, CA 95405",
+    "phone": "(707) 544-6090",
+    "type": "private",
+    "lat": 38.44323,
+    "lng": -122.698257,
+    "distance": 56.02306713051639
+  },
+  {
+    "name": "Gravenstein Community Health Center",
+    "address": "652 Petaluma Ave, Ste H, Sebastopol, CA 95472",
+    "phone": "(707) 823-3166",
+    "type": "fqhc",
+    "lat": 38.396313,
+    "lng": -122.819962,
+    "distance": 56.11895515730646
+  },
+  {
+    "name": "Williams Health Center",
+    "address": "501 E St, Williams, CA 95987",
+    "phone": "(530) 619-0393",
+    "type": "fqhc",
+    "lat": 39.155071,
+    "lng": -122.146942,
+    "distance": 56.844570036974275
+  },
+  {
+    "name": "Elsie Allen Campus",
+    "address": "599 Bellevue Ave, Rm G17, Santa Rosa, CA 95407",
+    "phone": "(707) 583-8777",
+    "type": "public",
+    "lat": 38.404823,
+    "lng": -122.734444,
+    "distance": 57.46360848395469
+  },
+  {
+    "name": "Willows Pediatrics",
+    "address": "263 N Villa Ave, Willows, CA 95988",
+    "phone": "(530) 934-8700",
+    "type": "public",
+    "lat": 39.52264,
+    "lng": -122.209877,
+    "distance": 59.21859742822031
+  },
+  {
+    "name": "Glenn County Hhsa",
+    "address": "240 N Villa Ave, Willows, CA 95988",
+    "phone": "(530) 934-6588",
+    "type": "public",
+    "lat": 39.522305,
+    "lng": -122.208817,
+    "distance": 59.259687578836804
+  },
+  {
+    "name": "Sonoma County Juvenile Hall",
+    "address": "7425 Rancho Los Guilicos Rd, Santa Rosa, CA 95409",
+    "phone": "(707) 565-6343",
+    "type": "public",
+    "lat": 38.443069,
+    "lng": -122.579803,
+    "distance": 59.417443526053354
+  },
+  {
+    "name": "Northern Valley Indian Health",
+    "address": "207 N Butte St, Willows, CA 95988",
+    "phone": "(530) 934-4641",
+    "type": "public",
+    "lat": 39.522129,
+    "lng": -122.195778,
+    "distance": 58.46545502988305
+  },
+  {
+    "name": "Communicare+ole St Helena",
+    "address": "1222 Pine St, Ste A, Saint Helena, CA 94574",
+    "phone": "(707) 963-0931",
+    "type": "VFA",
+    "lat": 38.505981,
+    "lng": -122.472412,
+    "distance": 57.037953891827094
+  },
+  {
+    "name": "Harvest Pediatric",
+    "address": "202 Main St, Saint Helena, CA 94574",
+    "phone": "(707) 963-0171",
+    "type": "private",
+    "lat": 38.495518,
+    "lng": -122.45768,
+    "distance": 58.11116659842416
+  },
+  {
+    "name": "Rohnert Park Health Center",
+    "address": "5900 State Farm Dr, Ste 200, Rohnert Park, CA 94928",
+    "phone": "(707) 559-7600",
+    "type": "VFA",
+    "lat": 38.353878,
+    "lng": -122.706573,
+    "distance": 59.51088032856514
+  }
+]

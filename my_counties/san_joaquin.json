@@ -1,0 +1,353 @@
+[
+  {
+    "name": "Community Medical Centers Gleason",
+    "address": "423 S San Joaquin St, Stockton, CA 95203",
+    "phone": "(209) 954-7700",
+    "type": "VFA",
+    "lat": 37.948761,
+    "lng": -121.286377,
+    "distance": 0.41778666608058784
+  },
+  {
+    "name": "Channel Medical Center",
+    "address": "701 E Channel St, Stockton, CA 95202",
+    "phone": "(209) 944-4700",
+    "type": "fqhc",
+    "lat": 37.956379,
+    "lng": -121.282089,
+    "distance": 0.5094109067320449
+  },
+  {
+    "name": "Community Medical Center Channel Ii",
+    "address": "747 E Channel St, Stockton, CA 95202",
+    "phone": "(209) 414-3200",
+    "type": "fqhc",
+    "lat": 37.956127,
+    "lng": -121.281891,
+    "distance": 0.5135537049369311
+  },
+  {
+    "name": "Community Medical Centers St. Marys",
+    "address": "545 W Sonora St, Bldg 1, Stockton, CA 95203",
+    "phone": "(209) 337-3298",
+    "type": "fqhc",
+    "lat": 37.94751,
+    "lng": -121.297211,
+    "distance": 0.5522319329115298
+  },
+  {
+    "name": "Children Health Services",
+    "address": "1414 N California St, Side A, Stockton, CA 95202",
+    "phone": "(209) 953-5400",
+    "type": "public",
+    "lat": 37.968128,
+    "lng": -121.288055,
+    "distance": 1.0081041437961467
+  },
+  {
+    "name": "Stockton Children's Clinic",
+    "address": "1805 N California St, Ste 409, Stockton, CA 95204",
+    "phone": "(209) 476-0900",
+    "type": "private",
+    "lat": 37.971088,
+    "lng": -121.289597,
+    "distance": 1.2032844514437786
+  },
+  {
+    "name": "Community Medical Centers Waterloo",
+    "address": "1031 Waterloo Rd, Stockton, CA 95205",
+    "phone": "(209) 940-5600",
+    "type": "fqhc",
+    "lat": 37.96748,
+    "lng": -121.27256,
+    "distance": 1.376225119333384
+  },
+  {
+    "name": "Cmc Sutter Street",
+    "address": "1800 S Sutter St Unit 11b, Stockton, CA 95206",
+    "phone": "(209) 944-4700",
+    "type": "fqhc",
+    "lat": 37.934059,
+    "lng": -121.28019,
+    "distance": 1.4751638734813446
+  },
+  {
+    "name": "Community Medical Center, Calif St",
+    "address": "2349 N California St, Stockton, CA 95204",
+    "phone": "(209) 469-2229",
+    "type": "fqhc",
+    "lat": 37.975201,
+    "lng": -121.291397,
+    "distance": 1.485999246995878
+  },
+  {
+    "name": "Life Family Medicine Clinic",
+    "address": "2800 N California St, Ste 10, Stockton, CA 95204",
+    "phone": "(209) 242-2448",
+    "type": "private",
+    "lat": 37.977924,
+    "lng": -121.291512,
+    "distance": 1.674292601891102
+  },
+  {
+    "name": "Pediatric Care Of Stockton, Inc",
+    "address": "2800 N California St Ste 14, Stockton, CA 95204",
+    "phone": "(209) 464-2605",
+    "type": "private",
+    "lat": 37.978249,
+    "lng": -121.291443,
+    "distance": 1.696610187864119
+  },
+  {
+    "name": "Cmc Dorothy Jones",
+    "address": "2044 Fair St, Stockton, CA 95206",
+    "phone": "(209) 561-0380",
+    "type": "VFA",
+    "lat": 37.933647,
+    "lng": -121.264755,
+    "distance": 1.98344889901626
+  },
+  {
+    "name": "Community Medical Centers Mariposa",
+    "address": "2015 E Mariposa Rd, Stockton, CA 95205",
+    "phone": "(209) 751-1900",
+    "type": "VFA",
+    "lat": 37.939255,
+    "lng": -121.244957,
+    "distance": 2.6899917286129025
+  },
+  {
+    "name": "Weberstown Medical",
+    "address": "87 W March Ln, Ste 3, Stockton, CA 95207",
+    "phone": "(209) 395-2465",
+    "type": "fqhc",
+    "lat": 37.995045,
+    "lng": -121.307999,
+    "distance": 3.0064911455350805
+  },
+  {
+    "name": "March Lane Pediatric Group",
+    "address": "73 W March Ln, Ste F, Stockton, CA 95207",
+    "phone": "(209) 952-5555",
+    "type": "private",
+    "lat": 37.995731,
+    "lng": -121.307037,
+    "distance": 3.035944501704833
+  },
+  {
+    "name": "Shou-i Lin",
+    "address": "75 W March Ln, Ste G, Stockton, CA 95207",
+    "phone": "(209) 951-6072",
+    "type": "private",
+    "lat": 37.99614,
+    "lng": -121.307289,
+    "distance": 3.0669231166003117
+  },
+  {
+    "name": "Westlane Medical Clinic, Inc",
+    "address": "4873 West Ln, Ste A, Stockton, CA 95210",
+    "phone": "(209) 472-1515",
+    "type": "private",
+    "lat": 37.99855,
+    "lng": -121.289909,
+    "distance": 3.0994350242495514
+  },
+  {
+    "name": "Trinh Vu, Md, Inc",
+    "address": "1545 Saint Marks Plz, Ste 3, Stockton, CA 95207",
+    "phone": "(209) 957-3901",
+    "type": "private",
+    "lat": 37.989258,
+    "lng": -121.325783,
+    "distance": 3.1092973790064398
+  },
+  {
+    "name": "Cmc, Delta College",
+    "address": "5151 Pacific Ave, # 126, Stockton, CA 95207",
+    "phone": "(209) 870-6364",
+    "type": "fqhc",
+    "lat": 37.994808,
+    "lng": -121.319176,
+    "distance": 3.2337530190541046
+  },
+  {
+    "name": "Geny B Burgos",
+    "address": "1801 E March Ln, Ste C340, Stockton, CA 95210",
+    "phone": "(209) 939-9512",
+    "type": "private",
+    "lat": 38.003288,
+    "lng": -121.287071,
+    "distance": 3.4324430861926665
+  },
+  {
+    "name": "Community Medical Centers-e March",
+    "address": "1801 E March Ln, Ste D470, Stockton, CA 95210",
+    "phone": "(209) 507-7004",
+    "type": "fqhc",
+    "lat": 38.003288,
+    "lng": -121.287071,
+    "distance": 3.4324430861926665
+  },
+  {
+    "name": "Charles R Mccormick Md",
+    "address": "1240 W Robinhood Dr, Ste G, Stockton, CA 95207",
+    "phone": "(209) 472-1470",
+    "type": "public",
+    "lat": 37.998779,
+    "lng": -121.321907,
+    "distance": 3.545860212471037
+  },
+  {
+    "name": "Dignity Health Medical Group",
+    "address": "3132 W March Ln, Ste 5, Stockton, CA 95219",
+    "phone": "(209) 475-5500",
+    "type": "private",
+    "lat": 37.983349,
+    "lng": -121.351662,
+    "distance": 3.8972244855923543
+  },
+  {
+    "name": "Kaiser Permanente - Stockton",
+    "address": "7373 West Ln, Stockton, CA 95210",
+    "phone": "(209) 476-3105",
+    "type": "private",
+    "lat": 38.017651,
+    "lng": -121.297478,
+    "distance": 4.433772131034276
+  },
+  {
+    "name": "Community Medical Centers Westlane",
+    "address": "7912 West Ln Ste 221, Stockton, CA 95210",
+    "phone": "(209) 636-5000",
+    "type": "fqhc",
+    "lat": 38.02029,
+    "lng": -121.294701,
+    "distance": 4.606134989601206
+  },
+  {
+    "name": "Pacific Urgent Care, Inc",
+    "address": "1782 W Hammer Ln, Stockton, CA 95209",
+    "phone": "(209) 475-9500",
+    "type": "private",
+    "lat": 38.020729,
+    "lng": -121.335861,
+    "distance": 5.241498677396341
+  },
+  {
+    "name": "Tareq Ali, Md",
+    "address": "1520 W Kettleman Ln, Ste B, Lodi, CA 95242",
+    "phone": "(209) 339-3797",
+    "type": "private",
+    "lat": 38.114754,
+    "lng": -121.291206,
+    "distance": 11.128445314195746
+  },
+  {
+    "name": "Lodi Memorial Comm Cl-millsbridge",
+    "address": "1901 W Kettleman Ln, Ste 200, Lodi, CA 95242",
+    "phone": "(209) 334-8540",
+    "type": "private",
+    "lat": 38.115791,
+    "lng": -121.296478,
+    "distance": 11.204381429881602
+  },
+  {
+    "name": "Lodi Children's Clinic",
+    "address": "1920 Tienda Dr, Ste 102, Lodi, CA 95242",
+    "phone": "(209) 368-8310",
+    "type": "private",
+    "lat": 38.116421,
+    "lng": -121.295662,
+    "distance": 11.2467236919141
+  },
+  {
+    "name": "Cmc - Lodi East",
+    "address": "1150 S Cherokee Ln, Lodi, CA 95240",
+    "phone": "(209) 370-1700",
+    "type": "fqhc",
+    "lat": 38.118992,
+    "lng": -121.259346,
+    "distance": 11.548837324522676
+  },
+  {
+    "name": "Cmc Lodi Vine",
+    "address": "2415 W Vine St Ste 100, Lodi, CA 95242",
+    "phone": "(209) 333-3135",
+    "type": "fqhc",
+    "lat": 38.123604,
+    "lng": -121.305008,
+    "distance": 11.765378418895624
+  },
+  {
+    "name": "Cmc- Lawrence",
+    "address": "721 Calaveras St, Lodi, CA 95240",
+    "phone": "(209) 331-8046",
+    "type": "fqhc",
+    "lat": 38.142899,
+    "lng": -121.265694,
+    "distance": 13.144349064004492
+  },
+  {
+    "name": "Cmc-lodi",
+    "address": "2401 W Turner Rd, Ste 450, Lodi, CA 95242",
+    "phone": "(209) 370-1775",
+    "type": "fqhc",
+    "lat": 38.14613,
+    "lng": -121.305573,
+    "distance": 13.320695410313858
+  },
+  {
+    "name": "Helene Novesteras Md",
+    "address": "1530 Bessie Ave, Ste 106, Tracy, CA 95376",
+    "phone": "(209) 833-3386",
+    "type": "private",
+    "lat": 37.74572,
+    "lng": -121.432823,
+    "distance": 16.32694566643923
+  },
+  {
+    "name": "Tracy Family Practice",
+    "address": "2151 W Grant Line Rd, Tracy, CA 95377",
+    "phone": "(209) 820-1500",
+    "type": "fqhc",
+    "lat": 37.754662,
+    "lng": -121.455544,
+    "distance": 16.429594211242406
+  },
+  {
+    "name": "Pediatrics For You",
+    "address": "518 W Eaton Ave, Tracy, CA 95376",
+    "phone": "(209) 833-2228",
+    "type": "private",
+    "lat": 37.742989,
+    "lng": -121.433678,
+    "distance": 16.515329774876637
+  },
+  {
+    "name": "Eaton Pediatrics  Medical Corp",
+    "address": "518 W Eaton Ave, Tracy, CA 95376",
+    "phone": "(209) 833-2228",
+    "type": "private",
+    "lat": 37.742748,
+    "lng": -121.433578,
+    "distance": 16.52742567832839
+  },
+  {
+    "name": "Community Medical Centers",
+    "address": "730 N Central Ave, Tracy, CA 95376",
+    "phone": "(209) 650-4000",
+    "type": "fqhc",
+    "lat": 37.736198,
+    "lng": -121.425507,
+    "distance": 16.729948520647
+  },
+  {
+    "name": "Wivina T Urbano Medical Corp",
+    "address": "4600 S Tracy Blvd, Ste 110, Tracy, CA 95377",
+    "phone": "(209) 833-1628",
+    "type": "public",
+    "lat": 37.69857,
+    "lng": -121.433128,
+    "distance": 19.264446066665908
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Siskiyou County Health Department",
+    "address": "810 S Main St, Yreka, CA 96097",
+    "phone": "(530) 841-2145",
+    "type": "public",
+    "lat": 41.725754,
+    "lng": -122.638313,
+    "distance": 0.8363439588942093
+  },
+  {
+    "name": "Karuk Tribal Clinic",
+    "address": "1519 S Oregon St, Yreka, CA 96097",
+    "phone": "(530) 842-9200",
+    "type": "public",
+    "lat": 41.717072,
+    "lng": -122.642792,
+    "distance": 1.4764048439973771
+  },
+  {
+    "name": "Anav Tribal Health Clinic",
+    "address": "9024 Sniktaw Ln, Fort Jones, CA 96032",
+    "phone": "(530) 468-4470",
+    "type": "public",
+    "lat": 41.598869,
+    "lng": -122.97596,
+    "distance": 20.064327970150686
+  },
+  {
+    "name": "Mercy Lake Shastina Comm Clinic",
+    "address": "16337 Everhart Dr, Weed, CA 96094",
+    "phone": "(530) 938-2297",
+    "type": "fqhc",
+    "lat": 41.527321,
+    "lng": -122.362717,
+    "distance": 20.193683760012284
+  },
+  {
+    "name": "Scott Valley Rural Health Clinic",
+    "address": "8 Commercial St, Etna, CA 96027",
+    "phone": "(530) 467-5393",
+    "type": "fqhc",
+    "lat": 41.462639,
+    "lng": -122.890182,
+    "distance": 23.13829605517346
+  },
+  {
+    "name": "Weed Health Center",
+    "address": "50 Alamo Ave, Weed, CA 96094",
+    "phone": "(530) 999-9050",
+    "type": "private",
+    "lat": 41.426754,
+    "lng": -122.384842,
+    "distance": 25.048110847130438
+  },
+  {
+    "name": "Mercy Mt Shasta Community Clinic",
+    "address": "912 Pine St, Mount Shasta, CA 96067",
+    "phone": "(530) 926-7131",
+    "type": "fqhc",
+    "lat": 41.318932,
+    "lng": -122.323112,
+    "distance": 33.10241746056226
+  },
+  {
+    "name": "Mercy Pine Street Clinic",
+    "address": "408 Pine St, Mount Shasta, CA 96067",
+    "phone": "(530) 926-7196",
+    "type": "fqhc",
+    "lat": 41.31324,
+    "lng": -122.3153,
+    "distance": 33.64334967682792
+  },
+  {
+    "name": "Mt Shasta Health Center",
+    "address": "101 Old Mccloud Rd, Mount Shasta, CA 96067",
+    "phone": "(530) 999-9040",
+    "type": "fqhc",
+    "lat": 41.304829,
+    "lng": -122.310471,
+    "distance": 34.272962899545924
+  },
+  {
+    "name": "Karuk Community Health Clinic",
+    "address": "64236 Second Ave, Happy Camp, CA 96039",
+    "phone": "(530) 493-5257",
+    "type": "public",
+    "lat": 41.791592,
+    "lng": -123.379883,
+    "distance": 38.60274100992504
+  },
+  {
+    "name": "Butte Valley Health Center",
+    "address": "610 West 3rd St, Dorris, CA 96023",
+    "phone": "(530) 999-9070",
+    "type": "fqhc",
+    "lat": 41.964256,
+    "lng": -121.924263,
+    "distance": 39.76710874050222
+  },
+  {
+    "name": "Dunsmuir Community Health Center",
+    "address": "4309 Stagecoach Rd, Dunsmuir, CA 96025",
+    "phone": "(530) 235-4138",
+    "type": "fqhc",
+    "lat": 41.22263,
+    "lng": -122.276833,
+    "distance": 40.10351553220494
+  },
+  {
+    "name": "Mccloud Health Care Clinic",
+    "address": "116 W Minnesota Avenue, Mccloud, CA 96057",
+    "phone": "(530) 964-2389",
+    "type": "fqhc",
+    "lat": 41.251759,
+    "lng": -122.136559,
+    "distance": 42.31289817730528
+  },
+  {
+    "name": "Karuk Tribe Orleans Medical Clinic",
+    "address": "325 Asip Road, Orleans, CA 95556",
+    "phone": "(530) 627-3452",
+    "type": "public",
+    "lat": 41.300709,
+    "lng": -123.548241,
+    "distance": 56.089938259055295
+  },
+  {
+    "name": "Tulelake Health Center",
+    "address": "498 Main St, Tulelake, CA 96134",
+    "phone": "(530) 999-9060",
+    "type": "fqhc",
+    "lat": 41.955059,
+    "lng": -121.476273,
+    "distance": 61.4784017261821
+  },
+  {
+    "name": "Trinity Community Health Clinic",
+    "address": "31 Easter Avenue, Weaverville, CA 96093",
+    "phone": "(530) 623-4186",
+    "type": "fqhc",
+    "lat": 40.737389,
+    "lng": -122.939941,
+    "distance": 70.9053358270051
+  },
+  {
+    "name": "Kimaw Medical Center",
+    "address": "535 Airport Road, Hoopa, CA 95546",
+    "phone": "(530) 625-4261",
+    "type": "public",
+    "lat": 41.041851,
+    "lng": -123.664635,
+    "distance": 71.8512171217236
+  },
+  {
+    "name": "Redding Rancheria Trinity Healthctr",
+    "address": "81 Arbuckle Court, Weaverville, CA 96093",
+    "phone": "(530) 623-0021",
+    "type": "public",
+    "lat": 40.711479,
+    "lng": -122.926498,
+    "distance": 72.50247145585851
+  },
+  {
+    "name": "Shasta Lake Family Health Center",
+    "address": "4215 Front St, Shasta Lake, CA 96019",
+    "phone": "(530) 646-3959",
+    "type": "fqhc",
+    "lat": 40.681114,
+    "lng": -122.370369,
+    "distance": 74.27274226113124
+  },
+  {
+    "name": "United Indian Health Serv Weitchpec",
+    "address": "Highway 96 And Highway 169, Weitchpec, CA 95546",
+    "phone": "(530) 625-4300",
+    "type": "public",
+    "lat": 40.952698,
+    "lng": -123.641052,
+    "distance": 75.28210322573761
+  },
+  {
+    "name": "Willow Creek Community Health Ctr",
+    "address": "38883 Hwy 299, Willow Creek, CA 95573",
+    "phone": "(530) 629-3111",
+    "type": "fqhc",
+    "lat": 40.94035,
+    "lng": -123.633438,
+    "distance": 75.63116568161665
+  },
+  {
+    "name": "Mayers Rural Health Center",
+    "address": "20641 Commerce Way, Burney, CA 96013",
+    "phone": "(530) 335-6070",
+    "type": "fqhc",
+    "lat": 40.88895,
+    "lng": -121.651535,
+    "distance": 77.7155277591236
+  },
+  {
+    "name": "Mtn Valleys Hlth Ctrburney Hlth",
+    "address": "37491 Enterprise Dr, Burney, CA 96013",
+    "phone": "(530) 999-9030",
+    "type": "fqhc",
+    "lat": 40.8876,
+    "lng": -121.652519,
+    "distance": 77.75280750695538
+  },
+  {
+    "name": "Pit River Health Services",
+    "address": "36977 Park Ave, Burney, CA 96013",
+    "phone": "(530) 335-3651",
+    "type": "public",
+    "lat": 40.873371,
+    "lng": -121.673599,
+    "distance": 77.79574662671565
+  },
+  {
+    "name": "Fall River Valley Health Center",
+    "address": "43658 Hwy 299 E, Fall River Mills, CA 96028",
+    "phone": "(530) 999-9020",
+    "type": "fqhc",
+    "lat": 41.028648,
+    "lng": -121.421555,
+    "distance": 79.70316723958405
+  },
+  {
+    "name": "Sutter Coast Community Clinic",
+    "address": "780 E Washington Blvd, Ste 202, Crescent City, CA 95531",
+    "phone": "(707) 464-6715",
+    "type": "private",
+    "lat": 41.775436,
+    "lng": -124.194649,
+    "distance": 80.46550958469074
+  },
+  {
+    "name": "Del Norte County Hlth  Soc Servc",
+    "address": "400 L St, Crescent City, CA 95531",
+    "phone": "(707) 464-0861",
+    "type": "public",
+    "lat": 41.754875,
+    "lng": -124.195076,
+    "distance": 80.46666898043321
+  },
+  {
+    "name": "Redding Rancheria Tribal Health",
+    "address": "1441 Liberty St, Redding, CA 96001",
+    "phone": "(530) 226-1726",
+    "type": "public",
+    "lat": 40.585911,
+    "lng": -122.386597,
+    "distance": 80.60932778784913
+  },
+  {
+    "name": "Del Norte Community Hlth Ctr",
+    "address": "550 E Washington Blvd, Ste 100, Crescent City, CA 95531",
+    "phone": "(707) 465-6925",
+    "type": "fqhc",
+    "lat": 41.773369,
+    "lng": -124.198563,
+    "distance": 80.66392016257498
+  },
+  {
+    "name": "Stallant Health Crescent City",
+    "address": "515 E Washington Blvd, Crescent City, CA 95531",
+    "phone": "(707) 460-1802",
+    "type": "fqhc",
+    "lat": 41.772224,
+    "lng": -124.198997,
+    "distance": 80.68465363804114
+  },
+  {
+    "name": "Schc Urgent Care",
+    "address": "1035 Placer St, Redding, CA 96001",
+    "phone": "(530) 646-3959",
+    "type": "fqhc",
+    "lat": 40.582821,
+    "lng": -122.385391,
+    "distance": 80.83016536008584
+  },
+  {
+    "name": "Schc Family Practice",
+    "address": "1035 Placer St, Redding, CA 96001",
+    "phone": "(530) 646-3959",
+    "type": "fqhc",
+    "lat": 40.582821,
+    "lng": -122.385391,
+    "distance": 80.83016536008584
+  },
+  {
+    "name": "Schc Residency",
+    "address": "1035 Placer St, Redding, CA 96001",
+    "phone": "(530) 646-3959",
+    "type": "fqhc",
+    "lat": 40.582821,
+    "lng": -122.385391,
+    "distance": 80.83016536008584
+  },
+  {
+    "name": "Schc Fellowship",
+    "address": "1035 Placer St, Redding, CA 96001",
+    "phone": "(530) 646-3959",
+    "type": "fqhc",
+    "lat": 40.582821,
+    "lng": -122.385391,
+    "distance": 80.83016536008584
+  },
+  {
+    "name": "Schc Peds",
+    "address": "1035 Placer St, Redding, CA 96001",
+    "phone": "(530) 646-3959",
+    "type": "fqhc",
+    "lat": 40.582821,
+    "lng": -122.385391,
+    "distance": 80.83016536008584
+  },
+  {
+    "name": "Mercy Family Health Center",
+    "address": "2480 Sonoma St, Redding, CA 96001",
+    "phone": "(530) 225-7836",
+    "type": "public",
+    "lat": 40.5737,
+    "lng": -122.404091,
+    "distance": 81.3034205288966
+  },
+  {
+    "name": "Churn Creek Healthcare",
+    "address": "3184 Churn Creek Rd, Redding, CA 96002",
+    "phone": "(530) 768-2436",
+    "type": "public",
+    "lat": 40.56142,
+    "lng": -122.353737,
+    "distance": 82.56573707322957
+  },
+  {
+    "name": "Schc Enterprise",
+    "address": "3270 Churn Creek Rd, Redding, CA 96002",
+    "phone": "(530) 229-5114",
+    "type": "fqhc",
+    "lat": 40.56002,
+    "lng": -122.353546,
+    "distance": 82.66273096705878
+  },
+  {
+    "name": "Shasta Countyhhsapublic Health Br",
+    "address": "2650 Breslauer Way, Redding, CA 96001",
+    "phone": "(530) 229-8463",
+    "type": "public",
+    "lat": 40.550838,
+    "lng": -122.378349,
+    "distance": 83.07072999981287
+  },
+  {
+    "name": "Hayfork Community Hlth Clinic",
+    "address": "6961 Highway 3, Hayfork, CA 96041",
+    "phone": "(530) 628-5517",
+    "type": "fqhc",
+    "lat": 40.554211,
+    "lng": -123.18605,
+    "distance": 86.65401991381356
+  },
+  {
+    "name": "Anderson Family Health Center",
+    "address": "2965 East St, Anderson, CA 96007",
+    "phone": "(530) 246-5833",
+    "type": "fqhc",
+    "lat": 40.451839,
+    "lng": -122.298248,
+    "distance": 90.54397721700435
+  },
+  {
+    "name": "Andersonrx",
+    "address": "2940 East St, Anderson, CA 96007",
+    "phone": "(530) 378-5566",
+    "type": "private",
+    "lat": 40.450863,
+    "lng": -122.298294,
+    "distance": 90.60974778749906
+  },
+  {
+    "name": "Last Frontier Healthcare District",
+    "address": "670 County Road 83, Canby, CA 96015",
+    "phone": "(530) 708-8830",
+    "type": "VFA",
+    "lat": 41.44305,
+    "lng": -120.871933,
+    "distance": 93.32509171955198
+  },
+  {
+    "name": "Humboldt Open Door Cl-mckinleyville",
+    "address": "1644 Central Ave, Mckinleyville, CA 95519",
+    "phone": "(707) 839-3068",
+    "type": "fqhc",
+    "lat": 40.935078,
+    "lng": -124.102005,
+    "distance": 94.18764163265332
+  },
+  {
+    "name": "Shingletown Medical Center Inc",
+    "address": "31292 Alpine Meadows Rd, Shingletown, CA 96088",
+    "phone": "(530) 474-3390",
+    "type": "fqhc",
+    "lat": 40.491669,
+    "lng": -121.88546,
+    "distance": 94.50035995864336
+  },
+  {
+    "name": "Lassen Medical Clinic Cottonwood",
+    "address": "20833 Long Branch Dr, Cottonwood, CA 96022",
+    "phone": "(530) 347-3418",
+    "type": "private",
+    "lat": 40.393631,
+    "lng": -122.280167,
+    "distance": 94.67386290371148
+  },
+  {
+    "name": "Uihs - Valley East",
+    "address": "4715 Valley East Blvd, Arcata, CA 95521",
+    "phone": "(707) 825-5000",
+    "type": "public",
+    "lat": 40.901386,
+    "lng": -124.082016,
+    "distance": 94.76782189915438
+  },
+  {
+    "name": "United Indian Health Serv Arcata",
+    "address": "1600 Weeot Way, Arcata, CA 95521",
+    "phone": "(707) 825-5010",
+    "type": "public",
+    "lat": 40.898083,
+    "lng": -124.092285,
+    "distance": 95.33100595452196
+  },
+  {
+    "name": "North Country Clinic",
+    "address": "785 18th St, Arcata, CA 95521",
+    "phone": "(707) 822-2481",
+    "type": "fqhc",
+    "lat": 40.875889,
+    "lng": -124.083778,
+    "distance": 95.93517114957518
+  },
+  {
+    "name": "The Wecare Group, Inc.",
+    "address": "321 Van Duzen Rd, Mad River, CA 95526",
+    "phone": "(707) 574-6616",
+    "type": "fqhc",
+    "lat": 40.460751,
+    "lng": -123.529778,
+    "distance": 99.78053670531008
+  }
+]

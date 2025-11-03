@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Golden Valley Hlth Ctr- Modesto",
+    "address": "1114 6th St, Modesto, CA 95354",
+    "phone": "(209) 722-4842",
+    "type": "VFA",
+    "lat": 37.639217,
+    "lng": -121.005569,
+    "distance": 0.4866217117367201
+  },
+  {
+    "name": "Family Practice Center",
+    "address": "830 Scenic Dr, Ste A, Modesto, CA 95350",
+    "phone": "(209) 558-8400",
+    "type": "fqhc",
+    "lat": 37.647202,
+    "lng": -120.982948,
+    "distance": 0.9545655990765325
+  },
+  {
+    "name": "Paradise Medical Office",
+    "address": "401 Paradise Rd, Ste E, Modesto, CA 95351",
+    "phone": "(209) 558-4000",
+    "type": "fqhc",
+    "lat": 37.627869,
+    "lng": -121.01387,
+    "distance": 1.2012172109911283
+  },
+  {
+    "name": "Stanislaus Co Ph Iz Clinic",
+    "address": "401 Paradise Rd, Ste E, Modesto, CA 95351",
+    "phone": "(209) 558-5560",
+    "type": "public",
+    "lat": 37.628189,
+    "lng": -121.014671,
+    "distance": 1.2225230548137722
+  },
+  {
+    "name": "Modesto Health Center - Florida Ave",
+    "address": "1444 Florida Ave, Ste 202, Modesto, CA 95350",
+    "phone": "(209) 850-3500",
+    "type": "fqhc",
+    "lat": 37.664921,
+    "lng": -120.995926,
+    "distance": 1.812289292529521
+  },
+  {
+    "name": "Golden Valley Health Center",
+    "address": "208 W Coolidge Ave, Modesto, CA 95350",
+    "phone": "(209) 238-4800",
+    "type": "VFA",
+    "lat": 37.665043,
+    "lng": -120.995193,
+    "distance": 1.8220941094542245
+  },
+  {
+    "name": "Golden Valley Health Center-modesto",
+    "address": "1510 Florida Ave, Ste A, Modesto, CA 95350",
+    "phone": "(209) 574-1030",
+    "type": "VFA",
+    "lat": 37.666073,
+    "lng": -120.99585,
+    "distance": 1.8919695758391308
+  },
+  {
+    "name": "Modesto Prompt Care",
+    "address": "1510 Florida Ave Ste A, Modesto, CA 95350",
+    "phone": "(209) 722-4842",
+    "type": "fqhc",
+    "lat": 37.666103,
+    "lng": -120.995804,
+    "distance": 1.8941407936093668
+  },
+  {
+    "name": "Gvhc Mchenry",
+    "address": "1524 Mchenry Ave Ste 560, Modesto, CA 95350",
+    "phone": "(209) 726-5701",
+    "type": "fqhc",
+    "lat": 37.666241,
+    "lng": -120.9925,
+    "distance": 1.9168142432583648
+  },
+  {
+    "name": "Golden Valley Hlth Ctr-robertson Rd",
+    "address": "1121 Hammond St, Modesto, CA 95351",
+    "phone": "(209) 722-4842",
+    "type": "VFA",
+    "lat": 37.615185,
+    "lng": -121.018692,
+    "distance": 2.0220259003707635
+  },
+  {
+    "name": "Golden Valley Hlth Ctr-tenaya Ste37",
+    "address": "2101 Tenaya Dr, Modesto, CA 95354",
+    "phone": "(209) 576-6766",
+    "type": "VFA",
+    "lat": 37.632446,
+    "lng": -120.958984,
+    "distance": 2.1085191445512645
+  },
+  {
+    "name": "Golden Valley Health Center",
+    "address": "1717 Las Vegas St, Modesto, CA 95358",
+    "phone": "(209) 576-4200",
+    "type": "VFA",
+    "lat": 37.604885,
+    "lng": -121.0028,
+    "distance": 2.360257762332439
+  },
+  {
+    "name": "Golden Valley Health Ctr Mod Tully",
+    "address": "1801 Tully Rd Ste F, Modesto, CA 95350",
+    "phone": "(209) 526-5770",
+    "type": "fqhc",
+    "lat": 37.6707,
+    "lng": -121.012886,
+    "distance": 2.381831680574107
+  },
+  {
+    "name": "Modesto City Schools Health Service",
+    "address": "1581 Cummins Dr, Ste B, Modesto, CA 95358",
+    "phone": "(209) 574-1605",
+    "type": "public",
+    "lat": 37.658257,
+    "lng": -121.036713,
+    "distance": 2.5725650467798076
+  },
+  {
+    "name": "Family First Medical Care",
+    "address": "1317 Oakdale Rd, Ste 440, Modesto, CA 95355",
+    "phone": "(209) 522-3362",
+    "type": "private",
+    "lat": 37.66235,
+    "lng": -120.958099,
+    "distance": 2.6701996395499825
+  },
+  {
+    "name": "Aspen Family Medical Grp",
+    "address": "2501 Mchenry Ave, Ste F, Modesto, CA 95350",
+    "phone": "(209) 522-9054",
+    "type": "private",
+    "lat": 37.67775,
+    "lng": -120.995277,
+    "distance": 2.6993573487280074
+  },
+  {
+    "name": "Modesto Health Center",
+    "address": "2116 E Orangeburg Ave, Modesto, CA 95355",
+    "phone": "(209) 850-3500",
+    "type": "fqhc",
+    "lat": 37.663307,
+    "lng": -120.958046,
+    "distance": 2.7134597445314883
+  },
+  {
+    "name": "Well Path",
+    "address": "2215 Blue Gum Ave, Modesto, CA 95358",
+    "phone": "(209) 525-5480",
+    "type": "private",
+    "lat": 37.662601,
+    "lng": -121.043037,
+    "distance": 3.0255461425253416
+  },
+  {
+    "name": "Mchenry Medical Office",
+    "address": "1209 Woodrow Ave, Ste B10, Modesto, CA 95350",
+    "phone": "(209) 558-5322",
+    "type": "fqhc",
+    "lat": 37.686211,
+    "lng": -121.01075,
+    "distance": 3.3716243679653166
+  },
+  {
+    "name": "All For Kids",
+    "address": "4312 Spyres Way, Modesto, CA 95356",
+    "phone": "(209) 497-6767",
+    "type": "private",
+    "lat": 37.701557,
+    "lng": -120.998833,
+    "distance": 4.3448439816386735
+  },
+  {
+    "name": "Gvhc Ceres Whitmore Clinic",
+    "address": "3109 E Whitmore Ave, Ceres, CA 95307",
+    "phone": "(209) 359-4900",
+    "type": "fqhc",
+    "lat": 37.59544,
+    "lng": -120.937653,
+    "distance": 4.402252214530448
+  },
+  {
+    "name": "Valley Oak Pediatric Associates Inc",
+    "address": "4120 Prescott Rd, Modesto, CA 95356",
+    "phone": "(209) 544-7300",
+    "type": "private",
+    "lat": 37.698872,
+    "lng": -121.030907,
+    "distance": 4.559268266681179
+  },
+  {
+    "name": "Stanislaus County Public Health Dep",
+    "address": "4701 Stoddard Rd, Modesto, CA 95356",
+    "phone": "(209) 558-5660",
+    "type": "public",
+    "lat": 37.705772,
+    "lng": -121.070107,
+    "distance": 6.131658119002836
+  },
+  {
+    "name": "Golden Valley Health Ctr Montevista",
+    "address": "2240 W Monte Vista Ave, Turlock, CA 95382",
+    "phone": "(209) 667-1270",
+    "type": "fqhc",
+    "lat": 37.521145,
+    "lng": -120.87413,
+    "distance": 10.537049775821696
+  },
+  {
+    "name": "Emanuel Medical Center",
+    "address": "825 Delbon Ave, Turlock, CA 95382",
+    "phone": "(209) 664-2880",
+    "type": "private",
+    "lat": 37.511742,
+    "lng": -120.838974,
+    "distance": 12.311199469312584
+  },
+  {
+    "name": "Livingston Chc Dbaturlock Medoffice",
+    "address": "2141 Colorado Ave, Turlock, CA 95382",
+    "phone": "(209) 850-3500",
+    "type": "fqhc",
+    "lat": 37.512318,
+    "lng": -120.835739,
+    "distance": 12.408063178896569
+  },
+  {
+    "name": "Golden Valley Hlth Ctr-turlock West",
+    "address": "1200 W Main St, Turlock, CA 95380",
+    "phone": "(209) 250-9672",
+    "type": "VFA",
+    "lat": 37.492329,
+    "lng": -120.863052,
+    "distance": 12.484910438201444
+  },
+  {
+    "name": "Gvhc Turlock Pediatric Health Ctr",
+    "address": "1100 Delbon Ave, Turlock, CA 95382",
+    "phone": "(209) 667-0905",
+    "type": "fqhc",
+    "lat": 37.510441,
+    "lng": -120.835609,
+    "distance": 12.504762011797288
+  },
+  {
+    "name": "Jagmohan S Bhinder",
+    "address": "1860 Colorado Ave, Turlock, CA 95382",
+    "phone": "(209) 669-1692",
+    "type": "private",
+    "lat": 37.509697,
+    "lng": -120.835228,
+    "distance": 12.555977448842603
+  },
+  {
+    "name": "Golden Valley Health Center-turlock",
+    "address": "1141 N Olive Ave, Turlock, CA 95380",
+    "phone": "(209) 667-2749",
+    "type": "VFA",
+    "lat": 37.50399,
+    "lng": -120.840141,
+    "distance": 12.655321456019552
+  }
+]
